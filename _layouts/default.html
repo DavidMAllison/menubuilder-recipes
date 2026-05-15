@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title | default: page.name | default: site.title }}</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: #faf9f6;
+    color: #2c2c2c;
+    padding: 2rem 1rem;
+  }
+  .card {
+    max-width: 720px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    padding: 2.5rem 3rem;
+  }
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+    line-height: 1.2;
+  }
+  h2 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #555;
+    margin: 1.8rem 0 0.8rem;
+    font-family: -apple-system, sans-serif;
+  }
+  h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #444;
+    margin: 1.2rem 0 0.5rem;
+    font-family: -apple-system, sans-serif;
+  }
+  ul {
+    padding-left: 1.2rem;
+    line-height: 1.8;
+  }
+  ul li { margin-bottom: 0.1rem; }
+  ol {
+    padding-left: 1.3rem;
+    line-height: 1.8;
+  }
+  ol li {
+    margin-bottom: 0.6rem;
+    padding-left: 0.2rem;
+  }
+  p {
+    line-height: 1.7;
+    margin-bottom: 0.6rem;
+    font-family: -apple-system, sans-serif;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  /* Style the Source/Time/Yield block at top as meta row */
+  p:first-of-type {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.4rem;
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 1.8rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid #e8e5e0;
+  }
+  a { color: #555; text-decoration: underline dotted; }
+  a:hover { color: #222; }
+  strong { color: #333; }
+  @media (max-width: 600px) {
+    .card { padding: 1.5rem 1.25rem; }
+    h1 { font-size: 1.5rem; }
+  }
+  @media print {
+    body { background: #fff; padding: 0; }
+    .card { box-shadow: none; padding: 1rem; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  {{ content }}
+</div>
+</body>
+</html>
