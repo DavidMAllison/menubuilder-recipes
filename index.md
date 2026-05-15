@@ -1,0 +1,105 @@
+---
+layout: default
+title: Recipe Collection
+---
+
+# Recipe Collection
+
+- [Amarillito Mole with Chicken](Amarillito_Mole_with_Chicken)
+- [Asian Chicken Lettuce Wraps](Asian_Chicken_Lettuce_Wraps) — Chinese
+- [Beef and Broccoli Stir-Fry](Beef_and_Broccoli_Stir-Fry) — Chinese
+- [Black Bean Mole Burgers](Black_Bean_Mole_Burgers)
+- [Blackened Cod Fish Tacos](Blackened_Fish_Tacos_with_Cabbage_Mango_Slaw) — Mexican
+- [Braised Chicken and Mushrooms over Polenta](Braised_Chicken_and_Mushrooms_over_Polenta) — Italian
+- [Chana Makhani (Indian Butter Chickpeas)](Chana_Makhani_(Indian_Butter_Chickpeas))
+- [Chicken Bolognese](Chicken_Bolognese)
+- [Chicken Breasts with Creamy Sun-Dried Tomato and Dill Pan Sauce](Chicken_Breasts_with_Creamy_Sun-Dried_Tomato_and_Dill_Pan_Sauce)
+- [Chicken Piccata Good Eats](Chicken_Piccata_Good_Eats)
+- [Chicken Tinga](Chicken_Tinga)
+- [Citrus Chicken with Carrots and Baby Potatoes](Citrus_Chicken_with_Carrots_and_Baby_Potatoes)
+- [Coq au Vin for Two](Coq_au_Vin_for_Two)
+- [Corn Masa Dumplings](Corn_Masa_Dumplings) — Mexican
+- [Couscous Stuffed Chicken Thighs with Roasted Cherry Tomatoes and Shallots](Couscous_Stuffed_Chicken_Thighs_with_Roasted_Cherry_Tomatoes_and_Shallots)
+- [Creamy Mushroom Orzotto](Creamy_Mushroom_Orzotto)
+- [Creamy Orzo with Hot Italian Sausage Broccoli Rabe and Tomatoes](Creamy_Orzo_with_Hot_Italian_Sausage_Broccoli_Rabe_and_Tomatoes)
+- [Creamy Orzo with Italian Sausage](Creamy_Orzo_with_Italian_Sausage) — Italian
+- [Cumin-Cardamom Spiced Chicken with Parsley and Onion Salad](Cumin-Cardamom_Spiced_Chicken_with_Parsley_and_Onion_Salad) — Indian
+- [Cumin Chicken Fingers](Cumin_Chicken_Fingers) — Chinese
+- [Double-Glazed Salmon with Maple and Liquid Smoke](Double-Glazed_Salmon_with_Maple_and_Liquid_Smoke)
+- [Enfrijoladas](Enfrijoladas) — Mexican
+- [Ginger-Sesame Chicken and Broccoli Stir Fry](Ginger-Sesame_Chicken_and_Broccoli_Stir_Fry) — Asian
+- [Greek-Style Garlic-Lemon Chicken](Greek-Style_Garlic-Lemon_Chicken) — Greek
+- [Greek Sheet Pan Chicken](Greek_Sheet_Pan_Chicken) — Greek
+- [Greek Turkey Meatballs with Tzatziki](Greek_Turkey_Meatballs_with_Tzatziki) — Greek
+- [Ground Pork with Ginger and Miso](Ground_Pork_with_Ginger_and_Miso) — Japanese
+- [Herb-Marinated Lamb Rib Chops with Mint Sauce](Herb-Marinated_Lamb_Rib_Chops_with_Mint_Sauce)
+- [Hoisin-Glazed Pork Tenderloin](Hoisin-Glazed_Pork_Tenderloin) — Chinese
+- [Hot Sesame Noodles with Pork](Hot_Sesame_Noodles_with_Pork)
+- [Italian Baked Chicken](Italian_Baked_Chicken) — Mediterranean
+- [Khao Man Gai Thai Chicken and Rice](Khao_Man_Gai_Thai_Chicken_and_Rice)
+- [Korean-Style Spicy Pork](Korean-Style_Spicy_Pork) — Korean
+- [Korean Chicken Bulgogi](Korean_Chicken_Bulgogi) — Korean
+- [Lamb Barbacoa Mixiote](Lamb_Barbacoa_Mixiote) — Mexican
+- [Lamb Ragu with Pappardelle](Lamb_Ragu_with_Pappardelle) — Italian
+- [Lemon Garlic Chicken Breasts](Lemon_Garlic_Chicken_Breasts) — American
+- [Lemon Garlic Pork Chops](Lemon_Garlic_Pork_Chops)
+- [Lemony Mediterranean Chicken and Rice](Lemony_Mediterranean_Chicken_and_Rice)
+- [Light Sautéed Chicken Breasts with a White Wine and Herb Pan Sauce](Light_Sautéed_Chicken_Breasts_with_a_White_Wine_and_Herb_Pan_Sauce)
+- [Lime-Rubbed Chicken Tacos with Corn Guacamole](Lime-Rubbed_Chicken_Tacos_with_Corn_Guacamole) — Mexican
+- [Linguine with Broccolini Pancetta and Parmesan](Linguine_with_Broccolini_Pancetta_and_Parmesan)
+- [Mediterranean Baked Salmon with Herb-Yogurt Sauce](Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce) — Mediterranean
+- [Mediterranean Cucumber-Tomato Salad](Mediterranean_Cucumber-Tomato_Salad) — Mediterranean
+- [Mexican Pulled Pork (Carnitas)](Mexican_Pulled_Pork_(Carnitas)) — Mexican
+- [Miso Salmon](Miso_Salmon) — Japanese
+- [Moroccan Lentil and Chickpea Soup (Harira)](Moroccan_Lentil_and_Chickpea_Soup_(Harira)) — Moroccan
+- [Murgh Makhani (Indian Butter Chicken)](Murgh_Makhani_(Indian_Butter_Chicken)) — Indian
+- [One-Pan Mediterranean Chicken with Tomatoes & White Beans](One-Pan_Mediterranean_Chicken_with_Tomatoes_White_Beans) — Mediterranean
+- [Oven-Roasted Salmon](Oven-Roasted_Salmon) — American
+- [Pan-Seared Broccolini with Pork and Oyster Sauce](Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce) — Chinese
+- [Pan-Seared Chicken with Warm Mediterranean Grain Pilaf](Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf) — Mediterranean
+- [Pappa al Pomodoro](Pappa_al_Pomodoro) — Italian
+- [Pasta alla Vodka](Pasta_alla_Vodka) — Italian
+- [Pasta with Sausage Ragu](Pasta_with_Sausage_Ragu) — Italian
+- [Peruvian Grilled Chicken with Aji Verde](Peruvian_Grilled_Chicken_with_Aji_Verde) — Peruvian
+- [Pescado Agridulce (Sweet and Sour Fish)](Pescado_Agridulce_Sweet_and_Sour_Fish) — Mexican
+- [Pesto Pantesco with Spaghetti](Pesto_Pantesco_with_Spaghetti) — Italian
+- [Pickle-Brined Fried Chicken Sandwiches](Pickle-Brined_Fried_Chicken_Sandwiches) — American
+- [Pork Chops with White Wine and Herb Pan Sauce](Pork_Chops_with_White_Wine_and_Herb_Pan_Sauce) — French
+- [Pork Tenderloin Medallions with Lemon-Parsley Pan Sauce](Pork_Tenderloin_Medallions_with_Lemon-Parsley_Pan_Sauce) — American
+- [Pork Tenderloin and Pears with Balsamic Onions](Pork_Tenderloin_and_Pears_with_Balsamic_Onions) — American
+- [Pulled Pork Ragu](Pulled_Pork_Ragu) — Italian
+- [Pulled Pork Tacos](Pulled_Pork_Tacos) — Mexican
+- [Rigatoni with Quick Mushroom Bolognese](Rigatoni_with_Quick_Mushroom_Bolognese) — Italian
+- [Roasted Chicken Thighs with Potatoes and Green Beans](Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans) — American
+- [Roasted Mushrooms and Escarole with Couscous and Lemon Vinaigrette](Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette) — American
+- [San Francisco-Style Vietnamese American Garlic Noodles](San_Francisco_Vietnamese_American_Garlic_Noodles) — Vietnamese-American
+- [Sheet-Pan Herbed Chicken Wings with Potatoes and Green Beans](Sheet-Pan_Herbed_Chicken_Wings_with_Potatoes_and_Green_Beans) — American
+- [Sheet-Pan Jerk Chicken with Sweet Potatoes and Crispy Collard Greens](Sheet-Pan_Jerk_Chicken_with_Sweet_Potatoes_and_Crispy_Collard_Greens) — Caribbean
+- [Slow-Cooker Lemon Chicken](Slow-Cooker_Lemon_Chicken) — American
+- [Smoked Pulled Pork](Smoked_Pulled_Pork) — American
+- [Spaghetti with Lemon and Olive Oil](Spaghetti_with_Lemon_and_Olive_Oil) — Italian
+- [Spice-Crusted Pork Tenderloin Bites](Spice-Crusted_Pork_Tenderloin_Bites) — Spanish
+- [Super-Savory Mushroom Bacon Spaghetti](Super-Savory_Mushroom_Bacon_Spaghetti) — Italian
+- [Thai Chicken Stir-Fry with Basil and Mint](Thai_Chicken_Stir-Fry_with_Basil_and_Mint) — Thai
+- [Yogurt-Herb Sauce](Yogurt-Herb_Sauce) — American
+- [Baked Chicken Parmesan](baked_chicken_parmesan) — Italian-American
+- [Beef and Broccoli](beef_and_broccoli) — Chinese
+- [Breakfast for Dinner (Pancakes)](breakfast_for_dinner_pancakes) — American
+- [Cast Iron Mustard Chicken](cast_iron_mustard_chicken) — American
+- [Chicken and Broccoli](chicken_and_broccoli) — Chinese-American
+- [Chicken Tikka Masala](chicken_tikka_masala) — Indian
+- [Grilled Baby Back Ribs (3-2-1 Method)](grilled_baby_back_ribs) — American
+- [Grilled Chicken Salad with Cilantro-Lime Dressing](grilled_chicken_salad_cilantro_lime) — American
+- [Honey Garlic Chicken](honey_garlic_chicken) — Chinese
+- [Italian Wedding Soup](italian_wedding_soup) — Italian
+- [Karaage (Japanese Fried Chicken) - Alt](japanese_fried_chicken_karaage) — Japanese
+- [Korean Fried Chicken (Milk Street)](korean_fried_chicken_milk_street) — Korean
+- [Lemon Chicken Piccata](lemon_chicken_piccata) — Italian
+- [Oven Baby Back Ribs](oven_baby_back_ribs) — American
+- [Pork Medallions with Balsamic Vinegar and Capers](pork_medallions_balsamic_capers) — Italian-American
+- [Pork Schnitzel](pork_schnitzel) — German
+- [Pork Tenderloin with Roasted Vegetables](pork_tenderloin_roasted_vegetables) — American
+- [Southern Fried Chicken](southern_fried_chicken) — American
+- [Soy-Ginger-Garlic Salmon](soy_ginger_garlic_salmon) — Japanese
+- [Spicy Honey Chicken Thighs](spicy_honey_chicken_thighs) — American
+- [Tilapia with Lemon Cream Sauce](tilapia_lemon_cream_sauce) — American
