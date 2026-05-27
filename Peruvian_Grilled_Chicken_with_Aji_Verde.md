@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Peruvian Grilled Chicken with Aji Verde
-
-Time: 20 min
-Yield: 4-6
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Chicken Piccata (Good Eats)
-
-Source: Good Eats
-Time: 1 hour
-Yield: 6 servings
 
 ## Ingredients
 

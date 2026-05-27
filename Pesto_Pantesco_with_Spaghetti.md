@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pesto Pantesco with Spaghetti
-
-Source: America's Test Kitchen (Eric Haessler)
-Time: 45 minutes
-Yield: 4-6 servings
 
 ## Ingredients
 

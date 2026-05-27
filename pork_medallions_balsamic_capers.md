@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Pork Medallions with Balsamic Vinegar and Capers
-
-Time: 20-25 minutes
-Yield: 6 servings
 
 ## Ingredients
 

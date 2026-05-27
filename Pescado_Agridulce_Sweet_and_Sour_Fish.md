@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Sweet and Sour Mexican Style Fish (Pescado Agridulce)
-
-Source: Pati Jinich
-Time: 40 minutes
-Yield: 6 servings
 
 ## Ingredients
 

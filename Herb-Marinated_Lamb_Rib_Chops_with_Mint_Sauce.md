@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Herb-Marinated Lamb Rib Chops with Mint Sauce
-
-Source: Classic Mediterranean preparation
-Time: 35 minutes, plus 30 minutes marinating
-Yield: 4 servings
 
 ## Ingredients
 

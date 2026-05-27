@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Korean Chicken Bulgogi (Dak Bulgogi)
-
-Source: My Korean Kitchen (Sue) - https://mykoreankitchen.com/chicken-bulgogi-korean-bbq-chicken/
-Time: 20 minutes active + 4 hours marinating
-Yield: 4 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Creamy Orzo with Hot Italian Sausage, Broccoli Rabe, and Tomatoes
-
-Source: America's Test Kitchen (Andrea Geary)
-Time: 50 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

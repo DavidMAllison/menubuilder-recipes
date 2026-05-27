@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Mediterranean Baked Salmon with Herb-Yogurt Sauce
-
-Source: The Weary Chef / Midwest Foodie
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

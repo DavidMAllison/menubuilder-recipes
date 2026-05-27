@@ -1,9 +1,5 @@
 # Tuscan White Bean Soup (Ribollita-style)
 
-Source: Love and Lemons / Feasting at Home
-Time: 45 minutes
-Yield: 4-6 servings
-
 ## Ingredients
 
 - 1/4 cup extra-virgin olive oil, plus more for drizzling

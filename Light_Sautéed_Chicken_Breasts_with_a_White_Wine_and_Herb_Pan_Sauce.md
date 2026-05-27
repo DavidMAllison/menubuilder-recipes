@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Light Sautéed Chicken Breasts with a White Wine and Herb Pan Sauce
-
-Source: America's Test Kitchen
-Time: 40 minutes
-Yield: 4 servings
 
 ## Ingredients
 

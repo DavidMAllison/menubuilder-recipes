@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pork Tenderloin and Pears with Balsamic Onions
-
-Source: America's Test Kitchen
-Time: 1¼ hours
-Yield: Serves 4
 
 ## Ingredients
 

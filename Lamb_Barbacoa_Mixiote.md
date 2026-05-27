@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Lamb Barbacoa Mixiote
-
-Source: Pati Jinich - https://patijinich.com/lamb-barbacoa-mixiote/
-Time: 2 hours
-Yield: 6 to 8 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Yogurt-Herb Sauce
-
-Source: America's Test Kitchen
-Time: 5 minutes (plus 30 minutes resting)
-Yield: Makes 1 cup
 
 ## Ingredients
 

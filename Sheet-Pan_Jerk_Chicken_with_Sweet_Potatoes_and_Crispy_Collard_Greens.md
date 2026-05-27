@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Sheet-Pan Jerk Chicken with Sweet Potatoes and Crispy Collard Greens
-
-Source: America's Test Kitchen
-Time: 45 minutes
-Yield: Serves 4
 
 ## Ingredients
 

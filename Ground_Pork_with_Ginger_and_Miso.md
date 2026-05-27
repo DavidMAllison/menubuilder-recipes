@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Ground Pork with Ginger and Miso
-
-Source: Cookbook (from photo)
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

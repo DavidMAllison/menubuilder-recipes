@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Lemony Mediterranean Chicken and Rice
-
-Source: America's Test Kitchen
-Time: 1 hour, plus 1 hour marinating
-Yield: 4 servings
 
 ## Ingredients
 

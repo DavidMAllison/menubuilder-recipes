@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # One-Pan Mediterranean Chicken with Tomatoes & White Beans
-
-Source: Floating Kitchen / Weight Watchers
-Time: 40 minutes
-Yield: 4 servings
 
 ## Ingredients
 

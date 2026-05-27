@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Slow-Cooker Lemon Chicken
-
-Source: America's Test Kitchen
-Time: 4 to 6 hours on low
-Yield: Serves 6
 
 ## Ingredients
 

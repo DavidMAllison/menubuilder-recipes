@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Korean Fried Chicken (Dakgangjeong)
-
-Source: Christopher Kimball's Milk Street 365
-Time: 45 minutes
-Yield: 4 servings
 
 ## Ingredients
 

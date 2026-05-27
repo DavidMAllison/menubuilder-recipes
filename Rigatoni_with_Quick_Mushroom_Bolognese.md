@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Rigatoni with Quick Mushroom Bolognese
-
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: Serves 4
 
 ## Ingredients
 

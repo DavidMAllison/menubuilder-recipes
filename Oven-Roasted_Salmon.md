@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Oven-Roasted Salmon
-
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

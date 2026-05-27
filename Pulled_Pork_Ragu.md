@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pulled Pork Ragu
-
-Source: Original
-Time: 60 minutes
-Yield: 4-6 servings
 
 ## Ingredients
 

@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Honey Garlic Chicken
-
-Time: 35 minutes
-Yield: 4 servings
 
 ## Ingredients
 

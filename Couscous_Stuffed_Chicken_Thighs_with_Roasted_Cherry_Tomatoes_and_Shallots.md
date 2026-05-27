@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Couscous Stuffed Chicken Thighs with Roasted Cherry Tomatoes and Shallots
-
-Source: America's Test Kitchen (Carmen Dongo)
-Time: 1 hour 30 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

@@ -1,14 +1,6 @@
----
-layout: default
----
-
 # Chicken Tinga
 
 *Tinga de Pollo (Puebla-Style)*
-
-Source: Pati Jinich
-Time: 35 minutes
-Yield: 5 cups (4 servings)
 
 ## Ingredients
 

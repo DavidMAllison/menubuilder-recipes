@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Black Bean Mole Burgers
-
-Source: America's Test Kitchen
-Time: 40 minutes, plus 30 minutes chilling
-Yield: 4 servings
 
 ## Ingredients
 

@@ -1,9 +1,5 @@
 # Gua Bao with Braised Pork Belly, Seasoned Daikon, and Hoisin-Soy Sauce
 
-Source: America's Test Kitchen
-Time: 3 3/4 hours, plus 1 1/2 hours rising
-Yield: 6 to 8 servings
-
 ## Ingredients
 
 **Braised Pork Belly:**

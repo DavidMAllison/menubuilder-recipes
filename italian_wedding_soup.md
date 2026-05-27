@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Italian Wedding Soup
-
-Time: 1.5 hours
-Yield: 6 to 8 servings
 
 ## Ingredients
 

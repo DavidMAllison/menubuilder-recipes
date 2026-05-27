@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Oven Baby Back Ribs
-
-Time: 2.5 to 3 hours
-Yield: 4 servings
 
 ## Ingredients
 

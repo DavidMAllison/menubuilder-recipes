@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Mediterranean Cucumber-Tomato Salad
-
-Time: 10 minutes
-Yield: 4 servings
 
 ## Ingredients
 

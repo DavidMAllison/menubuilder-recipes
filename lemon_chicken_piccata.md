@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Lemon Chicken Piccata
-
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

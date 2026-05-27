@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Chicken and Broccoli
-
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

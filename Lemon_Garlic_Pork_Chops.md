@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Lemon Garlic Pork Chops
-
-Source: Inspired Taste / Delish (adapted)
-Time: 25 minutes
-Yield: 4 servings
 
 ## Ingredients
 

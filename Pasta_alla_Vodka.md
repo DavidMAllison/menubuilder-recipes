@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pasta alla Vodka
-
-Source: America's Test Kitchen
-Time: 45 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

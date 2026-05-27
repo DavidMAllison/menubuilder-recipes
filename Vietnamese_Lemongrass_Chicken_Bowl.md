@@ -1,9 +1,5 @@
 # Vietnamese Lemongrass Chicken Bowl (Bun Ga Nuong)
 
-Source: RecipeTin Eats
-Time: 45 min active (plus 30 min - 2 hr marinate)
-Yield: 4 servings
-
 ## Ingredients
 
 - Chicken & Marinade

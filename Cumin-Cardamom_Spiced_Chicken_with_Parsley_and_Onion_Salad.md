@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Cumin-Cardamom Spiced Chicken with Parsley and Onion Salad
-
-Source: America's Test Kitchen (by Amanda Agee)
-Time: 35 minutes
-Yield: 4 servings
 
 ## Ingredients
 

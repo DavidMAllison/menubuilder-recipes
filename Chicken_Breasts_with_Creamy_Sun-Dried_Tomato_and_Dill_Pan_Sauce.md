@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Chicken Breasts with Creamy Sun-Dried Tomato and Dill Pan Sauce
-
-Source: America's Test Kitchen (Nicole Konstantinakos)
-Time: 45 minutes
-Yield: 4 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Greek-Style Garlic-Lemon Chicken
-
-Source: America's Test Kitchen
-Time: 45 minutes
-Yield: 4 servings
 
 ## Ingredients
 

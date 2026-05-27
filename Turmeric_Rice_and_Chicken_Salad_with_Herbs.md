@@ -1,8 +1,5 @@
 # Turmeric Rice and Chicken Salad with Herbs
 
-Source: America's Test Kitchen
-Yield: Serves 4
-
 ## Ingredients
 
 - 1 cup long-grain white or jasmine rice

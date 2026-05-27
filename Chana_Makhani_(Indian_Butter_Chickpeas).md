@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Chana Makhani (Indian Butter Chickpeas)
-
-Source: America's Test Kitchen Kids
-Time: 1 hour
-Yield: 4 servings
 
 ## Ingredients
 

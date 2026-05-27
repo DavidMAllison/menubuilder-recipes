@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Miso Salmon
-
-Source: Just One Cookbook (Nami)
-Time: 20 minutes active, plus 1-2 hours marinating
-Yield: 2 servings (double for family)
 
 ## Ingredients
 

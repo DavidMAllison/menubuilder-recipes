@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pappa al Pomodoro
-
-Source: America's Test Kitchen
-Time: 40 minutes
-Yield: Serves 6
 
 ## Ingredients
 

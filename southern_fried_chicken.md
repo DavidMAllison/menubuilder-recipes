@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Southern Fried Chicken
-
-Time: 30 minutes active (plus 2+ hours marinating)
-Yield: 4 to 6 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Creamy Orzo with Italian Sausage
-
-Source: America's Test Kitchen
-Time: 50 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Blackened Fish Tacos with Cabbage Mango Slaw
-
-Source: Skinnytaste - https://www.skinnytaste.com/blackened-fish-tacos-with-cabbage-mango/
-Time: 30 minutes
-Yield: 4 servings (8 tacos)
 
 ## Ingredients
 

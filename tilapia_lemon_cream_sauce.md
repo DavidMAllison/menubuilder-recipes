@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Tilapia with Lemon Cream Sauce
-
-Source: Cooking con Claudia
-Time: 25 minutes
-Yield: 4 servings
 
 ## Ingredients
 

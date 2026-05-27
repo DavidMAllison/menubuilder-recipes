@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Grilled Baby Back Ribs (3-2-1 Method)
-
-Time: 6 hours
-Yield: 4 servings
 
 ## Ingredients
 

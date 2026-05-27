@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pulled Pork Tacos
-
-Source: Original
-Time: 30 minutes
-Yield: 4 servings (8 tacos)
 
 ## Ingredients
 

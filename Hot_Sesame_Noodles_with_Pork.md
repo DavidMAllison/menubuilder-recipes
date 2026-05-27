@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Hot Sesame Noodles with Pork
-
-Source: America's Test Kitchen (Matthew Fairman)
-Time: 50 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

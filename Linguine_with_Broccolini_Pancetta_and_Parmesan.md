@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Linguine with Broccolini, Pancetta, and Parmesan
-
-Source: America's Test Kitchen (Mark Huxsoll)
-Time: 30 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

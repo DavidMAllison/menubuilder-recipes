@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Greek Sheet Pan Chicken
-
-Source: The Mediterranean Dish (Suzy Karadsheh)
-Time: 45 minutes
-Yield: 6 servings
 
 ## Ingredients
 

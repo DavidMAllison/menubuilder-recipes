@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Lime-Rubbed Chicken Tacos with Corn Guacamole
-
-Source: Pati Jinich
-Time: 55 minutes, plus 30 minutes to 12 hours marinating
-Yield: 6 to 8 servings
 
 ## Ingredients
 

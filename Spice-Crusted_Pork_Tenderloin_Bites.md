@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Spice-Crusted Pork Tenderloin Bites
 
 

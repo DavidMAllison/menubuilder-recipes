@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Lamb Ragu with Pappardelle
-
-Source: America's Test Kitchen (Alli Berkey)
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # San Francisco-Style Vietnamese American Garlic Noodles
-
-Source: Kenji Lopez-Alt (NYT Cooking)
-Time: 25 minutes
-Yield: 4 servings
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pickle-Brined Fried Chicken Sandwiches
-
-Source: America's Test Kitchen
-Time: 75 minutes
-Yield: 4 servings
 
 ## Ingredients
 

@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Chicken Tikka Masala
-
-Time: 60-65 minutes
-Yield: 6 servings
 
 ## Ingredients
 

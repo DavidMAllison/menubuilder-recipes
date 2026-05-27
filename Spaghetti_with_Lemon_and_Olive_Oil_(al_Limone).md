@@ -1,9 +1,5 @@
 # Spaghetti with Lemon and Olive Oil (al Limone)
 
-Source: America's Test Kitchen
-Time: 55 minutes
-Yield: Serves 4 to 6
-
 ## Ingredients
 
 - Table salt

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Braised Chicken and Mushrooms over Polenta
-
-Source: America's Test Kitchen
-Time: 50 minutes
-Yield: 4 servings
 
 ## Ingredients
 

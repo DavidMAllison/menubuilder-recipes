@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Chicken Bolognese
-
-Source: America's Test Kitchen (Lidey Heuck)
-Time: 1 hour 15 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

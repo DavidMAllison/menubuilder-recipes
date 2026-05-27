@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Sheet-Pan Herbed Chicken Wings with Potatoes and Green Beans
-
-Source: America's Test Kitchen
-Time: 55 minutes
-Yield: Serves 4
 
 ## Ingredients
 

@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Italian Baked Chicken
-
-Source: The Mediterranean Dish (Suzy Karadsheh)
-Time: 28 minutes
-Yield: 6 servings
 
 ## Ingredients
 

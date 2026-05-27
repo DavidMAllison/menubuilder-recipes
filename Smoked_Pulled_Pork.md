@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Smoked Pulled Pork
 
 **Time:** ~4-5 hours uncovered + 2-4 hours wrapped + 30 min rest (plan 8-12 hours total)

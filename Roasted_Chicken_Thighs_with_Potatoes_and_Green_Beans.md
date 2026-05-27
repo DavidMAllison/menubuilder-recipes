@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Roasted Chicken Thighs with Potatoes and Green Beans
-
-Source: America's Test Kitchen
-Time: 50 Minutes
-Yield: Serves 4
 
 ## Ingredients
 

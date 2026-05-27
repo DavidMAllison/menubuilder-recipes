@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Cast Iron Mustard Chicken
-
-Time: 45-50 minutes
-Yield: 2 servings
 
 ## Ingredients
 

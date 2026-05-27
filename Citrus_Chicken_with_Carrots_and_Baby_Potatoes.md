@@ -1,14 +1,6 @@
----
-layout: default
----
-
 # Citrus Chicken with Carrots and Baby Potatoes
 
 *Pollo en Salsa de Citricos con Zanahorias y Papas*
-
-Source: Pati Jinich
-Time: 1 hour 35 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

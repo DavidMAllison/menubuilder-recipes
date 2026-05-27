@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Cumin Chicken Fingers
-
-Source: America's Test Kitchen - https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers
-Time: 30 minutes (includes 20 min marinate)
-Yield: 4 servings
 
 ## Before You Begin
 

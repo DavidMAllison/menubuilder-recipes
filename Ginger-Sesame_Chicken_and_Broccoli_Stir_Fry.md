@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Ginger-Sesame Chicken and Broccoli Stir Fry
-
-Time: 30 minutes
-Yield: 4 to 5 servings
 
 ## Ingredients
 

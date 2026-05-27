@@ -1,9 +1,5 @@
 # Tuscan Garlic Chicken Pasta
 
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: Serves 4 to 6
-
 ## Ingredients
 
 - 6 garlic cloves, minced

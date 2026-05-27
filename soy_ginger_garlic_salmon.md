@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Soy-Ginger-Garlic Salmon
-
-Time: 30 minutes (plus up to 2 hours marinating)
-Yield: 4 servings
 
 ## Ingredients
 

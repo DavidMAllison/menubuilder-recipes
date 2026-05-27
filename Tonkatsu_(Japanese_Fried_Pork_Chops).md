@@ -1,9 +1,5 @@
 # Tonkatsu (Japanese Fried Pork Chops)
 
-Source: America's Test Kitchen
-Time: 45 minutes
-Yield: 4 servings
-
 ## Ingredients
 
 - 2 cups finely shredded green cabbage

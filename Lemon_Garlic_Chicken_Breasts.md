@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Lemon Garlic Chicken Breasts
-
-Source: Inspired Taste / Delish (adapted from Lemon Garlic Pork Chops)
-Time: 25 minutes
-Yield: 4 servings
 
 ## Ingredients
 

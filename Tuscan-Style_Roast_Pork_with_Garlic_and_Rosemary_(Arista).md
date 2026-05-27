@@ -1,9 +1,5 @@
 # Tuscan-Style Roast Pork with Garlic and Rosemary (Arista)
 
-Source: America's Test Kitchen
-Time: 2½ to 3 hours, plus 1 hour chilling and 20
-Yield: Serves 4 to 6
-
 ## Ingredients
 
 - 1 lemon

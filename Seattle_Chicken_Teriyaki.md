@@ -1,9 +1,5 @@
 # Seattle Chicken Teriyaki
 
-Source: America's Test Kitchen
-Time: 50 minutes
-Yield: 6 to 8 servings
-
 ## Ingredients
 
 - 1 cup soy sauce

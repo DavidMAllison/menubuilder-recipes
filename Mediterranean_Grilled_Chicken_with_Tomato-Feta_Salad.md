@@ -1,9 +1,5 @@
 # Mediterranean Grilled Chicken with Tomato-Feta Salad
 
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: Serves 4
-
 ## Ingredients
 
 - 1 teaspoon grated lemon zest plus 3 tablespoons juice

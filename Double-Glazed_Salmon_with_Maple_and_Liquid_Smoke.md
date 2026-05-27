@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Double-Glazed Salmon with Maple and Liquid Smoke
-
-Source: America's Test Kitchen (Lan Lam)
-Time: 50 minutes
-Yield: 4 servings
 
 ## Ingredients
 

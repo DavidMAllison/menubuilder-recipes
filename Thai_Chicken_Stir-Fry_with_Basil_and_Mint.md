@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Thai Chicken Stir-Fry with Basil and Mint
 
 **Source:** The Woks of Life | **Time:** 15 minutes | **Servings:** 4

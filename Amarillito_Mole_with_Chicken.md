@@ -1,14 +1,6 @@
----
-layout: default
----
-
 # Amarillito Mole with Chicken
 
 *Mole Amarillito con Pollo*
-
-Source: Pati Jinich
-Time: 60 minutes
-Yield: 6 to 8 servings
 
 ## Ingredients
 

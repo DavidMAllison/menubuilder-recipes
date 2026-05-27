@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pasta with Sausage Ragu
-
-Source: America's Test Kitchen
-Time: 2 hours
-Yield: Serves 4 to 6
 
 ## Ingredients
 

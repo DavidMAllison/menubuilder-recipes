@@ -1,8 +1,6 @@
 # Burrito Bowls
 
 Original recipe
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

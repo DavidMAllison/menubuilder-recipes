@@ -1,9 +1,5 @@
 # Slow-Cooker Red Wine-Braised Short Ribs
 
-Source: America's Test Kitchen
-Time: 8 hours
-Yield: 4 servings
-
 ## Ingredients
 
 - 5 pounds bone-in English-style short ribs, trimmed, meat and bones separated

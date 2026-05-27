@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Beef and Broccoli Stir-Fry
-
-Source: America's Test Kitchen (by Matthew Fairman)
-Time: 55 minutes
-Yield: 4 servings
 
 ## Ingredients
 

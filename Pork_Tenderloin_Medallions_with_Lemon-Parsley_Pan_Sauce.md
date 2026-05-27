@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pork Tenderloin Medallions with Lemon-Parsley Pan Sauce
-
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

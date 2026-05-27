@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Murgh Makhani (Indian Butter Chicken)
-
-Source: America's Test Kitchen
-Time: 1 hour
-Yield: 4 to 6 servings
 
 ## Ingredients
 

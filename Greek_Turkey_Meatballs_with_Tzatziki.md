@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Greek Turkey Meatballs with Tzatziki
-
-Source: Erin Lives Whole / Skinnytaste
-Time: 35 minutes
-Yield: 4 servings
 
 ## Ingredients
 

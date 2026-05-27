@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Asian Chicken Lettuce Wraps
-
-Source: Skinnytaste (Gina Homolka)
-Time: 50 minutes (includes 15 min marinating)
-Yield: 6 servings
 
 ## Ingredients
 

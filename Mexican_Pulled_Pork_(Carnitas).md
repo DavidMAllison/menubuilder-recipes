@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Mexican Pulled Pork (Carnitas)
-
-Source: America's Test Kitchen
-Time: 90 minutes
-Yield: 6 servings
 
 ## Ingredients
 

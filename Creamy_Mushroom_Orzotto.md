@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Creamy Mushroom Orzotto
-
-Source: America's Test Kitchen (Vallery Lomas)
-Time: 1 hour 30 minutes
-Yield: 4 to 6 servings
 
 ## Ingredients
 

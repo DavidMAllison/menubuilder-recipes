@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pan-Seared Chicken with Warm Mediterranean Grain Pilaf
-
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: Serves 4
 
 ## Ingredients
 

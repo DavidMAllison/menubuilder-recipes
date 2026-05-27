@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Breakfast for Dinner (Pancakes)
-
-Source: America's Test Kitchen — Best Buttermilk Pancakes
-Time: 30 minutes
 
 ## Ingredients
 

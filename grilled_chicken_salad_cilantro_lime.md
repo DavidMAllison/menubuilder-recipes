@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Grilled Chicken Salad with Cilantro-Lime Dressing
-
-Time: 45-60 minutes
-Yield: 4 servings
 
 ## Ingredients
 

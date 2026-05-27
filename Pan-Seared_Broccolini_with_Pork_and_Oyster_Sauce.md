@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Pan-Seared Broccolini with Pork and Oyster Sauce
-
-Source: Cookbook (from photo)
-Time: 20 minutes
-Yield: 4 servings
 
 ## Ingredients
 

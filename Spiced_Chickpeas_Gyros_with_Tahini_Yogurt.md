@@ -1,9 +1,5 @@
 # Spiced Chickpeas Gyros with Tahini Yogurt
 
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: Serves 4
-
 ## Ingredients
 
 - 1 cup plain Greek yogurt

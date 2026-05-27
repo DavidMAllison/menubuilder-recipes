@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Baked Chicken Parmesan
-
-Time: 50 minutes
-Yield: 4 servings
 
 ## Ingredients
 

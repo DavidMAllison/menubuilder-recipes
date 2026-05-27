@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Super-Savory Mushroom Bacon Spaghetti
-
-Source: America's Test Kitchen (by Maggie Zhu)
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

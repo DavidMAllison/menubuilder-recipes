@@ -1,12 +1,5 @@
----
-layout: default
----
-
 # Corn Masa Dumplings
 *Chochoyotes de Canela*
-
-Source: Pati Jinich
-Time: 30 minutes
 
 ## Ingredients
 

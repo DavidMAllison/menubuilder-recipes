@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Khao Man Gai (Thai-Style Chicken and Rice)
-
-Source: America's Test Kitchen
-Time: 2 hours
-Yield: 4 to 6 servings
 
 ## Ingredients
 

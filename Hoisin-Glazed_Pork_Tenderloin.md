@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Hoisin-Glazed Pork Tenderloin
-
-Source: America's Test Kitchen
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

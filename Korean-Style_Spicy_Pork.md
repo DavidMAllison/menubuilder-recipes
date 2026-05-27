@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Korean-Style Spicy Pork
-
-Source: Cookbook (from photo)
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

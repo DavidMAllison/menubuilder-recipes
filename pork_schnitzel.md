@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Pork Schnitzel
-
-Time: 30 minutes
-Yield: 4 servings
 
 ## Ingredients
 

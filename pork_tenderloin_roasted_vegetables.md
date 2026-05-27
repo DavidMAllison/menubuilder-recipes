@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Pork Tenderloin with Roasted Vegetables
-
-Time: 45 minutes
-Yield: 4 servings
 
 ## Ingredients
 

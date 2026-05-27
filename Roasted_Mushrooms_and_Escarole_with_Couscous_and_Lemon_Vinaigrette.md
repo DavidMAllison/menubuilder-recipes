@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Roasted Mushrooms and Escarole with Couscous and Lemon Vinaigrette
-
-Source: America's Test Kitchen
-Time: 40 minutes
-Yield: Serves 4
 
 ## Ingredients
 

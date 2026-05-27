@@ -1,9 +1,5 @@
 # Real-Deal Chicken Teriyaki
 
-Source: America's Test Kitchen
-Time: 45 minutes
-Yield: 4 servings
-
 ## Ingredients
 
 - 1 1/2-2 pounds bone-in chicken thighs

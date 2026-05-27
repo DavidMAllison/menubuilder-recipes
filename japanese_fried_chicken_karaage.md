@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Karaage (Japanese Fried Chicken Thighs)
-
-Time: 1 hour, plus 30 minutes resting
-Yield: 4 to 6 servings
 
 ## Ingredients
 

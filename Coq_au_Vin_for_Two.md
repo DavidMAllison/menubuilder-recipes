@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Coq au Vin for Two
-
-Source: America's Test Kitchen (Lawman Johnson)
-Time: 1 hour
-Yield: 2 servings
 
 ## Ingredients
 

@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Beef and Broccoli Stir-Fry
-
-Time: 55 minutes
-Yield: 4 servings
 
 ## Ingredients
 

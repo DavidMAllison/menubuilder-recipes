@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Pork Chops with White Wine and Herb Pan Sauce
-
-Time: 25 minutes
-Yield: 4
 
 ## Ingredients
 

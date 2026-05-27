@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Enfrijoladas
-
-Source: Cookbook (from photo)
-Time: 70 minutes (15 minutes with precooked beans)
-Yield: 25 enfrijoladas (6-8 servings)
 
 ## Ingredients
 

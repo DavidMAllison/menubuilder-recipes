@@ -1,12 +1,4 @@
----
-layout: default
----
-
 # Moroccan Lentil and Chickpea Soup (Harira)
-
-Source: America's Test Kitchen
-Time: 1½ hours
-Yield: Serves 6 to 8
 
 ## Ingredients
 

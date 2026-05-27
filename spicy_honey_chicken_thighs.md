@@ -1,11 +1,4 @@
----
-layout: default
----
-
 # Spicy Honey Chicken Thighs
-
-Time: 15 minutes
-Yield: 4 servings
 
 ## Ingredients
 
