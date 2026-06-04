@@ -23,10 +23,36 @@
   h1 {
     font-size: 2rem;
     font-weight: bold;
-    margin-bottom: 1rem;
+    margin-bottom: 0.4rem;
     color: #1a1a1a;
     line-height: 1.2;
   }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.4rem;
+    font-family: -apple-system, sans-serif;
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 1.8rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid #e8e5e0;
+    margin-top: 0.6rem;
+  }
+  .meta span { display: flex; align-items: center; gap: 0.3rem; }
+  .meta a { color: #555; text-decoration: underline dotted; }
+  .meta a:hover { color: #222; }
+  .badge {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-family: -apple-system, sans-serif;
+  }
+  .heart-healthy { background: #d4edda; color: #155724; }
+  .moderate      { background: #fff3cd; color: #856404; }
+  .indulgent     { background: #f8d7da; color: #721c24; }
   h2 {
     font-size: 1.1rem;
     font-weight: bold;
@@ -61,22 +87,30 @@
     margin-bottom: 0.6rem;
     font-family: -apple-system, sans-serif;
     font-size: 0.9rem;
-    color: #666;
+    color: #555;
   }
-  /* Style the Source/Time/Yield block at top as meta row */
-  p:first-of-type {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem 1.4rem;
-    font-size: 0.85rem;
-    color: #666;
-    margin-bottom: 1.8rem;
-    padding-bottom: 1.2rem;
-    border-bottom: 1px solid #e8e5e0;
+  /* Notes section — styled block */
+  h2 + ul, h2 + p {
+    font-family: -apple-system, sans-serif;
+    font-size: 0.9rem;
   }
+  .content > p:last-child,
+  blockquote {
+    background: #f5f3ee;
+    border-left: 3px solid #c8b89a;
+    padding: 0.8rem 1rem;
+    border-radius: 0 4px 4px 0;
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 0.4rem;
+    font-family: -apple-system, sans-serif;
+  }
+  /* Attribution line at bottom */
+  em { color: #888; font-size: 0.85rem; font-family: -apple-system, sans-serif; }
+  hr { border: none; border-top: 1px solid #e8e5e0; margin: 1.5rem 0; }
+  strong { color: #333; }
   a { color: #555; text-decoration: underline dotted; }
   a:hover { color: #222; }
-  strong { color: #333; }
   @media (max-width: 600px) {
     .card { padding: 1.5rem 1.25rem; }
     h1 { font-size: 1.5rem; }
@@ -89,7 +123,46 @@
 </head>
 <body>
 <div class="card">
+
+{% assign page_key = page.name | remove: ".md" %}
+{% assign meta = site.data.recipes[page_key] %}
+
+<h1>{{ page.title | default: page_key | replace: "_", " " }}</h1>
+
+<div class="meta">
+  {% if meta %}
+    {% if meta.time != "" %}
+      <span>&#9201; {{ meta.time }}</span>
+    {% endif %}
+    {% if meta.servings != "" %}
+      <span>Serves {{ meta.servings }}</span>
+    {% endif %}
+    {% if meta.cuisine != "" %}
+      <span>{{ meta.cuisine }}</span>
+    {% endif %}
+    {% if meta.source != "" %}
+      {% if meta.source_url != "" %}
+        <span><a href="{{ meta.source_url }}" target="_blank">{{ meta.source }}</a></span>
+      {% else %}
+        <span>{{ meta.source }}</span>
+      {% endif %}
+    {% endif %}
+    {% if meta.health != "" %}
+      {% if meta.health == "Heart-Healthy" %}
+        <span><span class="badge heart-healthy">Heart-Healthy</span></span>
+      {% elsif meta.health == "Moderate" %}
+        <span><span class="badge moderate">Moderate</span></span>
+      {% elsif meta.health == "Indulgent" %}
+        <span><span class="badge indulgent">Indulgent</span></span>
+      {% endif %}
+    {% endif %}
+  {% endif %}
+</div>
+
+<div class="content">
   {{ content }}
+</div>
+
 </div>
 </body>
 </html>

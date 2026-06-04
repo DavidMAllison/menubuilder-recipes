@@ -1,0 +1,1018 @@
+{
+  "Amarillito_Mole_with_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "60 minutes",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": ""
+  },
+  "Beef_and_Broccoli_Stir-Fry": {
+    "health": "Indulgent",
+    "time": "55 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Black_Bean_Mole_Burgers": {
+    "health": "Moderate",
+    "time": "40 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mexican",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Chana_Makhani_(Indian_Butter_Chickpeas)": {
+    "health": "Indulgent",
+    "time": "1 hour",
+    "servings": "4 servings",
+    "cuisine": "Indian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Corn_Masa_Dumplings": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": ""
+  },
+  "Cumin-Cardamom_Spiced_Chicken_with_Parsley_and_Onion_Salad": {
+    "health": "Heart-Healthy",
+    "time": "35 minutes",
+    "servings": "4 servings",
+    "cuisine": "Indian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Creamy_Orzo_with_Italian_Sausage": {
+    "health": "Moderate",
+    "time": "50 minutes",
+    "servings": "4 to 6 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Hoisin-Glazed_Pork_Tenderloin": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Hot_Sesame_Noodles_with_Pork": {
+    "health": "Indulgent",
+    "time": "50 minutes",
+    "servings": "4 to 6 servings",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Linguine_with_Broccolini_Pancetta_and_Parmesan": {
+    "health": "Indulgent",
+    "time": "30 minutes",
+    "servings": "4 to 6 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Mexican_Pulled_Pork_(Carnitas)": {
+    "health": "Indulgent",
+    "time": "90 minutes",
+    "servings": "6 servings",
+    "cuisine": "Mexican",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Murgh_Makhani_(Indian_Butter_Chicken)": {
+    "health": "Indulgent",
+    "time": "1 hour",
+    "servings": "4 to 6 servings",
+    "cuisine": "Indian",
+    "source": "Americas Test Kitchen",
+    "source_url": ""
+  },
+  "Pasta_alla_Vodka": {
+    "health": "Indulgent",
+    "time": "45 minutes",
+    "servings": "4 to 6 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pickle-Brined_Fried_Chicken_Sandwiches": {
+    "health": "Indulgent",
+    "time": "75 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Real-Deal_Chicken_Teriyaki": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Japanese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Seattle_Chicken_Teriyaki": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "6 to 8 servings",
+    "cuisine": "Japanese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Slow-Cooker_Red_Wine-Braised_Short_Ribs": {
+    "health": "Indulgent",
+    "time": "8 hours",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Spaghetti_with_Lemon_and_Olive_Oil": {
+    "health": "Indulgent",
+    "time": "20 minutes",
+    "servings": "4 to 6 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Super-Savory_Mushroom_Bacon_Spaghetti": {
+    "health": "Indulgent",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Tonkatsu_(Japanese_Fried_Pork_Chops)": {
+    "health": "Indulgent",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Japanese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Greek-Style_Garlic-Lemon_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Greek",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "The Weary Chef / Midwest Foodie",
+    "source_url": ""
+  },
+  "Greek_Turkey_Meatballs_with_Tzatziki": {
+    "health": "Heart-Healthy",
+    "time": "35 minutes",
+    "servings": "4 servings",
+    "cuisine": "Greek",
+    "source": "Erin Lives Whole / Skinnytaste",
+    "source_url": ""
+  },
+  "One-Pan_Mediterranean_Chicken_with_Tomatoes_White_Beans": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "Floating Kitchen / Weight Watchers",
+    "source_url": ""
+  },
+  "Tuscan_White_Bean_Soup_Ribollita": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4-6 servings",
+    "cuisine": "Italian",
+    "source": "Love and Lemons / Feasting at Home",
+    "source_url": ""
+  },
+  "Citrus_Chicken_with_Carrots_and_Baby_Potatoes": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 35 minutes",
+    "servings": "4-6 servings",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": ""
+  },
+  "Chicken_Tinga": {
+    "health": "Heart-Healthy",
+    "time": "35 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": ""
+  },
+  "Oven-Roasted_Salmon": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Lemon_Garlic_Pork_Chops": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "Inspired Taste / Delish (adapted)",
+    "source_url": ""
+  },
+  "Lamb_Ragu_with_Pappardelle": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Light_Sautéed_Chicken_Breasts_with_a_White_Wine_and_Herb_Pan_Sauce": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pasta_with_Sausage_Ragu": {
+    "health": "Indulgent",
+    "time": "2 hours",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Creamy_Orzo_with_Hot_Italian_Sausage_Broccoli_Rabe_and_Tomatoes": {
+    "health": "Indulgent",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Couscous_Stuffed_Chicken_Thighs_with_Roasted_Cherry_Tomatoes_and_Shallots": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Slow-Cooker_Lemon_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "4-6 hours on low",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Spaghetti_with_Lemon_and_Olive_Oil_(al_Limone)": {
+    "health": "Indulgent",
+    "time": "55 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Turmeric_Rice_and_Chicken_Salad_with_Herbs": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Indian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Chicken_Breasts_with_Creamy_Sun-Dried_Tomato_and_Dill_Pan_Sauce": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Tuscan-Style_Roast_Pork_with_Garlic_and_Rosemary_(Arista)": {
+    "health": "Indulgent",
+    "time": "2.5-3 hours plus chilling and resting",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pesto_Pantesco_with_Spaghetti": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Chicken_Bolognese": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Spiced_Chickpeas_Gyros_with_Tahini_Yogurt": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "Americas Test Kitchen",
+    "source_url": ""
+  },
+  "Lemony_Mediterranean_Chicken_and_Rice": {
+    "health": "Heart-Healthy",
+    "time": "1 hour, plus 1 hour marinating",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Mediterranean_Grilled_Chicken_with_Tomato-Feta_Salad": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pork_Tenderloin_and_Pears_with_Balsamic_Onions": {
+    "health": "Moderate",
+    "time": "1.25 hours",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Gua_Bao_with_Braised_Pork_Belly": {
+    "health": "Indulgent",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Moroccan_Lentil_and_Chickpea_Soup_(Harira)": {
+    "health": "Heart-Healthy",
+    "time": "1.5 hours",
+    "servings": "4 servings",
+    "cuisine": "Moroccan",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pappa_al_Pomodoro": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Tuscan_Garlic_Chicken_Pasta": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Rigatoni_with_Quick_Mushroom_Bolognese": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Sheet-Pan_Jerk_Chicken_with_Sweet_Potatoes_and_Crispy_Collard_Greens": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "Caribbean",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Sheet-Pan_Herbed_Chicken_Wings_with_Potatoes_and_Green_Beans": {
+    "health": "Moderate",
+    "time": "55 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Double-Glazed_Salmon_with_Maple_and_Liquid_Smoke": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Korean-Style_Spicy_Pork": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Korean",
+    "source": "Cookbook (from photo)",
+    "source_url": ""
+  },
+  "Spice-Crusted_Pork_Tenderloin_Bites": {
+    "health": "Moderate",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Spanish",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11901-spanish-grilled-pork-kebabs-pinchos-morunos"
+  },
+  "Ground_Pork_with_Ginger_and_Miso": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Japanese",
+    "source": "Cookbook (from photo)",
+    "source_url": ""
+  },
+  "Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce": {
+    "health": "Moderate",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "Cookbook (from photo)",
+    "source_url": ""
+  },
+  "Enfrijoladas": {
+    "health": "Moderate",
+    "time": "70 minutes",
+    "servings": "25 enfrijoladas (or 6-8 servings)",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": ""
+  },
+  "Yogurt-Herb_Sauce": {
+    "health": "Heart-Healthy",
+    "time": "5 minutes",
+    "servings": "1 cup",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Pork_Tenderloin_Medallions_with_Lemon-Parsley_Pan_Sauce": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Asian_Chicken_Lettuce_Wraps": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "6 servings",
+    "cuisine": "Chinese",
+    "source": "Skinnytaste (Gina Homolka)",
+    "source_url": ""
+  },
+  "Miso_Salmon": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes active, plus 1-2 hours marinating",
+    "servings": "2 servings (double for family)",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": ""
+  },
+  "Pescado_Agridulce_Sweet_and_Sour_Fish": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "6 servings",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": ""
+  },
+  "Thai_Chicken_Stir-Fry_with_Basil_and_Mint": {
+    "health": "Heart-Healthy",
+    "time": "15 minutes",
+    "servings": "4 servings",
+    "cuisine": "Thai",
+    "source": "The Woks of Life",
+    "source_url": ""
+  },
+  "coconut_chicken_curry": {
+    "health": "Heart-Healthy",
+    "time": "35 minutes",
+    "servings": "4 servings",
+    "cuisine": "Thai",
+    "source": "Unknown",
+    "source_url": ""
+  },
+  "Pork_Chops_with_White_Wine_and_Herb_Pan_Sauce": {
+    "health": "Moderate",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "French",
+    "source": "Classic French technique",
+    "source_url": ""
+  },
+  "soy_ginger_garlic_salmon": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "Japanese",
+    "source": "Unknown",
+    "source_url": ""
+  },
+  "Herb-Marinated_Lamb_Rib_Chops_with_Mint_Sauce": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "Classic Mediterranean preparation",
+    "source_url": ""
+  },
+  "Lemon_Garlic_Chicken_Breasts": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "Inspired Taste / Delish (adapted)",
+    "source_url": ""
+  },
+  "Khao_Man_Gai_Thai_Chicken_and_Rice": {
+    "health": "Heart-Healthy",
+    "time": "2 hours",
+    "servings": "4-6 servings",
+    "cuisine": "Thai",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Braised_Chicken_and_Mushrooms_over_Polenta": {
+    "health": "Moderate",
+    "time": "50 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Ginger-Sesame_Chicken_and_Broccoli_Stir_Fry": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4-5 servings",
+    "cuisine": "Asian",
+    "source": "Claude",
+    "source_url": ""
+  },
+  "Italian_Baked_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "28 minutes",
+    "servings": "6 servings",
+    "cuisine": "Mediterranean",
+    "source": "The Mediterranean Dish",
+    "source_url": ""
+  },
+  "Greek_Sheet_Pan_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "6 servings",
+    "cuisine": "Greek",
+    "source": "The Mediterranean Dish",
+    "source_url": ""
+  },
+  "Chicken_Piccata_Good_Eats": {
+    "health": "Moderate",
+    "time": "1 hour",
+    "servings": "6 servings",
+    "cuisine": "Italian",
+    "source": "Alton Brown",
+    "source_url": ""
+  },
+  "Coq_au_Vin_for_Two": {
+    "health": "Moderate",
+    "time": "1 hour",
+    "servings": "2 servings (double for family of 4)",
+    "cuisine": "French",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Creamy_Mushroom_Orzotto": {
+    "health": "Moderate",
+    "time": "1.5 hours",
+    "servings": "4 to 6 servings",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Mediterranean_Cucumber-Tomato_Salad": {
+    "health": "Heart-Healthy",
+    "time": "10 minutes",
+    "servings": "",
+    "cuisine": "Mediterranean",
+    "source": "",
+    "source_url": ""
+  },
+  "oven_baby_back_ribs": {
+    "health": "Indulgent",
+    "time": "2.5-3 hours",
+    "servings": "",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "grilled_baby_back_ribs": {
+    "health": "Indulgent",
+    "time": "6 hours",
+    "servings": "4",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "pork_medallions_balsamic_capers": {
+    "health": "Moderate",
+    "time": "20-25 minutes",
+    "servings": "6",
+    "cuisine": "Italian-American",
+    "source": "Allrecipes",
+    "source_url": ""
+  },
+  "chicken_tikka_masala": {
+    "health": "Moderate",
+    "time": "60-65 minutes",
+    "servings": "6",
+    "cuisine": "Indian",
+    "source": "Allrecipes",
+    "source_url": ""
+  },
+  "spicy_honey_chicken_thighs": {
+    "health": "Moderate",
+    "time": "15 minutes",
+    "servings": "4",
+    "cuisine": "American",
+    "source": "Allrecipes",
+    "source_url": ""
+  },
+  "grilled_chicken_salad_cilantro_lime": {
+    "health": "Heart-Healthy",
+    "time": "45-60 minutes",
+    "servings": "4",
+    "cuisine": "American",
+    "source": "Smitten Kitchen",
+    "source_url": ""
+  },
+  "cast_iron_mustard_chicken": {
+    "health": "Moderate",
+    "time": "45-50 minutes",
+    "servings": "2",
+    "cuisine": "American",
+    "source": "Allrecipes",
+    "source_url": ""
+  },
+  "baked_chicken_parmesan": {
+    "health": "Moderate",
+    "time": "50 minutes",
+    "servings": "",
+    "cuisine": "Italian-American",
+    "source": "",
+    "source_url": ""
+  },
+  "beef_and_broccoli": {
+    "health": "Moderate",
+    "time": "55 minutes",
+    "servings": "",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "breakfast_for_dinner_pancakes": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "chicken_and_broccoli": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Chinese-American",
+    "source": "",
+    "source_url": ""
+  },
+  "homemade_pizza": {
+    "health": "Moderate",
+    "time": "15 minutes per pizza (plus 1-1.5 hours rising)",
+    "servings": "",
+    "cuisine": "Italian",
+    "source": "",
+    "source_url": ""
+  },
+  "homemade_pizza_rolls": {
+    "health": "Moderate",
+    "time": "18 minutes (plus rising)",
+    "servings": "",
+    "cuisine": "Italian",
+    "source": "",
+    "source_url": ""
+  },
+  "honey_garlic_chicken": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "",
+    "cuisine": "Chinese",
+    "source": "",
+    "source_url": ""
+  },
+  "italian_wedding_soup": {
+    "health": "Moderate",
+    "time": "60 minutes",
+    "servings": "",
+    "cuisine": "Italian",
+    "source": "",
+    "source_url": ""
+  },
+  "korean_fried_chicken_milk_street": {
+    "health": "Indulgent",
+    "time": "45 minutes",
+    "servings": "",
+    "cuisine": "Korean",
+    "source": "Milk Street",
+    "source_url": ""
+  },
+  "lemon_chicken_piccata": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Italian",
+    "source": "",
+    "source_url": ""
+  },
+  "lemon_shrimp_pasta": {
+    "health": "Moderate",
+    "time": "20 minutes",
+    "servings": "",
+    "cuisine": "Italian",
+    "source": "",
+    "source_url": ""
+  },
+  "pan_seared_broccolini": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "pork_schnitzel": {
+    "health": "Indulgent",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "German",
+    "source": "",
+    "source_url": ""
+  },
+  "pork_tenderloin_roasted_vegetables": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "southern_fried_chicken": {
+    "health": "Indulgent",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "tilapia_lemon_cream_sauce": {
+    "health": "Moderate",
+    "time": "20 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "tinga_verde_recipe": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "",
+    "source_url": ""
+  },
+  "Korean_Chicken_Bulgogi": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes active + 4 hours marinating",
+    "servings": "4",
+    "cuisine": "Korean",
+    "source": "My Korean Kitchen (Sue)",
+    "source_url": ""
+  },
+  "Blackened_Fish_Tacos_with_Cabbage_Mango_Slaw": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4",
+    "cuisine": "Mexican",
+    "source": "Skinnytaste",
+    "source_url": "https://www.skinnytaste.com/blackened-fish-tacos-with-cabbage-mango/"
+  },
+  "Vietnamese_Lemongrass_Chicken_Bowl": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4",
+    "cuisine": "Vietnamese",
+    "source": "Original",
+    "source_url": ""
+  },
+  "San_Francisco_Vietnamese_American_Garlic_Noodles": {
+    "health": "Moderate",
+    "time": "25 min",
+    "servings": "4",
+    "cuisine": "Vietnamese-American",
+    "source": "Kenji Lopez-Alt (NYT Cooking)",
+    "source_url": ""
+  },
+  "Vietnamese_Lemongrass_Chicken_Bowl_Bun_Ga_Nuong": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "Vietnamese",
+    "source": "RecipeTin Eats",
+    "source_url": ""
+  },
+  "Peruvian_Grilled_Chicken_with_Aji_Verde": {
+    "health": "Heart-Healthy",
+    "time": "1 hour (includes 30 min marinate)",
+    "servings": "4-6",
+    "cuisine": "Peruvian",
+    "source": "Feasting at Home",
+    "source_url": ""
+  },
+  "Halal_Cart_Chicken_and_Rice": {
+    "health": "heart-healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "Middle Eastern",
+    "source": "Kenji Lopez-Alt / Serious Eats",
+    "source_url": ""
+  },
+  "Smoked_Pulled_Pork": {
+    "health": "Moderate",
+    "time": "600 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "Aaron Franklin",
+    "source_url": ""
+  },
+  "Cumin_Chicken_Fingers": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers"
+  },
+  "Crispy_Pan-Seared_Fish_Fillets": {
+    "health": "heart-healthy",
+    "time": "~20 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "Serious Eats / J. Kenji Lopez-Alt",
+    "source_url": "https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe"
+  },
+  "Pulled_Pork_Tacos": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4",
+    "cuisine": "Mexican",
+    "source": "Original",
+    "source_url": ""
+  },
+  "Pulled_Pork_Ragu": {
+    "health": "Moderate",
+    "time": "60 minutes",
+    "servings": "4-6",
+    "cuisine": "Italian",
+    "source": "Original",
+    "source_url": ""
+  },
+  "Lamb_Barbacoa_Mixiote": {
+    "health": "Heart-Healthy",
+    "time": "2 hours",
+    "servings": "6 to 8 servings",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich - https://patijinich.com/lamb-barbacoa-mixiote/",
+    "source_url": ""
+  },
+  "Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/seared-pork-tenderloin-or-chicken-thighs-with-roasted-tomatillos-and-apples/"
+  },
+  "Rosemary_Lemon_Grilled_Spatchcock_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "55 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "Tastes Lovely",
+    "source_url": "https://www.tasteslovely.com/grilled-lemon-rosemary-flattened-chicken/"
+  },
+  "Hummus_Bowls_with_Roasted_Chicken_and_Cauliflower": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "4",
+    "cuisine": "Middle Eastern",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Chairman_Maos_Red_Braised_Pork_Belly": {
+    "health": "indulgent",
+    "time": "105 minutes",
+    "servings": "",
+    "cuisine": "Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/red-braised-pork-belly-mao/"
+  },
+  "Burrito_Bowls": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4",
+    "cuisine": "Mexican",
+    "source": "Original",
+    "source_url": ""
+  },
+  "japanese_fried_chicken_karaage": {
+    "health": "Indulgent",
+    "time": "1 hour, plus 30 minutes resting",
+    "servings": "",
+    "cuisine": "Japanese",
+    "source": "America's Test Kitchen",
+    "source_url": ""
+  },
+  "Smash_Burgers": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "",
+    "cuisine": "American",
+    "source": "Serious Eats (J. Kenji López-Alt)",
+    "source_url": "https://www.seriouseats.com/smash-burgers"
+  },
+  "Texas_BBQ_Sauce": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "American",
+    "source": "",
+    "source_url": ""
+  },
+  "Yakisoba": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/yakisoba/"
+  }
+}
