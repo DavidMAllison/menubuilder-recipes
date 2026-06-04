@@ -51,6 +51,5 @@
 - **Chile sub:** If you can't find dried anchos, 1–2 chipotles in adobo work fine and add a smoky note
 - **Kids:** Serve plain sliced pork in a tortilla — skip the garnishes
 - **Leftover liquid:** Excellent as a soup base or reduce it down into a sauce
-- **Pairs well** as a second protein alongside fish tacos — shared garnishes, two proteins
 
 *House recipe — based on traditional Mexican braising technique*
