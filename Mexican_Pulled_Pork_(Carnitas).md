@@ -1,28 +1,33 @@
 # Mexican Pulled Pork (Carnitas)
 
+**Time**: 2 hours 45 minutes
+**Servings**: 6–8
+
 ## Ingredients
 
-**Pork:**
-- 4 pound boneless pork butt, fat cap trimmed to 1/8 inch thick, cut into 2-inch chunks
-- Salt and ground black pepper
+- 4 pounds boneless pork butt, fat cap trimmed to ⅛ inch, cut into 2-inch chunks
+- Salt and black pepper
 - 1 teaspoon ground cumin
 - 1 small onion, peeled and halved
 - 2 bay leaves
 - 1 teaspoon dried oregano
-- 2 tablespoons juice from 1 lime
+- 2 tablespoons lime juice
 - 2 cups water
 - 1 medium orange, halved
-**Tortillas And Garnishes:**
+
+**For serving:**
 - 18 (6-inch) corn tortillas, warmed
-- Lime wedge (optional) Minced white or red onion (optional)
-- Fresh cilantro leaves (optional) Thinly sliced radishes (optional) Sour cream (optional)
-
-## Before You Begin
-
-We like serving carnitas spooned into tacos, but you can also use it as a filling for tamales, enchiladas, and burritos.
+- Minced onion, cilantro, sliced radishes, lime wedges, sour cream (all optional)
 
 ## Instructions
 
-1. Adjust oven rack to lower-middle position and heat oven to 300 degrees. Combine pork, 1 teaspoon salt, 1/2 teaspoon pepper, cumin, onion, bay leaves, oregano, lime juice, and water in large Dutch oven (liquid should just barely cover meat). Juice orange into medium bowl and remove any seeds (you should have about 1/3 cup juice). Add juice and spent orange halves to pot. Bring mixture to simmer over medium-high heat, stirring occasionally. Cover pot and transfer to oven; cook until meat is soft and falls apart when prodded with fork, about 2 hours, flipping pieces of meat once during cooking.
-2. Remove pot from oven and turn oven to broil. Using slotted spoon, transfer pork to bowl; remove orange halves, onion, and bay leaves from cooking liquid and discard (do not skim fat from liquid). Place pot over high heat (use caution, as handles will be very hot) and simmer liquid, stirring frequently, until thick and syrupy (heatsafe spatula should leave wide trail when dragged through glaze), 8 to 12 minutes. You should have about 1 cup reduced liquid.
-3. Using 2 forks, pull each piece of pork in half. Fold in reduced liquid; season with salt and pepper to taste. Spread pork in even layer on wire rack set inside rimmed baking sheet or on broiler pan (meat should cover almost entire surface of rack or broiler pan). Place baking sheet on lower-middle rack and broil until top of meat is well browned (but not charred) and edges are slightly crisp, 5 to 8 minutes. Using wide metal spatula, flip pieces of meat and continue to broil until top is well browned and edges are slightly crisp, 5 to 8 minutes longer. Serve immediately with warm tortillas and garnishes.
+1. Heat oven to 300°F. Combine pork, 1 teaspoon salt, ½ teaspoon pepper, cumin, onion, bay leaves, oregano, lime juice, and water in a Dutch oven — the liquid should just barely cover the meat. Squeeze in the orange juice and drop in the spent halves. Bring to a simmer over medium-high, cover, and transfer to the oven. Cook until the pork is very tender and falls apart when prodded, about 2 hours, flipping the pieces once halfway through.
+2. Remove pot from oven and heat broiler. Lift pork out with a slotted spoon and set aside; discard orange halves, onion, and bay leaves. Simmer the cooking liquid over high heat, stirring frequently, until reduced to about 1 cup and thick enough that a spoon dragged through leaves a clear trail, 8–12 minutes.
+3. Pull each piece of pork in half using two forks. Fold in the reduced liquid and season with salt and pepper. Spread the pork in an even layer on a wire rack set over a rimmed baking sheet — it should cover nearly the whole surface.
+4. Broil on the lower-middle rack until the top is well browned but not charred, 5–8 minutes. Flip the pieces and broil the other side, 5–8 minutes more. Serve immediately in warm tortillas with garnishes.
+
+## Notes
+
+- Great as a taco filling, but also works for tamales, enchiladas, and burritos.
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
