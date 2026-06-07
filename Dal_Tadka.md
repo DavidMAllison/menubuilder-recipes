@@ -50,4 +50,12 @@
 - Dal thickens as it cools; add a splash of water when reheating.
 - Can use toor dal only if you don't have all three lentils.
 
+## Ingredient Substitutions
+
+- **Toor/moong/chana dal** — red lentils work fine as a single substitute; available at most grocery stores. Texture will be softer and slightly less complex.
+- **Kasuri methi (dried fenugreek)** — skip it or add a small pinch of fresh thyme for a faint herbal note. Not a perfect sub but won't ruin the dish.
+- **Hing (asafoetida)** — optional, just leave it out. Adds a faint onion-garlic depth but the dish works without it.
+- **Ghee** — substitute butter for the tadka. Not traditional but close enough.
+- **Find the real thing**: Indian grocery stores carry all of these. Toor dal, kasuri methi, and hing are also available on Amazon.
+
 Adapted from [Indian Healthy Recipes](https://www.indianhealthyrecipes.com/dal-tadka/)
