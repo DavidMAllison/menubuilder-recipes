@@ -457,10 +457,10 @@
   },
   "Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce": {
     "health": "Moderate",
-    "time": "20 min",
-    "servings": "4",
-    "cuisine": "Asian",
-    "source": "Milk Street - Cookish",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "Cookbook (from photo)",
     "source_url": ""
   },
   "Enfrijoladas": {
@@ -552,11 +552,11 @@
     "source_url": ""
   },
   "Khao_Man_Gai_Thai_Chicken_and_Rice": {
-    "health": "",
-    "time": "",
-    "servings": "",
-    "cuisine": "",
-    "source": "",
+    "health": "Heart-Healthy",
+    "time": "2 hours",
+    "servings": "4-6 servings",
+    "cuisine": "Thai",
+    "source": "America's Test Kitchen",
     "source_url": "https://hot-thai-kitchen.com/hainanese-chicken-rice/"
   },
   "Braised_Chicken_and_Mushrooms_over_Polenta": {
@@ -804,14 +804,6 @@
     "time": "20 minutes",
     "servings": "",
     "cuisine": "American",
-    "source": "",
-    "source_url": ""
-  },
-  "tinga_verde_recipe": {
-    "health": "Heart-Healthy",
-    "time": "",
-    "servings": "",
-    "cuisine": "Mexican",
     "source": "",
     "source_url": ""
   },
