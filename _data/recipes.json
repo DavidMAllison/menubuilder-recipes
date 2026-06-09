@@ -579,7 +579,7 @@
     "health": "Heart-Healthy",
     "time": "30 minutes",
     "servings": "4-5 servings",
-    "cuisine": "Asian",
+    "cuisine": "Chinese",
     "source": "Claude",
     "source_url": ""
   },
@@ -651,7 +651,7 @@
     "health": "Moderate",
     "time": "20-25 minutes",
     "servings": "6",
-    "cuisine": "Italian-American",
+    "cuisine": "Italian",
     "source": "Allrecipes",
     "source_url": ""
   },
@@ -691,7 +691,7 @@
     "health": "Moderate",
     "time": "50 minutes",
     "servings": "",
-    "cuisine": "Italian-American",
+    "cuisine": "Italian",
     "source": "",
     "source_url": ""
   },
@@ -715,7 +715,7 @@
     "health": "Heart-Healthy",
     "time": "30 minutes",
     "servings": "",
-    "cuisine": "Chinese-American",
+    "cuisine": "Chinese",
     "source": "",
     "source_url": ""
   },
@@ -819,7 +819,7 @@
     "health": "",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Chinese",
     "source": "",
     "source_url": "https://thewoksoflife.com/moo-shu-chicken/"
   },
@@ -843,7 +843,7 @@
     "health": "",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Chinese",
     "source": "",
     "source_url": "https://thewoksoflife.com/cantonese-steamed-fish/"
   },
@@ -851,7 +851,7 @@
     "health": "Moderate",
     "time": "25 min",
     "servings": "4",
-    "cuisine": "Vietnamese-American",
+    "cuisine": "Vietnamese",
     "source": "Kenji Lopez-Alt (NYT Cooking)",
     "source_url": ""
   },
@@ -907,7 +907,7 @@
     "health": "",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Mexican",
     "source": "",
     "source_url": "https://www.americastestkitchen.com/recipes/16428-mesquite-grilled-tacos-rasurados"
   },
@@ -923,7 +923,7 @@
     "health": "Heart-Healthy",
     "time": "~30 minutes",
     "servings": "",
-    "cuisine": "Moroccan / North African",
+    "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/5258-30-minute-chicken-tagine"
   },
@@ -931,7 +931,7 @@
     "health": "Heart-Healthy",
     "time": "~1.5 hours",
     "servings": "",
-    "cuisine": "Moroccan / North African",
+    "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/5189-moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel"
   },
@@ -939,7 +939,7 @@
     "health": "Heart-Healthy",
     "time": "~1 hour",
     "servings": "",
-    "cuisine": "Peruvian / Latin American",
+    "cuisine": "Peruvian",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/16207-peruvian-arroz-con-pollo"
   },
@@ -947,7 +947,7 @@
     "health": "Heart-Healthy",
     "time": "~40-45 minutes",
     "servings": "",
-    "cuisine": "Middle Eastern / Levantine",
+    "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/15440-pomegranate-chicken-with-baharat-sweet-potatoes"
   },
@@ -955,7 +955,7 @@
     "health": "Moderate",
     "time": "~45-50 minutes",
     "servings": "",
-    "cuisine": "French / European bistro",
+    "cuisine": "French",
     "source": "Kenji Lopez-Alt / Serious Eats",
     "source_url": "https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe"
   },
@@ -971,7 +971,7 @@
     "health": "Heart-Healthy",
     "time": "~30 minutes",
     "servings": "",
-    "cuisine": "Mexican (Baja California)",
+    "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/adobo-fish-tacos-with-grilled-pineapple-salsa/"
   },
@@ -979,7 +979,7 @@
     "health": "Moderate",
     "time": "~1 hour 15 minutes",
     "servings": "",
-    "cuisine": "Mexican (Central Mexico / mole-adjacent)",
+    "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/chicken-in-a-pecan-and-ancho-chile-sauce/"
   },
@@ -987,7 +987,7 @@
     "health": "Moderate",
     "time": "~45 minutes",
     "servings": "",
-    "cuisine": "Mexican (Mexico City classic)",
+    "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/sanborns-swiss-chicken-enchiladas/"
   },
@@ -995,7 +995,7 @@
     "health": "Heart-Healthy",
     "time": "~20 minutes",
     "servings": "",
-    "cuisine": "Mexican (Northern coastal / Sonora)",
+    "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/rodrigo-style-fish/"
   },
@@ -1003,7 +1003,7 @@
     "health": "Heart-Healthy",
     "time": "~30-35 minutes",
     "servings": "",
-    "cuisine": "Chinese home-style",
+    "cuisine": "Chinese",
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/chicken-soft-tofu-casserole/"
   },
@@ -1011,7 +1011,7 @@
     "health": "Heart-Healthy",
     "time": "~30 minutes",
     "servings": "",
-    "cuisine": "Cantonese Chinese",
+    "cuisine": "Chinese",
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/moo-goo-gai-pan/"
   },
@@ -1187,7 +1187,7 @@
     "health": "Moderate",
     "time": "10 minutes prep; 55 to 60 minutes in the oven",
     "servings": "Servings:4",
-    "cuisine": "",
+    "cuisine": "Mediterranean",
     "source": "Deb Perelman (Smitten Kitchen)",
     "source_url": "https://smittenkitchen.com/2024/09/lemon-chicken-with-potatoes-and-chickpeas/"
   },
@@ -1195,7 +1195,7 @@
     "health": "Heart-Healthy",
     "time": "20 minutes",
     "servings": "Servings:3 to 4 with sides",
-    "cuisine": "",
+    "cuisine": "Japanese",
     "source": "Deb Perelman (Smitten Kitchen)",
     "source_url": "https://smittenkitchen.com/2021/05/soy-glazed-chicken/"
   },
@@ -1203,7 +1203,7 @@
     "health": "Heart-Healthy",
     "time": "About 45 minutes, with prep",
     "servings": "Servings:3 to 4",
-    "cuisine": "",
+    "cuisine": "Japanese",
     "source": "Deb Perelman (Smitten Kitchen)",
     "source_url": "https://smittenkitchen.com/2026/02/miso-chicken-and-rice/"
   },
@@ -1211,7 +1211,7 @@
     "health": "Heart-Healthy",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Indian",
     "source": "Chetna Makan",
     "source_url": "https://chetnamakan.co.uk/one-pan-fish-broccoli-curry/"
   },
@@ -1219,7 +1219,7 @@
     "health": "Heart-Healthy",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Indian",
     "source": "Chetna Makan",
     "source_url": "https://chetnamakan.co.uk/onion-masala-chicken/"
   },
@@ -1227,7 +1227,7 @@
     "health": "Heart-Healthy",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Indian",
     "source": "Chetna Makan",
     "source_url": "https://chetnamakan.co.uk/fish-curry/"
   },
@@ -1286,5 +1286,21 @@
     "cuisine": "Chinese",
     "source": "Serious Eats",
     "source_url": "https://www.seriouseats.com/real-deal-mapo-tofu-recipe"
+  },
+  "Barbecued_Chuck_Roast": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 8 to 10",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/9685-barbecued-chuck-roast"
+  },
+  "Shrimp_with_Black_Bean_Sauce_For_Two": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 2",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16142-shrimp-with-black-bean-sauce-for-two"
   }
 }
