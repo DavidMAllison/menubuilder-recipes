@@ -7,14 +7,6 @@
     "source": "Pati Jinich",
     "source_url": ""
   },
-  "Beef_and_Broccoli_Stir-Fry": {
-    "health": "Indulgent",
-    "time": "55 minutes",
-    "servings": "4 servings",
-    "cuisine": "Chinese",
-    "source": "America's Test Kitchen",
-    "source_url": ""
-  },
   "Black_Bean_Mole_Burgers": {
     "health": "Moderate",
     "time": "40 minutes",
@@ -135,14 +127,6 @@
     "source": "America's Test Kitchen",
     "source_url": ""
   },
-  "Spaghetti_with_Lemon_and_Olive_Oil": {
-    "health": "Indulgent",
-    "time": "20 minutes",
-    "servings": "4 to 6 servings",
-    "cuisine": "Italian",
-    "source": "America's Test Kitchen",
-    "source_url": ""
-  },
   "Super-Savory_Mushroom_Bacon_Spaghetti": {
     "health": "Indulgent",
     "time": "30 minutes",
@@ -208,11 +192,11 @@
     "source_url": ""
   },
   "Chicken_Tinga": {
-    "health": "Heart-Healthy",
+    "health": "Moderate",
     "time": "35 minutes",
     "servings": "4 servings",
     "cuisine": "Mexican",
-    "source": "Pati Jinich",
+    "source": "Enrique Olvera - Tu Casa Mi Casa",
     "source_url": ""
   },
   "Oven-Roasted_Salmon": {
@@ -473,10 +457,10 @@
   },
   "Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce": {
     "health": "Moderate",
-    "time": "20 minutes",
-    "servings": "4 servings",
-    "cuisine": "Chinese",
-    "source": "Cookbook (from photo)",
+    "time": "20 min",
+    "servings": "4",
+    "cuisine": "Asian",
+    "source": "Milk Street - Cookish",
     "source_url": ""
   },
   "Enfrijoladas": {
@@ -485,14 +469,6 @@
     "servings": "25 enfrijoladas (or 6-8 servings)",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": ""
-  },
-  "Yogurt-Herb_Sauce": {
-    "health": "Heart-Healthy",
-    "time": "5 minutes",
-    "servings": "1 cup",
-    "cuisine": "American",
-    "source": "America's Test Kitchen",
     "source_url": ""
   },
   "Pork_Tenderloin_Medallions_with_Lemon-Parsley_Pan_Sauce": {
@@ -576,12 +552,12 @@
     "source_url": ""
   },
   "Khao_Man_Gai_Thai_Chicken_and_Rice": {
-    "health": "Heart-Healthy",
-    "time": "2 hours",
-    "servings": "4-6 servings",
-    "cuisine": "Thai",
-    "source": "America's Test Kitchen",
-    "source_url": ""
+    "health": "",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "",
+    "source_url": "https://hot-thai-kitchen.com/hainanese-chicken-rice/"
   },
   "Braised_Chicken_and_Mushrooms_over_Polenta": {
     "health": "Moderate",
@@ -590,6 +566,14 @@
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
     "source_url": ""
+  },
+  "Lime-Rubbed_Chicken_Tacos_with_Corn_Guacamole": {
+    "health": "Heart-Healthy",
+    "time": "55 minutes",
+    "servings": "6-8 servings",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/"
   },
   "Ginger-Sesame_Chicken_and_Broccoli_Stir_Fry": {
     "health": "Heart-Healthy",
@@ -791,14 +775,6 @@
     "source": "",
     "source_url": ""
   },
-  "pan_seared_broccolini": {
-    "health": "Heart-Healthy",
-    "time": "",
-    "servings": "",
-    "cuisine": "American",
-    "source": "",
-    "source_url": ""
-  },
   "pork_schnitzel": {
     "health": "Indulgent",
     "time": "30 minutes",
@@ -847,6 +823,14 @@
     "source": "My Korean Kitchen (Sue)",
     "source_url": ""
   },
+  "Moo_Shu_Chicken": {
+    "health": "",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "",
+    "source_url": "https://thewoksoflife.com/moo-shu-chicken/"
+  },
   "Blackened_Fish_Tacos_with_Cabbage_Mango_Slaw": {
     "health": "Heart-Healthy",
     "time": "30 minutes",
@@ -862,6 +846,14 @@
     "cuisine": "Vietnamese",
     "source": "Original",
     "source_url": ""
+  },
+  "Cantonese_Steamed_Fish": {
+    "health": "",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "",
+    "source_url": "https://thewoksoflife.com/cantonese-steamed-fish/"
   },
   "San_Francisco_Vietnamese_American_Garlic_Noodles": {
     "health": "Moderate",
@@ -903,6 +895,30 @@
     "source": "Aaron Franklin",
     "source_url": ""
   },
+  "Tacos_De_Alambre_De_Carne_Con_Chorizo_Y_Queso": {
+    "health": "Indulgent",
+    "time": "35 minutes",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/tacos-de-alambre-de-carne-con-chorizo-y-queso/"
+  },
+  "Cajun_Meatball_Fricassee": {
+    "health": "Indulgent",
+    "time": "1 hour 45 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12931-cajun-meatball-fricassee"
+  },
+  "Mesquite_Grilled_Tacos_Rasurados": {
+    "health": "",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "",
+    "source_url": "https://www.americastestkitchen.com/recipes/16428-mesquite-grilled-tacos-rasurados"
+  },
   "Cumin_Chicken_Fingers": {
     "health": "Heart-Healthy",
     "time": "30 minutes",
@@ -911,6 +927,46 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers"
   },
+  "30-Minute_Chicken_Tagine": {
+    "health": "Heart-Healthy",
+    "time": "~30 minutes",
+    "servings": "",
+    "cuisine": "Moroccan / North African",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/5258-30-minute-chicken-tagine"
+  },
+  "Moroccan_Chicken_Tagine_with_Olives_and_Lemon_Djej_Emshmel": {
+    "health": "Heart-Healthy",
+    "time": "~1.5 hours",
+    "servings": "",
+    "cuisine": "Moroccan / North African",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/5189-moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel"
+  },
+  "Peruvian_Arroz_con_Pollo": {
+    "health": "Heart-Healthy",
+    "time": "~1 hour",
+    "servings": "",
+    "cuisine": "Peruvian / Latin American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16207-peruvian-arroz-con-pollo"
+  },
+  "Pomegranate_Chicken_with_Baharat_Sweet_Potatoes": {
+    "health": "Heart-Healthy",
+    "time": "~40-45 minutes",
+    "servings": "",
+    "cuisine": "Middle Eastern / Levantine",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/15440-pomegranate-chicken-with-baharat-sweet-potatoes"
+  },
+  "Crispy_Braised_Chicken_Thighs_with_Cabbage_and_Bacon": {
+    "health": "Moderate",
+    "time": "~45-50 minutes",
+    "servings": "",
+    "cuisine": "French / European bistro",
+    "source": "Kenji Lopez-Alt / Serious Eats",
+    "source_url": "https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe"
+  },
   "Crispy_Pan-Seared_Fish_Fillets": {
     "health": "heart-healthy",
     "time": "~20 minutes",
@@ -918,6 +974,54 @@
     "cuisine": "American",
     "source": "Serious Eats / J. Kenji Lopez-Alt",
     "source_url": "https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe"
+  },
+  "Adobo_Fish_Tacos_with_Grilled_Pineapple_Salsa": {
+    "health": "Heart-Healthy",
+    "time": "~30 minutes",
+    "servings": "",
+    "cuisine": "Mexican (Baja California)",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/adobo-fish-tacos-with-grilled-pineapple-salsa/"
+  },
+  "Chicken_in_a_Pecan_and_Ancho_Chile_Sauce": {
+    "health": "Moderate",
+    "time": "~1 hour 15 minutes",
+    "servings": "",
+    "cuisine": "Mexican (Central Mexico / mole-adjacent)",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/chicken-in-a-pecan-and-ancho-chile-sauce/"
+  },
+  "Enchiladas_Suizas_Sanborns_Swiss_Chicken_Enchiladas": {
+    "health": "Moderate",
+    "time": "~45 minutes",
+    "servings": "",
+    "cuisine": "Mexican (Mexico City classic)",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/sanborns-swiss-chicken-enchiladas/"
+  },
+  "Rodrigo-Style_Fish_Pescado_Rodrigo": {
+    "health": "Heart-Healthy",
+    "time": "~20 minutes",
+    "servings": "",
+    "cuisine": "Mexican (Northern coastal / Sonora)",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/rodrigo-style-fish/"
+  },
+  "Chicken_and_Soft_Tofu_Casserole": {
+    "health": "Heart-Healthy",
+    "time": "~30-35 minutes",
+    "servings": "",
+    "cuisine": "Chinese home-style",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/chicken-soft-tofu-casserole/"
+  },
+  "Moo_Goo_Gai_Pan_Mushroom_and_Chicken_Stir-Fry": {
+    "health": "Heart-Healthy",
+    "time": "~30 minutes",
+    "servings": "",
+    "cuisine": "Cantonese Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/moo-goo-gai-pan/"
   },
   "Pulled_Pork_Tacos": {
     "health": "Moderate",
@@ -991,6 +1095,30 @@
     "source": "America's Test Kitchen",
     "source_url": ""
   },
+  "Grilled_Brined_Pork_Chops_with_Garlic-Herb_Oil": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16379-grilled-brined-pork-chops-with-garlic-herb-oil"
+  },
+  "Gochujang-Glazed_Ribs": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "",
+    "cuisine": "Korean-American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17655-gochujang-glazed-ribs-for-gas-grill"
+  },
+  "Grilled_Spice-Rubbed_Pork_Tenderloin_with_Charred_Fingerling_Potato_Salad": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17657-grilled-spice-rubbed-pork-tenderloin-with-charred-fingerling-potato-salad"
+  },
   "Smash_Burgers": {
     "health": "Indulgent",
     "time": "",
@@ -999,12 +1127,12 @@
     "source": "Serious Eats (J. Kenji López-Alt)",
     "source_url": "https://www.seriouseats.com/smash-burgers"
   },
-  "Texas_BBQ_Sauce": {
-    "health": "Moderate",
+  "Spicy_Peanut_Noodles_with_Shrimp_and_Snow_Peas": {
+    "health": "Heart-Healthy",
     "time": "",
     "servings": "",
-    "cuisine": "American",
-    "source": "",
+    "cuisine": "Asian",
+    "source": "America's Test Kitchen",
     "source_url": ""
   },
   "Yakisoba": {
@@ -1014,5 +1142,157 @@
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/yakisoba/"
+  },
+  "Braised_Pork_Belly_Tacos": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "House recipe",
+    "source_url": ""
+  },
+  "Chicken_Nanban_Fried_Chicken_with_Tartar_Sauce": {
+    "health": "Indulgent",
+    "time": "50 minutes",
+    "servings": "['2']",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/chicken-nanban/"
+  },
+  "Cauliflower_Stir-fry_with_Beef": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "['4']",
+    "cuisine": "Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/cauliflower-stir-fry-beef/"
+  },
+  "Spicy_beef_bulgogi_Maeun-sobulgogi_매운소불고기": {
+    "health": "Moderate",
+    "time": "33 minutes",
+    "servings": "2 to 4 servings",
+    "cuisine": "Korean",
+    "source": "Maangchi",
+    "source_url": "https://www.maangchi.com/recipe/spicy-bulgogi"
+  },
+  "Simmered_Tofu_and_Egg_Rice_Bowl": {
+    "health": "Moderate",
+    "time": "15 minutes",
+    "servings": "['2']",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/simmered-tofu-and-egg-rice-bowl/"
+  },
+  "Chicken_Bhuna_Masala_Recipe": {
+    "health": "Moderate",
+    "time": "1 hour",
+    "servings": "['4', '4 to 5']",
+    "cuisine": "Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-bhuna-masala/"
+  },
+  "Lemon_Chicken_with_Potatoes_and_Chickpeas": {
+    "health": "Moderate",
+    "time": "10 minutes prep; 55 to 60 minutes in the oven",
+    "servings": "Servings:4",
+    "cuisine": "",
+    "source": "Deb Perelman (Smitten Kitchen)",
+    "source_url": "https://smittenkitchen.com/2024/09/lemon-chicken-with-potatoes-and-chickpeas/"
+  },
+  "Soy-Glazed_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "Servings:3 to 4 with sides",
+    "cuisine": "",
+    "source": "Deb Perelman (Smitten Kitchen)",
+    "source_url": "https://smittenkitchen.com/2021/05/soy-glazed-chicken/"
+  },
+  "Miso_Chicken_and_Rice": {
+    "health": "Heart-Healthy",
+    "time": "About 45 minutes, with prep",
+    "servings": "Servings:3 to 4",
+    "cuisine": "",
+    "source": "Deb Perelman (Smitten Kitchen)",
+    "source_url": "https://smittenkitchen.com/2026/02/miso-chicken-and-rice/"
+  },
+  "One-Pan_Fish_Broccoli_Curry": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "Chetna Makan",
+    "source_url": "https://chetnamakan.co.uk/one-pan-fish-broccoli-curry/"
+  },
+  "Onion_Masala_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "Chetna Makan",
+    "source_url": "https://chetnamakan.co.uk/onion-masala-chicken/"
+  },
+  "Fish_Curry": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "Chetna Makan",
+    "source_url": "https://chetnamakan.co.uk/fish-curry/"
+  },
+  "Its_All_Greek_Chicken_Salad_to_Me": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 5 minutes",
+    "servings": "['4', '4 to 6 servings']",
+    "cuisine": "Mediterranean",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me"
+  },
+  "Dressed-up_Chicken_Milanesa": {
+    "health": "Moderate",
+    "time": "21 minutes",
+    "servings": "['6', '6 servings']",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/dressed-up-chicken-milanesa/"
+  },
+  "Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/crispy-chicken-thighs-with-creamy-jalapeno-salsa/"
+  },
+  "Garlic_and_Cumin_Rubbed_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 15 minutes",
+    "servings": "['4', '4 to 5 Servings']",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/garlic-and-cumin-rubbed-chicken/"
+  },
+  "Dal_Tadka": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "",
+    "cuisine": "Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/dal-tadka/"
+  },
+  "Saag_Paneer": {
+    "health": "Moderate",
+    "time": "55 minutes",
+    "servings": "3-4",
+    "cuisine": "Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/saag-paneer/"
+  },
+  "Mapo_Tofu": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "",
+    "cuisine": "Chinese",
+    "source": "Serious Eats",
+    "source_url": "https://www.seriouseats.com/real-deal-mapo-tofu-recipe"
   }
 }
