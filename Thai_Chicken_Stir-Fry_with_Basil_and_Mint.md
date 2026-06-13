@@ -1,8 +1,7 @@
 # Thai Chicken Stir-Fry with Basil and Mint
 
-**Source:** The Woks of Life | **Time:** 15 minutes | **Servings:** 4
-
----
+**Time:** 15 minutes
+**Servings:** 4
 
 ## Ingredients
 
@@ -42,3 +41,5 @@
 
 - **Kids:** Omit chili entirely. Pull kids' chicken before adding sauce in step 4.
 - Serve with steamed jasmine rice.
+
+*Adapted from [The Woks of Life](https://thewoksoflife.com/)*

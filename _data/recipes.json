@@ -121,11 +121,11 @@
   },
   "Slow-Cooker_Red_Wine-Braised_Short_Ribs": {
     "health": "Indulgent",
-    "time": "8 hours",
-    "servings": "4 servings",
+    "time": "",
+    "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/4983-slow-cooker-red-wine-braised-short-ribs-archived"
   },
   "Super-Savory_Mushroom_Bacon_Spaghetti": {
     "health": "Indulgent",
@@ -1310,5 +1310,517 @@
     "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums"
+  },
+  "Shanghai-Style_Braised_Pork_Belly_Hong_Shao_Rou": {
+    "health": "Moderate",
+    "time": "1 hour 15 minutes",
+    "servings": "['8', '8 servings']",
+    "cuisine": "Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/shanghai-style-braised-pork-belly/"
+  },
+  "Braised_Pork_Belly_Dong_Po_Rou": {
+    "health": "Indulgent",
+    "time": "3 hours 50 minutes",
+    "servings": "['8']",
+    "cuisine": "Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/braised-pork-belly-dong-po-rou/"
+  },
+  "Red_Boat_Pork_Belly_in_Caramel_Sauce": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "['4', '4 people']",
+    "cuisine": "",
+    "source": "Viet World Kitchen",
+    "source_url": "https://www.vietworldkitchen.com/blog/2019/03/red-boat-pork-belly-in-caramel-sauce-thit-kho-recipe.html"
+  },
+  "Kakuni_Japanese_Braised_Pork_Belly": {
+    "health": "Moderate",
+    "time": "4 hours 30 minutes",
+    "servings": "['4']",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/braised-pork-belly-kakuni/"
+  },
+  "Rafute": {
+    "health": "Indulgent",
+    "time": "3 hours 45 minutes",
+    "servings": "['4']",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/rafute/"
+  },
+  "Bi-Level_King_Salmon_Fillet": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "['2', '2 servings']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/"
+  },
+  "Broiled_Salmon_with_ABs_Spice_Pomade": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 10 minutes",
+    "servings": "['6', '6 to 8 servings']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/broiled-salmon-with-abs-spice-pomade/"
+  },
+  "Salmon_and_Dill_Blini": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "Chetna Makan",
+    "source_url": "https://chetnamakan.co.uk/salmon-and-dill-blini/"
+  },
+  "Altons_Kale_amp_Quinoa_Bowl_with_Salmon": {
+    "health": "Moderate",
+    "time": "50 minutes",
+    "servings": "['4', '4 servings']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/altons-kale-quinoa-bowl-with-salmon/"
+  },
+  "Hot_Smoked_Salmon": {
+    "health": "Heart-Healthy",
+    "time": "30 hours",
+    "servings": "['2', '2 pounds']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/hot-smoked-salmon-2/"
+  },
+  "Rajma_Recipe_Rajma_Masala": {
+    "health": "Moderate",
+    "time": "8 hours 40 minutes",
+    "servings": "['4']",
+    "cuisine": "North Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/rajma-recipe-rajma-masala-recipe/"
+  },
+  "Mom8217s_Style_Rajma_Chawal_Maa_ki_Baat_8211_Episode_1": {
+    "health": "Moderate",
+    "time": "50 minutes",
+    "servings": "4",
+    "cuisine": "Punjabi",
+    "source": "Ranveer Brar",
+    "source_url": "https://ranveerbrar.com/recipes/punjabi-rajma/"
+  },
+  "Kashmiri_Rajma_Curry": {
+    "health": "Heart-Healthy",
+    "time": "1 hour",
+    "servings": "2-4",
+    "cuisine": "Kashmiri",
+    "source": "Ranveer Brar",
+    "source_url": "https://ranveerbrar.com/recipes/kashmiri-rajma-curry/"
+  },
+  "Kashmiri_Style_Rajma_Gogji_Recipe_-_Kidney_Beans_Turnip_Curry": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 30 minutes",
+    "servings": "4",
+    "cuisine": "Kashmiri",
+    "source": "Archana's Kitchen",
+    "source_url": "https://archanaskitchen.com/recipe/kashmiri-rajma-gogji-recipe"
+  },
+  "Black_Bean_Puree": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/black-bean-puree/"
+  },
+  "Yucatecan_Black_Bean_Dinner": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "6 as a meal",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/yucatecan-black-bean-dinner/"
+  },
+  "Colado_Black_Beans": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/colado-black-beans/"
+  },
+  "Black_Beans_from_the_Pot": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/black-beans-from-the-pot/"
+  },
+  "Spicy_Chicken_Fried_Rice": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17448-spicy-chicken-fried-rice"
+  },
+  "Seared_Shrimp_with_Tomato_Lime_and_Avocado": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Mexican",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/7443-seared-shrimp-with-tomato-lime-and-avocado"
+  },
+  "Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17020-grilled-chicken-and-cherry-tomatoes-with-garlic-bread"
+  },
+  "Glazed_Pork_Chops_with_Sesame_Mirin_and_Ginger": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Japanese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/2901-glazed-pork-chops-with-asian-flavors"
+  },
+  "Roast_Pork_Loin_with_40_Cloves_of_Garlic": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "French",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12499-roast-pork-loin-with-40-cloves-of-garlic"
+  },
+  "Spinach_with_Pancetta_White_Beans_and_Balsamic_Vinegar": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 6 to 8",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/512-spinach-with-pancetta-white-beans-and-balsamic-vinegar"
+  },
+  "White_Beans_with_Tomatoes_and_Capers": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12509-white-beans-with-tomatoes-and-capers"
+  },
+  "Baked_Burritos_with_Pinto_Beans_and_Swiss_Chard": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 6",
+    "cuisine": "Mexican",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11705-baked-burritos-with-pinto-beans-and-swiss-chard"
+  },
+  "Rillons": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 6 to 8",
+    "cuisine": "French",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16098-rillons"
+  },
+  "Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 6",
+    "cuisine": "Armenian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14136-madzoon-ov-kofte-armenian-yogurt-and-meatball-soup"
+  },
+  "Cider-Brined_Pork_Chops_with_Apples_and_Onions": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16616-cider-brined-pork-chops-with-apples-and-onions"
+  },
+  "Squash-Filled_Pasta": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 6",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12632-squash-filled-pasta"
+  },
+  "Creamy_Broccoli_Pasta_with_Crispy_Panko": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 6",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16575-creamy-broccoli-pasta-with-crispy-panko"
+  },
+  "Goan_Pork_Vindaloo": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 8",
+    "cuisine": "Indian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12579-goan-pork-vindaloo"
+  },
+  "Chicken_Stroganoff": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14166-chicken-stroganoff"
+  },
+  "Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/9286-cumin-crusted-chicken-thighs-with-cauliflower-couscous"
+  },
+  "Pasta_with_Sautéed_Mushrooms_and_Thyme": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "4 as a main course, 6 to 8 as a side dish",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/1672-pasta-with-sauteed-mushrooms-and-thyme"
+  },
+  "Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 6 to 8",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16493-gua-bao-with-braised-pork-belly-seasoned-daikon-and-hoisin-soy-sauce"
+  },
+  "Air-Fryer_Chicken_Nuggets": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4 (makes 36 nuggets)",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11345-air-fryer-chicken-nuggets"
+  },
+  "Air-Fryer_Crispy_Breaded_Boneless_Pork_Chops": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 2",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12441-air-fryer-crispy-breaded-boneless-pork-chops"
+  },
+  "Tallarines_Verdes_Peruvian_Green_Noodles": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Peruvian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17046-tallarines-verdes-peruvian-green-noodles"
+  },
+  "Karaage_Japanese_Fried_Chicken_Thighs": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Japanese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11892-japanese-fried-chicken-thighs-karaage"
+  },
+  "Pasta_e_Piselli_Pasta_and_Peas": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/13877-pasta-e-piselli-pasta-and-peas"
+  },
+  "Smothered_Boneless_Pork_Ribs": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/7605-smothered-boneless-pork-ribs"
+  },
+  "Southern-Style_Smothered_Pork_Chops": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/9126-southern-style-smothered-pork-chops"
+  },
+  "Beef_and_Broccoli_Stir-Fry": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/10573-beef-and-broccoli-stir-fry"
+  },
+  "Couscous_Risotto_with_Chicken_and_Spinach": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/10543-couscous-risotto-with-chicken-and-spinach"
+  },
+  "Chewy_Peanut_Butter_Cookies": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Makes 24 Cookies",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11538-chewy-peanut-butter-cookies"
+  },
+  "Simple_Stovetop_Macaroni_and_Cheese": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/9474-simple-stovetop-macaroni-and-cheese"
+  },
+  "Rigatoni_with_Marinated_Tomatoes_and_Burrata": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14935-rigatoni-with-marinated-tomatoes-and-burrata"
+  },
+  "Pa_Amb_Tomàquet_Catalan_Tomato_Bread": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14134-pa-amb-tomaquet-catalan-tomato-bread"
+  },
+  "Simple_Chicken_Tikka_Masala": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Indian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/8100-simple-chicken-tikka-masala"
+  },
+  "Baked_Pork_Chops_with_Parmesan-Sage_Crust": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/4632-baked-pork-chops-with-parmesan-sage-crust"
+  },
+  "Sous_Vide_Oatmeal": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11186-sous-vide-oatmeal"
+  },
+  "Kimchi_sundubu-jjigae_김치순두부찌개_Spicy_soft_tofu_stew_with_kimchi": {
+    "health": "Moderate",
+    "time": "43 minutes",
+    "servings": "Serves 1 or 2",
+    "cuisine": "Korean",
+    "source": "Maangchi",
+    "source_url": "https://www.maangchi.com/recipe/sundubu-jjigae"
+  },
+  "Haemul_sundubu-jjigae_Spicy_soft_tofu_stew_with_seafood": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "2 servings",
+    "cuisine": "Korean",
+    "source": "Maangchi",
+    "source_url": "https://www.maangchi.com/recipe/haemul-sundubu-jjigae"
+  },
+  "Lamb_Shoulder_Chops_with_Red_Wine": {
+    "health": "Indulgent",
+    "time": "7 hours 30 minutes",
+    "servings": "['4', '4 servings']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/"
+  },
+  "Barley_and_Lamb_Stew": {
+    "health": "Moderate",
+    "time": "1 hour 25 minutes",
+    "servings": "['4', '4 to 6 servings']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/barley-and-lamb-stew/"
+  },
+  "Chuanr_Grilled_Lamb_Skewers": {
+    "health": "Indulgent",
+    "time": "2 hours",
+    "servings": "['4', '4 servings']",
+    "cuisine": "",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/chuanr-grilled-lamb-skewers/"
+  },
+  "Red_Pozole_with_Traditional_Garnishes": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/red-pozole-with-traditional-garnishes/"
+  },
+  "Red_Pozole": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "8 quarts, serving 12",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/red-pozole/"
+  },
+  "Slow-Cooker_Red_Chile_Pozole": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "4 quarts, serving 6 to 8",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/slow-cooker-red-chile-pozole/"
+  },
+  "Quick_Pozole": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/quick-pozole/"
+  },
+  "Nihari_Recipe": {
+    "health": "Heart-Healthy",
+    "time": "2 hours 50 minutes",
+    "servings": "['4']",
+    "cuisine": "Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/nihari/"
+  },
+  "Nihari_Gosht_Recipe": {
+    "health": "Indulgent",
+    "time": "55 minutes",
+    "servings": "3",
+    "cuisine": "Awadhi",
+    "source": "Archana's Kitchen",
+    "source_url": "https://archanaskitchen.com/recipe/nihari-gosht-recipe"
+  },
+  "Awadhi_Khaas_Nihari_Recipe": {
+    "health": "Indulgent",
+    "time": "2 hours 15 minutes",
+    "servings": "4",
+    "cuisine": "Awadhi",
+    "source": "Archana's Kitchen",
+    "source_url": "https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe"
   }
 }
