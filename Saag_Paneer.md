@@ -52,7 +52,7 @@
 ## Notes
 
 - Kids: pull out paneer pieces before adding the tempering — mild and fine without it.
-- Mustard greens add a pleasant bitterness. Baby kale is the easiest substitute.
+- Mustard greens add a pleasant bitterness. Baby kale is the easiest substitute. **Measure torn leaves to exactly 4 cups** — too much makes it bitter and overpowers the dish.
 - Hing (asafoetida) is optional — adds faint savory depth but the dish works without it.
 - Kashmiri chili gives deep red color with mild heat — substitute regular chili flakes if unavailable.
 

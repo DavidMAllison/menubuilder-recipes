@@ -34,3 +34,9 @@
 4. Meanwhile, heat oil in large Dutch oven over medium-high heat until just smoking. Using rubber spatula, stir in flour and cook, stirring constantly, until mixture is color of peanut butter, 2 to 5 minutes. Reduce heat to medium and continue to cook, stirring constantly, until roux has darkened to color of milk chocolate, 5 to 10 minutes longer.
 5. Stir in onion, bell pepper, celery, and bacon and cook until vegetables are softened, 7 to 10 minutes. Stir in scallion whites, garlic, and Creole seasoning and cook until fragrant, about 1 minute. Whisk in broth and Worcestershire until thoroughly combined. Bring to boil over medium-high heat.
 6. Add meatballs to stew; reduce heat to low; and cook, covered, until flavors have melded, about 20 minutes. Uncover; increase heat to medium-high; and cook until thickened to texture of heavy cream, 8 to 12 minutes. Serve over rice, sprinkled with scallion greens.
+
+## Notes
+
+- Use 1 lb of meat total — the recipe works well at that quantity.
+- Sauce may not thicken much even after the full 8–12 minutes uncovered; this is a known issue in online comments too. Still tastes great. Don't reduce so long that it dries out.
+- Kids liked the meatballs. Good weeknight timing.
