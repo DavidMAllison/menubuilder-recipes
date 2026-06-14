@@ -1822,5 +1822,21 @@
     "cuisine": "Awadhi",
     "source": "Archana's Kitchen",
     "source_url": "https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe"
+  },
+  "Steak_and_Potato_Salad_with_Grilled_Lemon_Dressing": {
+    "health": "Moderate",
+    "time": "60 minutes",
+    "servings": "4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16421-steak-and-potato-salad-with-gr"
+  },
+  "Slow-Roasted_Salmon_with_Chives_and_Lemon": {
+    "health": "Heart-Healthy",
+    "time": "90 minutes",
+    "servings": "4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11915-slow-roasted-salmon-with-chive"
   }
 }
