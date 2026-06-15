@@ -1838,5 +1838,13 @@
     "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/11915-slow-roasted-salmon-with-chive"
+  },
+  "Chicken_Fricassee_(Poulet_à_la_Fricassée)_with_Onion_and_Mushroom_Garnish": {
+    "health": "Moderate",
+    "time": "Approximately 1 hour",
+    "servings": "",
+    "cuisine": "French",
+    "source": "user submission",
+    "source_url": ""
   }
 }
