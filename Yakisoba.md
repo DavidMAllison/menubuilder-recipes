@@ -48,6 +48,7 @@
 - Use the largest pan you have -- overcrowding kills the char
 - Cook vegetables in stages so each holds its texture
 - Serve immediately; noodles soften as they sit
+- Pork belly must be thin slices (~1/4 inch) — NOT 1-inch pieces. Sear on high heat until edges brown, then push aside before adding vegetables.
 - **Pork sub:** pork shoulder or loin works fine; slice thin against the grain (~1/4 inch)
 - **Kids:** pull plain noodles and pork before saucing for milder version
 - Leftovers keep 3-4 days refrigerated; reheat in pan with a splash of water

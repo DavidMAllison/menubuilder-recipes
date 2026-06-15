@@ -36,3 +36,4 @@
 - Kids: Omit Sriracha from dipping sauce (plain hoisin is sweet and mild). Kids can eat filling over rice instead of in lettuce.
 - Serve mushrooms on the side rather than mixed in for kids who prefer it.
 - Can substitute chopped celery for water chestnuts if unavailable.
+- Works best as part of a spread (wontons, soup dumplings, edamame) rather than as a standalone meal.

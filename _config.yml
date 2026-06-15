@@ -1,2 +1,4 @@
 title: Family Recipes
 permalink: /:basename
+url: https://davidmallison.github.io
+baseurl: /menubuilder-recipes

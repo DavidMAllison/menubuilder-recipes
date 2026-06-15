@@ -39,5 +39,6 @@ You need a flat surface to smash against. On the grill, place a cast iron griddl
 
 - Smashing is a one-time move — do it the moment the beef hits the surface, before it starts to cook.
 - The double-patty stack with one slice of cheese is the classic form. For single patties, use 3–4 oz per patty.
+- Same technique works for lamb burgers — lamb renders more fat so watch for flare-ups. Use the cast iron sear tray on the Weber rather than the grill grates directly.
 
 *Adapted from [J. Kenji López-Alt, Serious Eats](https://www.seriouseats.com/smash-burgers)*

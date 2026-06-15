@@ -35,6 +35,6 @@
 ## Notes
 
 - Work the marinade under the skin — it won't penetrate through it.
-- Use Diamond Crystal kosher salt; table salt will be too salty at this quantity.
+- Use Diamond Crystal kosher salt; table salt will be too salty at this quantity. Salt is already reduced from the original ATK recipe — the original quantity was too salty.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*

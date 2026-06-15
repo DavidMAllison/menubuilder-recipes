@@ -4,6 +4,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title | default: page.name | default: site.title }}</title>
+{% assign page_key_og = page.name | remove: ".md" %}
+{% assign meta_og = site.data.recipes[page_key_og] %}
+{% assign og_title = page.title | default: page_key_og | replace: "_", " " %}
+{% assign og_desc = "" %}
+{% if meta_og.time != "" %}{% assign og_desc = meta_og.time %}{% endif %}
+{% if meta_og.health != "" %}{% if og_desc != "" %}{% assign og_desc = og_desc | append: " · " %}{% endif %}{% assign og_desc = og_desc | append: meta_og.health %}{% endif %}
+{% if meta_og.cuisine != "" %}{% if og_desc != "" %}{% assign og_desc = og_desc | append: " · " %}{% endif %}{% assign og_desc = og_desc | append: meta_og.cuisine %}{% endif %}
+<meta property="og:type"        content="article" />
+<meta property="og:site_name"   content="Family Recipes" />
+<meta property="og:title"       content="{{ og_title }}" />
+<meta property="og:description" content="{{ og_desc }}" />
+<meta property="og:url"         content="{{ site.url }}{{ site.baseurl }}/{{ page_key_og }}" />
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {

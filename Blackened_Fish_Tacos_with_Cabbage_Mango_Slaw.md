@@ -35,7 +35,7 @@
 
 ## Notes
 
-- Halibut works well as a substitute for cod.
+- Stick with cod or tilapia — halibut had an off smell when tried as a substitute.
 - Pull plain cooked fish for kids before adding slaw and crema.
 - Reduce or omit cayenne for kids.
 - Slaw can use more spice — consider increasing cayenne next time.

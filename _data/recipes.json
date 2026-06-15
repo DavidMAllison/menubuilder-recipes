@@ -351,14 +351,6 @@
     "source": "America's Test Kitchen",
     "source_url": ""
   },
-  "Gua_Bao_with_Braised_Pork_Belly": {
-    "health": "Indulgent",
-    "time": "45 minutes",
-    "servings": "4 servings",
-    "cuisine": "Chinese",
-    "source": "America's Test Kitchen",
-    "source_url": ""
-  },
   "Moroccan_Lentil_and_Chickpea_Soup_(Harira)": {
     "health": "Heart-Healthy",
     "time": "1.5 hours",
@@ -695,14 +687,6 @@
     "source": "",
     "source_url": ""
   },
-  "beef_and_broccoli": {
-    "health": "Moderate",
-    "time": "55 minutes",
-    "servings": "",
-    "cuisine": "Chinese",
-    "source": "America's Test Kitchen",
-    "source_url": ""
-  },
   "breakfast_for_dinner_pancakes": {
     "health": "Moderate",
     "time": "30 minutes",
@@ -831,14 +815,6 @@
     "source": "Skinnytaste",
     "source_url": "https://www.skinnytaste.com/blackened-fish-tacos-with-cabbage-mango/"
   },
-  "Vietnamese_Lemongrass_Chicken_Bowl": {
-    "health": "Heart-Healthy",
-    "time": "45 minutes",
-    "servings": "4",
-    "cuisine": "Vietnamese",
-    "source": "Original",
-    "source_url": ""
-  },
   "Cantonese_Steamed_Fish": {
     "health": "",
     "time": "",
@@ -855,7 +831,7 @@
     "source": "Kenji Lopez-Alt (NYT Cooking)",
     "source_url": ""
   },
-  "Vietnamese_Lemongrass_Chicken_Bowl_Bun_Ga_Nuong": {
+  "Vietnamese_Lemongrass_Chicken_Bowl": {
     "health": "Heart-Healthy",
     "time": "",
     "servings": "",
@@ -1657,7 +1633,7 @@
   },
   "Beef_and_Broccoli_Stir-Fry": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "55 minutes",
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",

@@ -30,3 +30,6 @@
 
 ## Notes
 
+- Freeze meat 20-30 min before slicing for thinner, more even cuts.
+- Don't marinate longer than 30 min or texture becomes mushy.
+
