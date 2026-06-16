@@ -13,7 +13,7 @@
     "servings": "4 servings",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17104-black-bean-mole-burgers"
   },
   "Chana_Makhani_(Indian_Butter_Chickpeas)": {
     "health": "Indulgent",
@@ -21,7 +21,7 @@
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/15622-chana-makhani-indian-butter-chickpeas"
   },
   "Corn_Masa_Dumplings": {
     "health": "Moderate",
@@ -37,7 +37,7 @@
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17071-cumin-cardamom-spiced-chicken-with-parsley-and-onion-salad"
   },
   "Creamy_Orzo_with_Italian_Sausage": {
     "health": "Moderate",
@@ -53,7 +53,7 @@
     "servings": "4 servings",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/8097-hoisin-glazed-pork-tenderloin"
   },
   "Hot_Sesame_Noodles_with_Pork": {
     "health": "Indulgent",
@@ -61,7 +61,7 @@
     "servings": "4 to 6 servings",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/11595-hot-sesame-noodles-with-pork"
   },
   "Linguine_with_Broccolini_Pancetta_and_Parmesan": {
     "health": "Indulgent",
@@ -69,7 +69,7 @@
     "servings": "4 to 6 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/14628-linguine-with-broccolini-pancetta-and-parmesan"
   },
   "Mexican_Pulled_Pork_(Carnitas)": {
     "health": "Indulgent",
@@ -93,7 +93,7 @@
     "servings": "4 to 6 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/16489-pasta-alla-vodka"
   },
   "Pickle-Brined_Fried_Chicken_Sandwiches": {
     "health": "Indulgent",
@@ -117,7 +117,7 @@
     "servings": "6 to 8 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/12763-seattle-chicken-teriyaki"
   },
   "Slow-Cooker_Red_Wine-Braised_Short_Ribs": {
     "health": "Indulgent",
@@ -133,7 +133,7 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17185-super-savory-mushroom-bacon-spaghetti"
   },
   "Tonkatsu_(Japanese_Fried_Pork_Chops)": {
     "health": "Indulgent",
@@ -221,7 +221,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/11934-lamb-ragu-with-pappardelle"
   },
   "Light_Sautéed_Chicken_Breasts_with_a_White_Wine_and_Herb_Pan_Sauce": {
     "health": "Moderate",
@@ -229,7 +229,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/5337-light-sauteed-chicken-breasts-with-a-white-wine-and-herb-pan-sauce"
   },
   "Pasta_with_Sausage_Ragu": {
     "health": "Indulgent",
@@ -245,7 +245,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17149-creamy-orzo-with-hot-italian-sausage-broccoli-rabe-and-tomatoes"
   },
   "Couscous_Stuffed_Chicken_Thighs_with_Roasted_Cherry_Tomatoes_and_Shallots": {
     "health": "Moderate",
@@ -253,7 +253,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17117-couscous-stuffed-chicken-thighs-with-roasted-cherry-tomatoes-and-shallots"
   },
   "Slow-Cooker_Lemon_Chicken": {
     "health": "Heart-Healthy",
@@ -261,7 +261,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/11886-slow-cooker-lemon-chicken"
   },
   "Spaghetti_with_Lemon_and_Olive_Oil_(al_Limone)": {
     "health": "Indulgent",
@@ -269,7 +269,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/6333-spaghetti-with-lemon-and-olive-oil-al-limone"
   },
   "Turmeric_Rice_and_Chicken_Salad_with_Herbs": {
     "health": "Heart-Healthy",
@@ -285,7 +285,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/16984-chicken-breasts-with-creamy-sun-dried-tomato-and-dill-pan-sauce"
   },
   "Tuscan-Style_Roast_Pork_with_Garlic_and_Rosemary_(Arista)": {
     "health": "Indulgent",
@@ -301,7 +301,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/16409-pesto-pantesco-with-spaghetti"
   },
   "Chicken_Bolognese": {
     "health": "Moderate",
@@ -309,15 +309,15 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17413-chicken-bolognese"
   },
   "Spiced_Chickpeas_Gyros_with_Tahini_Yogurt": {
     "health": "Heart-Healthy",
     "time": "30 minutes",
     "servings": "4 servings",
     "cuisine": "Mediterranean",
-    "source": "Americas Test Kitchen",
-    "source_url": ""
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12942-spiced-chickpeas-gyros-with-tahini-yogurt"
   },
   "Lemony_Mediterranean_Chicken_and_Rice": {
     "health": "Heart-Healthy",
@@ -325,7 +325,7 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/6883-lemony-mediterranean-chicken-and-rice"
   },
   "Mediterranean_Grilled_Chicken_with_Tomato-Feta_Salad": {
     "health": "Heart-Healthy",
@@ -333,7 +333,7 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/6586-mediterranean-grilled-chicken-with-tomato-feta-salad"
   },
   "Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette": {
     "health": "Heart-Healthy",
@@ -389,7 +389,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/4693-tuscan-garlic-chicken-pasta"
   },
   "Rigatoni_with_Quick_Mushroom_Bolognese": {
     "health": "Moderate",
@@ -397,7 +397,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/12518-rigatoni-with-quick-mushroom-bolognese"
   },
   "Sheet-Pan_Jerk_Chicken_with_Sweet_Potatoes_and_Crispy_Collard_Greens": {
     "health": "Heart-Healthy",
@@ -405,7 +405,7 @@
     "servings": "4 servings",
     "cuisine": "Caribbean",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17452-sheet-pan-jerk-chicken-with-sweet-potatoes-and-crispy-collard-greens"
   },
   "Sheet-Pan_Herbed_Chicken_Wings_with_Potatoes_and_Green_Beans": {
     "health": "Moderate",
@@ -413,7 +413,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17092-sheet-pan-herbed-chicken-wings-with-potatoes-and-green-beans"
   },
   "Double-Glazed_Salmon_with_Maple_and_Liquid_Smoke": {
     "health": "Moderate",
@@ -421,7 +421,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/15032-double-glazed-salmon-with-maple-and-liquid-smoke"
   },
   "Korean-Style_Spicy_Pork": {
     "health": "Moderate",
@@ -433,7 +433,7 @@
   },
   "Spice-Crusted_Pork_Tenderloin_Bites": {
     "health": "Moderate",
-    "time": "20 minutes",
+    "time": "1 hour 15 minutes",
     "servings": "4 servings",
     "cuisine": "Spanish",
     "source": "America's Test Kitchen",
@@ -469,7 +469,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17323-pork-tenderloin-medallions-with-lemon-parsley-pan-sauce"
   },
   "Asian_Chicken_Lettuce_Wraps": {
     "health": "Heart-Healthy",
@@ -557,7 +557,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/16182-braised-chicken-and-mushrooms-over-polenta"
   },
   "Lime-Rubbed_Chicken_Tacos_with_Corn_Guacamole": {
     "health": "Heart-Healthy",
@@ -605,7 +605,7 @@
     "servings": "2 servings (double for family of 4)",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/14288-coq-au-vin-for-two"
   },
   "Creamy_Mushroom_Orzotto": {
     "health": "Moderate",
@@ -613,7 +613,7 @@
     "servings": "4 to 6 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17339-creamy-mushroom-orzotto"
   },
   "Mediterranean_Cucumber-Tomato_Salad": {
     "health": "Heart-Healthy",
@@ -1101,7 +1101,7 @@
     "servings": "",
     "cuisine": "Asian",
     "source": "America's Test Kitchen",
-    "source_url": ""
+    "source_url": "https://www.americastestkitchen.com/recipes/17079-spicy-peanut-noodles-with-shrimp-and-snow-peas"
   },
   "Yakisoba": {
     "health": "Moderate",
@@ -1307,7 +1307,7 @@
     "health": "Moderate",
     "time": "",
     "servings": "['4', '4 people']",
-    "cuisine": "",
+    "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
     "source_url": "https://www.vietworldkitchen.com/blog/2019/03/red-boat-pork-belly-in-caramel-sauce-thit-kho-recipe.html"
   },
@@ -1331,7 +1331,7 @@
     "health": "Heart-Healthy",
     "time": "20 minutes",
     "servings": "['2', '2 servings']",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/"
   },
@@ -1339,7 +1339,7 @@
     "health": "Heart-Healthy",
     "time": "1 hour 10 minutes",
     "servings": "['6', '6 to 8 servings']",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/broiled-salmon-with-abs-spice-pomade/"
   },
@@ -1347,7 +1347,7 @@
     "health": "Moderate",
     "time": "",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "Chetna Makan",
     "source_url": "https://chetnamakan.co.uk/salmon-and-dill-blini/"
   },
@@ -1355,7 +1355,7 @@
     "health": "Moderate",
     "time": "50 minutes",
     "servings": "['4', '4 servings']",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/altons-kale-quinoa-bowl-with-salmon/"
   },
@@ -1363,7 +1363,7 @@
     "health": "Heart-Healthy",
     "time": "30 hours",
     "servings": "['2', '2 pounds']",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/hot-smoked-salmon-2/"
   },
@@ -1723,7 +1723,7 @@
     "health": "Indulgent",
     "time": "7 hours 30 minutes",
     "servings": "['4', '4 servings']",
-    "cuisine": "",
+    "cuisine": "French",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/"
   },
@@ -1731,7 +1731,7 @@
     "health": "Moderate",
     "time": "1 hour 25 minutes",
     "servings": "['4', '4 to 6 servings']",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/barley-and-lamb-stew/"
   },
@@ -1739,7 +1739,7 @@
     "health": "Indulgent",
     "time": "2 hours",
     "servings": "['4', '4 servings']",
-    "cuisine": "",
+    "cuisine": "Chinese",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/chuanr-grilled-lamb-skewers/"
   },
