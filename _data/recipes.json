@@ -39,14 +39,6 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/17071-cumin-cardamom-spiced-chicken-with-parsley-and-onion-salad"
   },
-  "Creamy_Orzo_with_Italian_Sausage": {
-    "health": "Moderate",
-    "time": "50 minutes",
-    "servings": "4 to 6 servings",
-    "cuisine": "Italian",
-    "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Creamy_Orzo_with_Italian_Sausage"
-  },
   "Hoisin-Glazed_Pork_Tenderloin": {
     "health": "Moderate",
     "time": "30 minutes",
@@ -143,14 +135,6 @@
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tonkatsu_(Japanese_Fried_Pork_Chops)"
   },
-  "Greek-Style_Garlic-Lemon_Chicken": {
-    "health": "Heart-Healthy",
-    "time": "45 minutes",
-    "servings": "4 servings",
-    "cuisine": "Greek",
-    "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Greek-Style_Garlic-Lemon_Chicken"
-  },
   "Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce": {
     "health": "Heart-Healthy",
     "time": "30 minutes",
@@ -198,14 +182,6 @@
     "cuisine": "Mexican",
     "source": "Enrique Olvera - Tu Casa Mi Casa",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Tinga"
-  },
-  "Oven-Roasted_Salmon": {
-    "health": "Heart-Healthy",
-    "time": "30 minutes",
-    "servings": "4 servings",
-    "cuisine": "American",
-    "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Oven-Roasted_Salmon"
   },
   "Lamb_Ragu_with_Pappardelle": {
     "health": "Moderate",
@@ -516,7 +492,7 @@
     "time": "2 hours",
     "servings": "4-6 servings",
     "cuisine": "Thai",
-    "source": "America's Test Kitchen",
+    "source": "Hot Thai Kitchen",
     "source_url": "https://hot-thai-kitchen.com/hainanese-chicken-rice/"
   },
   "Braised_Chicken_and_Mushrooms_over_Polenta": {
@@ -868,7 +844,7 @@
     "time": "2 hours",
     "servings": "6 to 8 servings",
     "cuisine": "Mexican",
-    "source": "Pati Jinich - https://patijinich.com/lamb-barbacoa-mixiote/",
+    "source": "Pati Jinich",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lamb_Barbacoa_Mixiote"
   },
   "Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples": {
