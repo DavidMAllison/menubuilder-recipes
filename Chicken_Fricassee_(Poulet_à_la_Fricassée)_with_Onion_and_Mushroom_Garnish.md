@@ -28,3 +28,5 @@
 8. Set casserole over moderate heat and bring to the simmer. Cover and simmer very slowly for 5 minutes, or until the chicken is hot through, basting it frequently with the sauce.
 9. Off heat and just before serving, tilt casserole, add enrichment butter, and baste the chicken with the sauce until the butter has absorbed into it.
 10. Serve the chicken from the casserole, or arrange it with the onions and mushrooms on a hot platter, surrounded with rice or noodles, and covered with the sauce. Decorate with sprigs of fresh parsley.
+
+*Adapted from Julia Child, Mastering the Art of French Cooking*
