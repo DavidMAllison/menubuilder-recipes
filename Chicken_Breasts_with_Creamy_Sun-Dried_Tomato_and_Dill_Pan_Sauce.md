@@ -1,5 +1,7 @@
 # Chicken Breasts with Creamy Sun-Dried Tomato and Dill Pan Sauce
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16984-chicken-breasts-with-creamy-sun-dried-tomato-and-dill-pan-sauce)  
+
 ## Ingredients
 
 - 4 (6- to 8-ounce) boneless, skinless chicken breasts, trimmed

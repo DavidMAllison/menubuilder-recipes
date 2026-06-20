@@ -31,3 +31,5 @@
 - Great as a taco filling, but also works for tamales, enchiladas, and burritos.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4232-mexican-pulled-pork-carnitas)*

@@ -40,3 +40,5 @@
 6. Spread mayo on bun bottoms. Add chicken, pickle sauce, and lettuce. Serve.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15412-pickle-brined-fried-chicken-sandwiches)*

@@ -32,3 +32,5 @@
 
 - Kids: serve plain grilled chicken and corn, skip the dressing (jalapeño). Fritos are a hit.
 - Jalapeño heat is mild once seeded — reduce or omit entirely for more heat-sensitive adults.
+
+*Adapted from [Smitten Kitchen](https://smittenkitchen.com/2025/08/grilled-chicken-salad-with-cilantro-lime-dressing/)*

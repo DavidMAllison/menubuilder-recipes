@@ -31,3 +31,5 @@
 - Try adding up to 2 teaspoons of paprika, coriander, or ground fennel to the mushrooms for extra depth.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17450-roasted-mushrooms-and-escarole-with-couscous-and-lemon-vinaigrette)*

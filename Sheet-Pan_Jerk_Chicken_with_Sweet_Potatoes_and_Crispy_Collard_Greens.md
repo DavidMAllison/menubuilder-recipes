@@ -1,5 +1,7 @@
 # Sheet-Pan Jerk Chicken with Sweet Potatoes and Crispy Collard Greens
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17452-sheet-pan-jerk-chicken-with-sweet-potatoes-and-crispy-collard-greens)  
+
 ## Ingredients
 
 - 1½ pounds sweet potatoes, unpeeled, sliced into ½-inch- thick rounds

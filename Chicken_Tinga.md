@@ -31,3 +31,5 @@
 - Serve as a soupy stew over white rice or with tortillas, or cook down further and use as a tostada topping with shredded lettuce, crema, cheese, and fresh salsa.
 
 *Adapted from [Tu Casa Mi Casa by Enrique Olvera](https://www.penguinrandomhouse.com/books/576041/tu-casa-mi-casa-by-enrique-olvera/) (p. 122)*
+
+*Adapted from [Food52](https://food52.com/recipes/80894-tinga-de-pollo)*

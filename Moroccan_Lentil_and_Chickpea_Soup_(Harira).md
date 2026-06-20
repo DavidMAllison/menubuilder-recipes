@@ -41,3 +41,5 @@
 - Garnish with a spoonful of harissa for heat.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10605-moroccan-lentil-and-chickpea-soup-harira)*

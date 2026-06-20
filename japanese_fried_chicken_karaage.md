@@ -19,3 +19,5 @@
 2. Lift chicken from marinade one piece at a time, allowing excess to drip back but leaving any garlic or ginger bits on chicken. Coat chicken with cornstarch, shake off excess, and place on parchment-lined sheet.
 3. Heat oil in a large Dutch oven over medium-high heat to 325°F. Check chicken for white patches of dry cornstarch; dip the back of a spoon in reserved marinade and gently press onto dry spots to lightly moisten.
 4. Using tongs, add half of chicken one piece at a time to oil in a single layer. Cook, adjusting burner to maintain 300-325°F, until golden brown and crispy, 4 to 5 minutes. Transfer to paper towel-lined rack. Return oil to 325°F and repeat with remaining chicken. Serve with lemon wedges.
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11892-japanese-fried-chicken-thighs-karaage)*

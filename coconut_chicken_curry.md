@@ -36,3 +36,8 @@
 7. Simmer: chicken is cooked through and sauce has thickened to your desired consistency.
 8. Add Greens (Optional): of cooking until wilted.
 9. Adjust Seasoning: Taste and adjust seasoning with salt, pepper, or more curry powder as needed. If too thick, add more broth. If too thin, simmer longer. 10. Serve: Garnish with fresh cilantro and serve hot over steamed rice or with naan bread. Provide lime wedges on the side. Tips - Use full-fat coconut milk for the richest, creamiest curry - Chicken thighs stay more tender than breasts in long cooking - Toast spices until fragrant for maximum flavor - Adjust spice level with more or less curry powder and cayenne - This curry tastes even better the next day after flavors meld - Can substitute shrimp, tofu, or chickpeas for chicken Serving Suggestions Serve over steamed basmati or jasmine rice. Also excellent with warm naan bread, rice noodles, or cauliflower rice for low-carb. Pair with cucumber raita or mango chutney on the side.
+
+## Notes
+
+- Family hit — kids ate the chicken. Good rotation candidate.
+- Use full-fat coconut milk for the richest, creamiest sauce.

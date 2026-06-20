@@ -43,3 +43,5 @@
 - Serve with steamed jasmine rice.
 
 *Adapted from [The Woks of Life](https://thewoksoflife.com/)*
+
+*Adapted from [The Woks of Life](https://thewoksoflife.com/thai-chicken-stir-fry-with-basil-mint/)*

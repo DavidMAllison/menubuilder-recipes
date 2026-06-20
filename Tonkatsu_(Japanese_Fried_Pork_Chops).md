@@ -29,3 +29,5 @@
 - Pork chops must be exactly ¾ inch thick for timing to work.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16391-tonkatsu-japanese-fried-pork-chops)*

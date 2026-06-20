@@ -1,5 +1,7 @@
 # Slow-Cooker Lemon Chicken
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11886-slow-cooker-lemon-chicken)  
+
 ## Ingredients
 
 - 8 (5- to 7-ounce) bone-in chicken thighs, skin removed, trimmed

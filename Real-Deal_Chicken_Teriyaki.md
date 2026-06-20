@@ -27,3 +27,5 @@
 - Use inexpensive sake — small cans work fine.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14218-real-deal-chicken-teriyaki)*

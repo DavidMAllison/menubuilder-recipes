@@ -28,3 +28,5 @@
 - For a non-alcoholic version, substitute chicken broth for the wine.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15903-roasted-chicken-thighs-with-potatoes-and-green-beans)*

@@ -2,6 +2,8 @@
 
 **Source**: America's Test Kitchen  
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17079-spicy-peanut-noodles-with-shrimp-and-snow-peas)  
+
 ## Ingredients
 
 - 8 ounces snow peas

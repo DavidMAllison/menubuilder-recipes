@@ -1,5 +1,7 @@
 # Coq au Vin for Two
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14288-coq-au-vin-for-two)  
+
 ## Ingredients
 
 - 2 (10-ounce) chicken leg quarters, trimmed

@@ -35,3 +35,5 @@
 - English cucumber can sub for Persian cucumbers (use about 6 oz).
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14197-turmeric-rice-and-chicken-salad-with-herbs)*

@@ -1,5 +1,7 @@
 # Super-Savory Mushroom Bacon Spaghetti
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17185-super-savory-mushroom-bacon-spaghetti)  
+
 ## Ingredients
 
 - 12 ounces spaghetti

@@ -1,5 +1,7 @@
 # Cumin Chicken Fingers
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers)  
+
 ## Before You Begin
 
 Sichuan peppercorns provide a unique tingly, numbing sensation that's important here; find them in the spice aisle at Asian markets or online. Garnish with sliced scallions and cilantro leaves if desired.

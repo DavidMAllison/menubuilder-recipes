@@ -29,3 +29,5 @@
 4. Cook pasta in a large pot of well-salted water until al dente. Reserve 1 cup cooking water, then drain. Return pasta to the pot, add 3 cups sauce and ½ cup reserved pasta water, and toss to combine. Adjust consistency with more pasta water as needed. Drizzle with oil and serve with Parmesan.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9148-pasta-with-sausage-ragu)*

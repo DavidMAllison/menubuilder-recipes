@@ -43,3 +43,5 @@
 - The "butter test" matters more than the number — trust the feel
 - Can rest in a cooler (still wrapped) for up to 2 hours if timing needs to flex
 - Serve with coleslaw, pickles, and white bread or brioche buns
+
+*Adapted from [Aaron Franklin](https://www.youtube.com/watch?v=xFznDU7Wy-k)*

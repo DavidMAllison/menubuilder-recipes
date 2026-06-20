@@ -37,3 +37,5 @@
 - Sauce can be made up to 4 days ahead and refrigerated; reheat gently before adding the chicken.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11519-indian-butter-chicken-murgh-makhani)*

@@ -28,3 +28,5 @@
 - Kids: Serve plain sliced chicken alongside.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8847-pan-seared-chicken-with-warm-mediterranean-grain-pilaf)*

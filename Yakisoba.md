@@ -54,3 +54,5 @@
 - Leftovers keep 3-4 days refrigerated; reheat in pan with a splash of water
 
 *Adapted from [Just One Cookbook](https://www.justonecookbook.com/yakisoba/) by Namiko Hirasawa Chen*
+
+*Adapted from [Just One Cookbook](https://www.justonecookbook.com/yakisoba-japanese-stir-fried-noodles)*

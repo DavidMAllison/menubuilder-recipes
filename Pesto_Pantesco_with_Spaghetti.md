@@ -1,5 +1,7 @@
 # Pesto Pantesco with Spaghetti
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16409-pesto-pantesco-with-spaghetti)  
+
 ## Ingredients
 
 - 2/3 cup slivered almonds, toasted

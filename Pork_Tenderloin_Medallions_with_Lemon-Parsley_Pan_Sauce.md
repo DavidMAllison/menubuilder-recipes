@@ -1,5 +1,7 @@
 # Pork Tenderloin Medallions with Lemon-Parsley Pan Sauce
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17323-pork-tenderloin-medallions-with-lemon-parsley-pan-sauce)  
+
 ## Ingredients
 
 - 3/4 cup chicken broth

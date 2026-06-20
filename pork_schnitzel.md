@@ -30,3 +30,5 @@
 - Make sure oil is hot before adding schnitzel, or breading will absorb too much oil.
 - Serve immediately for maximum crispiness.
 - Traditional accompaniments: potato salad, cucumber salad, or spaetzle.
+
+*Adapted from [Milk Street](https://www.wskg.org/arts/2022-09-27/milk-street-schnitzel-and-mashed-ep-517)*

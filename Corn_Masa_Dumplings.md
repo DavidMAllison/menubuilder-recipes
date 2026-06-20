@@ -18,3 +18,5 @@
 ## Notes
 
 - These dumplings are cooked directly in sauce or soup, not separately.
+
+*Adapted from [Pati Jinich](https://patijinich.com/corn-masa-dumplings)*

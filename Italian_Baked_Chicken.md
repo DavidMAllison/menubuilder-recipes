@@ -28,3 +28,5 @@
 
 - For kids: Very mild herb seasoning — can pull plain chicken before garnishing.
 - Serve with pasta, rice, or crusty bread and a green salad.
+
+*Adapted from [The Mediterranean Dish](https://www.themediterraneandish.com/easy-italian-baked-chicken-breast-recipe/)*

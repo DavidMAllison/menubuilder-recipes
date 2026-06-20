@@ -1,5 +1,7 @@
 # Pasta alla Vodka
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16489-pasta-alla-vodka)  
+
 ## Ingredients
 
 - 2 tablespoons unsalted butter

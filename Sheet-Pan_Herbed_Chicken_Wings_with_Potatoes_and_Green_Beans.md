@@ -1,5 +1,7 @@
 # Sheet-Pan Herbed Chicken Wings with Potatoes and Green Beans
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17092-sheet-pan-herbed-chicken-wings-with-potatoes-and-green-beans)  
+
 ## Ingredients
 
 - 2 teaspoons garlic powder, divided

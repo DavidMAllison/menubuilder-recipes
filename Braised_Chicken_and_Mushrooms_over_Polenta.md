@@ -1,5 +1,7 @@
 # Braised Chicken and Mushrooms over Polenta
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16182-braised-chicken-and-mushrooms-over-polenta)  
+
 ## Ingredients
 
 - 1.5 lbs boneless, skinless chicken thighs, trimmed

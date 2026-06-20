@@ -35,3 +35,5 @@
 - Marinate 30 min to 2 hrs maximum — lime in the marinade breaks down chicken texture if left longer.
 - Kids: serve plain chicken and noodles separately, skip Nuoc Cham.
 - Family loved this. Good regular rotation candidate.
+
+*Adapted from [RecipeTin Eats](https://www.recipetineats.com/vietnamese-noodles-with-lemongrass-chicken)*

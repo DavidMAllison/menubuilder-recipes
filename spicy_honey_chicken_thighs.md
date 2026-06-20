@@ -24,3 +24,5 @@
 ## Notes
 
 - Pull kids' portions before the honey glaze and reduce red pepper for their pieces if needed.
+
+*Adapted from [Allrecipes](https://www.allrecipes.com/cook/5094882/recipe/1d70764b-7a65-388a-973d-8674a8c1d3ae)*

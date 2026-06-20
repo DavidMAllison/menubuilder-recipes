@@ -1,5 +1,7 @@
 # Couscous Stuffed Chicken Thighs with Roasted Cherry Tomatoes and Shallots
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17117-couscous-stuffed-chicken-thighs-with-roasted-cherry-tomatoes-and-shallots)  
+
 ## Ingredients
 
 - 3/4 teaspoon ground cumin

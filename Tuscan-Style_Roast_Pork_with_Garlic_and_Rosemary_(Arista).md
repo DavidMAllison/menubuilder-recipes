@@ -26,3 +26,5 @@
 8. Once cool enough to handle, squeeze the grilled lemons through a strainer into the remaining oil. Whisk together. Slice the roast ¼ inch thick and serve with the lemon vinaigrette.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8643-tuscan-style-roast-pork-with-garlic-and-rosemary-arista)*

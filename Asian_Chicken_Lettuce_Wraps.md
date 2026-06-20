@@ -37,3 +37,5 @@
 - Serve mushrooms on the side rather than mixed in for kids who prefer it.
 - Can substitute chopped celery for water chestnuts if unavailable.
 - Works best as part of a spread (wontons, soup dumplings, edamame) rather than as a standalone meal.
+
+*Adapted from [Skinnytaste](https://www.skinnytaste.com/asian-chicken-lettuce-wraps/)*

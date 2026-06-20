@@ -28,3 +28,5 @@
 - Pull kids' plain portions before glazing with sauce.
 - Low sodium version: substitute coconut aminos for soy sauce.
 - Serve over rice with steamed vegetables.
+
+*Adapted from [My Korean Kitchen](https://mykoreankitchen.com/chicken-bulgogi)*

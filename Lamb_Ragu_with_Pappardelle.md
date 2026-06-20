@@ -1,5 +1,7 @@
 # Lamb Ragu with Pappardelle
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11934-lamb-ragu-with-pappardelle)  
+
 ## Ingredients
 
 - 1 lb ground lamb

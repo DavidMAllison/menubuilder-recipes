@@ -19,3 +19,5 @@
 3. Pour in balsamic vinegar and chicken broth. Bring to a boil, then reduce heat to medium and simmer until pork is no longer pink in the center, 3-4 minutes.
 4. Remove pork to a serving platter. Stir lemon zest and capers into the simmering sauce. Continue simmering until sauce thickens to desired consistency.
 5. Spoon sauce over pork and serve.
+
+*Adapted from [Allrecipes](https://www.allrecipes.com/recipe/169749/pork-medallions-with-balsamic-vinegar-and-capers/)*

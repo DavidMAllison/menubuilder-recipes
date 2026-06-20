@@ -35,3 +35,5 @@
 
 - For kids: Pull plain chicken thighs before adding olives and feta. Skip olives for kids.
 - One-pan meal — minimal cleanup.
+
+*Adapted from [The Mediterranean Dish](https://www.themediterraneandish.com/greek-sheet-pan-chicken/)*

@@ -36,3 +36,5 @@
 - Kids: Build-your-own tacos — kids get plain chicken in tortilla, skip guacamole and jalapeno.
 - Marinate overnight for best flavor. Jalapeno is only in the guacamole, not on the chicken.
 - Note on marinating: Lime juice can break down chicken if left too long — 30 min to 2 hrs is optimal, 12 hrs maximum.
+
+*Adapted from [Pati Jinich](https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/)*

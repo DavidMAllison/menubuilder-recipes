@@ -42,3 +42,5 @@
 - Double-frying creates superior crispness that holds after glazing.
 - Maintain oil at 350°F between batches.
 - Toss with glaze while chicken is hot.
+
+*Adapted from [Milk Street](https://www.wttw.com/playlist/2024/07/02/korean-fried-chicken-milk-street)*

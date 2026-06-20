@@ -45,3 +45,5 @@
 - Lime in marinade breaks down chicken if left too long -- 30 min to 1 hr is ideal, max 2 hrs.
 - Kids get plain chicken. Skip Aji Verde for kids (jalapeno).
 - Pairs well with cilantro lime rice and avocado salad or simple cucumber salad.
+
+*Adapted from [Feasting at Home](https://www.feastingathome.com/grilled-peruvian-chicken-with-green-sauce/)*

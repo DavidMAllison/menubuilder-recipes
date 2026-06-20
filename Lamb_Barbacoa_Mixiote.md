@@ -40,3 +40,5 @@
 ## Notes
 
 A shortcut to getting the iconic Mexican roadside stand barbacoa experience at home.
+
+*Adapted from [Pati Jinich](https://patijinich.com/lamb-barbacoa-mixiote/)*

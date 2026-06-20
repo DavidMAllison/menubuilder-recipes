@@ -1,5 +1,7 @@
 # Creamy Mushroom Orzotto
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17339-creamy-mushroom-orzotto)  
+
 ## Ingredients
 
 - 2 ounces dried porcini mushrooms, rinsed

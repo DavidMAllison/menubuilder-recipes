@@ -33,3 +33,5 @@
 6. Push mushrooms to the edges. Add capers to the center and stir until they start to brown and pop, about 1 minute. Deglaze with 1/3 of the wine-broth mixture, scraping up browned bits.
 7. Return chicken to the pan, overlapping as needed. Pour in remaining wine-broth mixture. Lay lemon slices on top, cover with lid, reduce heat to low, and cook until fork-tender, about 5 minutes.
 8. Transfer chicken to a serving platter. Boost heat to high. Using a fine-mesh sieve, sprinkle in remaining 1 tsp flour. Whisk constantly 2 minutes. Add final tbsp butter and whisk until sauce thickens and looks glossy, about 1 more minute. Pour sauce over chicken, top with parsley, and serve.
+
+*Adapted from [Alton Brown](https://altonbrown.com/good-eats-chicken-piccata)*

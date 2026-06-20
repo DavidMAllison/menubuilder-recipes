@@ -33,3 +33,5 @@
 - Don't use overly ripe pears — they'll go mushy in the pan.
 
 *Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
+
+*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15123-pork-tenderloin-and-pears-with-balsamic-onions)*
