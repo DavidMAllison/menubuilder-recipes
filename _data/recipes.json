@@ -1734,5 +1734,13 @@
     "cuisine": "Italian",
     "source": "GialloZafferano",
     "source_url": "https://www.giallozafferano.com/recipes/baked-pasta-shells.html"
+  },
+  "Broccoli_Chicken_Orzo_Bake": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "['4', '4-6']",
+    "cuisine": "American",
+    "source": "Feasting at Home",
+    "source_url": "https://www.feastingathome.com/broccoli-chicken-orzo-bake"
   }
 }
