@@ -5,19 +5,20 @@
 
 ## Ingredients
 
-- 1 clove of garlic (slightly crushed)
-- 1 sprig of fresh rosemary
-- Olive oil (enough to cover the bottom of the pot)
-- 2-3 canned tomatoes (finely chopped)
-- 1 large can (ca. 500g/1 lb. of chickpeas)
-- 200 g 7 oz. ditalini or other small 'soup' pasta
-- 250 ml 1 cup water or broth, or enough to cover
+- 1 clove garlic, slightly crushed
+- 1 sprig fresh rosemary
+- Olive oil (enough to coat the bottom of the pot)
+- 2–3 whole canned tomatoes (e.g., San Marzano), finely chopped
+- 1 can (15.5 oz) chickpeas, drained and rinsed
+- 7 oz ditalini or other small soup pasta
+- 1 cup water or broth, or enough to cover
 - Salt and pepper
-- Optional:
-- 50 g 2 oz. pancetta, cubed
-- 1 peperoncino (or chile de árbol)
-- A small handful of fresh parsley (finely chopped)
-- Grated pecorino or parmesan cheese
+
+**Optional:**
+- 2 oz pancetta, cubed
+- 1 peperoncino or chile de árbol
+- Small handful fresh parsley, finely chopped
+- Grated pecorino or parmesan, for serving
 
 ## Instructions
 
