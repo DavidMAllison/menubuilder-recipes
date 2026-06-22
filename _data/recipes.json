@@ -1742,5 +1742,13 @@
     "cuisine": "American",
     "source": "Feasting at Home",
     "source_url": "https://www.feastingathome.com/broccoli-chicken-orzo-bake"
+  },
+  "Japanese_Chicken_Meatballs": {
+    "health": "Moderate",
+    "time": "15 minutes",
+    "servings": "['6', '6 people']",
+    "cuisine": "Japanese",
+    "source": "Viet World Kitchen",
+    "source_url": "https://www.vietworldkitchen.com/blog/2019/09/japanese-chicken-meatballs-recipe-tsukune.html"
   }
 }
