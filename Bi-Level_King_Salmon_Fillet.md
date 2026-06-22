@@ -1,9 +1,6 @@
 # Bi-Level King Salmon Fillet
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: 20 minutes  
-**Serves**: ['2', '2 servings']  
 **Adapted from**: [Alton Brown](https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/)  
 
 ## Ingredients
@@ -15,6 +12,6 @@
 
 ## Instructions
 
-1. Heat the oven to 475ºF.
-2. Set a 10-inch, oven-safe sauté pan over medium heat for 2 minutes. Brush the fillet with the oil and sprinkle with kosher salt and black pepper. Place the fillet in the pan, flesh side down, and cook for 3 minutes.
-3. Turn the fillet over, place pan in the oven, and cook for 5 minutes. Transfer the fillet to a plate, cover loosely with foil, and let rest for 5 minutes before serving.
+1. Set your oven temperature to 475ºF and allow it to preheat.
+2. Let a 10-inch oven-safe sauté pan heat on medium for 2 minutes. Oil the fillet thoroughly and season it well with kosher salt and black pepper. With the flesh side facing down, sear the fillet in the hot pan for 3 minutes.
+3. Turn the fillet to its other side, transfer the pan to the preheated oven, and bake for 5 minutes. Transfer the fillet onto a serving plate, loosely cover it with foil, and let it rest for 5 minutes prior to serving.

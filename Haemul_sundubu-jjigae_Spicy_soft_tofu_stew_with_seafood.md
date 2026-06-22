@@ -1,7 +1,5 @@
 # Haemul sundubu-jjigae (Spicy soft tofu stew with seafood)
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: 30 minutes  
 **Serves**: 2 servings  
 **Adapted from**: [Maangchi](https://www.maangchi.com/recipe/haemul-sundubu-jjigae)  
@@ -21,5 +19,5 @@
 
 ## Instructions
 
-1. Add the fish sauce (or salt to your taste), half of the hot pepper mixture, and stir a few times.
-2. Cover and cook for 5 to 6 minutes, until the seafood is fully cooked and the broth is infused with its savory flavor.
+1. Incorporate the fish sauce (or salt adjusted to suit your preference), along with half of the prepared hot pepper blend, then mix several times.
+2. Place a lid on the pot and allow everything to simmer for 5 to 6 minutes, until the seafood reaches full doneness and the cooking liquid becomes enriched with its umami essence.

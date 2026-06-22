@@ -1,7 +1,5 @@
 # Salmon and Dill Blini
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Adapted from**: [Chetna Makan](https://chetnamakan.co.uk/salmon-and-dill-blini/)  
 
 ## Ingredients
@@ -22,11 +20,11 @@
 
 ## Instructions
 
-1. Sieve the flour into a large bowl. Add the salt and sugar.
-2. Slowly add the milk while you whisk the ingredients together.
-3. Add 1 tbsp boiling water and the egg. Whisk to combine.
-4. Add 1 tsp butter to a hot pan. Use a piece of kitchen roll to wipe away the excess once it has melted.
-5. Add ½ a ladle of the batter to the pan. Swirl the pan to bring the batter to the edges. Cook for 1 minute on both sides. Transfer to a plate and repeat the process with the remaining batter.
-6. Place all the ingredients for the filling in a bowl and mix well.
-7. Spread a heaped tsp of filling on the centre of a blini and then add a piece of salmon. Fold the blini in half and then half again. Transfer to a serving plate and repeat the process with the remaining ingredients.
-8. Time to tuck in!
+1. Sift the flour directly into a large bowl, then mix in the salt and sugar.
+2. Whisk the milk in gradually, ensuring all components are thoroughly incorporated.
+3. Add the egg and 1 tbsp of boiling water, then whisk until the mixture becomes smooth.
+4. Melt 1 tsp of butter in a heated pan and use kitchen roll to remove any surplus butter.
+5. Ladle ½ ladle of batter into the pan and tilt to distribute it uniformly to the edges. Cook for 1 minute per side and place on a plate. Continue this process with the remaining batter.
+6. Mix all filling ingredients together in a bowl until well combined.
+7. Place a heaping tsp of filling in the middle of each blini, top with a salmon piece, then fold the blini in half twice. Place on a serving plate and repeat with the rest of the ingredients.
+8. Plate and serve.

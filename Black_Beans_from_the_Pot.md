@@ -1,7 +1,5 @@
 # Black Beans from the Pot
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Adapted from**: [Pati Jinich](https://patijinich.com/black-beans-from-the-pot/)  
 
 ## Ingredients
@@ -13,5 +11,6 @@
 
 ## Instructions
 
-1. Place the beans in a big heavy pot and cover with enough water to cover the beans by at least 3-inches, about 12 cups of water. Incorporate the onion and bring to a rolling boil. You may also add cilantro or epazote. Let the beans simmer over medium heat, partially covered, for about 1 hour and 15 minutes, until the beans are soft and then add the salt. Don’t add the salt in the beginning, or it will toughen the beans.
-2. Let them continue simmering for another couple minutes, or until the beans are so soft, they come apart if you hold one between your fingers, and the broth has thickened to a soupy consistency. If the beans are not yet soft and the broth is drying out, add more hot water. Remove the cooked onion and herbs with a slotted spoon before serving.
+1. Place your beans in a large pot with a thick bottom, then cover them with roughly 12 cups of water, ensuring they sit at least 3 inches beneath the surface. Stir in the onion, and optionally include cilantro or epazote if you prefer. Heat the contents until they reach a full boil, then lower the temperature to medium and place a partial lid on top. Let everything cook gently for about 1 hour and 15 minutes, waiting until the beans achieve tenderness. Wait to add salt until after this cooking period concludes, as introducing it earlier will make the beans tough.
+
+2. Continue simmering for several additional minutes until the beans become soft enough to easily break apart when you gently squeeze them between your thumb and finger, and the liquid has thickened into a soupy consistency. If the beans still feel firm while the liquid level has dropped significantly, pour in additional hot water to ensure sufficient liquid remains. Once ready to serve, use a slotted spoon to remove the cooked onion and any herbs from the pot.

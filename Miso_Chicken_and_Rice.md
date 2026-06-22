@@ -1,7 +1,5 @@
 # Miso Chicken and Rice
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: About 45 minutes, with prep  
 **Serves**: Servings:3 to 4  
 **Adapted from**: [Deb Perelman (Smitten Kitchen)](https://smittenkitchen.com/2026/02/miso-chicken-and-rice/)  

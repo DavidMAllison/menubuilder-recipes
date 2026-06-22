@@ -1,7 +1,5 @@
 # Lemon Chicken with Potatoes and Chickpeas
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: 10 minutes prep; 55 to 60 minutes in the oven  
 **Serves**: Servings:4  
 **Adapted from**: [Deb Perelman (Smitten Kitchen)](https://smittenkitchen.com/2024/09/lemon-chicken-with-potatoes-and-chickpeas/)  

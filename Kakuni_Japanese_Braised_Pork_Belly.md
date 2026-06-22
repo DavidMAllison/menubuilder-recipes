@@ -1,9 +1,6 @@
 # Kakuni (Japanese Braised Pork Belly)
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: 4 hours 30 minutes  
-**Serves**: ['4']  
 **Adapted from**: [Just One Cookbook](https://www.justonecookbook.com/braised-pork-belly-kakuni/)  
 
 ## Ingredients
@@ -25,4 +22,4 @@
 
 ## Instructions
 
-1. Gather all the ingredients. I made quick dashi using a dashi packet (it only takes 3 minutes). Leave the eggs in the refrigerator until ready to use.
+1. Assemble your ingredients together. I prepared a rapid dashi by using a dashi packet (requiring just 3 minutes of preparation time). Keep your eggs chilled in the refrigerator until the moment you need them.

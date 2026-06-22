@@ -1,9 +1,6 @@
 # Lamb Shoulder Chops with Red Wine
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: 7 hours 30 minutes  
-**Serves**: ['4', '4 servings']  
 **Adapted from**: [Alton Brown](https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/)  
 
 ## Ingredients
@@ -20,9 +17,14 @@
 
 ## Instructions
 
-1. Put a 10-inch, oven-safe, straight-sided saute pan over medium heat for 5 minutes. In a medium mixing bowl, toss the lamb with the vegetable oil. When the pan is hot, sear the lamb for 1 minute on each side. Remove to a plate and cool for 3 to 4 minutes. Add the meat to a 1-gallon resealable plastic bag, then add 16 ounces of wine and 4 rosemary sprigs. Remove as much air as possible so that the wine is completely surrounding the meat. Put the bag in a container to prevent leaks and refrigerate for 3 hours.
-2. Heat oven to 250ºF.
-3. Transfer the contents of the bag back to the 10-inch straight-sided saute pan and cover. Put the pan on the middle rack of the oven and braise until the meat is tender and falling away from the bone, about 3 1/2 hours.
-4. Remove the meat from the oven to a platter. Discard the rosemary. Cover the meat with aluminum foil to keep warm while finishing the sauce.
-5. Pour the pan juices into a gravy separator and allow it to separate before pouring 2 cups of the liquid back into the pan. Set the pan over medium-low heat and add the dried plums and apricots. Simmer, whisking frequently, until the sauce has reduced and thickened slightly, about 10 minutes. Whisk in the butter 1 piece at a time, adding another piece only after the previous piece has melted. Whisk in the remaining 1 tablespoon of wine and the remaining chopped rosemary, and continue to cook for another minute. Taste and adjust seasoning by adding salt and pepper, as desired.
-6. Pour the sauce over the meat and serve immediately.
+1. Warm a 10-inch oven-safe straight-sided sauté pan on medium heat for 5 minutes. Toss the lamb with vegetable oil in a medium bowl, then add it to the heated pan and sear each side for 1 minute. Move to a plate and allow it to cool for 3 to 4 minutes. Mix the lamb together with 16 ounces of wine and 4 rosemary sprigs inside a 1-gallon resealable bag, squeezing out as much air as you can so the meat stays fully submerged in the wine. Set the bag in a container designed to catch potential leaks and store in the refrigerator for 3 hours.
+
+2. Set your oven temperature to 250ºF and preheat it.
+
+3. Pour the bag's contents back into the 10-inch straight-sided sauté pan, put the lid on, and place it on the middle rack of your oven. Braise for approximately 3 1/2 hours until the meat is tender enough to pull away from the bone.
+
+4. Remove the meat to a platter and discard the rosemary sprigs. Cover loosely with aluminum foil to keep warm while you make the sauce.
+
+5. Pass the pan juices through a gravy separator and allow them to sit undisturbed. Return 2 cups of the strained liquid to the pan and gently heat it over medium-low. Add the dried plums and apricots, keeping the mixture at a low simmer while whisking regularly for approximately 10 minutes until the sauce becomes slightly thicker. Whisk in the butter one piece at a time, ensuring each piece dissolves completely before introducing the next. Complete the sauce by whisking in the last 1 tablespoon of wine and the remaining chopped rosemary, then allow it to cook for 1 more minute. Adjust seasoning with salt and pepper to your preference.
+
+6. Spoon the sauce over the meat and serve immediately.

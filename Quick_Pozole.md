@@ -1,7 +1,5 @@
 # Quick Pozole
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Adapted from**: [Rick Bayless](https://www.rickbayless.com/recipe/quick-pozole/)  
 
 ## Ingredients
@@ -17,4 +15,12 @@
 
 ## Instructions
 
-1. In a medium (4-quart) saucepan over medium-high heat,  combine the hominy (with its canning liquid), the chicken broth  and the enchilada sauce. Bring to a boil.  Stir in the shredded chicken.Simmer about 10 minutes.Ladle into bowls, garnish with cabbage, oregano, radishes and lime.
+1. Set a medium 4-quart saucepan on medium-high heat, then pour in the hominy with its canning liquid, chicken broth, and enchilada sauce.
+
+2. Bring the combined ingredients to a boil.
+
+3. Stir the shredded chicken into the pan until fully mixed.
+
+4. Let the soup cook at a gentle simmer for about 10 minutes.
+
+5. Ladle the soup into bowls and top each one with cabbage, oregano, radishes, and a squeeze of lime.

@@ -1,9 +1,6 @@
 # Chicken Nanban (Fried Chicken with Tartar Sauce)
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Time**: 50 minutes  
-**Serves**: ['2']  
 **Adapted from**: [Just One Cookbook](https://www.justonecookbook.com/chicken-nanban/)  
 
 ## Ingredients

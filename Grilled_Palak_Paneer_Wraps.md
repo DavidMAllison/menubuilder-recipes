@@ -1,7 +1,5 @@
 # Grilled Palak Paneer Wraps
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 **Adapted from**: [Chetna Makan](https://chetnamakan.co.uk/grilled-palak-paneer-wraps)  
 
 ## Ingredients
