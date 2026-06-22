@@ -113,11 +113,11 @@
   },
   "Slow-Cooker_Red_Wine-Braised_Short_Ribs": {
     "health": "Indulgent",
-    "time": "2 hours 15 min",
+    "time": "2 hours",
     "servings": "Serves 4",
-    "cuisine": "American",
+    "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Slow-Cooker_Red_Wine-Braised_Short_Ribs"
+    "source_url": "https://www.americastestkitchen.com/recipes/4983-slow-cooker-red-wine-braised-short-ribs"
   },
   "Super-Savory_Mushroom_Bacon_Spaghetti": {
     "health": "Indulgent",
@@ -612,7 +612,7 @@
     "time": "15 minutes per pizza (plus 1-1.5 hours rising)",
     "servings": "",
     "cuisine": "Italian",
-    "source": "",
+    "source": "Serious Eats",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/homemade_pizza"
   },
   "homemade_pizza_rolls": {
@@ -652,7 +652,7 @@
     "time": "30 min",
     "servings": "",
     "cuisine": "Chinese",
-    "source": "",
+    "source": "Woks of Life",
     "source_url": "https://thewoksoflife.com/moo-shu-chicken/"
   },
   "Cantonese_Steamed_Fish": {
@@ -660,7 +660,7 @@
     "time": "25 min",
     "servings": "",
     "cuisine": "Chinese",
-    "source": "",
+    "source": "Woks of Life",
     "source_url": "https://thewoksoflife.com/cantonese-steamed-fish/"
   },
   "Vietnamese_Lemongrass_Chicken_Bowl": {
@@ -716,7 +716,7 @@
     "time": "20 min",
     "servings": "",
     "cuisine": "Mexican",
-    "source": "",
+    "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mesquite_Grilled_Tacos_Rasurados"
   },
   "Cumin_Chicken_Fingers": {
@@ -1057,7 +1057,7 @@
   },
   "Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa": {
     "health": "Moderate",
-    "time": "",
+    "time": "30 min",
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
@@ -1385,7 +1385,7 @@
   },
   "Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous": {
     "health": "Moderate",
-    "time": "",
+    "time": "40 min",
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
@@ -1726,5 +1726,13 @@
     "cuisine": "Italian",
     "source": "Memorie di Angelina",
     "source_url": "https://memoriediangelina.com/2009/09/17/pasta-e-ceci"
+  },
+  "Baked_pasta_shells": {
+    "health": "Moderate",
+    "time": "65 minutes",
+    "servings": "5",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/baked-pasta-shells.html"
   }
 }
