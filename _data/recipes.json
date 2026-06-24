@@ -1742,5 +1742,13 @@
     "cuisine": "Fusion, American",
     "source": "Serious Eats",
     "source_url": "https://www.seriouseats.com/one-skillet-lemon-chicken-recipe-8739370"
+  },
+  "Chicken_Paillard_Chicken_With_Lemon-Herb_Butter_Sauce": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "Serious Eats",
+    "source_url": "https://www.seriouseats.com/lemon-butter-chicken-paillard-recipe-11756564"
   }
 }
