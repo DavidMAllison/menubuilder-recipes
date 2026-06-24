@@ -887,14 +887,6 @@
     "source": "Original",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Burrito_Bowls"
   },
-  "japanese_fried_chicken_karaage": {
-    "health": "Indulgent",
-    "time": "1 hour, plus 30 minutes resting",
-    "servings": "",
-    "cuisine": "Japanese",
-    "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/japanese_fried_chicken_karaage"
-  },
   "Grilled_Brined_Pork_Chops_with_Garlic-Herb_Oil": {
     "health": "Moderate",
     "time": "8 hours",
@@ -1246,14 +1238,6 @@
     "cuisine": "Mexican",
     "source": "Rick Bayless",
     "source_url": "https://www.rickbayless.com/recipe/yucatecan-black-bean-dinner/"
-  },
-  "Colado_Black_Beans": {
-    "health": "Moderate",
-    "time": "1 hour 15 min",
-    "servings": "",
-    "cuisine": "Mexican",
-    "source": "Pati Jinich",
-    "source_url": "https://patijinich.com/colado-black-beans/"
   },
   "Black_Beans_from_the_Pot": {
     "health": "Heart-Healthy",
@@ -1750,5 +1734,13 @@
     "cuisine": "Japanese",
     "source": "Viet World Kitchen",
     "source_url": "https://www.vietworldkitchen.com/blog/2019/09/japanese-chicken-meatballs-recipe-tsukune.html"
+  },
+  "Easy_Skillet_Lemon_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Fusion, American",
+    "source": "Serious Eats",
+    "source_url": "https://www.seriouseats.com/one-skillet-lemon-chicken-recipe-8739370"
   }
 }
