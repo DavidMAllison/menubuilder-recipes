@@ -1750,5 +1750,13 @@
     "cuisine": "American",
     "source": "Serious Eats",
     "source_url": "https://www.seriouseats.com/lemon-butter-chicken-paillard-recipe-11756564"
+  },
+  "Baked_Chicken_Drumsticks_with_Lemon_and_Garlic": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "['12', '12 pieces']",
+    "cuisine": "Mediterranean",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/baked-chicken-drumsticks"
   }
 }
