@@ -1,3 +1,5 @@
+# Pasta with Sautéed Mushrooms and Thyme
+
 ## Notes
 
 - Family hit. May try reducing Parmesan to 1/2 cup next time.
