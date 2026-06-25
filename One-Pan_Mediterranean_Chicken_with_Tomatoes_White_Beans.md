@@ -1,5 +1,9 @@
 # One-Pan Mediterranean Chicken with Tomatoes & White Beans
 
+## Notes
+
+- The chicken thighs don't add much flavor to the bean/tomato base. Consider swapping for a different protein (white fish, shrimp, or chickpeas for vegetarian) next time.
+
 ## Ingredients
 
 - 4 bone-in, skin-on chicken thighs (about 2 pounds)
@@ -33,8 +37,3 @@
 5. Nestle chicken thighs skin-side up into the bean mixture. Transfer skillet to oven and bake uncovered until chicken registers 175 degrees F, about 25-30 minutes.
 6. Remove from oven (handle will be very hot) and let rest for 5 minutes. Stir in fresh parsley and basil. Serve with lemon wedges.
 
-*Adapted from [Floating Kitchen](https://www.floatingkitchen.net/wp-json/mv-create/v1/creations/147/print)*
-
-## Notes
-
-- The chicken thighs don't add much flavor to the bean/tomato base. Consider swapping for a different protein (white fish, shrimp, or chickpeas for vegetarian) next time.

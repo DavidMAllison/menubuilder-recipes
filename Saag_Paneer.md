@@ -1,7 +1,11 @@
 # Saag Paneer
 
-**Time:** 55 minutes (20 min prep, 35 min cook)
-**Servings:** 3–4
+## Notes
+
+- Kids: pull out paneer pieces before adding the tempering — mild and fine without it.
+- Mustard greens add a pleasant bitterness. Baby kale is the easiest substitute. **Measure torn leaves to exactly 4 cups** — too much makes it bitter and overpowers the dish.
+- Hing (asafoetida) is optional — adds faint savory depth but the dish works without it.
+- Kashmiri chili gives deep red color with mild heat — substitute regular chili flakes if unavailable.
 
 ## Ingredients
 
@@ -48,13 +52,6 @@
 9. Add garam masala, fried paneer (save a few cubes for garnish), and cream. Stir well and cook 3–4 more minutes until fragrant.
 10. Make the tempering: melt butter in a small pan over low heat. Add sliced garlic and cook 2 minutes — do not brown. Add dried red chili and fry until crisp. Turn off heat. Add hing and chili powder.
 11. Pour tempering over the saag paneer. Garnish with reserved paneer. Serve with basmati rice, naan, or roti with a squeeze of lemon.
-
-## Notes
-
-- Kids: pull out paneer pieces before adding the tempering — mild and fine without it.
-- Mustard greens add a pleasant bitterness. Baby kale is the easiest substitute. **Measure torn leaves to exactly 4 cups** — too much makes it bitter and overpowers the dish.
-- Hing (asafoetida) is optional — adds faint savory depth but the dish works without it.
-- Kashmiri chili gives deep red color with mild heat — substitute regular chili flakes if unavailable.
 
 ## Ingredient Substitutions
 

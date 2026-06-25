@@ -1,5 +1,12 @@
 # Pulled Pork Tacos
 
+## Notes
+
+- Kids get plain warmed pulled pork in a flour tortilla — skip the pickled onions and cabbage.
+- The pickled onions can be made up to a week ahead and refrigerated.
+- Add hot sauce or sliced jalapeños on the side for adults who want heat.
+- Cotija cheese crumbled on top is a nice addition.
+
 ## Ingredients
 
 ### Quick Pickled Onions (make ahead or day of)
@@ -33,9 +40,3 @@
 
 4. **Assemble**: Fill each tortilla with pulled pork, cabbage, pickled onions, and cilantro. Serve with lime wedges and salsa.
 
-## Notes
-
-- Kids get plain warmed pulled pork in a flour tortilla — skip the pickled onions and cabbage.
-- The pickled onions can be made up to a week ahead and refrigerated.
-- Add hot sauce or sliced jalapeños on the side for adults who want heat.
-- Cotija cheese crumbled on top is a nice addition.

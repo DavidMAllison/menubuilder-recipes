@@ -32,4 +32,3 @@
 7. Dip each fried tortilla in bean sauce, stuff with 2 tablespoons cheese mixture, and roll into a flute. Repeat with remaining tortillas.
 8. Spoon bean sauce onto each plate, place three enfrijoladas on top, and cover with more sauce. Top with crema Mexicana, queso fresco, Pico de Gallo, and avocado slices. Serve.
 
-*Adapted from [Pati Jinich](https://patijinich.com/enfrijoladas)*

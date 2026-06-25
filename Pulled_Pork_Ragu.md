@@ -1,5 +1,12 @@
 # Pulled Pork Ragu
 
+## Notes
+
+- Since the pork is already smoked and cooked, it doesn't need long to braise — 30 minutes is enough; longer deepens the flavor.
+- Kids get plain pasta with minimal sauce or butter.
+- A splash of balsamic vinegar at the end adds depth if the sauce tastes flat.
+- Leftovers reheat well; loosen with a little water or broth.
+
 ## Ingredients
 
 - 1.5 lbs smoked pulled pork (pre-cooked, thawed), shredded
@@ -34,9 +41,3 @@
 
 7. Toss pasta with ragu, adding splashes of pasta water to loosen sauce as needed. Serve with Parmesan and fresh herbs.
 
-## Notes
-
-- Since the pork is already smoked and cooked, it doesn't need long to braise — 30 minutes is enough; longer deepens the flavor.
-- Kids get plain pasta with minimal sauce or butter.
-- A splash of balsamic vinegar at the end adds depth if the sauce tastes flat.
-- Leftovers reheat well; loosen with a little water or broth.

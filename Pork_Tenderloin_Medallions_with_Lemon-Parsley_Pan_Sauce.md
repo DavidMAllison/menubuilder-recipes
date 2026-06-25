@@ -2,6 +2,13 @@
 
 **Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17323-pork-tenderloin-medallions-with-lemon-parsley-pan-sauce)  
 
+## Notes
+
+- For kids: Transfer plain seared medallions to kids' plates before making the pan sauce
+- You will need a 12-inch skillet with a tight-fitting lid
+- Don't overcook: 135-140 degrees F is the target internal temperature
+- Uses 2 pork tenderloins - great for using freezer inventory
+
 ## Ingredients
 
 - 3/4 cup chicken broth
@@ -23,9 +30,3 @@
 4. Simmer the pork: Return pork to skillet browned side up, along with any accumulated juices. Bring broth mixture to simmer over medium heat, then reduce heat to medium-low. Cover skillet and simmer gently until pork registers 135 to 140 degrees, 4 to 6 minutes. Transfer pork medallions to serving platter browned side up as they finish cooking, leaving sauce in skillet.
 5. Finish the sauce: Increase heat to medium-high and simmer until sauce is thickened and bubbling throughout, 2 to 4 minutes. Off heat, whisk in 3 tbsp minced parsley, 1 tbsp grated lemon zest, and remaining 1 tbsp oil. Season with salt and pepper to taste. Spoon sauce over pork. Serve. Serving Suggestions - Roasted vegetables (broccoli, asparagus, or green beans) - Steamed rice or couscous - Side salad with light vinaigrette
 
-## Notes
-
-- For kids: Transfer plain seared medallions to kids' plates before making the pan sauce
-- You will need a 12-inch skillet with a tight-fitting lid
-- Don't overcook: 135-140 degrees F is the target internal temperature
-- Uses 2 pork tenderloins - great for using freezer inventory

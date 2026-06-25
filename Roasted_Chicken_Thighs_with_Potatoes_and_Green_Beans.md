@@ -3,6 +3,10 @@
 **Time**: 55 minutes
 **Servings**: 4–6
 
+## Notes
+
+- For a non-alcoholic version, substitute chicken broth for the wine.
+
 ## Ingredients
 
 - 2 pounds Yukon Gold potatoes, unpeeled, cut into ½-inch pieces
@@ -23,10 +27,3 @@
 2. Pat chicken dry and season all over with remaining 1½ teaspoons salt and ½ teaspoon pepper. Place skin-side down in a large nonstick skillet over medium-high and cook until the skin is light golden, about 10 minutes. Flip and cook until the second side is browned, about 5 minutes.
 3. Arrange chicken skin-side up over the vegetables. Off the heat, stir the wine, lemon zest, and lemon juice into the fat in the skillet, then drizzle evenly over the chicken. Roast until chicken registers at least 175°F, 15–20 minutes. Serve.
 
-## Notes
-
-- For a non-alcoholic version, substitute chicken broth for the wine.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15903-roasted-chicken-thighs-with-potatoes-and-green-beans)*

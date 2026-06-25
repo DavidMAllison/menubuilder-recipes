@@ -1,7 +1,14 @@
 # Yakisoba (Japanese Stir-Fried Noodles)
 
-**Time:** 30 minutes (10 min prep, 20 min cook)
-**Servings:** 3-4
+## Notes
+
+- Use the largest pan you have -- overcrowding kills the char
+- Cook vegetables in stages so each holds its texture
+- Serve immediately; noodles soften as they sit
+- Pork belly must be thin slices (~1/4 inch) — NOT 1-inch pieces. Sear on high heat until edges brown, then push aside before adding vegetables.
+- **Pork sub:** pork shoulder or loin works fine; slice thin against the grain (~1/4 inch)
+- **Kids:** pull plain noodles and pork before saucing for milder version
+- Leftovers keep 3-4 days refrigerated; reheat in pan with a splash of water
 
 ## Ingredients
 
@@ -43,16 +50,3 @@
 
 7. **Garnish:** Top with aonori and beni shoga if using.
 
-## Notes
-
-- Use the largest pan you have -- overcrowding kills the char
-- Cook vegetables in stages so each holds its texture
-- Serve immediately; noodles soften as they sit
-- Pork belly must be thin slices (~1/4 inch) — NOT 1-inch pieces. Sear on high heat until edges brown, then push aside before adding vegetables.
-- **Pork sub:** pork shoulder or loin works fine; slice thin against the grain (~1/4 inch)
-- **Kids:** pull plain noodles and pork before saucing for milder version
-- Leftovers keep 3-4 days refrigerated; reheat in pan with a splash of water
-
-*Adapted from [Just One Cookbook](https://www.justonecookbook.com/yakisoba/) by Namiko Hirasawa Chen*
-
-*Adapted from [Just One Cookbook](https://www.justonecookbook.com/yakisoba-japanese-stir-fried-noodles)*

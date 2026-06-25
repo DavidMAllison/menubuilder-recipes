@@ -1,5 +1,10 @@
 # Italian Baked Chicken
 
+## Notes
+
+- For kids: Very mild herb seasoning — can pull plain chicken before garnishing.
+- Serve with pasta, rice, or crusty bread and a green salad.
+
 ## Ingredients
 
 - 2 lbs boneless skinless chicken breast
@@ -24,9 +29,3 @@
 5. Cover tightly with foil and bake 10 minutes. Uncover and bake 8-10 minutes more until internal temperature reaches 165°F.
 6. Remove from oven and let rest 5-10 minutes covered. Garnish with fresh parsley and basil before serving.
 
-## Notes
-
-- For kids: Very mild herb seasoning — can pull plain chicken before garnishing.
-- Serve with pasta, rice, or crusty bread and a green salad.
-
-*Adapted from [The Mediterranean Dish](https://www.themediterraneandish.com/easy-italian-baked-chicken-breast-recipe/)*

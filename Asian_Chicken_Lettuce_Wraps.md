@@ -1,5 +1,12 @@
 # Asian Chicken Lettuce Wraps
 
+## Notes
+
+- Kids: Omit Sriracha from dipping sauce (plain hoisin is sweet and mild). Kids can eat filling over rice instead of in lettuce.
+- Serve mushrooms on the side rather than mixed in for kids who prefer it.
+- Can substitute chopped celery for water chestnuts if unavailable.
+- Works best as part of a spread (wontons, soup dumplings, edamame) rather than as a standalone meal.
+
 ## Ingredients
 
 **Filling:**
@@ -31,11 +38,3 @@
 5. Heat remaining 1 teaspoon sesame oil in a wok or large skillet over medium-high heat. Add garlic and cook until golden, about 10 seconds. Add chicken mixture and stir-fry until browned, breaking chicken apart, 4-5 minutes.
 6. Spoon 1/4 cup chicken into each lettuce leaf. Garnish with scallions and serve with dipping sauce.
 
-## Notes
-
-- Kids: Omit Sriracha from dipping sauce (plain hoisin is sweet and mild). Kids can eat filling over rice instead of in lettuce.
-- Serve mushrooms on the side rather than mixed in for kids who prefer it.
-- Can substitute chopped celery for water chestnuts if unavailable.
-- Works best as part of a spread (wontons, soup dumplings, edamame) rather than as a standalone meal.
-
-*Adapted from [Skinnytaste](https://www.skinnytaste.com/asian-chicken-lettuce-wraps/)*

@@ -2,6 +2,14 @@
 
 *Pollo en Salsa de Citricos con Zanahorias y Papas*
 
+## Notes
+
+- Can substitute bone-in chicken thighs for a more economical option.
+- The chipotle adds warmth, not heat -- adjust to taste.
+- Leftovers reheat well the next day.
+- For kids: Pull out plain chicken pieces before adding chipotle powder to the sauce.
+- Serve with crusty bread or Mexican rice.
+
 ## Ingredients
 
 - 1 lb roma tomatoes
@@ -21,14 +29,6 @@
 - 3/4 lb carrots, sliced diagonally
 - 1 lb baby red potatoes, halved if large
 
-## Notes
-
-- Can substitute bone-in chicken thighs for a more economical option.
-- The chipotle adds warmth, not heat -- adjust to taste.
-- Leftovers reheat well the next day.
-- For kids: Pull out plain chicken pieces before adding chipotle powder to the sauce.
-- Serve with crusty bread or Mexican rice.
-
 ## Instructions
 
 1. Place roma tomatoes on a baking sheet and broil for 9-10 minutes, flipping halfway through, until completely charred on all sides. Remove from oven, chop roughly, and collect all juices in a bowl. Set aside.
@@ -38,4 +38,3 @@
 5. Return chicken to the pot. Add carrots and potatoes, nestling them around the chicken pieces. Bring to a simmer, then reduce heat to medium-low. Cover and cook for 1 hour, stirring gently once halfway through.
 6. The dish is ready when chicken is cooked through, vegetables are tender, and sauce has thickened slightly. Taste and adjust seasoning with salt and pepper as needed.
 
-*Adapted from [Pati Jinich](https://patijinich.com/citrus-chicken-with-carrots-and-baby-potatoes)*

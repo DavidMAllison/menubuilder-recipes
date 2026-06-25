@@ -1,5 +1,9 @@
 # Spicy Honey Chicken Thighs
 
+## Notes
+
+- Pull kids' portions before the honey glaze and reduce red pepper for their pieces if needed.
+
 ## Ingredients
 
 - 8 boneless, skinless chicken thighs
@@ -21,8 +25,3 @@
 5. Remove chicken from oven, brush with 1/4 of honey mixture. Broil 1 minute.
 6. Flip chicken, brush with remaining honey mixture. Broil 1 more minute or until done.
 
-## Notes
-
-- Pull kids' portions before the honey glaze and reduce red pepper for their pieces if needed.
-
-*Adapted from [Allrecipes](https://www.allrecipes.com/cook/5094882/recipe/1d70764b-7a65-388a-973d-8674a8c1d3ae)*

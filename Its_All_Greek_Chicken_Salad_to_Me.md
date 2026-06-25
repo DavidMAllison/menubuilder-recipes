@@ -1,7 +1,11 @@
 # It's All Greek Chicken Salad to Me
 
-**Time:** 10 min active | 1 hour 5 min total (includes 1 hr chill)
-**Servings:** 4–6
+## Notes
+
+- Grill the chicken ahead of time — works well as Sunday prep.
+- Kids: pull plain grilled chicken before tossing with dressing.
+
+Adapted from [Alton Brown](https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me)
 
 ## Ingredients
 
@@ -27,11 +31,3 @@
 3. Refrigerate for at least 1 hour before serving.
 4. Store in the fridge for up to 3 days.
 
-## Notes
-
-- Grill the chicken ahead of time — works well as Sunday prep.
-- Kids: pull plain grilled chicken before tossing with dressing.
-
-Adapted from [Alton Brown](https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me)
-
-*Adapted from [Alton Brown](https://altonbrown.com/recipes/its-all-greek-chicken-salad-to-me/)*

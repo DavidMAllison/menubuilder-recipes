@@ -1,9 +1,5 @@
 # Gua Bao with Braised Pork Belly, Seasoned Daikon, and Hoisin-Soy Sauce
 
-**Servings:** Serves 6 to 8
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16493-gua-bao-with-braised-pork-belly-seasoned-daikon-and-hoisin-soy-sauce)*
-
 ## Ingredients
 
 - 1 (2-pound) skin-on center-cut fresh pork belly , about 1½ inches thick
@@ -53,6 +49,4 @@
 13. Meanwhile, bring 4 cups water to boil in 14-inch flat-bottomed wok or 12-inch skillet. Arrange first batch of buns, on parchment squares, in two 10-inch bamboo steamer baskets (4 buns per basket). Stack baskets and cover. Reduce heat to maintain simmer and set steamer in wok. Steam buns for 10 minutes (do not uncover, as buns might collapse; small wisps of steam should escape from beneath lid during cooking). Off heat, remove steamer from wok and let rest, covered, for 5 minutes. Transfer buns, still on parchment, to wire rack. Steam remaining buns.
 14. To serve, place slice of pork inside bun. Garnish with seasoned daikon; hoisin-soy sauce; cilantro; scallions; peanuts; and Thai chiles, if using. Serve immediately.
 15. STORAGE AND REHEATING: Bao can be kept covered at room temperature for up to 3 hours or refrigerated for up to 3 days. To serve, resteam (on parchment squares) for 2 to 3 minutes. Alternatively, bao can be frozen for up to 1 month. Arrange cooled bao (on parchment squares) in zipper-lock bag. To serve, steam from frozen (on parchment squares) until warmed through, 7 to 8 minutes.
-
-## Notes
 

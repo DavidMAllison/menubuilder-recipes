@@ -1,5 +1,10 @@
 # Khao Man Gai (Thai-Style Chicken and Rice)
 
+## Notes
+
+- Kids: Serve plain poached chicken and rice with cucumber. Dipping sauce and chiles on the side for adults.
+- The ginger-infused broth served alongside makes this a cozy, restaurant-quality meal.
+
 ## Ingredients
 
 **Chicken and Broth**
@@ -29,11 +34,6 @@
 - 1 teaspoon grated fresh ginger
 - 2 scallions, sliced thin
 
-## Notes
-
-- Kids: Serve plain poached chicken and rice with cucumber. Dipping sauce and chiles on the side for adults.
-- The ginger-infused broth served alongside makes this a cozy, restaurant-quality meal.
-
 ## Instructions
 
 1. Combine water, ginger, salt, and garlic in large Dutch oven. Add chicken breast side up; bring to simmer over high heat. Cover with foil then lid. Reduce heat to low; simmer until breast registers 160°F and thighs 175°F, about 25-35 minutes.
@@ -44,4 +44,3 @@
 6. Rewarm remaining broth. Remove breast from carcass, discard skin. Remove leg quarters; shred meat. Slice breasts crosswise 1/2-inch thick.
 7. Transfer rice to platter; arrange chicken on top. Serve with cilantro, cucumber, dipping sauce, and individual bowls of hot broth.
 
-*Adapted from [Hot Thai Kitchen](https://hot-thai-kitchen.com/hainanese-chicken-rice/)*

@@ -1,5 +1,11 @@
 # Ginger-Sesame Chicken and Broccoli Stir Fry
 
+## Notes
+
+- Stores well for 4 days in the fridge. Keep rice stored separately to prevent sogginess.
+- Slightly undercook vegetables so they hold up after reheating.
+- For lower sodium: use tamari or coconut aminos instead of soy sauce.
+
 ## Ingredients
 
 **Sauce (mix ahead):**
@@ -30,8 +36,3 @@
 4. Return chicken to the pan. Pour sauce over everything. Toss and cook 1-2 minutes until sauce thickens and coats everything.
 5. Remove from heat. Garnish with green onions and sesame seeds. Serve over brown rice.
 
-## Notes
-
-- Stores well for 4 days in the fridge. Keep rice stored separately to prevent sogginess.
-- Slightly undercook vegetables so they hold up after reheating.
-- For lower sodium: use tamari or coconut aminos instead of soy sauce.

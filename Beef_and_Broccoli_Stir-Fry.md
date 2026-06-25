@@ -1,9 +1,9 @@
 # Beef and Broccoli Stir-Fry
 
-**Time:** 55 minutes
-**Servings:** Serves 4
+## Notes
 
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10573-beef-and-broccoli-stir-fry)*
+- Freeze meat 20-30 min before slicing for thinner, more even cuts.
+- Don't marinate longer than 30 min or texture becomes mushy.
 
 ## Ingredients
 
@@ -27,9 +27,4 @@
 2. Combine scallion whites, 2 tablespoons oil, garlic, and ginger in second bowl. Whisk broth, soy sauce, sugar, remaining 3 tablespoons oyster sauce, and remaining 1 1/2 teaspoons cornstarch together in third bowl.
 3. Heat remaining 1 tablespoon oil in 12-inch nonstick skillet over medium-high heat until just smoking. Add beef to skillet and break up clumps with tongs. Cook, without stirring, until beef is browned on bottom, about 2 minutes. Stir and continue to cook until beef is spotty brown and no longer pink, about 2 minutes longer, stirring occasionally.
 4. Stir in scallion mixture and cook until fragrant, about 1 minute. Whisk broth mixture to recombine. Add broth mixture and broccoli to skillet, cover, and cook until broccoli is crisp-tender, about 3 minutes, shaking skillet occasionally to redistribute contents. Off heat, stir in scallion greens. Serve.
-
-## Notes
-
-- Freeze meat 20-30 min before slicing for thinner, more even cuts.
-- Don't marinate longer than 30 min or texture becomes mushy.
 

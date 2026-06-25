@@ -1,10 +1,5 @@
 # Baked Burritos with Pinto Beans and Swiss Chard
 
-**Time:** 1 hour 30 minutes
-**Servings:** Serves 6
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11705-baked-burritos-with-pinto-beans-and-swiss-chard)*
-
 ## Ingredients
 
 - 2 1/4 cups vegetable broth
@@ -31,6 +26,4 @@
 3. Using potato masher, coarsely mash half of beans with remaining ½ cup broth in bowl, then stir into pot. Cook, stirring constantly, until liquid is nearly evaporated, about 3 minutes. Off heat, stir in lime juice and remaining whole beans; cover to keep warm.
 4. Adjust oven rack 6 inches from broiler element and heat broiler. Wrap tortillas in damp dish towel and microwave until warm and pliable, about 1 minute. Lay warm tortillas on counter. Mound warm rice, chard-bean mixture, and 1½ cups Monterey Jack across center of tortillas, close to bottom edge. Working with 1 tortilla at a time, fold sides of tortilla over filling, then fold up bottom of tortilla, pulling back on it firmly to tighten it around filling and continue to roll tightly into burrito.
 5. Place burritos, seam side down, on aluminum foil–lined baking sheet, and sprinkle remaining 1 cup Monterey Jack over top. Broil until cheese is melted and starting to brown, 3 to 5 minutes. Serve.
-
-## Notes
 

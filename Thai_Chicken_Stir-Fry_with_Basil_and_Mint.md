@@ -1,7 +1,9 @@
 # Thai Chicken Stir-Fry with Basil and Mint
 
-**Time:** 15 minutes
-**Servings:** 4
+## Notes
+
+- **Kids:** Omit chili entirely. Pull kids' chicken before adding sauce in step 4.
+- Serve with steamed jasmine rice.
 
 ## Ingredients
 
@@ -37,11 +39,3 @@
 
 ---
 
-## Notes
-
-- **Kids:** Omit chili entirely. Pull kids' chicken before adding sauce in step 4.
-- Serve with steamed jasmine rice.
-
-*Adapted from [The Woks of Life](https://thewoksoflife.com/)*
-
-*Adapted from [The Woks of Life](https://thewoksoflife.com/thai-chicken-stir-fry-with-basil-mint/)*

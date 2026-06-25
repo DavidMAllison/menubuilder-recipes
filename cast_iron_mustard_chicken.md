@@ -20,4 +20,3 @@
 6. Flip chicken and transfer skillet to oven. Cook 35-40 minutes until internal temperature reaches 160°F.
 7. Rest 5-10 minutes before serving.
 
-*Adapted from [Allrecipes](https://www.allrecipes.com/cook/5094882/recipe/424f9512-a5b8-34b1-aac2-652942ebd1d8)*

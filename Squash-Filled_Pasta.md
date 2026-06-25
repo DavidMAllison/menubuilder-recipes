@@ -1,10 +1,5 @@
 # Squash-Filled Pasta
 
-**Time:** 2 hours 45 minutes
-**Servings:** Serves 6
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12632-squash-filled-pasta)*
-
 ## Ingredients
 
 - 1½ pounds butternut squash , peeled, seeded, and cut into 1-inch pieces (3½ cups)
@@ -28,6 +23,4 @@
 5. Liberally dust rimmed baking sheet with flour. Using pizza cutter or sharp knife, cut 1 pasta sheet into 5-inch squares on lightly floured counter (keep remaining sheets covered); discard scraps. Place 1 rounded tablespoon filling in center of each square. Working with 1 pasta square at a time, lightly brush edges with water. With one corner of pasta square facing you, fold bottom corner of pasta over filling until flush with top corner to form triangle shape. Press to seal edges flush to filling. Trim any uneven edges.
 6. With folded edge of filled pasta facing you, pull corners together below filling until slightly overlapped to create cappellacci with cupped outer edge and dimpled center. Press to seal overlapping edges and transfer to prepared sheet. Repeat cutting and filling remaining pasta (you should have about 18 cappellacci). Let cappellacci sit uncovered until dry to touch and slightly stiffened, about 30 minutes. (Cappellacci can be wrapped with plastic and refrigerated for up to 4 hours or chilled in freezer until firm, then transferred to zipper-lock bag and frozen for up to 1 month. If frozen, do not thaw before cooking; increase simmering time to 6 to 8 minutes.)
 7. Melt butter in 12-inch skillet over medium heat. Off heat, stir in sage and ¼ teaspoon salt; set aside. Bring 4 quarts water to boil in large pot. Add half of cappellacci and 1 tablespoon salt and simmer gently, stirring often, until edges of cappellacci are al dente, 4 to 6 minutes. Using slotted spoon, transfer cappellacci to skillet, gently toss to coat, and cover to keep warm. Return cooking water to boil and repeat cooking remaining cappellacci; transfer to skillet and gently toss to coat. Drizzle individual portions with balsamic vinegar and top with Parmigiano before serving.
-
-## Notes
 

@@ -3,6 +3,13 @@
 **Time**: 40 minutes
 **Servings**: 4–6
 
+## Notes
+
+- Use the ripest in-season tomatoes — this dish lives or dies by them.
+- Don't use plum tomatoes; they're too dry for this.
+- Slice the bread as thin as possible; fresh or stale both work.
+- Serve hot, warm, or at room temperature.
+
 ## Ingredients
 
 - 3 pounds ripe tomatoes, halved through the equator
@@ -23,13 +30,3 @@
 3. Bring to a boil over high heat. Reduce to medium, cover, and simmer vigorously, stirring and mashing the bread occasionally, until fully broken down, 15–18 minutes. The texture will be thick and rough, not smooth.
 4. Discard basil sprigs. Ladle into bowls, drizzle with oil, and scatter the chopped basil on top. Serve with Parmesan.
 
-## Notes
-
-- Use the ripest in-season tomatoes — this dish lives or dies by them.
-- Don't use plum tomatoes; they're too dry for this.
-- Slice the bread as thin as possible; fresh or stale both work.
-- Serve hot, warm, or at room temperature.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15812-pappa-al-pomodoro)*

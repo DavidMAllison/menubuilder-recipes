@@ -2,6 +2,12 @@
 
 Original recipe
 
+## Notes
+
+- Oaxacan cheese: pull apart into strings rather than shredding.
+- Frozen pulled pork: thaw overnight, warm in a skillet with a splash of broth or water.
+- Adults can add jalapeños or avocado.
+
 ## Ingredients
 
 **Bowl:**
@@ -23,8 +29,3 @@ Original recipe
 3. Kids first: bowl of plain rice, beans, and plain protein before toppings go on.
 4. Adults: rice base, beans, protein, pickled onions, sour cream, Oaxacan cheese, hot sauce.
 
-## Notes
-
-- Oaxacan cheese: pull apart into strings rather than shredding.
-- Frozen pulled pork: thaw overnight, warm in a skillet with a splash of broth or water.
-- Adults can add jalapeños or avocado.

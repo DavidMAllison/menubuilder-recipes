@@ -6,6 +6,12 @@
 
 Sichuan peppercorns provide a unique tingly, numbing sensation that's important here; find them in the spice aisle at Asian markets or online. Garnish with sliced scallions and cilantro leaves if desired.
 
+## Notes
+
+- Make more chicken than you think — family feedback was "not enough." Consider 1.5 lbs for a family of 4.
+- Kids: pull plain chicken before tossing in spice mixture.
+- Sichuan chili flakes and peppercorns give heat/numbing — omit or reduce for kids' portions.
+
 ## Ingredients
 
 - 1 lb chicken tenderloins, trimmed and halved lengthwise
@@ -29,8 +35,3 @@ Sichuan peppercorns provide a unique tingly, numbing sensation that's important 
 4. Heat oil in a 12-inch nonstick skillet over medium-high heat until shimmering. Cook half the chicken in an even layer until golden brown on both sides and fully cooked, about 2 minutes per side. Transfer to a large bowl. Repeat with remaining chicken.
 5. Add cumin-spice mixture to bowl with chicken and toss until evenly coated. Transfer to platter and serve.
 
-## Notes
-
-- Make more chicken than you think — family feedback was "not enough." Consider 1.5 lbs for a family of 4.
-- Kids: pull plain chicken before tossing in spice mixture.
-- Sichuan chili flakes and peppercorns give heat/numbing — omit or reduce for kids' portions.

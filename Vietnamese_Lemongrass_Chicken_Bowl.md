@@ -1,5 +1,11 @@
 # Vietnamese Lemongrass Chicken Bowl (Bun Ga Nuong)
 
+## Notes
+
+- Marinate 30 min to 2 hrs maximum — lime in the marinade breaks down chicken texture if left longer.
+- Kids: serve plain chicken and noodles separately, skip Nuoc Cham.
+- Family loved this. Good regular rotation candidate.
+
 ## Ingredients
 
 - Chicken & Marinade
@@ -30,10 +36,3 @@
 4. Cook chicken in a skillet or grill pan over high heat, 3-4 min per side, until charred and cooked through. Rest 3 min, then slice.
 5. Assemble bowls: noodles and vegetables on the bottom, sliced chicken on top. Drizzle Nuoc Cham over and serve.
 
-## Notes
-
-- Marinate 30 min to 2 hrs maximum — lime in the marinade breaks down chicken texture if left longer.
-- Kids: serve plain chicken and noodles separately, skip Nuoc Cham.
-- Family loved this. Good regular rotation candidate.
-
-*Adapted from [RecipeTin Eats](https://www.recipetineats.com/vietnamese-noodles-with-lemongrass-chicken)*

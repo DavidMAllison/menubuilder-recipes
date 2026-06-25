@@ -1,5 +1,11 @@
 # Lime-Rubbed Chicken Tacos with Corn Guacamole
 
+## Notes
+
+- Kids: Build-your-own tacos — kids get plain chicken in tortilla, skip guacamole and jalapeno.
+- Marinate overnight for best flavor. Jalapeno is only in the guacamole, not on the chicken.
+- Note on marinating: Lime juice can break down chicken if left too long — 30 min to 2 hrs is optimal, 12 hrs maximum.
+
 ## Ingredients
 
 **Chicken:**
@@ -31,10 +37,3 @@
 5. Warm tortillas on a skillet or comal over medium-low heat, about 1 minute per side.
 6. Serve build-your-own style with chicken, corn guacamole, and tortillas.
 
-## Notes
-
-- Kids: Build-your-own tacos — kids get plain chicken in tortilla, skip guacamole and jalapeno.
-- Marinate overnight for best flavor. Jalapeno is only in the guacamole, not on the chicken.
-- Note on marinating: Lime juice can break down chicken if left too long — 30 min to 2 hrs is optimal, 12 hrs maximum.
-
-*Adapted from [Pati Jinich](https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/)*

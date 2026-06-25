@@ -3,6 +3,12 @@
 **Time**: 20 minutes
 **Servings**: 4
 
+## Notes
+
+- You'll need a large skillet with a tight-fitting lid.
+- Top with a fried egg or two for a more substantial meal.
+- Broccolini is a hybrid of conventional broccoli and Chinese broccoli (gai lan) — it chars well and stays tender.
+
 ## Ingredients
 
 - 3 tablespoons oyster sauce
@@ -21,10 +27,3 @@
 4. Add the oyster sauce mixture, cover, and reduce heat to low. Cook until the broccolini is tender.
 5. Off heat, stir in the pork and scallions. Serve with steamed rice.
 
-## Notes
-
-- You'll need a large skillet with a tight-fitting lid.
-- Top with a fried egg or two for a more substantial meal.
-- Broccolini is a hybrid of conventional broccoli and Chinese broccoli (gai lan) — it chars well and stays tender.
-
-*Adapted from [Cookish by Milk Street](https://www.177milkstreet.com/cookish)*

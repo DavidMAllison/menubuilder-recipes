@@ -1,7 +1,12 @@
 # Chairman Mao's Red Braised Pork Belly
 
-**Time:** 1 hour 45 minutes  
 **Serves:** 8
+
+## Notes
+
+- Skip or remove the dried chilies early if cooking for kids — the heat intensifies the longer they cook.
+- Rock sugar gives a cleaner, glossier sauce than granulated — worth finding at an Asian grocery.
+- Leftovers reheat beautifully and the sauce thickens further overnight.
 
 ## Ingredients
 
@@ -28,10 +33,3 @@
 5. Increase heat to medium-high and reduce the sauce, stirring constantly, until it forms a thick, glossy coating on the pork.
 6. Stir in the remaining 1/2 teaspoon sugar and the scallion greens. Serve over steamed rice.
 
-## Notes
-
-- Skip or remove the dried chilies early if cooking for kids — the heat intensifies the longer they cook.
-- Rock sugar gives a cleaner, glossier sauce than granulated — worth finding at an Asian grocery.
-- Leftovers reheat beautifully and the sauce thickens further overnight.
-
-*Adapted from [Chairman Mao's Red Braised Pork Belly](https://thewoksoflife.com/red-braised-pork-belly-mao/) by Judy Leung, The Woks of Life*

@@ -3,6 +3,11 @@
 **Time**: 45 minutes
 **Servings**: 4
 
+## Notes
+
+- Any cooked chicken works — rotisserie is convenient.
+- English cucumber can sub for Persian cucumbers (use about 6 oz).
+
 ## Ingredients
 
 - 1 cup long-grain white or jasmine rice
@@ -29,11 +34,3 @@
 2. Microwave oil, garlic, cumin, paprika, turmeric, cayenne, and cinnamon in a bowl until simmering and fragrant, 30–60 seconds. Let cool slightly, then whisk in lemon juice and ½ teaspoon salt.
 3. Combine rice, dressing, chicken, tomatoes, cucumbers, radishes, and herbs in a large bowl. Toss gently to combine. Season with salt and pepper. Serve with Yogurt-Herb Sauce.
 
-## Notes
-
-- Any cooked chicken works — rotisserie is convenient.
-- English cucumber can sub for Persian cucumbers (use about 6 oz).
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14197-turmeric-rice-and-chicken-salad-with-herbs)*

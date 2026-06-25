@@ -1,10 +1,5 @@
 # Madzoon ov Kofte (Armenian Yogurt and Meatball Soup)
 
-**Time:** 1 hour 15 minutes
-**Servings:** Serves 6
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14136-madzoon-ov-kofte-armenian-yogurt-and-meatball-soup)*
-
 ## Ingredients
 
 - 8 ounces 85 percent lean ground beef
@@ -33,6 +28,4 @@
 4. Remove saucepan from heat. Using ladle, transfer 1½ cups broth to liquid measuring cup (try to avoid meatballs, pasta, and chickpeas). Whisking vigorously, gradually add broth to yogurt mixture. Add half of yogurt-broth mixture back to saucepan and stir to combine. Stir in remaining yogurt-broth mixture. Cover and let sit for 10 minutes to thicken.
 5. Heat soup over medium heat, stirring occasionally, until temperature registers between 180 and 185 degrees (do not allow soup to boil or yogurt will curdle). Remove from heat. Broth should have consistency of buttermilk; if thicker, adjust by adding hot water, 2 tablespoons at a time. Stir in 1 tablespoon cilantro and season with salt to taste.
 6. Melt remaining 2 tablespoons butter in small skillet over medium-high heat. Off heat, stir in remaining 1 teaspoon Aleppo pepper. Ladle soup into bowls, drizzle each portion with 1 teaspoon spiced butter, sprinkle with remaining 2 tablespoons cilantro, and serve. (Leftovers can be refrigerated for up to 3 days; reheat gently, being careful not to allow temperature to exceed 180 degrees. If necessary, thin by adding water, 2 tablespoons at a time.)
-
-## Notes
 

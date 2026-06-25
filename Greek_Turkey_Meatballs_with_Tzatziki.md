@@ -37,4 +37,3 @@
 5. While meatballs bake, make tzatziki: Combine yogurt, cucumber, lemon juice, dill, garlic, and salt. Stir well and refrigerate until ready to serve.
 6. Serve meatballs hot with tzatziki on the side. Great over rice, in pita bread, or with a Greek salad.
 
-*Adapted from [Erin Lives Whole](https://www.erinliveswhole.com/greek-turkey-meatballs-with-tzatziki)*

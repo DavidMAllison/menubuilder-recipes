@@ -1,7 +1,12 @@
 # Crispy Pan-Seared Fish Fillets (The Food Lab Method)
 
-**Time:** 20 minutes  
 **Serves:** 4
+
+## Notes
+
+- Works with any thick white fish fillet. Halibut and sea bass hold up especially well.
+- Kids can get plain alongside — pull their portions before breading if they prefer uncoated fish, or serve with tartar sauce on the side.
+- Panko breadcrumbs available at well-stocked grocery stores and Asian markets.
 
 ## Ingredients
 
@@ -23,10 +28,3 @@
 6. Carefully flip fish and transfer skillet to oven. Cook until an instant-read thermometer registers 140°F at the thickest point, about 5 more minutes.
 7. Serve immediately with lemon wedges or tartar sauce.
 
-## Notes
-
-- Works with any thick white fish fillet. Halibut and sea bass hold up especially well.
-- Kids can get plain alongside — pull their portions before breading if they prefer uncoated fish, or serve with tartar sauce on the side.
-- Panko breadcrumbs available at well-stocked grocery stores and Asian markets.
-
-*Adapted from [The Easiest Crispy Pan-Seared Fish Recipe](https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe) by J. Kenji López-Alt, Serious Eats*

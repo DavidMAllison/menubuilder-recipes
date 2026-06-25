@@ -1,7 +1,12 @@
 # Tacos De Alambre De Carne Con Chorizo Y Queso
 
-**Time:** 20 min (plus 15 min marinating)
-**Servings:** 10 tacos
+## Notes
+
+- Kids: pull plain beef before adding chorizo and cheese back to the pan.
+- Oaxaca cheese is key — mozzarella works as a substitute.
+- Cook beef in batches so it browns rather than steams.
+
+Adapted from [Pati Jinich](https://patijinich.com/tacos-de-alambre-de-carne-con-chorizo-y-queso/)
 
 ## Ingredients
 
@@ -34,10 +39,3 @@
 5. Return all meat, vegetables, chorizo, and bacon to the pan over low heat. Scatter cheese throughout and cover until melted.
 6. Heat corn tortillas on a comal or skillet over medium heat until lightly browned. Assemble tacos and top with salsa or guacamole.
 
-## Notes
-
-- Kids: pull plain beef before adding chorizo and cheese back to the pan.
-- Oaxaca cheese is key — mozzarella works as a substitute.
-- Cook beef in batches so it browns rather than steams.
-
-Adapted from [Pati Jinich](https://patijinich.com/tacos-de-alambre-de-carne-con-chorizo-y-queso/)

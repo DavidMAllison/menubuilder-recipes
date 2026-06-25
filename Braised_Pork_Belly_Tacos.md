@@ -1,7 +1,13 @@
 # Braised Pork Belly Tacos
 
-**Time:** 3 hours 15 min (15 min prep, 3 hrs braise — mostly hands-off)
-**Servings:** 4 as part of a taco spread
+## Notes
+
+- **Make ahead:** Braise the day before. Refrigerate pork in the braising liquid — the fat solidifies and is easy to remove. Reheat gently in the liquid before serving, then broil for the crispy finish.
+- **Chile sub:** If you can't find dried anchos, 1–2 chipotles in adobo work fine and add a smoky note
+- **Kids:** Serve plain sliced pork in a tortilla — skip the garnishes
+- **Leftover liquid:** Excellent as a soup base or reduce it down into a sauce
+
+*House recipe — based on traditional Mexican braising technique*
 
 ## Ingredients
 
@@ -45,11 +51,3 @@
 
 9. **Serve:** Slice or roughly chop pork. Spoon a little braising liquid over the meat to keep it moist. Serve in warm corn tortillas with onion, cilantro, and lime.
 
-## Notes
-
-- **Make ahead:** Braise the day before. Refrigerate pork in the braising liquid — the fat solidifies and is easy to remove. Reheat gently in the liquid before serving, then broil for the crispy finish.
-- **Chile sub:** If you can't find dried anchos, 1–2 chipotles in adobo work fine and add a smoky note
-- **Kids:** Serve plain sliced pork in a tortilla — skip the garnishes
-- **Leftover liquid:** Excellent as a soup base or reduce it down into a sauce
-
-*House recipe — based on traditional Mexican braising technique*

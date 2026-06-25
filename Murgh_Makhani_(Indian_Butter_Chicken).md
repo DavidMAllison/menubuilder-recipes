@@ -3,6 +3,11 @@
 **Time**: 50 minutes
 **Servings**: 4
 
+## Notes
+
+- For more heat, keep the serrano seeds in.
+- Sauce can be made up to 4 days ahead and refrigerated; reheat gently before adding the chicken.
+
 ## Ingredients
 
 - 4 tablespoons unsalted butter, cut into 4 pieces and chilled, divided
@@ -31,11 +36,3 @@
 4. Toss chicken with yogurt and remaining 1 teaspoon salt. Arrange on a wire rack set over a foil-lined baking sheet. Broil 6 inches from the element, flipping halfway, until chicken is charred in spots and registers 175°F, 16–20 minutes. Rest 5 minutes, then cut into ¾-inch chunks.
 5. Stir chicken into the warm sauce with 2 tablespoons cilantro. Transfer to a serving dish, sprinkle with remaining cilantro, and serve with basmati rice and/or naan.
 
-## Notes
-
-- For more heat, keep the serrano seeds in.
-- Sauce can be made up to 4 days ahead and refrigerated; reheat gently before adding the chicken.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11519-indian-butter-chicken-murgh-makhani)*

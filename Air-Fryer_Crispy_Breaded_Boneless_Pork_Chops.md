@@ -1,10 +1,5 @@
 # Air-Fryer Crispy Breaded Boneless Pork Chops
 
-**Time:** 45 minutes
-**Servings:** Serves 2
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12441-air-fryer-crispy-breaded-boneless-pork-chops)*
-
 ## Ingredients
 
 - ¾ cup panko bread crumbs
@@ -24,6 +19,4 @@
 1. Toss panko with melted butter in bowl until evenly coated. Microwave, stirring frequently, until light golden brown, 1 to 3 minutes; transfer to shallow dish. Whisk egg, Dijon mustard, flour, dry mustard, garlic powder, salt, and cayenne together in second shallow dish.
 2. Pat chops dry with paper towels. Using sharp knife, cut 2 slits, about 2 inches apart, through fat on edges of each chop. Cut 1/16-inch-deep slits, spaced ½ inch apart, in crosshatch pattern on both sides of chops. Working with 1 chop at a time, dredge in egg mixture, letting excess drip off, then coat with panko mixture, pressing gently to adhere.
 3. Lightly spray base of air-fryer basket with vegetable oil spray. Arrange chops in prepared basket, spaced evenly apart. Place basket in air fryer and set temperature to 400 degrees. Cook until pork registers 140 degrees, 18 to 22 minutes, flipping and rotating chops halfway through cooking. Serve with lemon wedges.
-
-## Notes
 

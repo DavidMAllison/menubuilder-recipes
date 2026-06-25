@@ -1,5 +1,9 @@
 # Pork Chops with White Wine and Herb Pan Sauce
 
+## Notes
+
+Kids: Pull chops from pan before making the sauce. Slice plain and serve with a simple side.
+
 ## Ingredients
 
 - 4 boneless pork loin chops (about 1 inch thick, 6 oz each)
@@ -23,6 +27,3 @@
 6. Remove herb sprigs. Remove pan from heat and swirl in butter until melted and sauce is glossy. Taste and adjust seasoning.
 7. Return chops to pan and spoon sauce over them. Garnish with fresh parsley if desired and serve immediately.
 
-## Notes
-
-Kids: Pull chops from pan before making the sauce. Slice plain and serve with a simple side.

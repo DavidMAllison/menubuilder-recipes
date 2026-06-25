@@ -3,6 +3,12 @@
 **Time**: 40 minutes
 **Servings**: 4
 
+## Notes
+
+- Look for large, flaked panko rather than small pebbly crumbs — better crunch.
+- If using stainless steel instead of cast iron, increase oil to 1 cup.
+- Pork chops must be exactly ¾ inch thick for timing to work.
+
 ## Ingredients
 
 - 2 cups finely shredded green cabbage
@@ -22,12 +28,3 @@
 4. Heat oil in a 12-inch cast-iron skillet over medium to 340°F. Add chops and fry, lifting an edge occasionally to vent steam, until deep golden on both sides, about 4 minutes per side. Rest against the loaf pan on the rack for 5 minutes.
 5. Slice chops crosswise ½ inch thick. Serve over rice with cabbage, lemon wedges, soy sauce, and wasabi.
 
-## Notes
-
-- Look for large, flaked panko rather than small pebbly crumbs — better crunch.
-- If using stainless steel instead of cast iron, increase oil to 1 cup.
-- Pork chops must be exactly ¾ inch thick for timing to work.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16391-tonkatsu-japanese-fried-pork-chops)*

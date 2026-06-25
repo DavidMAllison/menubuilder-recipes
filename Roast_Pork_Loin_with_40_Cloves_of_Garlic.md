@@ -1,10 +1,5 @@
 # Roast Pork Loin with 40 Cloves of Garlic
 
-**Time:** 2 hours 45 minutes
-**Servings:** Serves 4 to 6
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12499-roast-pork-loin-with-40-cloves-of-garlic)*
-
 ## Ingredients
 
 - 4 teaspoons minced fresh thyme , divided
@@ -27,6 +22,4 @@
 3. Scatter garlic around pork and transfer skillet to oven. Roast until pork registers 130 degrees, 40 to 50 minutes. Transfer pork to carving board, tent with aluminum foil, and let rest for 20 minutes.
 4. While pork rests, place skillet with garlic over medium-high heat (skillet handle will be hot) and cook, stirring occasionally, until garlic is sizzling and light golden brown all over, about 3 minutes. Add broth, wine, cream, and remaining 2 teaspoons thyme and bring to boil. Cook until sauce has reduced to slightly more than 1 cup and is thick enough to coat back of spoon, about 10 minutes. Remove from heat and cover to keep warm.
 5. Slice pork thin. Serve with sauce.
-
-## Notes
 

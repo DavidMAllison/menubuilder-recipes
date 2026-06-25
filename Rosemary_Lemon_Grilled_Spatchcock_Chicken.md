@@ -3,6 +3,14 @@
 **Time**: 55 minutes (10 min prep + 45 min grill)
 **Serves**: 4
 
+## Notes
+
+- Kids: pull portions before squeezing lemon at the table.
+- The grilled lemon halves concentrate into an intense citrus paste — don't skip them.
+- Ask your butcher to spatchcock if you'd rather skip that step.
+
+Adapted from [Tastes Lovely](https://www.tasteslovely.com/grilled-lemon-rosemary-flattened-chicken/)
+
 ## Ingredients
 
 - 1 whole chicken (~3 lbs)
@@ -22,10 +30,3 @@
 5. Place chicken breast-side up and lemon halves cut-side down on the grill. Cook 45-55 minutes until skin is crispy and internal temp reaches 165°F. No flipping required.
 6. Rest 10 minutes. Squeeze grilled lemon halves over the chicken before serving.
 
-## Notes
-
-- Kids: pull portions before squeezing lemon at the table.
-- The grilled lemon halves concentrate into an intense citrus paste — don't skip them.
-- Ask your butcher to spatchcock if you'd rather skip that step.
-
-Adapted from [Tastes Lovely](https://www.tasteslovely.com/grilled-lemon-rosemary-flattened-chicken/)

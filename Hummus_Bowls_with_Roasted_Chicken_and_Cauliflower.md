@@ -32,4 +32,3 @@ Kids' portions: pull plain chicken pieces before topping with the slaw and tomat
 4. Meanwhile, combine cabbage, lemon juice, ¼ tsp salt, and remaining 2 tbsp oil in the now-empty bowl. Combine cucumber, tomatoes, and remaining ¼ tsp salt in a second bowl.
 5. Cut chicken into bite-size pieces. Spread hummus over the bottoms of individual serving bowls. Top with piles of chicken, cauliflower, cabbage, and tomato mixture. Drizzle with extra oil and sprinkle with mint. Serve.
 
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16801-hummus-bowls-with-roasted-chicken-and-cauliflower)*

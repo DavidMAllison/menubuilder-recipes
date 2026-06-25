@@ -1,10 +1,5 @@
 # Southern-Style Smothered Pork Chops
 
-**Time:** 2 hours 30 minutes
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9126-southern-style-smothered-pork-chops)*
-
 ## Ingredients
 
 - 2 tablespoons Lawry’s Seasoned Salt
@@ -27,6 +22,4 @@
 4. Transfer fat left in skillet to liquid measuring cup. Return 1/4 cup fat to skillet and stir in remaining 1/2 cup flour. Cook over medium heat, stirring constantly, until roux is color of peanut butter, 3 to 5 minutes. Add onions and remaining 4 teaspoons spice mixture and cook, stirring constantly, until onions begin to soften slightly, about 2 minutes.
 5. Slowly stir water into roux mixture until gravy is smooth and free of lumps. Bring to simmer and cook until gravy begins to thicken, about 2 minutes. Pour half of gravy into 13 by 9-inch baking dish. Nestle browned chops in dish, overlapping slightly as needed. Pour remaining gravy over chops and cover dish tightly with aluminum foil. Bake until chops are fully tender, about 1 1/2 hours.
 6. Carefully transfer chops to serving dish. (Chops will be delicate and may fall apart.) Use wide spoon to skim fat from surface of gravy. Add vinegar to gravy and season with pepper to taste. Pour gravy over chops. Serve.
-
-## Notes
 

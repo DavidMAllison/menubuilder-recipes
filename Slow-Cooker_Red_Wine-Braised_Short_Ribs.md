@@ -1,10 +1,5 @@
 # Slow-Cooker Red Wine-Braised Short Ribs
 
-**Time:** 6 hours
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4983-slow-cooker-red-wine-braised-short-ribs-archived)*
-
 ## Ingredients
 
 - 5 pounds bone-in English-style short ribs , trimmed, meat and bones separated
@@ -28,6 +23,4 @@
 2. Heat oil in 12-inch skillet over medium heat until shimmering. Add onions, carrot, and celery and cook until softened and lightly browned, 8 to 10 minutes. Stir in flour, tomato paste, and thyme and cook until fragrant, about 1 minute. Slowly stir in wine and vinegar, scraping up any browned bits and smoothing out any lumps. Bring to simmer and cook until sauce is thickened, about 5 minutes; transfer to slow cooker.
 3. Stir broth and bay leaves into slow cooker. Season short ribs with salt and pepper and nestle into slow cooker. Cover and cook until beef is tender and fork slips easily in and out of meat, 8 to 9 hours on low or 5 to 6 hours on high.
 4. Transfer short ribs to serving dish, tent loosely with aluminum foil, and let rest while finishing sauce. Strain cooking liquid into fat separator and let sit for 5 minutes; discard bones and solids. Combine defatted sauce and parsley in bowl and season with salt and pepper to taste. Spoon 1 cup sauce over short ribs and serve, passing remaining sauce separately.
-
-## Notes
 

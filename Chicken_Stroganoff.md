@@ -1,10 +1,5 @@
 # Chicken Stroganoff
 
-**Time:** 55 minutes
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14166-chicken-stroganoff)*
-
 ## Ingredients
 
 - 12 ounces (6 cups) egg noodles
@@ -33,6 +28,4 @@
 4. Melt remaining 2 tablespoons butter in now-empty skillet over medium-high heat. Add mushrooms, onion, remaining ½ teaspoon salt, and remaining ½ teaspoon pepper and cook until any liquid has evaporated and vegetables just begin to brown, 7 to 9 minutes. Stir in garlic, tomato paste, thyme, and remaining 1 tablespoon flour and cook until fragrant, about 30 seconds.
 5. Stir in broth and sherry and bring to simmer, scraping up any browned bits. Add chicken and any accumulated juices and cook until warmed through and sauce thickens slightly, about 1 minute.
 6. Off heat, stir in sour cream until thoroughly combined. Season with salt and pepper to taste. Transfer noodles to shallow bowls and spoon stroganoff over top. Sprinkle with parsley and extra paprika. Serve with extra sour cream.
-
-## Notes
 

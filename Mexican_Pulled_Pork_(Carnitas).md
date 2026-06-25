@@ -3,6 +3,10 @@
 **Time**: 2 hours 45 minutes
 **Servings**: 6–8
 
+## Notes
+
+- Great as a taco filling, but also works for tamales, enchiladas, and burritos.
+
 ## Ingredients
 
 - 4 pounds boneless pork butt, fat cap trimmed to ⅛ inch, cut into 2-inch chunks
@@ -26,10 +30,3 @@
 3. Pull each piece of pork in half using two forks. Fold in the reduced liquid and season with salt and pepper. Spread the pork in an even layer on a wire rack set over a rimmed baking sheet — it should cover nearly the whole surface.
 4. Broil on the lower-middle rack until the top is well browned but not charred, 5–8 minutes. Flip the pieces and broil the other side, 5–8 minutes more. Serve immediately in warm tortillas with garnishes.
 
-## Notes
-
-- Great as a taco filling, but also works for tamales, enchiladas, and burritos.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4232-mexican-pulled-pork-carnitas)*

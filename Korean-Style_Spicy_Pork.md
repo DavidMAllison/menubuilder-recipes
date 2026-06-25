@@ -1,5 +1,10 @@
 # Korean-Style Spicy Pork
 
+## Notes
+
+- Family hit. Serve over rice — lettuce wraps work but rice is the better call.
+- Pork shoulder must be thinly sliced; ask the butcher or freeze 20 min before slicing yourself.
+
 ## Ingredients
 
 - Gochujang (to taste)
@@ -20,9 +25,3 @@
 4. Stir in the gochujang mixture and cook until pork is tender and coated.
 5. Serve with steamed rice or lettuce leaves. Garnish with scallions, sesame oil, or sesame seeds if desired.
 
-## Notes
-
-- Family hit. Serve over rice — lettuce wraps work but rice is the better call.
-- Pork shoulder must be thinly sliced; ask the butcher or freeze 20 min before slicing yourself.
-
-*Adapted from [Maangchi](https://www.maangchi.com/recipe/dwaejigogi-bokkeum)*

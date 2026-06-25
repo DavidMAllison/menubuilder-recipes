@@ -3,6 +3,10 @@
 **Time**: 50 minutes
 **Servings**: 4–6
 
+## Notes
+
+- Don't use overly ripe pears — they'll go mushy in the pan.
+
 ## Ingredients
 
 - 2¼ teaspoons salt, divided
@@ -28,10 +32,3 @@
 5. Transfer the skillet to the oven and roast until pork registers 135–140°F, 10–12 minutes. Move pork to a carving board and rest 10 minutes. Arrange pork and pears on a serving platter.
 6. Stir any resting juices into the onions and warm over medium-low. Remove from heat and whisk in remaining 2 tablespoons butter until melted and slightly thickened. Season with salt and pepper. Spoon over pork and pears, sprinkle with parsley, and serve.
 
-## Notes
-
-- Don't use overly ripe pears — they'll go mushy in the pan.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15123-pork-tenderloin-and-pears-with-balsamic-onions)*

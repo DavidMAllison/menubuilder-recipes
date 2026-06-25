@@ -1,5 +1,13 @@
 # Chicken Piccata (Good Eats)
 
+## Notes
+
+- Uses chicken thighs (not breasts) -- better flavor and tenderness.
+- Do not rinse the capers; the brine adds flavor.
+- Cook in 3 batches of 2; overcrowding causes steaming not browning.
+- Kids: pull chicken portions before adding capers/sauce and serve plain.
+- Serve with pasta, rice, or crusty bread to soak up the sauce.
+
 ## Ingredients
 
 - 1 cup unsalted chicken broth
@@ -15,14 +23,6 @@
 - 3 tbsp capers, drained but not rinsed
 - 2 tbsp chopped fresh flat-leaf parsley
 
-## Notes
-
-- Uses chicken thighs (not breasts) -- better flavor and tenderness.
-- Do not rinse the capers; the brine adds flavor.
-- Cook in 3 batches of 2; overcrowding causes steaming not browning.
-- Kids: pull chicken portions before adding capers/sauce and serve plain.
-- Serve with pasta, rice, or crusty bread to soak up the sauce.
-
 ## Instructions
 
 1. Combine broth, wine, and lemon juice in a measuring cup and set aside. Season thighs on both sides with 2 tsp salt and all the pepper.
@@ -34,4 +34,3 @@
 7. Return chicken to the pan, overlapping as needed. Pour in remaining wine-broth mixture. Lay lemon slices on top, cover with lid, reduce heat to low, and cook until fork-tender, about 5 minutes.
 8. Transfer chicken to a serving platter. Boost heat to high. Using a fine-mesh sieve, sprinkle in remaining 1 tsp flour. Whisk constantly 2 minutes. Add final tbsp butter and whisk until sauce thickens and looks glossy, about 1 more minute. Pour sauce over chicken, top with parsley, and serve.
 
-*Adapted from [Alton Brown](https://altonbrown.com/good-eats-chicken-piccata)*

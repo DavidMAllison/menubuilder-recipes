@@ -39,6 +39,3 @@
 5. Heat oil in a Dutch oven to 350°F. Fry chicken until deep golden brown and the internal temperature reaches 175°F, 8–12 minutes, flipping halfway. Adjust heat to keep oil between 325–350°F. Drain on a paper towel-lined plate.
 6. Spread mayo on bun bottoms. Add chicken, pickle sauce, and lettuce. Serve.
 
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15412-pickle-brined-fried-chicken-sandwiches)*

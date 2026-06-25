@@ -1,5 +1,10 @@
 # Greek Sheet Pan Chicken
 
+## Notes
+
+- For kids: Pull plain chicken thighs before adding olives and feta. Skip olives for kids.
+- One-pan meal — minimal cleanup.
+
 ## Ingredients
 
 **Ladolemono Dressing:**
@@ -31,9 +36,3 @@
 5. Bake approximately 35 minutes until chicken is cooked through. For additional browning, broil 2 minutes on top rack.
 6. Spoon pan juices over chicken, garnish with parsley, and serve.
 
-## Notes
-
-- For kids: Pull plain chicken thighs before adding olives and feta. Skip olives for kids.
-- One-pan meal — minimal cleanup.
-
-*Adapted from [The Mediterranean Dish](https://www.themediterraneandish.com/greek-sheet-pan-chicken/)*

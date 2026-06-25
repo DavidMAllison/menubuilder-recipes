@@ -1,10 +1,5 @@
 # White Beans with Tomatoes and Capers
 
-**Time:** 9 hours 45 minutes
-**Servings:** Serves 4 to 6
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12509-white-beans-with-tomatoes-and-capers)*
-
 ## Ingredients
 
 - 1 1/2 tablespoons table salt  for brining
@@ -24,6 +19,4 @@
 3. Turn off heat, cover pot, and let beans steep until tender, 20 to 30 minutes. Drain beans in colander. (Beans can be refrigerated in airtight container for up to 3 days. Alternatively, beans can be cooled, transferred to zipper-lock bags, and frozen for up to 1 month.)
 4. Combine ¼ cup oil and garlic in 12-inch nonstick skillet and cook over medium heat until garlic begins to brown lightly at edges, about 3 minutes. Add 3½ cups beans (reserve remainder for another use), tomatoes, capers, oregano, pepper flakes, and remaining ¼ teaspoon salt and cook until tomatoes just begin to soften, about 5 minutes, stirring occasionally.
 5. Transfer bean mixture to shallow dish and drizzle with remaining 2 tablespoons oil. Serve.
-
-## Notes
 

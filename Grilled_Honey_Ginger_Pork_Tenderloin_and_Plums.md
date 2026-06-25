@@ -2,6 +2,11 @@
 
 **Time**: 60 minutes | **Serves**: 4
 
+## Notes
+
+- A luscious honey-ginger butter sauce cloaks mild pork tenderloin and juicy plums.
+- Kids: pull plain pork slices before drizzling with sauce.
+
 ## Ingredients
 
 - 6 tablespoons unsalted butter
@@ -23,11 +28,3 @@
 
 3. Slice pork and transfer to serving platter, reserving any accumulated juices. Stir lemon juice and accumulated juices into remaining butter mixture. Drizzle pork and plums with sauce. Serve.
 
-## Notes
-
-- A luscious honey-ginger butter sauce cloaks mild pork tenderloin and juicy plums.
-- Kids: pull plain pork slices before drizzling with sauce.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums)*

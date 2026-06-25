@@ -1,7 +1,10 @@
 # Dal Tadka
 
-**Time:** 40 minutes (10 min prep, 30 min cook)
-**Servings:** 4
+## Notes
+
+- Kids: set aside a plain portion of dal before the tadka — it's mild without the tempering.
+- Dal thickens as it cools; add a splash of water when reheating.
+- Can use toor dal only if you don't have all three lentils.
 
 ## Ingredients
 
@@ -43,12 +46,6 @@
 4. Transfer masala to lentils. Simmer together 6–7 minutes. Crush kasuri methi between palms and stir in. Add coriander and turn off heat.
 5. Make tadka: melt ghee in a small pan over medium heat. Add cumin seeds until they crackle. Add dried chilies and garlic; fry until light golden. Add hing and chili powder. Immediately remove from heat and pour over dal.
 6. Garnish with fresh coriander. Serve with rice, naan, or roti with lemon on the side.
-
-## Notes
-
-- Kids: set aside a plain portion of dal before the tadka — it's mild without the tempering.
-- Dal thickens as it cools; add a splash of water when reheating.
-- Can use toor dal only if you don't have all three lentils.
 
 ## Ingredient Substitutions
 

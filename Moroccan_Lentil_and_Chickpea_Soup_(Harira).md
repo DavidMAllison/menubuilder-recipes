@@ -3,6 +3,11 @@
 **Time**: 55 minutes
 **Servings**: 6
 
+## Notes
+
+- For a vegetarian version, substitute vegetable broth for chicken broth.
+- Garnish with a spoonful of harissa for heat.
+
 ## Ingredients
 
 - ⅓ cup extra-virgin olive oil
@@ -35,11 +40,3 @@
 3. Stir in tomatoes and orzo and simmer, partially covered, for 7 minutes. Add chard and cook until pasta is tender and chard is wilted, about 5 minutes more.
 4. Remove from heat. Stir in lemon juice, remaining ¼ cup cilantro, and remaining ¼ cup parsley. Season with salt and pepper. Serve with lemon wedges.
 
-## Notes
-
-- For a vegetarian version, substitute vegetable broth for chicken broth.
-- Garnish with a spoonful of harissa for heat.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10605-moroccan-lentil-and-chickpea-soup-harira)*

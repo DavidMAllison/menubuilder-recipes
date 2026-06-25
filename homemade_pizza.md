@@ -33,4 +33,3 @@
 8. Bake: Carefully transfer pizza (with parchment) to the hot stone or sheet.
 9. Serve: basil if desired. Slice and serve hot. Tips - For crispier crust, bake directly on a preheated pizza stone - Don't overload with toppings - less is more for crispy pizza - Dough can be made ahead and refrigerated up to 3 days - Dough can also be frozen for up to 3 months - For thin crust, roll dough thinner; for thick crust, let it rest Serving Suggestions Serve with a simple green salad, garlic bread, or Italian antipasti. Perfect for family dinner or casual entertaining!
 
-*Adapted from [Serious Eats](https://www.seriouseats.com/foolproof-pan-pizza-recipe)*

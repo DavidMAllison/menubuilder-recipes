@@ -3,7 +3,6 @@
 **Time**: Approximately 1 hour  
 **Yield**: None  
 
-
 ## Ingredients
 
 - 16 to 20 white-braised onions
@@ -29,4 +28,3 @@
 9. Off heat and just before serving, tilt casserole, add enrichment butter, and baste the chicken with the sauce until the butter has absorbed into it.
 10. Serve the chicken from the casserole, or arrange it with the onions and mushrooms on a hot platter, surrounded with rice or noodles, and covered with the sauce. Decorate with sprigs of fresh parsley.
 
-*Adapted from Julia Child, Mastering the Art of French Cooking*

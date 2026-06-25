@@ -29,4 +29,3 @@
 4. While salmon bakes, make the herb-yogurt sauce: Combine Greek yogurt, lemon juice, dill, parsley, garlic, paprika, remaining 1 tablespoon olive oil, remaining 1/4 teaspoon salt, and remaining 1/4 teaspoon pepper. Stir until combined. Refrigerate until ready to serve.
 5. Let salmon rest 3 minutes. Serve topped with herb-yogurt sauce; garnish with additional fresh dill if desired.
 
-*Adapted from [The Weary Chef](https://wearychef.com/recipe/baked-salmon-with-herbed-yogurt-sauce/)*

@@ -5,6 +5,12 @@
 **Time**: 55 minutes (10 min prep + 45 min cook)
 **Servings**: 4–6
 
+## Notes
+
+- Dried chipotle chiles are preferred; canned work in a pinch.
+- For kids: pull out plain shredded chicken before adding to the sauce in step 4.
+- Serve as a soupy stew over white rice or with tortillas, or cook down further and use as a tostada topping with shredded lettuce, crema, cheese, and fresh salsa.
+
 ## Ingredients
 
 - 1 lb (455 g) skinless, boneless chicken breast
@@ -24,12 +30,3 @@
 5. Season to taste with salt. Add more broth if needed — the tinga should be a bit soupy.
 6. Serve hot. Refrigerate for up to 1 week or freeze for up to 1 month in an airtight container.
 
-## Notes
-
-- Dried chipotle chiles are preferred; canned work in a pinch.
-- For kids: pull out plain shredded chicken before adding to the sauce in step 4.
-- Serve as a soupy stew over white rice or with tortillas, or cook down further and use as a tostada topping with shredded lettuce, crema, cheese, and fresh salsa.
-
-*Adapted from [Tu Casa Mi Casa by Enrique Olvera](https://www.penguinrandomhouse.com/books/576041/tu-casa-mi-casa-by-enrique-olvera/) (p. 122)*
-
-*Adapted from [Food52](https://food52.com/recipes/80894-tinga-de-pollo)*

@@ -1,5 +1,9 @@
 # Sweet and Sour Mexican Style Fish (Pescado Agridulce)
 
+## Notes
+
+- Kid-friendly: Zero chili peppers — warmth from allspice and cinnamon only. Pull plain fish for kids before adding sauce.
+
 ## Ingredients
 
 - 1 1/2 lbs white fish fillets (cod, tilapia, or snapper)
@@ -25,8 +29,3 @@
 
 4. Scrape sauce over fish, cover, and reduce heat to low. Cook 10 minutes until fish is cooked through. Serve over rice or potatoes.
 
-## Notes
-
-- Kid-friendly: Zero chili peppers — warmth from allspice and cinnamon only. Pull plain fish for kids before adding sauce.
-
-*Adapted from [Pati Jinich](https://patijinich.com/sweet-and-sour-mexican-style-fish)*

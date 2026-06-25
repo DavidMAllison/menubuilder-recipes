@@ -1,10 +1,5 @@
 # Simple Stovetop Macaroni and Cheese
 
-**Time:** 25 minutes
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9474-simple-stovetop-macaroni-and-cheese)*
-
 ## Ingredients
 
 - 1 1/2 cups water
@@ -26,6 +21,4 @@
 3. Off heat, stir in 1 cup shredded extra-sharp cheddar cheese until evenly distributed but not melted. Cover saucepan and let stand for 5 minutes.
 4. Meanwhile, combine ⅓ cup panko bread crumbs, 1 tablespoon extra-virgin olive oil, ⅛ teaspoon table salt, and ⅛ teaspoon pepper in 8-inch nonstick skillet until panko is evenly moistened. Cook over medium heat, stirring frequently, until evenly browned, 3 to 4 minutes. Off heat, sprinkle 2 tablespoons grated Parmesan cheese over panko mixture and stir to combine. Transfer panko mixture to small bowl.
 5. Stir macaroni until sauce is smooth (sauce may look loose but will thicken as it cools). Season with salt and pepper to taste. Transfer to warm serving dish and sprinkle panko mixture over top. Serve immediately.
-
-## Notes
 

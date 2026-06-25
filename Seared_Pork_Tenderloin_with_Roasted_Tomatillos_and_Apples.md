@@ -3,6 +3,14 @@
 **Time**: 50 minutes
 **Serves**: 4
 
+## Notes
+
+- Apples should be firm (Honeycrisp, Fuji) so they hold their shape in the sauce.
+- Kids: pull pork slices before adding them back to the sauce — serve plain with rice.
+- Poblanos are mild; no significant spice for kids.
+
+Adapted from [Rick Bayless](https://www.rickbayless.com/recipe/seared-pork-tenderloin-or-chicken-thighs-with-roasted-tomatillos-and-apples/)
+
 ## Ingredients
 
 - 1 lb (6-8 medium) tomatillos, husked and rinsed
@@ -27,10 +35,3 @@
 6. When sauce boils, nestle pork in, reduce heat to medium, and partially cover. Simmer until cooked through, about 20 minutes.
 7. Remove pork to cutting board. Bring sauce to a boil; season with salt and sugar to taste. Slice pork into medallions, arrange on plates, and spoon sauce around. Garnish with herbs.
 
-## Notes
-
-- Apples should be firm (Honeycrisp, Fuji) so they hold their shape in the sauce.
-- Kids: pull pork slices before adding them back to the sauce — serve plain with rice.
-- Poblanos are mild; no significant spice for kids.
-
-Adapted from [Rick Bayless](https://www.rickbayless.com/recipe/seared-pork-tenderloin-or-chicken-thighs-with-roasted-tomatillos-and-apples/)

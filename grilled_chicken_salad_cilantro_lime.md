@@ -1,5 +1,10 @@
 # Grilled Chicken Salad with Cilantro-Lime Dressing
 
+## Notes
+
+- Kids: serve plain grilled chicken and corn, skip the dressing (jalapeño). Fritos are a hit.
+- Jalapeño heat is mild once seeded — reduce or omit entirely for more heat-sensitive adults.
+
 ## Ingredients
 
 **Dressing**
@@ -28,9 +33,3 @@
 4. Slice chicken. Cut corn kernels off the cob.
 5. Toss lettuce with dressing in a large bowl. Arrange chicken, corn, and avocado over greens. Drizzle with additional dressing and serve remaining dressing on the side with Fritos.
 
-## Notes
-
-- Kids: serve plain grilled chicken and corn, skip the dressing (jalapeño). Fritos are a hit.
-- Jalapeño heat is mild once seeded — reduce or omit entirely for more heat-sensitive adults.
-
-*Adapted from [Smitten Kitchen](https://smittenkitchen.com/2025/08/grilled-chicken-salad-with-cilantro-lime-dressing/)*

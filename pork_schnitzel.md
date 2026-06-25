@@ -1,5 +1,12 @@
 # Pork Schnitzel
 
+## Notes
+
+- Pounding the meat thin is key — it cooks quickly and stays tender.
+- Make sure oil is hot before adding schnitzel, or breading will absorb too much oil.
+- Serve immediately for maximum crispiness.
+- Traditional accompaniments: potato salad, cucumber salad, or spaetzle.
+
 ## Ingredients
 
 - 4 boneless pork chops or pork cutlets (6 oz each)
@@ -24,11 +31,3 @@
 5. Fry: Working in batches if needed, carefully add cutlets to oil. Cook 3-4 minutes per side until golden brown; the breading will puff up slightly. Don't flip more than once.
 6. Drain: Transfer to a paper towel-lined plate. Serve immediately with lemon wedges and parsley.
 
-## Notes
-
-- Pounding the meat thin is key — it cooks quickly and stays tender.
-- Make sure oil is hot before adding schnitzel, or breading will absorb too much oil.
-- Serve immediately for maximum crispiness.
-- Traditional accompaniments: potato salad, cucumber salad, or spaetzle.
-
-*Adapted from [Milk Street](https://www.wskg.org/arts/2022-09-27/milk-street-schnitzel-and-mashed-ep-517)*

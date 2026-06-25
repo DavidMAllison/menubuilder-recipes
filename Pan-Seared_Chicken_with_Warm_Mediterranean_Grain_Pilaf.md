@@ -3,6 +3,11 @@
 **Time**: 35 minutes
 **Servings**: 4
 
+## Notes
+
+- Use fine-grind bulgur only — coarse or medium won't cook through with this method.
+- Kids: Serve plain sliced chicken alongside.
+
 ## Ingredients
 
 - 4 (6–8 oz) boneless, skinless chicken breasts, trimmed
@@ -22,11 +27,3 @@
 2. Add water to the skillet and bring to a boil, scraping up any browned bits. Stir in bulgur and ½ teaspoon salt. Cover, remove from heat, and let sit 5 minutes. Fluff with a fork.
 3. Stir tomatoes, feta, parsley, olives, lemon juice, and remaining 2 tablespoons oil into the bulgur. Season with salt and pepper. Slice chicken and serve over the grain pilaf with lemon wedges and a drizzle of oil.
 
-## Notes
-
-- Use fine-grind bulgur only — coarse or medium won't cook through with this method.
-- Kids: Serve plain sliced chicken alongside.
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com)*
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8847-pan-seared-chicken-with-warm-mediterranean-grain-pilaf)*

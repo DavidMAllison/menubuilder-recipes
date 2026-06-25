@@ -1,5 +1,11 @@
 # Herb-Marinated Lamb Rib Chops with Mint Sauce
 
+## Notes
+
+- Buy double-cut frenched rib chops from Whole Foods for best results.
+- Lamb is best served pink (medium-rare to medium).
+- Kids: Season a few chops with just salt and pepper before applying the herb rub. Pull those out before plating -- serve adults with the mint sauce.
+
 ## Ingredients
 
 **For the Chops:**
@@ -20,12 +26,6 @@
 - 1/4 teaspoon kosher salt
 - 2 tablespoons olive oil
 - 1 tablespoon fresh dill, chopped (optional but recommended)
-
-## Notes
-
-- Buy double-cut frenched rib chops from Whole Foods for best results.
-- Lamb is best served pink (medium-rare to medium).
-- Kids: Season a few chops with just salt and pepper before applying the herb rub. Pull those out before plating -- serve adults with the mint sauce.
 
 ## Instructions
 

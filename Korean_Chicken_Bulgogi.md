@@ -1,5 +1,12 @@
 # Korean Chicken Bulgogi (Dak Bulgogi)
 
+## Notes
+
+- Marinate in the morning for dinner — 4 hours minimum, overnight is better.
+- Pull kids' plain portions before glazing with sauce.
+- Low sodium version: substitute coconut aminos for soy sauce.
+- Serve over rice with steamed vegetables.
+
 ## Ingredients
 
 - 1 lb (450g) boneless skinless chicken thighs, cut into bite-size pieces
@@ -22,11 +29,3 @@
 4. Meanwhile, boil leftover marinade in a separate saucepan for 2-3 minutes over medium-high heat, stirring occasionally. Sieve out any excess fat.
 5. Glaze sauce over chicken before serving.
 
-## Notes
-
-- Marinate in the morning for dinner — 4 hours minimum, overnight is better.
-- Pull kids' plain portions before glazing with sauce.
-- Low sodium version: substitute coconut aminos for soy sauce.
-- Serve over rice with steamed vegetables.
-
-*Adapted from [My Korean Kitchen](https://mykoreankitchen.com/chicken-bulgogi)*
