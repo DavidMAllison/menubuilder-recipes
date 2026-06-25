@@ -8,7 +8,7 @@
 - 3 medium cloves garlic , minced or pressed through garlic press (about 1 tablespoon)
 - 10 ounces shiitake mushrooms , stems discarded, caps wiped clean and sliced 1/4 inch thick
 - 10 ounces cremini mushrooms , wiped clean and sliced 1/4 inch thick
-- 1 tablespoon minced fresh thyme leaves , plus 1 additional teaspoon
+- 4 teaspoons minced fresh thyme leaves (added all at once)
 - 1 1/4 cups low-sodium chicken broth  or vegetable broth
 - 1/2 cup heavy cream
 - 1 tablespoon lemon juice  from 1 lemon
