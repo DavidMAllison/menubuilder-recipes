@@ -1,10 +1,3 @@
-# Pasta with Sautéed Mushrooms and Thyme
-
-**Time:** 55 minutes
-**Servings:** 4 as a main course, 6 to 8 as a side dish
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/1672-pasta-with-sauteed-mushrooms-and-thyme)*
-
 ## Ingredients
 
 - table salt
