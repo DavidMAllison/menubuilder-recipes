@@ -1,3 +1,6 @@
+---
+permalink: /Yogurt-Herb_Sauce
+---
 # Yogurt-Herb Sauce
 
 ## Ingredients

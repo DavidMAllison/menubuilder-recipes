@@ -1,3 +1,6 @@
+---
+permalink: /Quick_Pickled_Red_Onions
+---
 # Quick Pickled Red Onions
 
 **Time**: 5 minutes + 20 minutes resting  

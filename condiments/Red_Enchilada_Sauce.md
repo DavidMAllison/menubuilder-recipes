@@ -1,3 +1,6 @@
+---
+permalink: /Red_Enchilada_Sauce
+---
 # Red Enchilada Sauce
 
 **Yield**: ~3 cups (about 14 servings)

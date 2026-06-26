@@ -1,3 +1,6 @@
+---
+permalink: /Cilantro_Chutney
+---
 # Cilantro Chutney
 
 **Time**: 10 minutes  

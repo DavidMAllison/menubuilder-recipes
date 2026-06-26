@@ -1,3 +1,6 @@
+---
+permalink: /Mint-Cilantro_Green_Chutney
+---
 # Mint-Cilantro Green Chutney
 
 **Time**: 10 minutes  

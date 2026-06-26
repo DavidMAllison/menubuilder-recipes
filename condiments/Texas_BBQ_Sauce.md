@@ -1,3 +1,6 @@
+---
+permalink: /Texas_BBQ_Sauce
+---
 # Texas BBQ Sauce
 
 **Time**: 10 minutes  
