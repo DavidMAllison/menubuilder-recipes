@@ -6,7 +6,7 @@
 
 ## Notes
 
-- **Serving**: Serve with [Cilantro Chutney](https://www.indianhealthyrecipes.com/cilantro-chutney/), [Mint-Cilantro Green Chutney](https://www.indianhealthyrecipes.com/green-chutney/), or raita. Also works well stuffed in naan or chapati with chutney and salad.
+- **Serving**: Serve with [Cilantro Chutney](https://davidmallison.github.io/menubuilder-recipes/Cilantro_Chutney), [Mint-Cilantro Green Chutney](https://davidmallison.github.io/menubuilder-recipes/Mint-Cilantro_Green_Chutney), or raita. Also works well stuffed in naan or chapati with chutney and salad.
 - **Chicken thighs**: Only need 20 minutes of resting time — good for weeknights.
 - **Chicken breasts**: Need 3–4 hours minimum resting (8+ hours ideal) to stay juicy at high heat. Well-rested breast delivers better texture and flavor than thighs.
 

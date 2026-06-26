@@ -19,7 +19,7 @@ Original recipe
 - 1 1/2 lbs chicken (your seasoning) or frozen pulled pork, thawed and warmed
 - Sour cream
 - Oaxacan cheese (quesillo), pulled into strings
-- Quick Pickled Red Onions (see condiments)
+- [Quick Pickled Red Onions](https://davidmallison.github.io/menubuilder-recipes/Quick_Pickled_Red_Onions)
 - Hot sauce (Valentina or Cholula)
 
 ## Instructions
