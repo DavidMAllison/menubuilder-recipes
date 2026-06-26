@@ -1766,5 +1766,13 @@
     "cuisine": "American",
     "source": "J. Kenji López-Alt",
     "source_url": "https://www.youtube.com/watch?v=aiyD-FbSZE0"
+  },
+  "Orange_Chicken_Recipe": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 5 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/orange-chicken"
   }
 }
