@@ -1774,5 +1774,13 @@
     "cuisine": "Chinese",
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/orange-chicken"
+  },
+  "Tunisian_Chicken_Tagine_Recipe": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "['4', '4-6']",
+    "cuisine": "Moroccan",
+    "source": "Feasting at Home",
+    "source_url": "https://www.feastingathome.com/tunisian-chicken-with-cous-cous"
   }
 }
