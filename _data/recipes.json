@@ -1758,5 +1758,13 @@
     "cuisine": "Mediterranean",
     "source": "The Mediterranean Dish",
     "source_url": "https://www.themediterraneandish.com/baked-chicken-drumsticks"
+  },
+  "How_to_Make_the_Crispiest_General_Tsos_Chicken_at_Home_Kenjis_Cooking_Show": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "American",
+    "source": "J. Kenji López-Alt",
+    "source_url": "https://www.youtube.com/watch?v=aiyD-FbSZE0"
   }
 }
