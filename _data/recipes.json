@@ -1782,5 +1782,13 @@
     "cuisine": "Moroccan",
     "source": "Feasting at Home",
     "source_url": "https://www.feastingathome.com/tunisian-chicken-with-cous-cous"
+  },
+  "Chicken_Curry_Recipe": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "3 people",
+    "cuisine": "Asian, Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-curry"
   }
 }
