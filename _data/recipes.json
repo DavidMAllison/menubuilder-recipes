@@ -1790,5 +1790,13 @@
     "cuisine": "Asian, Indian",
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/chicken-curry"
+  },
+  "Citrus_Rosemary_Chicken_Recipe": {
+    "health": "Heart-Healthy",
+    "time": "55 minutes",
+    "servings": "6 people",
+    "cuisine": "Mediterranean",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/citrus-rosemary-chicken"
   }
 }
