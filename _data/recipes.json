@@ -1806,5 +1806,13 @@
     "cuisine": "Kerala",
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/kerala-chicken"
+  },
+  "Roast_Chicken_With_Citrus_Honey": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 10 minutes",
+    "servings": "6",
+    "cuisine": "Greek",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey"
   }
 }
