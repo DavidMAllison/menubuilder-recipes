@@ -3,6 +3,10 @@
 **Time**: 2½ hours (plus 1 hour resting before roasting)
 **Servings**: 6
 
+## Notes
+
+- Traditionally made rotisserie-style, which eliminates the final pan-sear step and reduces overall cook time. Worth trying on the rotisserie next time.
+
 ## Ingredients
 
 - 1 lemon
