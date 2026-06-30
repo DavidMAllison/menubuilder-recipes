@@ -2,6 +2,7 @@
 
 **Time**: 40 minutes
 **Servings**: 4
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16391-tonkatsu-japanese-fried-pork-chops)
 
 ## Notes
 
@@ -27,4 +28,3 @@
 3. If the chops have a fat cap, score it with paring knife slits every ¾ inch to prevent curling. Season chops all over with salt. Dredge in flour, shaking off the excess. Dip in egg, letting the excess drip off. Press into the panko, coating all sides firmly and tilting the dish to use fresh crumbs for each chop.
 4. Heat oil in a 12-inch cast-iron skillet over medium to 340°F. Add chops and fry, lifting an edge occasionally to vent steam, until deep golden on both sides, about 4 minutes per side. Rest against the loaf pan on the rack for 5 minutes.
 5. Slice chops crosswise ½ inch thick. Serve over rice with cabbage, lemon wedges, soy sauce, and wasabi.
-

@@ -1,5 +1,7 @@
 # Mediterranean Baked Salmon with Herb-Yogurt Sauce
 
+**Adapted from**: [The Weary Chef / Midwest Foodie](https://wearychef.com/recipe/baked-salmon-with-herbed-yogurt-sauce/)
+
 ## Ingredients
 
 - 4 (6-ounce) salmon fillets, skin on
@@ -28,4 +30,3 @@
 3. Bake 12-15 minutes until salmon flakes easily and internal temperature reaches 125-130°F for medium (or 145°F for well-done).
 4. While salmon bakes, make the herb-yogurt sauce: Combine Greek yogurt, lemon juice, dill, parsley, garlic, paprika, remaining 1 tablespoon olive oil, remaining 1/4 teaspoon salt, and remaining 1/4 teaspoon pepper. Stir until combined. Refrigerate until ready to serve.
 5. Let salmon rest 3 minutes. Serve topped with herb-yogurt sauce; garnish with additional fresh dill if desired.
-

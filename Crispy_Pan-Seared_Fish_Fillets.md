@@ -1,6 +1,7 @@
 # Crispy Pan-Seared Fish Fillets (The Food Lab Method)
 
 **Serves:** 4
+**Adapted from**: [Serious Eats / J. Kenji Lopez-Alt](https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe)
 
 ## Notes
 
@@ -27,4 +28,3 @@
 5. Heat oil in a large cast iron or nonstick skillet over medium heat until shimmering. Add fish breaded-side-down and cook, swirling and rotating around the pan, until deep golden brown, about 5 minutes.
 6. Carefully flip fish and transfer skillet to oven. Cook until an instant-read thermometer registers 140°F at the thickest point, about 5 more minutes.
 7. Serve immediately with lemon wedges or tartar sauce.
-

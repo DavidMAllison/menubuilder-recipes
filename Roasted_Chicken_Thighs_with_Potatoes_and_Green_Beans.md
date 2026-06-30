@@ -2,6 +2,7 @@
 
 **Time**: 55 minutes
 **Servings**: 4–6
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15903-roasted-chicken-thighs-with-potatoes-and-green-beans)
 
 ## Notes
 
@@ -26,4 +27,3 @@
 1. Heat oven to 450°F. Toss potatoes, green beans, oil, 1 tablespoon salt, garlic, sage, rosemary, and ½ teaspoon pepper together in a large bowl. Microwave covered until just tender, 12–15 minutes, stirring once. Transfer to a 13×9-inch baking dish and press into an even layer.
 2. Pat chicken dry and season all over with remaining 1½ teaspoons salt and ½ teaspoon pepper. Place skin-side down in a large nonstick skillet over medium-high and cook until the skin is light golden, about 10 minutes. Flip and cook until the second side is browned, about 5 minutes.
 3. Arrange chicken skin-side up over the vegetables. Off the heat, stir the wine, lemon zest, and lemon juice into the fat in the skillet, then drizzle evenly over the chicken. Roast until chicken registers at least 175°F, 15–20 minutes. Serve.
-

@@ -1,5 +1,7 @@
 # Lime-Rubbed Chicken Tacos with Corn Guacamole
 
+**Adapted from**: [Pati Jinich](https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/)
+
 ## Notes
 
 - Kids: Build-your-own tacos — kids get plain chicken in tortilla, skip guacamole and jalapeno.
@@ -36,4 +38,3 @@
 4. Combine diced avocado, charred garlic and jalapeno, corn, tomatoes, lime juice, and salt. Mix gently.
 5. Warm tortillas on a skillet or comal over medium-low heat, about 1 minute per side.
 6. Serve build-your-own style with chicken, corn guacamole, and tortillas.
-

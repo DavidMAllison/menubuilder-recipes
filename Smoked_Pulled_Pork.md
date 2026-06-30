@@ -3,6 +3,7 @@
 **Serves:** 10-14
 
 ---
+**Adapted from**: [Aaron Franklin](https://www.youtube.com/watch?v=xFznDU7Wy-k)
 
 ## Notes
 
@@ -42,4 +43,3 @@
 8. Pull by hand, removing any large fat pieces. Mix in any accumulated juices from the wrap.
 
 ---
-

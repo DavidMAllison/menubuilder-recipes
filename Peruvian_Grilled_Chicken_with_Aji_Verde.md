@@ -1,5 +1,7 @@
 # Peruvian Grilled Chicken with Aji Verde
 
+**Adapted from**: [Feasting at Home](https://www.feastingathome.com/grilled-peruvian-chicken-with-green-sauce/)
+
 ## Notes
 
 - Family used a whole spatchcocked chicken -- worked great. Buy a 3.5-4 lb chicken.
@@ -45,4 +47,3 @@
 5. OVEN: Place on parchment-lined sheet pan. Roast at 425F until cooked through.
 6. For kids: pull plain chicken portions before adding sauce or at the table.
 7. Serve with cilantro lime rice and avocado salad. Drizzle with Aji Verde for adults.
-

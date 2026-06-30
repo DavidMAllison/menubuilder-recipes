@@ -1,5 +1,7 @@
 # Korean-Style Spicy Pork
 
+**Adapted from**: [Maangchi](https://www.maangchi.com/recipe/dwaejigogi-bokkeum)
+
 ## Notes
 
 - Family hit. Serve over rice — lettuce wraps work but rice is the better call.
@@ -24,4 +26,3 @@
 3. Add onion and ginger (or garlic); cook until fragrant.
 4. Stir in the gochujang mixture and cook until pork is tender and coated.
 5. Serve with steamed rice or lettuce leaves. Garnish with scallions, sesame oil, or sesame seeds if desired.
-

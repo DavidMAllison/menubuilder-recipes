@@ -1,6 +1,7 @@
 # Grilled Honey-Ginger Pork Tenderloin and Plums
 
 **Time**: 60 minutes | **Serves**: 4
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums)
 
 ## Notes
 
@@ -27,4 +28,3 @@
 2. Pat pork dry with paper towels and sprinkle with salt, pepper, and cinnamon. Grill over hot fire (covered if using gas) until pork is browned on all sides and registers 140 degrees, 12 to 14 minutes. Brush with reserved butter mixture and continue to cook 1 minute longer. Transfer to cutting board and tent with foil. Grill plums cut side down over hot fire until lightly caramelized, 2 to 4 minutes. Transfer to serving platter.
 
 3. Slice pork and transfer to serving platter, reserving any accumulated juices. Stir lemon juice and accumulated juices into remaining butter mixture. Drizzle pork and plums with sauce. Serve.
-

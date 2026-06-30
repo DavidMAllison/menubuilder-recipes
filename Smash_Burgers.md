@@ -2,6 +2,7 @@
 
 **Time**: 20 minutes  
 **Yield**: Makes 4 burgers
+**Adapted from**: [Serious Eats (J. Kenji López-Alt)](https://www.seriouseats.com/smash-burgers)
 
 ## Notes
 
@@ -40,4 +41,3 @@ You need a flat surface to smash against. On the grill, place a cast iron griddl
 5. Scrape patties up with the spatula, getting all the browned bits. Flip both patties. Immediately place a slice of cheese on one patty and stack the second patty directly on top.
 6. Transfer the double-patty stack to a waiting bun immediately. Serve.
 7. Repeat for remaining burgers, tenting finished ones with foil.
-

@@ -2,6 +2,7 @@
 
 **Time**: 55 minutes
 **Servings**: 6
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10605-moroccan-lentil-and-chickpea-soup-harira)
 
 ## Notes
 
@@ -39,4 +40,3 @@
 2. Add broth, water, chickpeas, and lentils. Increase heat to high and bring to a simmer. Reduce to medium-low, partially cover, and simmer gently until lentils are just tender, about 20 minutes.
 3. Stir in tomatoes and orzo and simmer, partially covered, for 7 minutes. Add chard and cook until pasta is tender and chard is wilted, about 5 minutes more.
 4. Remove from heat. Stir in lemon juice, remaining ¼ cup cilantro, and remaining ¼ cup parsley. Season with salt and pepper. Serve with lemon wedges.
-

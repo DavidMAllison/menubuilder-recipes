@@ -1,5 +1,7 @@
 # Yakisoba (Japanese Stir-Fried Noodles)
 
+**Adapted from**: [Just One Cookbook](https://www.justonecookbook.com/yakisoba/)
+
 ## Notes
 
 - Use the largest pan you have -- overcrowding kills the char
@@ -49,4 +51,3 @@
 6. **Combine:** Return noodles to pan, pour sauce over everything, toss until evenly coated. Serve immediately.
 
 7. **Garnish:** Top with aonori and beni shoga if using.
-

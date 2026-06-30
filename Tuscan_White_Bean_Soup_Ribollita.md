@@ -1,5 +1,7 @@
 # Tuscan White Bean Soup (Ribollita-style)
 
+**Adapted from**: [Love and Lemons / Feasting at Home](https://www.feastingathome.com/ribollita-recipe/)
+
 ## Ingredients
 
 - 1/4 cup extra-virgin olive oil, plus more for drizzling
@@ -34,4 +36,3 @@
 4. Add diced tomatoes with their juices, vegetable broth, cannellini beans, and Parmesan rind (if using). Bring to a boil, then reduce heat and simmer uncovered for 20 minutes to allow flavors to develop.
 5. Remove and discard Parmesan rind. Add chopped kale and cook until wilted and tender, about 5 minutes. Season with salt and pepper to taste.
 6. To serve traditionally: Place a piece of toasted bread in the bottom of each bowl, ladle soup over the bread, and drizzle with extra-virgin olive oil. Top with grated Parmesan. Alternatively, serve bread on the side for dipping. The bread will soak up the flavorful broth.
-

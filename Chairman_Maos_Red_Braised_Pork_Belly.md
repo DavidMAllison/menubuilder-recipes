@@ -1,6 +1,7 @@
 # Chairman Mao's Red Braised Pork Belly
 
 **Serves:** 8
+**Adapted from**: [The Woks of Life](https://thewoksoflife.com/red-braised-pork-belly-mao/)
 
 ## Notes
 
@@ -32,4 +33,3 @@
 4. Add Shaoxing wine, both soy sauces, cinnamon, star anise, bay leaves, dried chilies (if using), and water. Bring to a simmer and cook over medium-low heat for 1 hour, checking occasionally.
 5. Increase heat to medium-high and reduce the sauce, stirring constantly, until it forms a thick, glossy coating on the pork.
 6. Stir in the remaining 1/2 teaspoon sugar and the scallion greens. Serve over steamed rice.
-

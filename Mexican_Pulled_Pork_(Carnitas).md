@@ -2,6 +2,7 @@
 
 **Time**: 2 hours 45 minutes
 **Servings**: 6–8
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4232-mexican-pulled-pork-carnitas)
 
 ## Notes
 
@@ -29,4 +30,3 @@
 2. Remove pot from oven and heat broiler. Lift pork out with a slotted spoon and set aside; discard orange halves, onion, and bay leaves. Simmer the cooking liquid over high heat, stirring frequently, until reduced to about 1 cup and thick enough that a spoon dragged through leaves a clear trail, 8–12 minutes.
 3. Pull each piece of pork in half using two forks. Fold in the reduced liquid and season with salt and pepper. Spread the pork in an even layer on a wire rack set over a rimmed baking sheet — it should cover nearly the whole surface.
 4. Broil on the lower-middle rack until the top is well browned but not charred, 5–8 minutes. Flip the pieces and broil the other side, 5–8 minutes more. Serve immediately in warm tortillas with garnishes.
-

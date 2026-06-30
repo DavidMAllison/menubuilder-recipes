@@ -1,5 +1,7 @@
 # Pork Schnitzel
 
+**Adapted from**: [Milk Street](https://www.wskg.org/arts/2022-09-27/milk-street-schnitzel-and-mashed-ep-517)
+
 ## Notes
 
 - Pounding the meat thin is key — it cooks quickly and stays tender.
@@ -30,4 +32,3 @@
 4. Heat oil: Add oil to a large skillet to about 1/4-inch depth. Heat over medium-high heat until shimmering (about 350°F). Test with a breadcrumb — it should sizzle immediately.
 5. Fry: Working in batches if needed, carefully add cutlets to oil. Cook 3-4 minutes per side until golden brown; the breading will puff up slightly. Don't flip more than once.
 6. Drain: Transfer to a paper towel-lined plate. Serve immediately with lemon wedges and parsley.
-

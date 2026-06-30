@@ -4,6 +4,7 @@
 
 **Time**: 55 minutes (10 min prep + 45 min cook)
 **Servings**: 4–6
+**Adapted from**: [Food52](https://food52.com/recipes/80894-tinga-de-pollo)
 
 ## Notes
 
@@ -29,4 +30,3 @@
 4. Add the shredded chicken, chipotle chiles, tomatoes, and 1 cup (240 ml) of the reserved chicken broth. Cook until the tomatoes break down and the mixture turns a brick color, 5–10 minutes.
 5. Season to taste with salt. Add more broth if needed — the tinga should be a bit soupy.
 6. Serve hot. Refrigerate for up to 1 week or freeze for up to 1 month in an airtight container.
-

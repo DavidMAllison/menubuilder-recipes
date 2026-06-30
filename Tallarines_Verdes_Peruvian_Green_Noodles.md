@@ -1,5 +1,7 @@
 # Tallarines Verdes (Peruvian Green Noodles)
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17046-tallarines-verdes-peruvian-green-noodles)
+
 ## Ingredients
 
 - 1 tablespoon vegetable oil
@@ -21,4 +23,3 @@
 3. Transfer spinach and basil to blender with onion mixture. Add ½ cup crumbled queso fresco, ½ cup evaporated milk, ⅓ cup pecans, ½ teaspoon pepper, and ¾ teaspoon table salt and process until smooth, about 2 minutes, scraping down sides of blender jar as needed. Set aside.
 4. Return water to boil; add 12 ounces fettuccine; and cook, stirring often, until al dente. Reserve 1 cup cooking water, then drain pasta and set aside.
 5. Add sauce to now-empty pot and cook over medium heat, stirring occasionally, until warmed through, 2 to 3 minutes. Off heat, stir in pasta and ⅓ cup reserved cooking water and stir until sauce just clings to pasta, about 1 minute. Adjust consistency with remaining reserved cooking water as needed and season with salt to taste. Serve immediately.
-

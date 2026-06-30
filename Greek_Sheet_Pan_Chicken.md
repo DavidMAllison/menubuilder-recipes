@@ -1,5 +1,7 @@
 # Greek Sheet Pan Chicken
 
+**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/greek-sheet-pan-chicken/)
+
 ## Notes
 
 - For kids: Pull plain chicken thighs before adding olives and feta. Skip olives for kids.
@@ -35,4 +37,3 @@
 4. Season chicken with salt and pepper. Nestle chicken, olives, and feta chunks among vegetables. Drizzle with remaining dressing.
 5. Bake approximately 35 minutes until chicken is cooked through. For additional browning, broil 2 minutes on top rack.
 6. Spoon pan juices over chicken, garnish with parsley, and serve.
-

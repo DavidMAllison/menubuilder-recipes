@@ -2,6 +2,7 @@
 
 **Time**: 1 hour (plus 6–12 hours brining)
 **Servings**: 4
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15412-pickle-brined-fried-chicken-sandwiches)
 
 ## Ingredients
 
@@ -38,4 +39,3 @@
 4. One piece at a time, lift chicken from brine, dredge in the flour mixture, press the coating firmly onto all sides, and place on the rack. Refrigerate at least 30 minutes or up to 2 hours.
 5. Heat oil in a Dutch oven to 350°F. Fry chicken until deep golden brown and the internal temperature reaches 175°F, 8–12 minutes, flipping halfway. Adjust heat to keep oil between 325–350°F. Drain on a paper towel-lined plate.
 6. Spread mayo on bun bottoms. Add chicken, pickle sauce, and lettuce. Serve.
-

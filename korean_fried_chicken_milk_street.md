@@ -1,5 +1,7 @@
 # Korean Fried Chicken (Dakgangjeong)
 
+**Adapted from**: [Milk Street](https://www.wttw.com/playlist/2024/07/02/korean-fried-chicken-milk-street)
+
 ## Notes
 
 - Double-frying creates superior crispness that holds after glazing.
@@ -42,4 +44,3 @@
 5. First fry: Working in thirds, dip chicken in slurry and fry until light golden, about 2 minutes. Transfer to a rack. Repeat with remaining chicken.
 6. Second fry: Return oil to 350°F. Fry chicken in batches until crispy and deep golden, 2-3 minutes. Repeat with remaining.
 7. Finish: Toss hot chicken in glaze. Top with scallions and sesame seeds. Serve immediately.
-

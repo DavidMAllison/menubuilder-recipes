@@ -2,6 +2,7 @@
 
 **Time**: 40 minutes
 **Servings**: 4–6
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15812-pappa-al-pomodoro)
 
 ## Notes
 
@@ -29,4 +30,3 @@
 2. Cook oil and garlic in a large Dutch oven over medium heat until the garlic is golden at the edges, 3–4 minutes. Add the tomato pulp, salt, pepper, pepper flakes, water, basil sprigs, and bread (tear to fit). Stir so all the bread is moistened.
 3. Bring to a boil over high heat. Reduce to medium, cover, and simmer vigorously, stirring and mashing the bread occasionally, until fully broken down, 15–18 minutes. The texture will be thick and rough, not smooth.
 4. Discard basil sprigs. Ladle into bowls, drizzle with oil, and scatter the chopped basil on top. Serve with Parmesan.
-

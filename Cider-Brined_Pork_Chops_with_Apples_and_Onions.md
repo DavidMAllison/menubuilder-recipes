@@ -1,5 +1,7 @@
 # Cider-Brined Pork Chops with Apples and Onions
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16616-cider-brined-pork-chops-with-apples-and-onions)
+
 ## Ingredients
 
 - 4 cups apple cider   for brining
@@ -25,4 +27,3 @@
 4. Melt 2 tablespoons butter in now-empty skillet over medium heat. Stir in onions, salt, and pepper and cook, stirring often, until onions are softened and well browned, 14 to 18 minutes. Push onions to 1 side of skillet. Add apples to now-empty side of skillet and cook, flipping occasionally, until well browned, about 8 minutes; stir onions occasionally. Stir apples into onion mixture until evenly combined. Off heat, add cider.
 5. Nestle pork chops into onion mixture, browned side up. Transfer skillet to oven and roast until thickest part of each chop registers 130 to 135 degrees, about 9 minutes. Transfer chops to large plate and let rest for 5 minutes.
 6. Stir sage into onion mixture and bring to boil over medium-high heat. Cook until liquid is slightly thickened, about 1 minute. Off heat, stir vinegar and remaining 2 tablespoons butter into onion mixture until butter is melted and fully incorporated; season with salt and pepper to taste. Divide onion mixture evenly among serving plates and top with pork chops. Serve.
-

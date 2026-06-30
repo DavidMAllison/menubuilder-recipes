@@ -1,6 +1,7 @@
 # Citrus Chicken with Carrots and Baby Potatoes
 
 *Pollo en Salsa de Citricos con Zanahorias y Papas*
+**Adapted from**: [Pati Jinich](https://patijinich.com/citrus-chicken-with-carrots-and-baby-potatoes)
 
 ## Notes
 
@@ -37,4 +38,3 @@
 4. Pour in the charred tomatoes with their juices, orange juice, and lime juice. Stir to combine and scrape up any browned bits from the bottom of the pot.
 5. Return chicken to the pot. Add carrots and potatoes, nestling them around the chicken pieces. Bring to a simmer, then reduce heat to medium-low. Cover and cook for 1 hour, stirring gently once halfway through.
 6. The dish is ready when chicken is cooked through, vegetables are tender, and sauce has thickened slightly. Taste and adjust seasoning with salt and pepper as needed.
-

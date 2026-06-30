@@ -2,6 +2,8 @@
 
 # Spinach with Pancetta, White Beans, and Balsamic Vinegar
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/512-spinach-with-pancetta-white-beans-and-balsamic-vinegar)
+
 ## Ingredients
 
 - 1 tablespoon olive oil
@@ -15,4 +17,3 @@
 ## Instructions
 
 1. Heat oil in large Dutch oven or stockpot over medium heat until shimmering; add pancetta or bacon and sauté until crisp, 5 to 6 minutes. Remove pancetta or bacon with slotted spoon to paper towel-lined plate. Add garlic to oil; sauté until light golden and fragrant, about 30 seconds. Add beans and spinach; toss to combine with oil and garlic. Cover pot, increase heat to medium-high, and cook, stirring occasionally, until spinach is tender and wilted but still bright green, 3 to 5 minutes. Off heat, season with salt and pepper, and add vinegar and pancetta or bacon.
-

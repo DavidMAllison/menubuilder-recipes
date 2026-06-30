@@ -1,5 +1,7 @@
 # Korean Chicken Bulgogi (Dak Bulgogi)
 
+**Adapted from**: [My Korean Kitchen (Sue)](https://mykoreankitchen.com/chicken-bulgogi)
+
 ## Notes
 
 - Marinate in the morning for dinner — 4 hours minimum, overnight is better.
@@ -28,4 +30,3 @@
 3. Cook chicken over a well-heated skillet over medium-high heat using a slotted spoon to minimize marinade transfer. Sear both sides, then reduce to medium until fully cooked.
 4. Meanwhile, boil leftover marinade in a separate saucepan for 2-3 minutes over medium-high heat, stirring occasionally. Sieve out any excess fat.
 5. Glaze sauce over chicken before serving.
-

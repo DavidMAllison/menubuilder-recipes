@@ -2,6 +2,7 @@
 
 **Time**: 45 minutes
 **Servings**: 4
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14197-turmeric-rice-and-chicken-salad-with-herbs)
 
 ## Notes
 
@@ -33,4 +34,3 @@
 1. Cook rice in a large pot of well-salted boiling water, stirring occasionally, until tender but not soft, about 15 minutes. Drain and spread on a rimmed baking sheet; let cool completely, about 15 minutes.
 2. Microwave oil, garlic, cumin, paprika, turmeric, cayenne, and cinnamon in a bowl until simmering and fragrant, 30–60 seconds. Let cool slightly, then whisk in lemon juice and ½ teaspoon salt.
 3. Combine rice, dressing, chicken, tomatoes, cucumbers, radishes, and herbs in a large bowl. Toss gently to combine. Season with salt and pepper. Serve with Yogurt-Herb Sauce.
-

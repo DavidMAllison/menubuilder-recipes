@@ -2,6 +2,7 @@
 
 **Time**: 40 minutes
 **Servings**: 4
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17450-roasted-mushrooms-and-escarole-with-couscous-and-lemon-vinaigrette)
 
 ## Notes
 
@@ -29,4 +30,3 @@
 2. While the vegetables roast, combine boiling water, couscous, and a pinch of salt in a bowl. Cover and let sit until tender and all water is absorbed, about 7 minutes. Fluff with a fork, stir in 2 tablespoons parsley, and cover to keep warm.
 3. Whisk lemon juice, mustard, remaining pinch of salt, and remaining parsley in a small bowl. Slowly whisk in remaining 5 teaspoons oil until emulsified.
 4. Transfer escarole to a serving platter. Pour wine over the hot mushroom sheet and toss until most of the liquid evaporates and the browned bits are scraped up, about 1 minute. Add mushrooms and couscous to the platter, drizzle with vinaigrette, and serve with lemon wedges.
-

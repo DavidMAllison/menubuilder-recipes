@@ -1,5 +1,7 @@
 # Thai Chicken Stir-Fry with Basil and Mint
 
+**Adapted from**: [The Woks of Life](https://thewoksoflife.com/thai-basil-chicken-pad-krapow/)
+
 ## Notes
 
 - **Kids:** Omit chili entirely. Pull kids' chicken before adding sauce in step 4.
@@ -38,4 +40,3 @@
 6. Serve immediately with steamed rice.
 
 ---
-

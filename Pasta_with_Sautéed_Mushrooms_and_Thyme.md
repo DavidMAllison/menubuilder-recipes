@@ -1,5 +1,7 @@
 # Pasta with Sautéed Mushrooms and Thyme
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/1672-pasta-with-sauteed-mushrooms-and-thyme)
+
 ## Notes
 
 - Family hit. May try reducing Parmesan to 1/2 cup next time.
@@ -27,4 +29,3 @@
 1. Bring 4 quarts water to rolling boil, covered, in stockpot; add 1-tablespoon salt and pasta, stir to separate, and cook until just shy of al dente. Drain and return pasta to stockpot.
 2. Meanwhile, heat butter and oil over medium heat in 12-inch skillet until foaming; add shallots and cook, stirring occasionally, until softened, about 4 minutes. Add garlic and cook until fragrant, about 30 seconds. Increase heat to medium-high; add shiitakes and cook, stirring occasionally, for 2 minutes. Add cremini mushrooms and 1/2 teaspoon salt; cook, stirring occasionally, until golden brown, about 8 minutes. Stir in thyme and cook 30 seconds. Transfer mushrooms to bowl. Add broth to skillet and bring to boil, scraping up browned bits; off heat, stir in cream, lemon juice, and salt and pepper to taste.
 3. Add mushrooms, broth mixture, cheese, and parsley to pasta in stockpot. Toss over medium-low heat until pasta absorbs most of liquid, about 2 minutes; serve immediately.
-

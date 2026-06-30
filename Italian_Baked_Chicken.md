@@ -1,5 +1,7 @@
 # Italian Baked Chicken
 
+**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/easy-italian-baked-chicken-recipe/)
+
 ## Notes
 
 - For kids: Very mild herb seasoning — can pull plain chicken before garnishing.
@@ -28,4 +30,3 @@
 4. Spread onion slices on the bottom of a lightly oiled baking dish. Arrange seasoned chicken on top and add tomatoes.
 5. Cover tightly with foil and bake 10 minutes. Uncover and bake 8-10 minutes more until internal temperature reaches 165°F.
 6. Remove from oven and let rest 5-10 minutes covered. Garnish with fresh parsley and basil before serving.
-

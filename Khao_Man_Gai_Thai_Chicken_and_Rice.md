@@ -1,5 +1,7 @@
 # Khao Man Gai (Thai-Style Chicken and Rice)
 
+**Adapted from**: [Hot Thai Kitchen](https://hot-thai-kitchen.com/hainanese-chicken-rice/)
+
 ## Notes
 
 - Kids: Serve plain poached chicken and rice with cucumber. Dipping sauce and chiles on the side for adults.
@@ -43,4 +45,3 @@
 5. Whisk all sauce ingredients together until sugar dissolves.
 6. Rewarm remaining broth. Remove breast from carcass, discard skin. Remove leg quarters; shred meat. Slice breasts crosswise 1/2-inch thick.
 7. Transfer rice to platter; arrange chicken on top. Serve with cilantro, cucumber, dipping sauce, and individual bowls of hot broth.
-

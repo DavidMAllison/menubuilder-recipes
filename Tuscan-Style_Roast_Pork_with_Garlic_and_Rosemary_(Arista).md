@@ -2,6 +2,7 @@
 
 **Time**: 2½ hours (plus 1 hour resting before roasting)
 **Servings**: 6
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8643-tuscan-style-roast-pork-with-garlic-and-rosemary-arista)
 
 ## Notes
 
@@ -28,4 +29,3 @@
 6. Heat 1 teaspoon of the reserved oil in a skillet over high. Place the lemon halves cut-side down and cook until browned and softened, 3–4 minutes. Set aside.
 7. Pat the roast dry. Heat 2 tablespoons reserved oil in the same skillet over high. Brown the roast on the fat side and all sides except the bottom, 4–6 minutes. Transfer to a carving board and remove the twine.
 8. Once cool enough to handle, squeeze the grilled lemons through a strainer into the remaining oil. Whisk together. Slice the roast ¼ inch thick and serve with the lemon vinaigrette.
-

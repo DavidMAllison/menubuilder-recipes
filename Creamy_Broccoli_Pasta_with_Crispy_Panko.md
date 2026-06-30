@@ -1,5 +1,7 @@
 # Creamy Broccoli Pasta with Crispy Panko
 
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16575-creamy-broccoli-pasta-with-crispy-panko)
+
 ## Ingredients
 
 - 1⁄2 cup plus 1 tablespoon extra-virgin olive oil , divided
@@ -23,4 +25,3 @@
 3. Return water to boil. Add florets and cook until bright green and tender, about 3 minutes. Using spider skimmer, transfer two-thirds of florets to bowl. Transfer remaining florets to blender with stalks and garlic. Return water to boil, add pasta, and cook, stirring often, until al dente.
 4. While pasta cooks, add basil; yogurt; Pecorino; pine nuts; lemon zest and juice; anchovies, if using; and remaining ½ cup oil, 2 teaspoons salt, and 1 teaspoon pepper to blender and process until mixture resembles pesto, about 20 seconds, scraping down sides of blender jar. With blender running, slowly add ½ cup water and process until sauce is smooth and thick but fluid, about 20 seconds, adding additional water as needed.
 5. Reserve 1 cup cooking water, then drain pasta and return it to pot. Off heat, add sauce and reserved florets and stir gently to combine. Adjust consistency with reserved cooking water as needed. Season with salt to taste, and serve immediately, passing panko and extra Pecorino separately.
-

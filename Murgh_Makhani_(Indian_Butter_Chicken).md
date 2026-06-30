@@ -2,6 +2,7 @@
 
 **Time**: 50 minutes
 **Servings**: 4
+**Adapted from**: [Americas Test Kitchen](https://www.americastestkitchen.com/recipes/11519-indian-butter-chicken-murgh-makhani)
 
 ## Notes
 
@@ -35,4 +36,3 @@
 3. Return sauce to a simmer over medium, whisk in remaining 2 tablespoons butter, and cover to keep warm.
 4. Toss chicken with yogurt and remaining 1 teaspoon salt. Arrange on a wire rack set over a foil-lined baking sheet. Broil 6 inches from the element, flipping halfway, until chicken is charred in spots and registers 175°F, 16–20 minutes. Rest 5 minutes, then cut into ¾-inch chunks.
 5. Stir chicken into the warm sauce with 2 tablespoons cilantro. Transfer to a serving dish, sprinkle with remaining cilantro, and serve with basmati rice and/or naan.
-

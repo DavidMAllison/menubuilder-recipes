@@ -2,6 +2,7 @@
 
 **Time**: 35 minutes
 **Servings**: 4
+**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8847-pan-seared-chicken-with-warm-mediterranean-grain-pilaf)
 
 ## Notes
 
@@ -26,4 +27,3 @@
 1. Season chicken with salt and pepper. Heat 1 tablespoon oil in a large skillet over medium-high. Cook chicken until golden brown and cooked through, 6–8 minutes per side. Move to a cutting board and cover loosely.
 2. Add water to the skillet and bring to a boil, scraping up any browned bits. Stir in bulgur and ½ teaspoon salt. Cover, remove from heat, and let sit 5 minutes. Fluff with a fork.
 3. Stir tomatoes, feta, parsley, olives, lemon juice, and remaining 2 tablespoons oil into the bulgur. Season with salt and pepper. Slice chicken and serve over the grain pilaf with lemon wedges and a drizzle of oil.
-
