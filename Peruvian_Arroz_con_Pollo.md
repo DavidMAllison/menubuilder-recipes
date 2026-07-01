@@ -5,6 +5,7 @@
 
 ## Ingredients
 
+### Chicken and Rice
 - 2 cups (2 ounces) fresh cilantro leaves and stems
 - 1/2 cup water
 - 6 (5- to 7-ounce) bone-in chicken thighs, trimmed
@@ -21,6 +22,8 @@
 - 1 red bell pepper, stemmed, seeded, and cut into 1/2-inch-wide strips
 - 2 carrots, peeled and cut into 1/2-inch pieces (1 cup)
 - 1/2 cup frozen peas
+
+### Sarza Criolla
 - 1 red onion, halved and sliced through root end 1/16 inch thick
 - 1/8 teaspoon table salt, plus salt for salting onion
 - 1/4 cup chopped fresh cilantro
