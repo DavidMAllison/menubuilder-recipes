@@ -1223,14 +1223,6 @@
     "source": "Archana's Kitchen",
     "source_url": "https://archanaskitchen.com/recipe/kashmiri-rajma-gogji-recipe"
   },
-  "Black_Bean_Puree": {
-    "health": "Moderate",
-    "time": "1 hour 30 min",
-    "servings": "",
-    "cuisine": "Mexican",
-    "source": "Pati Jinich",
-    "source_url": "https://patijinich.com/black-bean-puree/"
-  },
   "Yucatecan_Black_Bean_Dinner": {
     "health": "Moderate",
     "time": "15 min",
@@ -1238,14 +1230,6 @@
     "cuisine": "Mexican",
     "source": "Rick Bayless",
     "source_url": "https://www.rickbayless.com/recipe/yucatecan-black-bean-dinner/"
-  },
-  "Black_Beans_from_the_Pot": {
-    "health": "Heart-Healthy",
-    "time": "1 hour 30 min",
-    "servings": "",
-    "cuisine": "Mexican",
-    "source": "Pati Jinich",
-    "source_url": "https://patijinich.com/black-beans-from-the-pot/"
   },
   "Spicy_Chicken_Fried_Rice": {
     "health": "Heart-Healthy",
@@ -1730,7 +1714,7 @@
   "Japanese_Chicken_Meatballs": {
     "health": "Moderate",
     "time": "15 minutes",
-    "servings": "['6', '6 people']",
+    "servings": "6",
     "cuisine": "Japanese",
     "source": "Viet World Kitchen",
     "source_url": "https://www.vietworldkitchen.com/blog/2019/09/japanese-chicken-meatballs-recipe-tsukune.html"
@@ -1761,7 +1745,7 @@
   },
   "How_to_Make_the_Crispiest_General_Tsos_Chicken_at_Home_Kenjis_Cooking_Show": {
     "health": "Moderate",
-    "time": "",
+    "time": "35 min",
     "servings": "",
     "cuisine": "American",
     "source": "J. Kenji López-Alt",
@@ -1814,5 +1798,85 @@
     "cuisine": "Greek",
     "source": "The Mediterranean Dish",
     "source_url": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey"
+  },
+  "Mediterranean_Chicken_Wraps": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/7601-mediterranean-chicken-wraps"
+  },
+  "Chicken_Caesar_Salad_Wraps": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/7052-chicken-caesar-salad-wraps"
+  },
+  "Cherry_Tomato_Salad_with_Basil_and_Fresh_Mozzarella": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/4321-cherry-tomato-salad-with-basil-and-fresh-mozzarella"
+  },
+  "Antipasto_Chopped_Salad": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11289-antipasto-chopped-salad"
+  },
+  "Greek_Salad": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 6 to 8",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/383-greek-salad"
+  },
+  "Peach_and_Cucumber_Salad": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Thai",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14808-peach-and-cucumber-salad"
+  },
+  "Pearl_Couscous_with_Lemon_Mint_Peas_Feta_and_Pickled_Shallots": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 6",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/8432-pearl-couscous-with-lemon-mint-peas-feta-and-pickled-shallots"
+  },
+  "Garlicky_Broccoli_and_Chickpea_Salad": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/13424-garlicky-broccoli-and-chickpea-salad"
+  },
+  "Pai_Huang_Gua_Sichuan_Smashed_Cucumbers": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/9726-smashed-cucumbers-pai-huang-gua"
+  },
+  "Turkey_Picnic_Sandwich_with_Sun-Dried_Tomato_Spread": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11863-turkey-picnic-sandwich-with-sun-dried-tomato-spread"
   }
 }
