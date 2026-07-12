@@ -1079,14 +1079,6 @@
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/saag-paneer/"
   },
-  "Mapo_Tofu": {
-    "health": "Heart-Healthy",
-    "time": "20 minutes",
-    "servings": "",
-    "cuisine": "Chinese",
-    "source": "Serious Eats",
-    "source_url": "https://www.seriouseats.com/real-deal-mapo-tofu-recipe"
-  },
   "Barbecued_Chuck_Roast": {
     "health": "Indulgent",
     "time": "4 hours",
@@ -1801,7 +1793,7 @@
   },
   "Mediterranean_Chicken_Wraps": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "15 min",
     "servings": "Serves 4",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
@@ -1809,7 +1801,7 @@
   },
   "Chicken_Caesar_Salad_Wraps": {
     "health": "Moderate",
-    "time": "",
+    "time": "20 min",
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
@@ -1817,7 +1809,7 @@
   },
   "Cherry_Tomato_Salad_with_Basil_and_Fresh_Mozzarella": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "35 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
@@ -1825,7 +1817,7 @@
   },
   "Antipasto_Chopped_Salad": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "15 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
@@ -1833,7 +1825,7 @@
   },
   "Greek_Salad": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "25 min",
     "servings": "Serves 6 to 8",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
@@ -1841,7 +1833,7 @@
   },
   "Peach_and_Cucumber_Salad": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "15 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Thai",
     "source": "America's Test Kitchen",
@@ -1849,7 +1841,7 @@
   },
   "Pearl_Couscous_with_Lemon_Mint_Peas_Feta_and_Pickled_Shallots": {
     "health": "Moderate",
-    "time": "",
+    "time": "30 min",
     "servings": "Serves 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
@@ -1857,7 +1849,7 @@
   },
   "Garlicky_Broccoli_and_Chickpea_Salad": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "25 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
@@ -1865,7 +1857,7 @@
   },
   "Pai_Huang_Gua_Sichuan_Smashed_Cucumbers": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "15 min",
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
@@ -1873,10 +1865,50 @@
   },
   "Turkey_Picnic_Sandwich_with_Sun-Dried_Tomato_Spread": {
     "health": "Moderate",
-    "time": "",
+    "time": "1 hour 30 min",
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/11863-turkey-picnic-sandwich-with-sun-dried-tomato-spread"
+  },
+  "Grilled_Dijon_Chicken_Salad_with_Raspberries_and_Avocado": {
+    "health": "Heart-Healthy",
+    "time": "30 min",
+    "servings": "Serves 4",
+    "cuisine": "American",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/13934-grilled-dijon-chicken-salad-with-raspberries-and-avocado"
+  },
+  "Red_Curry_Shrimp_with_Coconut_Rice_and_Cucumber_Relish": {
+    "health": "Moderate",
+    "time": "35 min",
+    "servings": "Serves 4",
+    "cuisine": "Thai",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14938-red-curry-shrimp-with-coconut-rice-and-cucumber-relish"
+  },
+  "Air-Fryer_Marinated_Pork_Gyros": {
+    "health": "Moderate",
+    "time": "40 min",
+    "servings": "Serves 2",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14747-air-fryer-marinated-pork-gyros"
+  },
+  "Watermelon_Salad_with_Cotija_and_Serrano_Chiles": {
+    "health": "Moderate",
+    "time": "15 min",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Mexican",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/12836-watermelon-salad-with-cotija-and-serrano-chiles"
+  },
+  "Charred_Green_Beans_with_Coriander_Sesame_and_Nigella_Seeds": {
+    "health": "Heart-Healthy",
+    "time": "20 min",
+    "servings": "Serves 4 to 6",
+    "cuisine": "Mediterranean",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14309-charred-green-beans-with-coriander-sesame-and-nigella-seeds"
   }
 }
