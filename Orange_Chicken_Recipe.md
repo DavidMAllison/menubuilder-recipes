@@ -1,9 +1,5 @@
 # Orange Chicken Recipe
 
-**Time**: 1 hour 5 minutes  
-**Serves**: 4 servings  
-**Adapted from**: [The Woks of Life](https://thewoksoflife.com/orange-chicken)  
-
 ## Notes
 
 Family hit (Jul 2026, first cook). Pull the kids' portion of fried chicken before tossing in the orange sauce — worked great, good rotation candidate.

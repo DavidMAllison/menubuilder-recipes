@@ -1,11 +1,6 @@
-> **NEEDS REVIEW**: Auto-generated — verify before cooking.
-
 # Peach and Cucumber Salad
 
-**Time:** 20 minutes
-**Servings:** Serves 4 to 6
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14808-peach-and-cucumber-salad)*
+> **NEEDS REVIEW**: Auto-generated — verify before cooking.
 
 ## Ingredients
 
@@ -23,6 +18,3 @@
 ## Instructions
 
 1. Combine fish sauce, sugar, lime zest and juice, chili-garlic sauce, and ginger in large bowl. Add peaches, cucumber, mint, cilantro, and shallot and toss to combine. Let sit for 5 minutes to allow flavors to meld. Serve.
-
-## Notes
-

@@ -1,10 +1,5 @@
 # Greek Salad
 
-**Time:** 45 minutes
-**Servings:** Serves 6 to 8
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/383-greek-salad)*
-
 ## Ingredients
 
 - 3 tablespoons red wine vinegar
@@ -29,6 +24,3 @@
 1. Whisk vinaigrette ingredients in large bowl until combined. Add onion and cucumber and toss; let stand to blend flavors, about 20 minutes.
 2. Add romaine, tomatoes, parsley, mint, and peppers to bowl with onions and cucumbers; toss to coat with dressing.
 3. Transfer salad to wide, shallow serving bowl or platter; sprinkle olives and feta over salad. Serve immediately.
-
-## Notes
-

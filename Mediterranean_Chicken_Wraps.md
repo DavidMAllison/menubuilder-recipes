@@ -1,10 +1,5 @@
 # Mediterranean Chicken Wraps
 
-**Time:** 30 minutes
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/7601-mediterranean-chicken-wraps)*
-
 ## Ingredients
 
 - 1 (2 1/2-pound) rotisserie chicken , skin and bones discarded, meat shredded into bite-size pieces (3 cups)
@@ -23,6 +18,3 @@
 
 1. Combine chicken, feta, yogurt, red peppers, olives, shallot, lemon zest and juice, salt, and pepper in bowl.
 2. Lay tortillas on counter and divide arugula among tortillas. Top arugula with chicken mixture and roll up tightly. Serve.
-
-## Notes
-

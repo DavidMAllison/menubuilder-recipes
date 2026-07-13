@@ -1,9 +1,5 @@
 # Citrus Rosemary Chicken Recipe
 
-**Time**: 55 minutes  
-**Serves**: 6 people  
-**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/citrus-rosemary-chicken)  
-
 ## Ingredients
 
 - 1  whole chicken ((about 3 ½ pounds), split in half through the backbone)

@@ -1,9 +1,5 @@
 # Roast Chicken With Citrus & Honey
 
-**Time**: 1 hour 10 minutes  
-**Serves**: 6  
-**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey)  
-
 ## Ingredients
 
 - 2  clementines

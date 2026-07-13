@@ -1,9 +1,5 @@
 # Kerala Chicken Curry (Nadan Kozhi Curry)
 
-**Time**: 50 minutes  
-**Serves**: 3  
-**Adapted from**: [Indian Healthy Recipes](https://www.indianhealthyrecipes.com/kerala-chicken)  
-
 ## Ingredients
 
 - ½ kg  (500 grams)  chicken ((bone-in cut preferred or use boneless thighs or drumsticks))

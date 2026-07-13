@@ -1,7 +1,5 @@
 # How to Make the Crispiest General Tso's Chicken at Home | Kenji's Cooking Show
 
-**Adapted from**: [J. Kenji López-Alt](https://www.youtube.com/watch?v=aiyD-FbSZE0)  
-
 ## Ingredients
 
 - 2 lbs boneless, skinless chicken thighs

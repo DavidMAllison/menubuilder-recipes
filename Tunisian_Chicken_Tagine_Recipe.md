@@ -2,10 +2,6 @@
 
 > **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
 
-**Time**: 50 minutes  
-**Serves**: ['4', '4-6']  
-**Adapted from**: [Feasting at Home](https://www.feastingathome.com/tunisian-chicken-with-cous-cous)  
-
 ## Ingredients
 
 - 1 ½ lbs boneless chicken thigh meat, cut into 1-2 inch pieces. (or substitute 3 cups cooked garbanzos, 2 cans drained, or a combination of both. Vegetarians could also add cauliflower.)

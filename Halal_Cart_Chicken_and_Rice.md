@@ -1,6 +1,11 @@
 # Halal Cart Chicken and Rice
 
-**Time:** ~55 minutes active, plus 1–4 hours marinating | **Serves:** 4
+## Notes
+
+- Kids' portions: pull plain chicken and rice before adding white sauce and hot sauce.
+- Don't marinate past 4 hours — the lemon juice starts breaking down the chicken.
+
+*Adapted from [Serious Eats](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe)*
 
 ## Ingredients
 
@@ -48,10 +53,3 @@
 4. **Make the white sauce:** Whisk the mayonnaise, yogurt, sugar, vinegar, lemon juice, parsley, and a hefty 2 teaspoons of black pepper. Season with salt.
 
 5. **Serve:** Rewarm the chicken with all its juices in the skillet over medium-high. Plate rice topped with chicken, with lettuce, tomato, and pita alongside. Drizzle with white sauce; hot sauce on the side for adults.
-
-## Notes
-
-- Kids' portions: pull plain chicken and rice before adding white sauce and hot sauce.
-- Don't marinate past 4 hours — the lemon juice starts breaking down the chicken.
-
-*Adapted from [Serious Eats](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe)*

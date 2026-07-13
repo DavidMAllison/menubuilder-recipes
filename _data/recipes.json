@@ -5,7 +5,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Amarillito_Mole_with_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Amarillito_Mole_with_Chicken",
+    "video_url": ""
   },
   "Black_Bean_Mole_Burgers": {
     "health": "Moderate",
@@ -13,7 +14,8 @@
     "servings": "4 servings",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17104-black-bean-mole-burgers"
+    "source_url": "https://www.americastestkitchen.com/recipes/17104-black-bean-mole-burgers",
+    "video_url": ""
   },
   "Chana_Makhani_(Indian_Butter_Chickpeas)": {
     "health": "Indulgent",
@@ -21,7 +23,8 @@
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/15622-chana-makhani-indian-butter-chickpeas"
+    "source_url": "https://www.americastestkitchen.com/recipes/15622-chana-makhani-indian-butter-chickpeas",
+    "video_url": ""
   },
   "Corn_Masa_Dumplings": {
     "health": "Moderate",
@@ -29,7 +32,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Corn_Masa_Dumplings"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Corn_Masa_Dumplings",
+    "video_url": ""
   },
   "Cumin-Cardamom_Spiced_Chicken_with_Parsley_and_Onion_Salad": {
     "health": "Heart-Healthy",
@@ -37,7 +41,8 @@
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17071-cumin-cardamom-spiced-chicken-with-parsley-and-onion-salad"
+    "source_url": "https://www.americastestkitchen.com/recipes/17071-cumin-cardamom-spiced-chicken-with-parsley-and-onion-salad",
+    "video_url": ""
   },
   "Hoisin-Glazed_Pork_Tenderloin": {
     "health": "Moderate",
@@ -45,7 +50,8 @@
     "servings": "4 servings",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/8097-hoisin-glazed-pork-tenderloin"
+    "source_url": "https://www.americastestkitchen.com/recipes/8097-hoisin-glazed-pork-tenderloin",
+    "video_url": ""
   },
   "Hot_Sesame_Noodles_with_Pork": {
     "health": "Indulgent",
@@ -53,7 +59,8 @@
     "servings": "4 to 6 servings",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/11595-hot-sesame-noodles-with-pork"
+    "source_url": "https://www.americastestkitchen.com/recipes/11595-hot-sesame-noodles-with-pork",
+    "video_url": ""
   },
   "Linguine_with_Broccolini_Pancetta_and_Parmesan": {
     "health": "Indulgent",
@@ -61,7 +68,8 @@
     "servings": "4 to 6 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14628-linguine-with-broccolini-pancetta-and-parmesan"
+    "source_url": "https://www.americastestkitchen.com/recipes/14628-linguine-with-broccolini-pancetta-and-parmesan",
+    "video_url": ""
   },
   "Mexican_Pulled_Pork_(Carnitas)": {
     "health": "Indulgent",
@@ -69,7 +77,8 @@
     "servings": "6 servings",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mexican_Pulled_Pork_(Carnitas)"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mexican_Pulled_Pork_(Carnitas)",
+    "video_url": ""
   },
   "Murgh_Makhani_(Indian_Butter_Chicken)": {
     "health": "Indulgent",
@@ -77,7 +86,8 @@
     "servings": "4 to 6 servings",
     "cuisine": "Indian",
     "source": "Americas Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Murgh_Makhani_(Indian_Butter_Chicken)"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Murgh_Makhani_(Indian_Butter_Chicken)",
+    "video_url": ""
   },
   "Pasta_alla_Vodka": {
     "health": "Indulgent",
@@ -85,7 +95,8 @@
     "servings": "4 to 6 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/16489-pasta-alla-vodka"
+    "source_url": "https://www.americastestkitchen.com/recipes/16489-pasta-alla-vodka",
+    "video_url": ""
   },
   "Pickle-Brined_Fried_Chicken_Sandwiches": {
     "health": "Indulgent",
@@ -93,7 +104,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pickle-Brined_Fried_Chicken_Sandwiches"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pickle-Brined_Fried_Chicken_Sandwiches",
+    "video_url": ""
   },
   "Real-Deal_Chicken_Teriyaki": {
     "health": "Heart-Healthy",
@@ -101,7 +113,8 @@
     "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Real-Deal_Chicken_Teriyaki"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Real-Deal_Chicken_Teriyaki",
+    "video_url": ""
   },
   "Seattle_Chicken_Teriyaki": {
     "health": "Heart-Healthy",
@@ -109,7 +122,8 @@
     "servings": "6 to 8 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/12763-seattle-chicken-teriyaki"
+    "source_url": "https://www.americastestkitchen.com/recipes/12763-seattle-chicken-teriyaki",
+    "video_url": ""
   },
   "Slow-Cooker_Red_Wine-Braised_Short_Ribs": {
     "health": "Indulgent",
@@ -117,7 +131,8 @@
     "servings": "Serves 4",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/4983-slow-cooker-red-wine-braised-short-ribs"
+    "source_url": "https://www.americastestkitchen.com/recipes/4983-slow-cooker-red-wine-braised-short-ribs",
+    "video_url": ""
   },
   "Super-Savory_Mushroom_Bacon_Spaghetti": {
     "health": "Indulgent",
@@ -125,7 +140,8 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17185-super-savory-mushroom-bacon-spaghetti"
+    "source_url": "https://www.americastestkitchen.com/recipes/17185-super-savory-mushroom-bacon-spaghetti",
+    "video_url": ""
   },
   "Tonkatsu_(Japanese_Fried_Pork_Chops)": {
     "health": "Indulgent",
@@ -133,7 +149,8 @@
     "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tonkatsu_(Japanese_Fried_Pork_Chops)"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tonkatsu_(Japanese_Fried_Pork_Chops)",
+    "video_url": ""
   },
   "Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce": {
     "health": "Heart-Healthy",
@@ -141,7 +158,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "The Weary Chef / Midwest Foodie",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce",
+    "video_url": ""
   },
   "Greek_Turkey_Meatballs_with_Tzatziki": {
     "health": "Heart-Healthy",
@@ -149,7 +167,8 @@
     "servings": "4 servings",
     "cuisine": "Greek",
     "source": "Erin Lives Whole / Skinnytaste",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Greek_Turkey_Meatballs_with_Tzatziki"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Greek_Turkey_Meatballs_with_Tzatziki",
+    "video_url": ""
   },
   "One-Pan_Mediterranean_Chicken_with_Tomatoes_White_Beans": {
     "health": "Heart-Healthy",
@@ -157,7 +176,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "Floating Kitchen / Weight Watchers",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/One-Pan_Mediterranean_Chicken_with_Tomatoes_White_Beans"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/One-Pan_Mediterranean_Chicken_with_Tomatoes_White_Beans",
+    "video_url": ""
   },
   "Tuscan_White_Bean_Soup_Ribollita": {
     "health": "Heart-Healthy",
@@ -165,7 +185,8 @@
     "servings": "4-6 servings",
     "cuisine": "Italian",
     "source": "Love and Lemons / Feasting at Home",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tuscan_White_Bean_Soup_Ribollita"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tuscan_White_Bean_Soup_Ribollita",
+    "video_url": ""
   },
   "Citrus_Chicken_with_Carrots_and_Baby_Potatoes": {
     "health": "Heart-Healthy",
@@ -173,7 +194,8 @@
     "servings": "4-6 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Citrus_Chicken_with_Carrots_and_Baby_Potatoes"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Citrus_Chicken_with_Carrots_and_Baby_Potatoes",
+    "video_url": ""
   },
   "Chicken_Tinga": {
     "health": "Moderate",
@@ -181,7 +203,8 @@
     "servings": "4 servings",
     "cuisine": "Mexican",
     "source": "Food52",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Tinga"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Tinga",
+    "video_url": ""
   },
   "Lamb_Ragu_with_Pappardelle": {
     "health": "Moderate",
@@ -189,7 +212,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/11934-lamb-ragu-with-pappardelle"
+    "source_url": "https://www.americastestkitchen.com/recipes/11934-lamb-ragu-with-pappardelle",
+    "video_url": ""
   },
   "Light_Sautéed_Chicken_Breasts_with_a_White_Wine_and_Herb_Pan_Sauce": {
     "health": "Moderate",
@@ -197,7 +221,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/5337-light-sauteed-chicken-breasts-with-a-white-wine-and-herb-pan-sauce"
+    "source_url": "https://www.americastestkitchen.com/recipes/5337-light-sauteed-chicken-breasts-with-a-white-wine-and-herb-pan-sauce",
+    "video_url": ""
   },
   "Pasta_with_Sausage_Ragu": {
     "health": "Indulgent",
@@ -205,7 +230,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_with_Sausage_Ragu"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_with_Sausage_Ragu",
+    "video_url": ""
   },
   "Creamy_Orzo_with_Hot_Italian_Sausage_Broccoli_Rabe_and_Tomatoes": {
     "health": "Indulgent",
@@ -213,7 +239,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17149-creamy-orzo-with-hot-italian-sausage-broccoli-rabe-and-tomatoes"
+    "source_url": "https://www.americastestkitchen.com/recipes/17149-creamy-orzo-with-hot-italian-sausage-broccoli-rabe-and-tomatoes",
+    "video_url": ""
   },
   "Couscous_Stuffed_Chicken_Thighs_with_Roasted_Cherry_Tomatoes_and_Shallots": {
     "health": "Moderate",
@@ -221,7 +248,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17117-couscous-stuffed-chicken-thighs-with-roasted-cherry-tomatoes-and-shallots"
+    "source_url": "https://www.americastestkitchen.com/recipes/17117-couscous-stuffed-chicken-thighs-with-roasted-cherry-tomatoes-and-shallots",
+    "video_url": ""
   },
   "Slow-Cooker_Lemon_Chicken": {
     "health": "Heart-Healthy",
@@ -229,7 +257,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/11886-slow-cooker-lemon-chicken"
+    "source_url": "https://www.americastestkitchen.com/recipes/11886-slow-cooker-lemon-chicken",
+    "video_url": ""
   },
   "Spaghetti_with_Lemon_and_Olive_Oil_(al_Limone)": {
     "health": "Indulgent",
@@ -237,7 +266,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/6333-spaghetti-with-lemon-and-olive-oil-al-limone"
+    "source_url": "https://www.americastestkitchen.com/recipes/6333-spaghetti-with-lemon-and-olive-oil-al-limone",
+    "video_url": ""
   },
   "Turmeric_Rice_and_Chicken_Salad_with_Herbs": {
     "health": "Heart-Healthy",
@@ -245,7 +275,8 @@
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Turmeric_Rice_and_Chicken_Salad_with_Herbs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Turmeric_Rice_and_Chicken_Salad_with_Herbs",
+    "video_url": ""
   },
   "Chicken_Breasts_with_Creamy_Sun-Dried_Tomato_and_Dill_Pan_Sauce": {
     "health": "Moderate",
@@ -253,7 +284,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/16984-chicken-breasts-with-creamy-sun-dried-tomato-and-dill-pan-sauce"
+    "source_url": "https://www.americastestkitchen.com/recipes/16984-chicken-breasts-with-creamy-sun-dried-tomato-and-dill-pan-sauce",
+    "video_url": ""
   },
   "Tuscan-Style_Roast_Pork_with_Garlic_and_Rosemary_(Arista)": {
     "health": "Indulgent",
@@ -261,7 +293,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tuscan-Style_Roast_Pork_with_Garlic_and_Rosemary_(Arista)"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tuscan-Style_Roast_Pork_with_Garlic_and_Rosemary_(Arista)",
+    "video_url": ""
   },
   "Pesto_Pantesco_with_Spaghetti": {
     "health": "Heart-Healthy",
@@ -269,7 +302,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/16409-pesto-pantesco-with-spaghetti"
+    "source_url": "https://www.americastestkitchen.com/recipes/16409-pesto-pantesco-with-spaghetti",
+    "video_url": ""
   },
   "Chicken_Bolognese": {
     "health": "Moderate",
@@ -277,7 +311,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17413-chicken-bolognese"
+    "source_url": "https://www.americastestkitchen.com/recipes/17413-chicken-bolognese",
+    "video_url": ""
   },
   "Spiced_Chickpeas_Gyros_with_Tahini_Yogurt": {
     "health": "Heart-Healthy",
@@ -285,7 +320,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/12942-spiced-chickpeas-gyros-with-tahini-yogurt"
+    "source_url": "https://www.americastestkitchen.com/recipes/12942-spiced-chickpeas-gyros-with-tahini-yogurt",
+    "video_url": ""
   },
   "Lemony_Mediterranean_Chicken_and_Rice": {
     "health": "Heart-Healthy",
@@ -293,7 +329,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/6883-lemony-mediterranean-chicken-and-rice"
+    "source_url": "https://www.americastestkitchen.com/recipes/6883-lemony-mediterranean-chicken-and-rice",
+    "video_url": ""
   },
   "Mediterranean_Grilled_Chicken_with_Tomato-Feta_Salad": {
     "health": "Heart-Healthy",
@@ -301,7 +338,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/6586-mediterranean-grilled-chicken-with-tomato-feta-salad"
+    "source_url": "https://www.americastestkitchen.com/recipes/6586-mediterranean-grilled-chicken-with-tomato-feta-salad",
+    "video_url": ""
   },
   "Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette": {
     "health": "Heart-Healthy",
@@ -309,7 +347,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette",
+    "video_url": ""
   },
   "Pork_Tenderloin_and_Pears_with_Balsamic_Onions": {
     "health": "Moderate",
@@ -317,7 +356,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pork_Tenderloin_and_Pears_with_Balsamic_Onions"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pork_Tenderloin_and_Pears_with_Balsamic_Onions",
+    "video_url": ""
   },
   "Moroccan_Lentil_and_Chickpea_Soup_(Harira)": {
     "health": "Heart-Healthy",
@@ -325,7 +365,8 @@
     "servings": "4 servings",
     "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moroccan_Lentil_and_Chickpea_Soup_(Harira)"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moroccan_Lentil_and_Chickpea_Soup_(Harira)",
+    "video_url": ""
   },
   "Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans": {
     "health": "Heart-Healthy",
@@ -333,7 +374,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans",
+    "video_url": ""
   },
   "Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf": {
     "health": "Heart-Healthy",
@@ -341,7 +383,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf",
+    "video_url": ""
   },
   "Pappa_al_Pomodoro": {
     "health": "Heart-Healthy",
@@ -349,7 +392,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pappa_al_Pomodoro"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pappa_al_Pomodoro",
+    "video_url": ""
   },
   "Tuscan_Garlic_Chicken_Pasta": {
     "health": "Moderate",
@@ -357,7 +401,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/4693-tuscan-garlic-chicken-pasta"
+    "source_url": "https://www.americastestkitchen.com/recipes/4693-tuscan-garlic-chicken-pasta",
+    "video_url": ""
   },
   "Rigatoni_with_Quick_Mushroom_Bolognese": {
     "health": "Moderate",
@@ -365,7 +410,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/12518-rigatoni-with-quick-mushroom-bolognese"
+    "source_url": "https://www.americastestkitchen.com/recipes/12518-rigatoni-with-quick-mushroom-bolognese",
+    "video_url": ""
   },
   "Sheet-Pan_Jerk_Chicken_with_Sweet_Potatoes_and_Crispy_Collard_Greens": {
     "health": "Heart-Healthy",
@@ -373,7 +419,8 @@
     "servings": "4 servings",
     "cuisine": "Caribbean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17452-sheet-pan-jerk-chicken-with-sweet-potatoes-and-crispy-collard-greens"
+    "source_url": "https://www.americastestkitchen.com/recipes/17452-sheet-pan-jerk-chicken-with-sweet-potatoes-and-crispy-collard-greens",
+    "video_url": ""
   },
   "Sheet-Pan_Herbed_Chicken_Wings_with_Potatoes_and_Green_Beans": {
     "health": "Moderate",
@@ -381,7 +428,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17092-sheet-pan-herbed-chicken-wings-with-potatoes-and-green-beans"
+    "source_url": "https://www.americastestkitchen.com/recipes/17092-sheet-pan-herbed-chicken-wings-with-potatoes-and-green-beans",
+    "video_url": ""
   },
   "Double-Glazed_Salmon_with_Maple_and_Liquid_Smoke": {
     "health": "Moderate",
@@ -389,7 +437,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/15032-double-glazed-salmon-with-maple-and-liquid-smoke"
+    "source_url": "https://www.americastestkitchen.com/recipes/15032-double-glazed-salmon-with-maple-and-liquid-smoke",
+    "video_url": ""
   },
   "Korean-Style_Spicy_Pork": {
     "health": "Moderate",
@@ -397,7 +446,8 @@
     "servings": "4 servings",
     "cuisine": "Korean",
     "source": "Maangchi",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Korean-Style_Spicy_Pork"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Korean-Style_Spicy_Pork",
+    "video_url": ""
   },
   "Ground_Pork_with_Ginger_and_Miso": {
     "health": "Moderate",
@@ -405,7 +455,8 @@
     "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "Cookbook (from photo)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Ground_Pork_with_Ginger_and_Miso"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Ground_Pork_with_Ginger_and_Miso",
+    "video_url": ""
   },
   "Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce": {
     "health": "Moderate",
@@ -413,7 +464,8 @@
     "servings": "4 servings",
     "cuisine": "Chinese",
     "source": "Cookbook (from photo)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pan-Seared_Broccolini_with_Pork_and_Oyster_Sauce",
+    "video_url": ""
   },
   "Enfrijoladas": {
     "health": "Moderate",
@@ -421,7 +473,8 @@
     "servings": "25 enfrijoladas (or 6-8 servings)",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Enfrijoladas"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Enfrijoladas",
+    "video_url": ""
   },
   "Pork_Tenderloin_Medallions_with_Lemon-Parsley_Pan_Sauce": {
     "health": "Heart-Healthy",
@@ -429,7 +482,8 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17323-pork-tenderloin-medallions-with-lemon-parsley-pan-sauce"
+    "source_url": "https://www.americastestkitchen.com/recipes/17323-pork-tenderloin-medallions-with-lemon-parsley-pan-sauce",
+    "video_url": ""
   },
   "Asian_Chicken_Lettuce_Wraps": {
     "health": "Heart-Healthy",
@@ -437,7 +491,8 @@
     "servings": "6 servings",
     "cuisine": "Chinese",
     "source": "Skinnytaste (Gina Homolka)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Asian_Chicken_Lettuce_Wraps"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Asian_Chicken_Lettuce_Wraps",
+    "video_url": ""
   },
   "Pescado_Agridulce_Sweet_and_Sour_Fish": {
     "health": "Heart-Healthy",
@@ -445,7 +500,8 @@
     "servings": "6 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pescado_Agridulce_Sweet_and_Sour_Fish"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pescado_Agridulce_Sweet_and_Sour_Fish",
+    "video_url": ""
   },
   "Thai_Chicken_Stir-Fry_with_Basil_and_Mint": {
     "health": "Heart-Healthy",
@@ -453,7 +509,8 @@
     "servings": "4 servings",
     "cuisine": "Thai",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Thai_Chicken_Stir-Fry_with_Basil_and_Mint"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Thai_Chicken_Stir-Fry_with_Basil_and_Mint",
+    "video_url": ""
   },
   "coconut_chicken_curry": {
     "health": "Heart-Healthy",
@@ -461,7 +518,8 @@
     "servings": "4 servings",
     "cuisine": "Thai",
     "source": "Unknown",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/coconut_chicken_curry"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/coconut_chicken_curry",
+    "video_url": ""
   },
   "Pork_Chops_with_White_Wine_and_Herb_Pan_Sauce": {
     "health": "Moderate",
@@ -469,7 +527,8 @@
     "servings": "4 servings",
     "cuisine": "French",
     "source": "Classic French technique",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pork_Chops_with_White_Wine_and_Herb_Pan_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pork_Chops_with_White_Wine_and_Herb_Pan_Sauce",
+    "video_url": ""
   },
   "soy_ginger_garlic_salmon": {
     "health": "Heart-Healthy",
@@ -477,7 +536,8 @@
     "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "Unknown",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/soy_ginger_garlic_salmon"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/soy_ginger_garlic_salmon",
+    "video_url": ""
   },
   "Herb-Marinated_Lamb_Rib_Chops_with_Mint_Sauce": {
     "health": "Moderate",
@@ -485,7 +545,8 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "Classic Mediterranean preparation",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Herb-Marinated_Lamb_Rib_Chops_with_Mint_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Herb-Marinated_Lamb_Rib_Chops_with_Mint_Sauce",
+    "video_url": ""
   },
   "Khao_Man_Gai_Thai_Chicken_and_Rice": {
     "health": "Heart-Healthy",
@@ -493,7 +554,8 @@
     "servings": "4-6 servings",
     "cuisine": "Thai",
     "source": "Hot Thai Kitchen",
-    "source_url": "https://hot-thai-kitchen.com/hainanese-chicken-rice/"
+    "source_url": "https://hot-thai-kitchen.com/hainanese-chicken-rice/",
+    "video_url": ""
   },
   "Braised_Chicken_and_Mushrooms_over_Polenta": {
     "health": "Moderate",
@@ -501,7 +563,8 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/16182-braised-chicken-and-mushrooms-over-polenta"
+    "source_url": "https://www.americastestkitchen.com/recipes/16182-braised-chicken-and-mushrooms-over-polenta",
+    "video_url": ""
   },
   "Lime-Rubbed_Chicken_Tacos_with_Corn_Guacamole": {
     "health": "Heart-Healthy",
@@ -509,7 +572,8 @@
     "servings": "6-8 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/"
+    "source_url": "https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/",
+    "video_url": ""
   },
   "Ginger-Sesame_Chicken_and_Broccoli_Stir_Fry": {
     "health": "Heart-Healthy",
@@ -517,7 +581,8 @@
     "servings": "4-5 servings",
     "cuisine": "Chinese",
     "source": "Claude",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Ginger-Sesame_Chicken_and_Broccoli_Stir_Fry"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Ginger-Sesame_Chicken_and_Broccoli_Stir_Fry",
+    "video_url": ""
   },
   "Italian_Baked_Chicken": {
     "health": "Heart-Healthy",
@@ -525,7 +590,8 @@
     "servings": "6 servings",
     "cuisine": "Mediterranean",
     "source": "The Mediterranean Dish",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Italian_Baked_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Italian_Baked_Chicken",
+    "video_url": ""
   },
   "Greek_Sheet_Pan_Chicken": {
     "health": "Heart-Healthy",
@@ -533,7 +599,8 @@
     "servings": "6 servings",
     "cuisine": "Greek",
     "source": "The Mediterranean Dish",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Greek_Sheet_Pan_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Greek_Sheet_Pan_Chicken",
+    "video_url": ""
   },
   "Chicken_Piccata_Good_Eats": {
     "health": "Moderate",
@@ -541,7 +608,8 @@
     "servings": "6 servings",
     "cuisine": "Italian",
     "source": "Alton Brown",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Piccata_Good_Eats"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Piccata_Good_Eats",
+    "video_url": ""
   },
   "Coq_au_Vin_for_Two": {
     "health": "Moderate",
@@ -549,7 +617,8 @@
     "servings": "2 servings (double for family of 4)",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14288-coq-au-vin-for-two"
+    "source_url": "https://www.americastestkitchen.com/recipes/14288-coq-au-vin-for-two",
+    "video_url": ""
   },
   "Creamy_Mushroom_Orzotto": {
     "health": "Moderate",
@@ -557,7 +626,8 @@
     "servings": "4 to 6 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17339-creamy-mushroom-orzotto"
+    "source_url": "https://www.americastestkitchen.com/recipes/17339-creamy-mushroom-orzotto",
+    "video_url": ""
   },
   "oven_baby_back_ribs": {
     "health": "Indulgent",
@@ -565,7 +635,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/oven_baby_back_ribs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/oven_baby_back_ribs",
+    "video_url": ""
   },
   "grilled_baby_back_ribs": {
     "health": "Indulgent",
@@ -573,7 +644,8 @@
     "servings": "4",
     "cuisine": "American",
     "source": "",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/grilled_baby_back_ribs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/grilled_baby_back_ribs",
+    "video_url": ""
   },
   "pork_medallions_balsamic_capers": {
     "health": "Moderate",
@@ -581,7 +653,8 @@
     "servings": "6",
     "cuisine": "Italian",
     "source": "Allrecipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/pork_medallions_balsamic_capers"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/pork_medallions_balsamic_capers",
+    "video_url": ""
   },
   "spicy_honey_chicken_thighs": {
     "health": "Moderate",
@@ -589,7 +662,8 @@
     "servings": "4",
     "cuisine": "American",
     "source": "Allrecipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/spicy_honey_chicken_thighs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/spicy_honey_chicken_thighs",
+    "video_url": ""
   },
   "grilled_chicken_salad_cilantro_lime": {
     "health": "Heart-Healthy",
@@ -597,7 +671,8 @@
     "servings": "4",
     "cuisine": "American",
     "source": "Smitten Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/grilled_chicken_salad_cilantro_lime"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/grilled_chicken_salad_cilantro_lime",
+    "video_url": ""
   },
   "cast_iron_mustard_chicken": {
     "health": "Moderate",
@@ -605,7 +680,8 @@
     "servings": "2",
     "cuisine": "American",
     "source": "Allrecipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/cast_iron_mustard_chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/cast_iron_mustard_chicken",
+    "video_url": ""
   },
   "homemade_pizza": {
     "health": "Moderate",
@@ -613,7 +689,8 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "Serious Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/homemade_pizza"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/homemade_pizza",
+    "video_url": ""
   },
   "homemade_pizza_rolls": {
     "health": "Moderate",
@@ -621,7 +698,8 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/homemade_pizza_rolls"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/homemade_pizza_rolls",
+    "video_url": ""
   },
   "korean_fried_chicken_milk_street": {
     "health": "Indulgent",
@@ -629,7 +707,8 @@
     "servings": "",
     "cuisine": "Korean",
     "source": "Milk Street",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/korean_fried_chicken_milk_street"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/korean_fried_chicken_milk_street",
+    "video_url": ""
   },
   "pork_schnitzel": {
     "health": "Indulgent",
@@ -637,7 +716,8 @@
     "servings": "",
     "cuisine": "German",
     "source": "Milk Street",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/pork_schnitzel"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/pork_schnitzel",
+    "video_url": ""
   },
   "Korean_Chicken_Bulgogi": {
     "health": "Heart-Healthy",
@@ -645,7 +725,8 @@
     "servings": "4",
     "cuisine": "Korean",
     "source": "My Korean Kitchen (Sue)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Korean_Chicken_Bulgogi"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Korean_Chicken_Bulgogi",
+    "video_url": ""
   },
   "Moo_Shu_Chicken": {
     "health": "Heart-Healthy",
@@ -653,7 +734,8 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "Woks of Life",
-    "source_url": "https://thewoksoflife.com/moo-shu-chicken/"
+    "source_url": "https://thewoksoflife.com/moo-shu-chicken/",
+    "video_url": ""
   },
   "Cantonese_Steamed_Fish": {
     "health": "Heart-Healthy",
@@ -661,7 +743,8 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "Woks of Life",
-    "source_url": "https://thewoksoflife.com/cantonese-steamed-fish/"
+    "source_url": "https://thewoksoflife.com/cantonese-steamed-fish/",
+    "video_url": ""
   },
   "Vietnamese_Lemongrass_Chicken_Bowl": {
     "health": "Heart-Healthy",
@@ -669,7 +752,8 @@
     "servings": "",
     "cuisine": "Vietnamese",
     "source": "RecipeTin Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Vietnamese_Lemongrass_Chicken_Bowl"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Vietnamese_Lemongrass_Chicken_Bowl",
+    "video_url": ""
   },
   "Peruvian_Grilled_Chicken_with_Aji_Verde": {
     "health": "Heart-Healthy",
@@ -677,7 +761,8 @@
     "servings": "4-6",
     "cuisine": "Peruvian",
     "source": "Feasting at Home",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peruvian_Grilled_Chicken_with_Aji_Verde"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peruvian_Grilled_Chicken_with_Aji_Verde",
+    "video_url": ""
   },
   "Halal_Cart_Chicken_and_Rice": {
     "health": "heart-healthy",
@@ -685,7 +770,8 @@
     "servings": "",
     "cuisine": "Middle Eastern",
     "source": "Serious Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Halal_Cart_Chicken_and_Rice"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Halal_Cart_Chicken_and_Rice",
+    "video_url": ""
   },
   "Smoked_Pulled_Pork": {
     "health": "Moderate",
@@ -693,7 +779,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Aaron Franklin",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smoked_Pulled_Pork"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smoked_Pulled_Pork",
+    "video_url": ""
   },
   "Tacos_De_Alambre_De_Carne_Con_Chorizo_Y_Queso": {
     "health": "Indulgent",
@@ -701,7 +788,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://patijinich.com/tacos-de-alambre-de-carne-con-chorizo-y-queso/"
+    "source_url": "https://patijinich.com/tacos-de-alambre-de-carne-con-chorizo-y-queso/",
+    "video_url": ""
   },
   "Cajun_Meatball_Fricassee": {
     "health": "Indulgent",
@@ -709,7 +797,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cajun_Meatball_Fricassee"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cajun_Meatball_Fricassee",
+    "video_url": ""
   },
   "Mesquite_Grilled_Tacos_Rasurados": {
     "health": "Heart-Healthy",
@@ -717,7 +806,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mesquite_Grilled_Tacos_Rasurados"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mesquite_Grilled_Tacos_Rasurados",
+    "video_url": ""
   },
   "Cumin_Chicken_Fingers": {
     "health": "Heart-Healthy",
@@ -725,7 +815,8 @@
     "servings": "4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers"
+    "source_url": "https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers",
+    "video_url": ""
   },
   "30-Minute_Chicken_Tagine": {
     "health": "Heart-Healthy",
@@ -733,7 +824,8 @@
     "servings": "",
     "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/30-Minute_Chicken_Tagine"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/30-Minute_Chicken_Tagine",
+    "video_url": ""
   },
   "Moroccan_Chicken_Tagine_with_Olives_and_Lemon_Djej_Emshmel": {
     "health": "Heart-Healthy",
@@ -741,7 +833,8 @@
     "servings": "",
     "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moroccan_Chicken_Tagine_with_Olives_and_Lemon_Djej_Emshmel"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moroccan_Chicken_Tagine_with_Olives_and_Lemon_Djej_Emshmel",
+    "video_url": ""
   },
   "Peruvian_Arroz_con_Pollo": {
     "health": "Heart-Healthy",
@@ -749,7 +842,8 @@
     "servings": "",
     "cuisine": "Peruvian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peruvian_Arroz_con_Pollo"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peruvian_Arroz_con_Pollo",
+    "video_url": ""
   },
   "Pomegranate_Chicken_with_Baharat_Sweet_Potatoes": {
     "health": "Heart-Healthy",
@@ -757,7 +851,8 @@
     "servings": "",
     "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pomegranate_Chicken_with_Baharat_Sweet_Potatoes"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pomegranate_Chicken_with_Baharat_Sweet_Potatoes",
+    "video_url": ""
   },
   "Crispy_Braised_Chicken_Thighs_with_Cabbage_and_Bacon": {
     "health": "Moderate",
@@ -765,7 +860,8 @@
     "servings": "",
     "cuisine": "French",
     "source": "Kenji Lopez-Alt / Serious Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Braised_Chicken_Thighs_with_Cabbage_and_Bacon"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Braised_Chicken_Thighs_with_Cabbage_and_Bacon",
+    "video_url": ""
   },
   "Crispy_Pan-Seared_Fish_Fillets": {
     "health": "heart-healthy",
@@ -773,7 +869,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Serious Eats / J. Kenji Lopez-Alt",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Pan-Seared_Fish_Fillets"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Pan-Seared_Fish_Fillets",
+    "video_url": ""
   },
   "Adobo_Fish_Tacos_with_Grilled_Pineapple_Salsa": {
     "health": "Heart-Healthy",
@@ -781,7 +878,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Adobo_Fish_Tacos_with_Grilled_Pineapple_Salsa"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Adobo_Fish_Tacos_with_Grilled_Pineapple_Salsa",
+    "video_url": ""
   },
   "Chicken_in_a_Pecan_and_Ancho_Chile_Sauce": {
     "health": "Moderate",
@@ -789,7 +887,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_in_a_Pecan_and_Ancho_Chile_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_in_a_Pecan_and_Ancho_Chile_Sauce",
+    "video_url": ""
   },
   "Enchiladas_Suizas_Sanborns_Swiss_Chicken_Enchiladas": {
     "health": "Moderate",
@@ -797,7 +896,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Enchiladas_Suizas_Sanborns_Swiss_Chicken_Enchiladas"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Enchiladas_Suizas_Sanborns_Swiss_Chicken_Enchiladas",
+    "video_url": ""
   },
   "Rodrigo-Style_Fish_Pescado_Rodrigo": {
     "health": "Heart-Healthy",
@@ -805,7 +905,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rodrigo-Style_Fish_Pescado_Rodrigo"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rodrigo-Style_Fish_Pescado_Rodrigo",
+    "video_url": ""
   },
   "Chicken_and_Soft_Tofu_Casserole": {
     "health": "Heart-Healthy",
@@ -813,7 +914,8 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_and_Soft_Tofu_Casserole"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_and_Soft_Tofu_Casserole",
+    "video_url": ""
   },
   "Moo_Goo_Gai_Pan_Mushroom_and_Chicken_Stir-Fry": {
     "health": "Heart-Healthy",
@@ -821,7 +923,8 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moo_Goo_Gai_Pan_Mushroom_and_Chicken_Stir-Fry"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moo_Goo_Gai_Pan_Mushroom_and_Chicken_Stir-Fry",
+    "video_url": ""
   },
   "Pulled_Pork_Tacos": {
     "health": "Moderate",
@@ -829,7 +932,8 @@
     "servings": "4",
     "cuisine": "Mexican",
     "source": "Original",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pulled_Pork_Tacos"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pulled_Pork_Tacos",
+    "video_url": ""
   },
   "Pulled_Pork_Ragu": {
     "health": "Moderate",
@@ -837,7 +941,8 @@
     "servings": "4-6",
     "cuisine": "Italian",
     "source": "Original",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pulled_Pork_Ragu"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pulled_Pork_Ragu",
+    "video_url": ""
   },
   "Lamb_Barbacoa_Mixiote": {
     "health": "Heart-Healthy",
@@ -845,7 +950,8 @@
     "servings": "6 to 8 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lamb_Barbacoa_Mixiote"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lamb_Barbacoa_Mixiote",
+    "video_url": ""
   },
   "Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples": {
     "health": "Heart-Healthy",
@@ -853,7 +959,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples",
+    "video_url": ""
   },
   "Rosemary_Lemon_Grilled_Spatchcock_Chicken": {
     "health": "Heart-Healthy",
@@ -861,7 +968,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Tastes Lovely",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rosemary_Lemon_Grilled_Spatchcock_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rosemary_Lemon_Grilled_Spatchcock_Chicken",
+    "video_url": ""
   },
   "Hummus_Bowls_with_Roasted_Chicken_and_Cauliflower": {
     "health": "Heart-Healthy",
@@ -869,7 +977,8 @@
     "servings": "4",
     "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Hummus_Bowls_with_Roasted_Chicken_and_Cauliflower"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Hummus_Bowls_with_Roasted_Chicken_and_Cauliflower",
+    "video_url": ""
   },
   "Chairman_Maos_Red_Braised_Pork_Belly": {
     "health": "indulgent",
@@ -877,7 +986,8 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chairman_Maos_Red_Braised_Pork_Belly"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chairman_Maos_Red_Braised_Pork_Belly",
+    "video_url": ""
   },
   "Burrito_Bowls": {
     "health": "Moderate",
@@ -885,7 +995,8 @@
     "servings": "4",
     "cuisine": "Mexican",
     "source": "Original",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Burrito_Bowls"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Burrito_Bowls",
+    "video_url": ""
   },
   "Grilled_Brined_Pork_Chops_with_Garlic-Herb_Oil": {
     "health": "Moderate",
@@ -893,7 +1004,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Brined_Pork_Chops_with_Garlic-Herb_Oil"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Brined_Pork_Chops_with_Garlic-Herb_Oil",
+    "video_url": ""
   },
   "Gochujang-Glazed_Ribs": {
     "health": "Indulgent",
@@ -901,7 +1013,8 @@
     "servings": "",
     "cuisine": "Korean-American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gochujang-Glazed_Ribs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gochujang-Glazed_Ribs",
+    "video_url": ""
   },
   "Grilled_Spice-Rubbed_Pork_Tenderloin_with_Charred_Fingerling_Potato_Salad": {
     "health": "Moderate",
@@ -909,7 +1022,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Spice-Rubbed_Pork_Tenderloin_with_Charred_Fingerling_Potato_Salad"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Spice-Rubbed_Pork_Tenderloin_with_Charred_Fingerling_Potato_Salad",
+    "video_url": ""
   },
   "Smash_Burgers": {
     "health": "Indulgent",
@@ -917,7 +1031,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Serious Eats (J. Kenji López-Alt)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smash_Burgers"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smash_Burgers",
+    "video_url": ""
   },
   "Spicy_Peanut_Noodles_with_Shrimp_and_Snow_Peas": {
     "health": "Heart-Healthy",
@@ -925,7 +1040,8 @@
     "servings": "",
     "cuisine": "Asian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/17079-spicy-peanut-noodles-with-shrimp-and-snow-peas"
+    "source_url": "https://www.americastestkitchen.com/recipes/17079-spicy-peanut-noodles-with-shrimp-and-snow-peas",
+    "video_url": ""
   },
   "Yakisoba": {
     "health": "Moderate",
@@ -933,7 +1049,8 @@
     "servings": "",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://www.justonecookbook.com/yakisoba/"
+    "source_url": "https://www.justonecookbook.com/yakisoba/",
+    "video_url": ""
   },
   "Braised_Pork_Belly_Tacos": {
     "health": "Indulgent",
@@ -941,7 +1058,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "House recipe",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Braised_Pork_Belly_Tacos"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Braised_Pork_Belly_Tacos",
+    "video_url": ""
   },
   "Chicken_Nanban_Fried_Chicken_with_Tartar_Sauce": {
     "health": "Indulgent",
@@ -949,7 +1067,8 @@
     "servings": "['2']",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Nanban_Fried_Chicken_with_Tartar_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Nanban_Fried_Chicken_with_Tartar_Sauce",
+    "video_url": ""
   },
   "Cauliflower_Stir-fry_with_Beef": {
     "health": "Moderate",
@@ -957,7 +1076,8 @@
     "servings": "['4']",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cauliflower_Stir-fry_with_Beef"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cauliflower_Stir-fry_with_Beef",
+    "video_url": ""
   },
   "Spicy_beef_bulgogi_Maeun-sobulgogi_매운소불고기": {
     "health": "Moderate",
@@ -965,7 +1085,8 @@
     "servings": "2 to 4 servings",
     "cuisine": "Korean",
     "source": "Maangchi",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spicy_beef_bulgogi_Maeun-sobulgogi_매운소불고기"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spicy_beef_bulgogi_Maeun-sobulgogi_매운소불고기",
+    "video_url": ""
   },
   "Simmered_Tofu_and_Egg_Rice_Bowl": {
     "health": "Moderate",
@@ -973,7 +1094,8 @@
     "servings": "['2']",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simmered_Tofu_and_Egg_Rice_Bowl"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simmered_Tofu_and_Egg_Rice_Bowl",
+    "video_url": ""
   },
   "Chicken_Bhuna_Masala_Recipe": {
     "health": "Moderate",
@@ -981,7 +1103,8 @@
     "servings": "['4', '4 to 5']",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Bhuna_Masala_Recipe"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Bhuna_Masala_Recipe",
+    "video_url": ""
   },
   "Lemon_Chicken_with_Potatoes_and_Chickpeas": {
     "health": "Moderate",
@@ -989,7 +1112,8 @@
     "servings": "Servings:4",
     "cuisine": "Mediterranean",
     "source": "Deb Perelman (Smitten Kitchen)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lemon_Chicken_with_Potatoes_and_Chickpeas"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lemon_Chicken_with_Potatoes_and_Chickpeas",
+    "video_url": ""
   },
   "Soy-Glazed_Chicken": {
     "health": "Heart-Healthy",
@@ -997,7 +1121,8 @@
     "servings": "Servings:3 to 4 with sides",
     "cuisine": "Japanese",
     "source": "Deb Perelman (Smitten Kitchen)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Soy-Glazed_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Soy-Glazed_Chicken",
+    "video_url": ""
   },
   "Miso_Chicken_and_Rice": {
     "health": "Heart-Healthy",
@@ -1005,7 +1130,8 @@
     "servings": "Servings:3 to 4",
     "cuisine": "Japanese",
     "source": "Deb Perelman (Smitten Kitchen)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Miso_Chicken_and_Rice"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Miso_Chicken_and_Rice",
+    "video_url": ""
   },
   "One-Pan_Fish_Broccoli_Curry": {
     "health": "Heart-Healthy",
@@ -1013,7 +1139,8 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/One-Pan_Fish_Broccoli_Curry"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/One-Pan_Fish_Broccoli_Curry",
+    "video_url": ""
   },
   "Onion_Masala_Chicken": {
     "health": "Heart-Healthy",
@@ -1021,7 +1148,8 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Onion_Masala_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Onion_Masala_Chicken",
+    "video_url": ""
   },
   "Fish_Curry": {
     "health": "Heart-Healthy",
@@ -1029,7 +1157,8 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Fish_Curry"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Fish_Curry",
+    "video_url": ""
   },
   "Its_All_Greek_Chicken_Salad_to_Me": {
     "health": "Heart-Healthy",
@@ -1037,7 +1166,8 @@
     "servings": "['4', '4 to 6 servings']",
     "cuisine": "Mediterranean",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me"
+    "source_url": "https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me",
+    "video_url": ""
   },
   "Dressed-up_Chicken_Milanesa": {
     "health": "Moderate",
@@ -1045,7 +1175,8 @@
     "servings": "['6', '6 servings']",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Dressed-up_Chicken_Milanesa"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Dressed-up_Chicken_Milanesa",
+    "video_url": ""
   },
   "Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa": {
     "health": "Moderate",
@@ -1053,7 +1184,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa",
+    "video_url": ""
   },
   "Garlic_and_Cumin_Rubbed_Chicken": {
     "health": "Heart-Healthy",
@@ -1061,7 +1193,8 @@
     "servings": "['4', '4 to 5 Servings']",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Garlic_and_Cumin_Rubbed_Chicken"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Garlic_and_Cumin_Rubbed_Chicken",
+    "video_url": ""
   },
   "Dal_Tadka": {
     "health": "Heart-Healthy",
@@ -1069,7 +1202,8 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/dal-tadka/"
+    "source_url": "https://www.indianhealthyrecipes.com/dal-tadka/",
+    "video_url": ""
   },
   "Saag_Paneer": {
     "health": "Moderate",
@@ -1077,7 +1211,8 @@
     "servings": "3-4",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/saag-paneer/"
+    "source_url": "https://www.indianhealthyrecipes.com/saag-paneer/",
+    "video_url": ""
   },
   "Barbecued_Chuck_Roast": {
     "health": "Indulgent",
@@ -1085,7 +1220,8 @@
     "servings": "Serves 8 to 10",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Barbecued_Chuck_Roast"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Barbecued_Chuck_Roast",
+    "video_url": ""
   },
   "Shrimp_with_Black_Bean_Sauce_For_Two": {
     "health": "Heart-Healthy",
@@ -1093,7 +1229,8 @@
     "servings": "Serves 2",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Shrimp_with_Black_Bean_Sauce_For_Two"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Shrimp_with_Black_Bean_Sauce_For_Two",
+    "video_url": ""
   },
   "Grilled_Honey_Ginger_Pork_Tenderloin_and_Plums": {
     "health": "moderate",
@@ -1101,7 +1238,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums"
+    "source_url": "https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums",
+    "video_url": ""
   },
   "Shanghai-Style_Braised_Pork_Belly_Hong_Shao_Rou": {
     "health": "Moderate",
@@ -1109,7 +1247,8 @@
     "servings": "['8', '8 servings']",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/shanghai-style-braised-pork-belly/"
+    "source_url": "https://thewoksoflife.com/shanghai-style-braised-pork-belly/",
+    "video_url": ""
   },
   "Braised_Pork_Belly_Dong_Po_Rou": {
     "health": "Indulgent",
@@ -1117,7 +1256,8 @@
     "servings": "['8']",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/braised-pork-belly-dong-po-rou/"
+    "source_url": "https://thewoksoflife.com/braised-pork-belly-dong-po-rou/",
+    "video_url": ""
   },
   "Red_Boat_Pork_Belly_in_Caramel_Sauce": {
     "health": "Moderate",
@@ -1125,7 +1265,8 @@
     "servings": "['4', '4 people']",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
-    "source_url": "https://www.vietworldkitchen.com/blog/2019/03/red-boat-pork-belly-in-caramel-sauce-thit-kho-recipe.html"
+    "source_url": "https://www.vietworldkitchen.com/blog/2019/03/red-boat-pork-belly-in-caramel-sauce-thit-kho-recipe.html",
+    "video_url": ""
   },
   "Kakuni_Japanese_Braised_Pork_Belly": {
     "health": "Moderate",
@@ -1133,7 +1274,8 @@
     "servings": "['4']",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://www.justonecookbook.com/braised-pork-belly-kakuni/"
+    "source_url": "https://www.justonecookbook.com/braised-pork-belly-kakuni/",
+    "video_url": ""
   },
   "Rafute": {
     "health": "Indulgent",
@@ -1141,7 +1283,8 @@
     "servings": "['4']",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://www.justonecookbook.com/rafute/"
+    "source_url": "https://www.justonecookbook.com/rafute/",
+    "video_url": ""
   },
   "Bi-Level_King_Salmon_Fillet": {
     "health": "Heart-Healthy",
@@ -1149,7 +1292,8 @@
     "servings": "['2', '2 servings']",
     "cuisine": "American",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/"
+    "source_url": "https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/",
+    "video_url": ""
   },
   "Broiled_Salmon_with_ABs_Spice_Pomade": {
     "health": "Heart-Healthy",
@@ -1157,7 +1301,8 @@
     "servings": "['6', '6 to 8 servings']",
     "cuisine": "American",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/broiled-salmon-with-abs-spice-pomade/"
+    "source_url": "https://altonbrown.com/recipes/broiled-salmon-with-abs-spice-pomade/",
+    "video_url": ""
   },
   "Salmon_and_Dill_Blini": {
     "health": "Moderate",
@@ -1165,7 +1310,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Chetna Makan",
-    "source_url": "https://chetnamakan.co.uk/salmon-and-dill-blini/"
+    "source_url": "https://chetnamakan.co.uk/salmon-and-dill-blini/",
+    "video_url": ""
   },
   "Altons_Kale_amp_Quinoa_Bowl_with_Salmon": {
     "health": "Moderate",
@@ -1173,7 +1319,8 @@
     "servings": "['4', '4 servings']",
     "cuisine": "American",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/altons-kale-quinoa-bowl-with-salmon/"
+    "source_url": "https://altonbrown.com/recipes/altons-kale-quinoa-bowl-with-salmon/",
+    "video_url": ""
   },
   "Hot_Smoked_Salmon": {
     "health": "Heart-Healthy",
@@ -1181,7 +1328,8 @@
     "servings": "['2', '2 pounds']",
     "cuisine": "American",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/hot-smoked-salmon-2/"
+    "source_url": "https://altonbrown.com/recipes/hot-smoked-salmon-2/",
+    "video_url": ""
   },
   "Rajma_Recipe_Rajma_Masala": {
     "health": "Moderate",
@@ -1189,7 +1337,8 @@
     "servings": "['4']",
     "cuisine": "North Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/rajma-recipe-rajma-masala-recipe/"
+    "source_url": "https://www.indianhealthyrecipes.com/rajma-recipe-rajma-masala-recipe/",
+    "video_url": ""
   },
   "Mom8217s_Style_Rajma_Chawal_Maa_ki_Baat_8211_Episode_1": {
     "health": "Moderate",
@@ -1197,7 +1346,8 @@
     "servings": "4",
     "cuisine": "Punjabi",
     "source": "Ranveer Brar",
-    "source_url": "https://ranveerbrar.com/recipes/punjabi-rajma/"
+    "source_url": "https://ranveerbrar.com/recipes/punjabi-rajma/",
+    "video_url": ""
   },
   "Kashmiri_Rajma_Curry": {
     "health": "Heart-Healthy",
@@ -1205,7 +1355,8 @@
     "servings": "2-4",
     "cuisine": "Kashmiri",
     "source": "Ranveer Brar",
-    "source_url": "https://ranveerbrar.com/recipes/kashmiri-rajma-curry/"
+    "source_url": "https://ranveerbrar.com/recipes/kashmiri-rajma-curry/",
+    "video_url": ""
   },
   "Kashmiri_Style_Rajma_Gogji_Recipe_-_Kidney_Beans_Turnip_Curry": {
     "health": "Heart-Healthy",
@@ -1213,7 +1364,8 @@
     "servings": "4",
     "cuisine": "Kashmiri",
     "source": "Archana's Kitchen",
-    "source_url": "https://archanaskitchen.com/recipe/kashmiri-rajma-gogji-recipe"
+    "source_url": "https://archanaskitchen.com/recipe/kashmiri-rajma-gogji-recipe",
+    "video_url": ""
   },
   "Yucatecan_Black_Bean_Dinner": {
     "health": "Moderate",
@@ -1221,7 +1373,8 @@
     "servings": "6 as a meal",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://www.rickbayless.com/recipe/yucatecan-black-bean-dinner/"
+    "source_url": "https://www.rickbayless.com/recipe/yucatecan-black-bean-dinner/",
+    "video_url": ""
   },
   "Spicy_Chicken_Fried_Rice": {
     "health": "Heart-Healthy",
@@ -1229,7 +1382,8 @@
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spicy_Chicken_Fried_Rice"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spicy_Chicken_Fried_Rice",
+    "video_url": ""
   },
   "Seared_Shrimp_with_Tomato_Lime_and_Avocado": {
     "health": "Heart-Healthy",
@@ -1237,7 +1391,8 @@
     "servings": "Serves 4",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Shrimp_with_Tomato_Lime_and_Avocado"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Shrimp_with_Tomato_Lime_and_Avocado",
+    "video_url": ""
   },
   "Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread": {
     "health": "Moderate",
@@ -1245,7 +1400,8 @@
     "servings": "Serves 4",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread",
+    "video_url": ""
   },
   "Glazed_Pork_Chops_with_Sesame_Mirin_and_Ginger": {
     "health": "Moderate",
@@ -1253,7 +1409,8 @@
     "servings": "Serves 4",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Glazed_Pork_Chops_with_Sesame_Mirin_and_Ginger"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Glazed_Pork_Chops_with_Sesame_Mirin_and_Ginger",
+    "video_url": ""
   },
   "Roast_Pork_Loin_with_40_Cloves_of_Garlic": {
     "health": "Moderate",
@@ -1261,7 +1418,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roast_Pork_Loin_with_40_Cloves_of_Garlic"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roast_Pork_Loin_with_40_Cloves_of_Garlic",
+    "video_url": ""
   },
   "Spinach_with_Pancetta_White_Beans_and_Balsamic_Vinegar": {
     "health": "Moderate",
@@ -1269,7 +1427,8 @@
     "servings": "Serves 6 to 8",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spinach_with_Pancetta_White_Beans_and_Balsamic_Vinegar"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spinach_with_Pancetta_White_Beans_and_Balsamic_Vinegar",
+    "video_url": ""
   },
   "White_Beans_with_Tomatoes_and_Capers": {
     "health": "Heart-Healthy",
@@ -1277,7 +1436,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/White_Beans_with_Tomatoes_and_Capers"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/White_Beans_with_Tomatoes_and_Capers",
+    "video_url": ""
   },
   "Baked_Burritos_with_Pinto_Beans_and_Swiss_Chard": {
     "health": "Heart-Healthy",
@@ -1285,7 +1445,8 @@
     "servings": "Serves 6",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Baked_Burritos_with_Pinto_Beans_and_Swiss_Chard"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Baked_Burritos_with_Pinto_Beans_and_Swiss_Chard",
+    "video_url": ""
   },
   "Rillons": {
     "health": "Indulgent",
@@ -1293,7 +1454,8 @@
     "servings": "Serves 6 to 8",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rillons"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rillons",
+    "video_url": ""
   },
   "Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup": {
     "health": "Moderate",
@@ -1301,7 +1463,8 @@
     "servings": "Serves 6",
     "cuisine": "Armenian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup",
+    "video_url": ""
   },
   "Cider-Brined_Pork_Chops_with_Apples_and_Onions": {
     "health": "Moderate",
@@ -1309,7 +1472,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cider-Brined_Pork_Chops_with_Apples_and_Onions"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cider-Brined_Pork_Chops_with_Apples_and_Onions",
+    "video_url": ""
   },
   "Squash-Filled_Pasta": {
     "health": "Moderate",
@@ -1317,7 +1481,8 @@
     "servings": "Serves 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Squash-Filled_Pasta"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Squash-Filled_Pasta",
+    "video_url": ""
   },
   "Creamy_Broccoli_Pasta_with_Crispy_Panko": {
     "health": "Moderate",
@@ -1325,7 +1490,8 @@
     "servings": "Serves 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Creamy_Broccoli_Pasta_with_Crispy_Panko"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Creamy_Broccoli_Pasta_with_Crispy_Panko",
+    "video_url": ""
   },
   "Goan_Pork_Vindaloo": {
     "health": "Moderate",
@@ -1333,7 +1499,8 @@
     "servings": "Serves 8",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Goan_Pork_Vindaloo"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Goan_Pork_Vindaloo",
+    "video_url": ""
   },
   "Chicken_Stroganoff": {
     "health": "Indulgent",
@@ -1341,7 +1508,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Stroganoff"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Stroganoff",
+    "video_url": ""
   },
   "Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous": {
     "health": "Moderate",
@@ -1349,7 +1517,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous",
+    "video_url": ""
   },
   "Pasta_with_Sautéed_Mushrooms_and_Thyme": {
     "health": "Moderate",
@@ -1357,7 +1526,8 @@
     "servings": "4 as a main course, 6 to 8 as a side dish",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_with_Sautéed_Mushrooms_and_Thyme"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_with_Sautéed_Mushrooms_and_Thyme",
+    "video_url": ""
   },
   "Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce": {
     "health": "Indulgent",
@@ -1365,7 +1535,8 @@
     "servings": "Serves 6 to 8",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce",
+    "video_url": ""
   },
   "Air-Fryer_Chicken_Nuggets": {
     "health": "Moderate",
@@ -1373,7 +1544,8 @@
     "servings": "Serves 4 (makes 36 nuggets)",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Air-Fryer_Chicken_Nuggets"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Air-Fryer_Chicken_Nuggets",
+    "video_url": ""
   },
   "Air-Fryer_Crispy_Breaded_Boneless_Pork_Chops": {
     "health": "Moderate",
@@ -1381,7 +1553,8 @@
     "servings": "Serves 2",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Air-Fryer_Crispy_Breaded_Boneless_Pork_Chops"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Air-Fryer_Crispy_Breaded_Boneless_Pork_Chops",
+    "video_url": ""
   },
   "Tallarines_Verdes_Peruvian_Green_Noodles": {
     "health": "Moderate",
@@ -1389,7 +1562,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Peruvian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tallarines_Verdes_Peruvian_Green_Noodles"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tallarines_Verdes_Peruvian_Green_Noodles",
+    "video_url": ""
   },
   "Karaage_Japanese_Fried_Chicken_Thighs": {
     "health": "Indulgent",
@@ -1397,7 +1571,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Karaage_Japanese_Fried_Chicken_Thighs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Karaage_Japanese_Fried_Chicken_Thighs",
+    "video_url": ""
   },
   "Pasta_e_Piselli_Pasta_and_Peas": {
     "health": "Moderate",
@@ -1405,7 +1580,8 @@
     "servings": "Serves 4",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_e_Piselli_Pasta_and_Peas"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_e_Piselli_Pasta_and_Peas",
+    "video_url": ""
   },
   "Smothered_Boneless_Pork_Ribs": {
     "health": "Moderate",
@@ -1413,7 +1589,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smothered_Boneless_Pork_Ribs"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smothered_Boneless_Pork_Ribs",
+    "video_url": ""
   },
   "Southern-Style_Smothered_Pork_Chops": {
     "health": "Indulgent",
@@ -1421,7 +1598,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Southern-Style_Smothered_Pork_Chops"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Southern-Style_Smothered_Pork_Chops",
+    "video_url": ""
   },
   "Beef_and_Broccoli_Stir-Fry": {
     "health": "Heart-Healthy",
@@ -1429,7 +1607,8 @@
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Beef_and_Broccoli_Stir-Fry"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Beef_and_Broccoli_Stir-Fry",
+    "video_url": ""
   },
   "Couscous_Risotto_with_Chicken_and_Spinach": {
     "health": "Moderate",
@@ -1437,7 +1616,8 @@
     "servings": "Serves 4",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Couscous_Risotto_with_Chicken_and_Spinach"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Couscous_Risotto_with_Chicken_and_Spinach",
+    "video_url": ""
   },
   "Simple_Stovetop_Macaroni_and_Cheese": {
     "health": "Indulgent",
@@ -1445,7 +1625,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simple_Stovetop_Macaroni_and_Cheese"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simple_Stovetop_Macaroni_and_Cheese",
+    "video_url": ""
   },
   "Rigatoni_with_Marinated_Tomatoes_and_Burrata": {
     "health": "Moderate",
@@ -1453,7 +1634,8 @@
     "servings": "Serves 4",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rigatoni_with_Marinated_Tomatoes_and_Burrata"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rigatoni_with_Marinated_Tomatoes_and_Burrata",
+    "video_url": ""
   },
   "Pa_Amb_Tomàquet_Catalan_Tomato_Bread": {
     "health": "Moderate",
@@ -1461,7 +1643,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pa_Amb_Tomàquet_Catalan_Tomato_Bread"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pa_Amb_Tomàquet_Catalan_Tomato_Bread",
+    "video_url": ""
   },
   "Simple_Chicken_Tikka_Masala": {
     "health": "Heart-Healthy",
@@ -1469,7 +1652,8 @@
     "servings": "Serves 4",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simple_Chicken_Tikka_Masala"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simple_Chicken_Tikka_Masala",
+    "video_url": ""
   },
   "Baked_Pork_Chops_with_Parmesan-Sage_Crust": {
     "health": "Indulgent",
@@ -1477,7 +1661,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Baked_Pork_Chops_with_Parmesan-Sage_Crust"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Baked_Pork_Chops_with_Parmesan-Sage_Crust",
+    "video_url": ""
   },
   "Kimchi_sundubu-jjigae_김치순두부찌개_Spicy_soft_tofu_stew_with_kimchi": {
     "health": "Moderate",
@@ -1485,7 +1670,8 @@
     "servings": "Serves 1 or 2",
     "cuisine": "Korean",
     "source": "Maangchi",
-    "source_url": "https://www.maangchi.com/recipe/sundubu-jjigae"
+    "source_url": "https://www.maangchi.com/recipe/sundubu-jjigae",
+    "video_url": ""
   },
   "Haemul_sundubu-jjigae_Spicy_soft_tofu_stew_with_seafood": {
     "health": "Heart-Healthy",
@@ -1493,7 +1679,8 @@
     "servings": "2 servings",
     "cuisine": "Korean",
     "source": "Maangchi",
-    "source_url": "https://www.maangchi.com/recipe/haemul-sundubu-jjigae"
+    "source_url": "https://www.maangchi.com/recipe/haemul-sundubu-jjigae",
+    "video_url": ""
   },
   "Lamb_Shoulder_Chops_with_Red_Wine": {
     "health": "Indulgent",
@@ -1501,7 +1688,8 @@
     "servings": "['4', '4 servings']",
     "cuisine": "French",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/"
+    "source_url": "https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/",
+    "video_url": ""
   },
   "Barley_and_Lamb_Stew": {
     "health": "Moderate",
@@ -1509,7 +1697,8 @@
     "servings": "['4', '4 to 6 servings']",
     "cuisine": "American",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/barley-and-lamb-stew/"
+    "source_url": "https://altonbrown.com/recipes/barley-and-lamb-stew/",
+    "video_url": ""
   },
   "Chuanr_Grilled_Lamb_Skewers": {
     "health": "Indulgent",
@@ -1517,7 +1706,8 @@
     "servings": "['4', '4 servings']",
     "cuisine": "Chinese",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/recipes/chuanr-grilled-lamb-skewers/"
+    "source_url": "https://altonbrown.com/recipes/chuanr-grilled-lamb-skewers/",
+    "video_url": ""
   },
   "Red_Pozole_with_Traditional_Garnishes": {
     "health": "Moderate",
@@ -1525,7 +1715,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://patijinich.com/red-pozole-with-traditional-garnishes/"
+    "source_url": "https://patijinich.com/red-pozole-with-traditional-garnishes/",
+    "video_url": ""
   },
   "Red_Pozole": {
     "health": "Indulgent",
@@ -1533,7 +1724,8 @@
     "servings": "8 quarts, serving 12",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://www.rickbayless.com/recipe/red-pozole/"
+    "source_url": "https://www.rickbayless.com/recipe/red-pozole/",
+    "video_url": ""
   },
   "Slow-Cooker_Red_Chile_Pozole": {
     "health": "Indulgent",
@@ -1541,7 +1733,8 @@
     "servings": "4 quarts, serving 6 to 8",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://www.rickbayless.com/recipe/slow-cooker-red-chile-pozole/"
+    "source_url": "https://www.rickbayless.com/recipe/slow-cooker-red-chile-pozole/",
+    "video_url": ""
   },
   "Quick_Pozole": {
     "health": "Moderate",
@@ -1549,7 +1742,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://www.rickbayless.com/recipe/quick-pozole/"
+    "source_url": "https://www.rickbayless.com/recipe/quick-pozole/",
+    "video_url": ""
   },
   "Nihari_Recipe": {
     "health": "Heart-Healthy",
@@ -1557,7 +1751,8 @@
     "servings": "['4']",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/nihari/"
+    "source_url": "https://www.indianhealthyrecipes.com/nihari/",
+    "video_url": ""
   },
   "Nihari_Gosht_Recipe": {
     "health": "Indulgent",
@@ -1565,7 +1760,8 @@
     "servings": "3",
     "cuisine": "Awadhi",
     "source": "Archana's Kitchen",
-    "source_url": "https://archanaskitchen.com/recipe/nihari-gosht-recipe"
+    "source_url": "https://archanaskitchen.com/recipe/nihari-gosht-recipe",
+    "video_url": ""
   },
   "Awadhi_Khaas_Nihari_Recipe": {
     "health": "Indulgent",
@@ -1573,7 +1769,8 @@
     "servings": "4",
     "cuisine": "Awadhi",
     "source": "Archana's Kitchen",
-    "source_url": "https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe"
+    "source_url": "https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe",
+    "video_url": ""
   },
   "Chicken_Fricassee_(Poulet_à_la_Fricassée)_with_Onion_and_Mushroom_Garnish": {
     "health": "Moderate",
@@ -1581,7 +1778,8 @@
     "servings": "",
     "cuisine": "French",
     "source": "Julia Child",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Fricassee_(Poulet_à_la_Fricassée)_with_Onion_and_Mushroom_Garnish"
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Fricassee_(Poulet_à_la_Fricassée)_with_Onion_and_Mushroom_Garnish",
+    "video_url": ""
   },
   "Chicken_Cacciatore": {
     "health": "Heart-Healthy",
@@ -1589,7 +1787,8 @@
     "servings": "4",
     "cuisine": "Italian",
     "source": "GialloZafferano",
-    "source_url": "https://www.giallozafferano.com/recipes/chicken-cacciatore-chicken-stew-with-peppers.html"
+    "source_url": "https://www.giallozafferano.com/recipes/chicken-cacciatore-chicken-stew-with-peppers.html",
+    "video_url": ""
   },
   "Pinchos_Morunos": {
     "health": "Moderate",
@@ -1597,7 +1796,8 @@
     "servings": "4 servings",
     "cuisine": "Spanish",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/11901-spanish-grilled-pork-kebabs-pinchos-morunos"
+    "source_url": "https://www.americastestkitchen.com/recipes/11901-spanish-grilled-pork-kebabs-pinchos-morunos",
+    "video_url": ""
   },
   "Lemon-Pepper_Chicken": {
     "health": "Heart-Healthy",
@@ -1605,7 +1805,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Serious Eats - https://www.seriouseats.com/lemon-pepper-chicken-recipe-8779734",
-    "source_url": "https://www.seriouseats.com/lemon-pepper-chicken-recipe-8779734"
+    "source_url": "https://www.seriouseats.com/lemon-pepper-chicken-recipe-8779734",
+    "video_url": ""
   },
   "Grilled_Palak_Paneer_Wraps": {
     "health": "Moderate",
@@ -1613,7 +1814,8 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://chetnamakan.co.uk/grilled-palak-paneer-wraps"
+    "source_url": "https://chetnamakan.co.uk/grilled-palak-paneer-wraps",
+    "video_url": ""
   },
   "Chicken_Tikka_Recipe_Tandoori_Tikka_Kabab": {
     "health": "Heart-Healthy",
@@ -1621,7 +1823,8 @@
     "servings": "['4']",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/chicken-tikka-in-oven"
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-tikka-in-oven",
+    "video_url": ""
   },
   "Braciole_di_maiale_alla_brace_Grilled_Pork_Chops": {
     "health": "Moderate",
@@ -1629,7 +1832,8 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "Memorie di Angelina",
-    "source_url": "https://memoriediangelina.com/2019/08/17/braciole-di-maiale-alla-brace-grilled-pork-chops"
+    "source_url": "https://memoriediangelina.com/2019/08/17/braciole-di-maiale-alla-brace-grilled-pork-chops",
+    "video_url": ""
   },
   "One-Pan_Chicken_and_Rice_With_Preserved_Lemon_and_Cilantro": {
     "health": "Moderate",
@@ -1637,7 +1841,8 @@
     "servings": "",
     "cuisine": "Moroccan",
     "source": "Serious Eats",
-    "source_url": "https://www.seriouseats.com/chicken-rice-preserved-lemon-recipe-11974098"
+    "source_url": "https://www.seriouseats.com/chicken-rice-preserved-lemon-recipe-11974098",
+    "video_url": ""
   },
   "Vietnamese_Restaurant-Style_Grilled_Lemongrass_Pork_Thịt_Heo_Nướng_Sả": {
     "health": "Moderate",
@@ -1645,7 +1850,8 @@
     "servings": "['4']",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
-    "source_url": "https://www.vietworldkitchen.com/blog/2009/04/vietnamese-restaurantstyle-grilled-lemongrass-pork-thit-heo-nuong-xa.html"
+    "source_url": "https://www.vietworldkitchen.com/blog/2009/04/vietnamese-restaurantstyle-grilled-lemongrass-pork-thit-heo-nuong-xa.html",
+    "video_url": ""
   },
   "Char_Siu_Pork_Skewers": {
     "health": "Moderate",
@@ -1653,7 +1859,8 @@
     "servings": "['4']",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
-    "source_url": "https://www.vietworldkitchen.com/blog/2022/06/char-siu-pork-skewers-recipe.html"
+    "source_url": "https://www.vietworldkitchen.com/blog/2022/06/char-siu-pork-skewers-recipe.html",
+    "video_url": ""
   },
   "Ultimate_Thai_BBQ_Chicken_ไกยาง_gai_yang": {
     "health": "Moderate",
@@ -1661,7 +1868,8 @@
     "servings": "['4', '4 servings']",
     "cuisine": "Thai",
     "source": "Hot Thai Kitchen",
-    "source_url": "https://hot-thai-kitchen.com/ultimate-bbq-chicken"
+    "source_url": "https://hot-thai-kitchen.com/ultimate-bbq-chicken",
+    "video_url": ""
   },
   "Chicken-Fried_Steak": {
     "health": "Indulgent",
@@ -1669,7 +1877,8 @@
     "servings": "",
     "cuisine": "",
     "source": "americastestkitchen.com",
-    "source_url": "https://www.americastestkitchen.com/recipes/1844-chicken-fried-steak"
+    "source_url": "https://www.americastestkitchen.com/recipes/1844-chicken-fried-steak",
+    "video_url": ""
   },
   "Grilled_Oregano_Chicken": {
     "health": "Heart-Healthy",
@@ -1677,7 +1886,8 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://www.rickbayless.com/recipe/pollo-al-oregano"
+    "source_url": "https://www.rickbayless.com/recipe/pollo-al-oregano",
+    "video_url": ""
   },
   "Pasta_e_ceci_Pasta_and_Chickpeas": {
     "health": "Heart-Healthy",
@@ -1685,7 +1895,8 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "Memorie di Angelina",
-    "source_url": "https://memoriediangelina.com/2009/09/17/pasta-e-ceci"
+    "source_url": "https://memoriediangelina.com/2009/09/17/pasta-e-ceci",
+    "video_url": ""
   },
   "Baked_pasta_shells": {
     "health": "Moderate",
@@ -1693,7 +1904,8 @@
     "servings": "5",
     "cuisine": "Italian",
     "source": "GialloZafferano",
-    "source_url": "https://www.giallozafferano.com/recipes/baked-pasta-shells.html"
+    "source_url": "https://www.giallozafferano.com/recipes/baked-pasta-shells.html",
+    "video_url": ""
   },
   "Broccoli_Chicken_Orzo_Bake": {
     "health": "Heart-Healthy",
@@ -1701,7 +1913,8 @@
     "servings": "['4', '4-6']",
     "cuisine": "American",
     "source": "Feasting at Home",
-    "source_url": "https://www.feastingathome.com/broccoli-chicken-orzo-bake"
+    "source_url": "https://www.feastingathome.com/broccoli-chicken-orzo-bake",
+    "video_url": ""
   },
   "Japanese_Chicken_Meatballs": {
     "health": "Moderate",
@@ -1709,7 +1922,8 @@
     "servings": "6",
     "cuisine": "Japanese",
     "source": "Viet World Kitchen",
-    "source_url": "https://www.vietworldkitchen.com/blog/2019/09/japanese-chicken-meatballs-recipe-tsukune.html"
+    "source_url": "https://www.vietworldkitchen.com/blog/2019/09/japanese-chicken-meatballs-recipe-tsukune.html",
+    "video_url": ""
   },
   "Easy_Skillet_Lemon_Chicken": {
     "health": "Heart-Healthy",
@@ -1717,7 +1931,8 @@
     "servings": "",
     "cuisine": "Fusion, American",
     "source": "Serious Eats",
-    "source_url": "https://www.seriouseats.com/one-skillet-lemon-chicken-recipe-8739370"
+    "source_url": "https://www.seriouseats.com/one-skillet-lemon-chicken-recipe-8739370",
+    "video_url": ""
   },
   "Chicken_Paillard_Chicken_With_Lemon-Herb_Butter_Sauce": {
     "health": "Moderate",
@@ -1725,7 +1940,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "Serious Eats",
-    "source_url": "https://www.seriouseats.com/lemon-butter-chicken-paillard-recipe-11756564"
+    "source_url": "https://www.seriouseats.com/lemon-butter-chicken-paillard-recipe-11756564",
+    "video_url": ""
   },
   "Baked_Chicken_Drumsticks_with_Lemon_and_Garlic": {
     "health": "Moderate",
@@ -1733,7 +1949,8 @@
     "servings": "['12', '12 pieces']",
     "cuisine": "Mediterranean",
     "source": "The Mediterranean Dish",
-    "source_url": "https://www.themediterraneandish.com/baked-chicken-drumsticks"
+    "source_url": "https://www.themediterraneandish.com/baked-chicken-drumsticks",
+    "video_url": ""
   },
   "How_to_Make_the_Crispiest_General_Tsos_Chicken_at_Home_Kenjis_Cooking_Show": {
     "health": "Moderate",
@@ -1741,7 +1958,8 @@
     "servings": "",
     "cuisine": "American",
     "source": "J. Kenji López-Alt",
-    "source_url": "https://www.youtube.com/watch?v=aiyD-FbSZE0"
+    "source_url": "https://www.youtube.com/watch?v=aiyD-FbSZE0",
+    "video_url": "https://www.youtube.com/watch?v=aiyD-FbSZE0"
   },
   "Orange_Chicken_Recipe": {
     "health": "Heart-Healthy",
@@ -1749,7 +1967,8 @@
     "servings": "4 servings",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/orange-chicken"
+    "source_url": "https://thewoksoflife.com/orange-chicken",
+    "video_url": "https://content.jwplatform.com/videos/WR1Uzae1.mp4"
   },
   "Tunisian_Chicken_Tagine_Recipe": {
     "health": "Heart-Healthy",
@@ -1757,7 +1976,8 @@
     "servings": "['4', '4-6']",
     "cuisine": "Moroccan",
     "source": "Feasting at Home",
-    "source_url": "https://www.feastingathome.com/tunisian-chicken-with-cous-cous"
+    "source_url": "https://www.feastingathome.com/tunisian-chicken-with-cous-cous",
+    "video_url": ""
   },
   "Chicken_Curry_Recipe": {
     "health": "Heart-Healthy",
@@ -1765,7 +1985,8 @@
     "servings": "3 people",
     "cuisine": "Asian, Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/chicken-curry"
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-curry",
+    "video_url": ""
   },
   "Citrus_Rosemary_Chicken_Recipe": {
     "health": "Heart-Healthy",
@@ -1773,7 +1994,8 @@
     "servings": "6 people",
     "cuisine": "Mediterranean",
     "source": "The Mediterranean Dish",
-    "source_url": "https://www.themediterraneandish.com/citrus-rosemary-chicken"
+    "source_url": "https://www.themediterraneandish.com/citrus-rosemary-chicken",
+    "video_url": ""
   },
   "Kerala_Chicken_Curry_Nadan_Kozhi_Curry": {
     "health": "Heart-Healthy",
@@ -1781,7 +2003,8 @@
     "servings": "3",
     "cuisine": "Kerala",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://www.indianhealthyrecipes.com/kerala-chicken"
+    "source_url": "https://www.indianhealthyrecipes.com/kerala-chicken",
+    "video_url": ""
   },
   "Roast_Chicken_With_Citrus_Honey": {
     "health": "Heart-Healthy",
@@ -1789,7 +2012,8 @@
     "servings": "6",
     "cuisine": "Greek",
     "source": "The Mediterranean Dish",
-    "source_url": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey"
+    "source_url": "https://www.themediterraneandish.com/roast-spatchcock-chicken-with-citrus-honey",
+    "video_url": ""
   },
   "Mediterranean_Chicken_Wraps": {
     "health": "Heart-Healthy",
@@ -1797,7 +2021,8 @@
     "servings": "Serves 4",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/7601-mediterranean-chicken-wraps"
+    "source_url": "https://www.americastestkitchen.com/recipes/7601-mediterranean-chicken-wraps",
+    "video_url": ""
   },
   "Chicken_Caesar_Salad_Wraps": {
     "health": "Moderate",
@@ -1805,7 +2030,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/7052-chicken-caesar-salad-wraps"
+    "source_url": "https://www.americastestkitchen.com/recipes/7052-chicken-caesar-salad-wraps",
+    "video_url": ""
   },
   "Cherry_Tomato_Salad_with_Basil_and_Fresh_Mozzarella": {
     "health": "Heart-Healthy",
@@ -1813,7 +2039,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/4321-cherry-tomato-salad-with-basil-and-fresh-mozzarella"
+    "source_url": "https://www.americastestkitchen.com/recipes/4321-cherry-tomato-salad-with-basil-and-fresh-mozzarella",
+    "video_url": ""
   },
   "Antipasto_Chopped_Salad": {
     "health": "Heart-Healthy",
@@ -1821,7 +2048,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/11289-antipasto-chopped-salad"
+    "source_url": "https://www.americastestkitchen.com/recipes/11289-antipasto-chopped-salad",
+    "video_url": ""
   },
   "Greek_Salad": {
     "health": "Heart-Healthy",
@@ -1829,7 +2057,8 @@
     "servings": "Serves 6 to 8",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/383-greek-salad"
+    "source_url": "https://www.americastestkitchen.com/recipes/383-greek-salad",
+    "video_url": "https://player.zype.com/embed/5b400a4ce338f922cb05f336.html"
   },
   "Peach_and_Cucumber_Salad": {
     "health": "Heart-Healthy",
@@ -1837,7 +2066,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Thai",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14808-peach-and-cucumber-salad"
+    "source_url": "https://www.americastestkitchen.com/recipes/14808-peach-and-cucumber-salad",
+    "video_url": ""
   },
   "Pearl_Couscous_with_Lemon_Mint_Peas_Feta_and_Pickled_Shallots": {
     "health": "Moderate",
@@ -1845,7 +2075,8 @@
     "servings": "Serves 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/8432-pearl-couscous-with-lemon-mint-peas-feta-and-pickled-shallots"
+    "source_url": "https://www.americastestkitchen.com/recipes/8432-pearl-couscous-with-lemon-mint-peas-feta-and-pickled-shallots",
+    "video_url": "https://player.zype.com/embed/5b400b51e338f922cb06378f.html"
   },
   "Garlicky_Broccoli_and_Chickpea_Salad": {
     "health": "Heart-Healthy",
@@ -1853,7 +2084,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/13424-garlicky-broccoli-and-chickpea-salad"
+    "source_url": "https://www.americastestkitchen.com/recipes/13424-garlicky-broccoli-and-chickpea-salad",
+    "video_url": ""
   },
   "Pai_Huang_Gua_Sichuan_Smashed_Cucumbers": {
     "health": "Heart-Healthy",
@@ -1861,7 +2093,8 @@
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/9726-smashed-cucumbers-pai-huang-gua"
+    "source_url": "https://www.americastestkitchen.com/recipes/9726-smashed-cucumbers-pai-huang-gua",
+    "video_url": "https://player.zype.com/embed/5b400b9f4b32992a310627f6.html"
   },
   "Turkey_Picnic_Sandwich_with_Sun-Dried_Tomato_Spread": {
     "health": "Moderate",
@@ -1869,7 +2102,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/11863-turkey-picnic-sandwich-with-sun-dried-tomato-spread"
+    "source_url": "https://www.americastestkitchen.com/recipes/11863-turkey-picnic-sandwich-with-sun-dried-tomato-spread",
+    "video_url": ""
   },
   "Grilled_Dijon_Chicken_Salad_with_Raspberries_and_Avocado": {
     "health": "Heart-Healthy",
@@ -1877,7 +2111,8 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/13934-grilled-dijon-chicken-salad-with-raspberries-and-avocado"
+    "source_url": "https://www.americastestkitchen.com/recipes/13934-grilled-dijon-chicken-salad-with-raspberries-and-avocado",
+    "video_url": ""
   },
   "Red_Curry_Shrimp_with_Coconut_Rice_and_Cucumber_Relish": {
     "health": "Moderate",
@@ -1885,7 +2120,8 @@
     "servings": "Serves 4",
     "cuisine": "Thai",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14938-red-curry-shrimp-with-coconut-rice-and-cucumber-relish"
+    "source_url": "https://www.americastestkitchen.com/recipes/14938-red-curry-shrimp-with-coconut-rice-and-cucumber-relish",
+    "video_url": ""
   },
   "Air-Fryer_Marinated_Pork_Gyros": {
     "health": "Moderate",
@@ -1893,7 +2129,8 @@
     "servings": "Serves 2",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14747-air-fryer-marinated-pork-gyros"
+    "source_url": "https://www.americastestkitchen.com/recipes/14747-air-fryer-marinated-pork-gyros",
+    "video_url": ""
   },
   "Watermelon_Salad_with_Cotija_and_Serrano_Chiles": {
     "health": "Moderate",
@@ -1901,7 +2138,8 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/12836-watermelon-salad-with-cotija-and-serrano-chiles"
+    "source_url": "https://www.americastestkitchen.com/recipes/12836-watermelon-salad-with-cotija-and-serrano-chiles",
+    "video_url": "https://player.zype.com/embed/62487251d4737700015d7915.html"
   },
   "Charred_Green_Beans_with_Coriander_Sesame_and_Nigella_Seeds": {
     "health": "Heart-Healthy",
@@ -1909,6 +2147,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://www.americastestkitchen.com/recipes/14309-charred-green-beans-with-coriander-sesame-and-nigella-seeds"
+    "source_url": "https://www.americastestkitchen.com/recipes/14309-charred-green-beans-with-coriander-sesame-and-nigella-seeds",
+    "video_url": ""
   }
 }

@@ -159,6 +159,9 @@
         <span>{{ meta.source }}</span>
       {% endif %}
     {% endif %}
+    {% if meta.video_url != "" %}
+      <span><a href="{{ meta.video_url }}" target="_blank">&#9654; Watch</a></span>
+    {% endif %}
     {% if meta.health != "" %}
       {% if meta.health == "Heart-Healthy" %}
         <span><span class="badge heart-healthy">Heart-Healthy</span></span>

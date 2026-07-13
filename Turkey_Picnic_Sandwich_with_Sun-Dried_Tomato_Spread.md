@@ -1,10 +1,5 @@
 # Turkey Picnic Sandwich with Sun-Dried Tomato Spread
 
-**Time:** 4 hours
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11863-turkey-picnic-sandwich-with-sun-dried-tomato-spread)*
-
 ## Ingredients
 
 - 1 pound store-bought pizza dough
@@ -29,6 +24,3 @@
 3. For the spread: Meanwhile, process tomatoes, almonds, capers, lemon juice, garlic, salt, and pepper flakes in food processor until finely chopped, about 20 seconds, scraping down sides of bowl as needed. Transfer to bowl and stir in oil.
 4. Slice bread in half horizontally. Spread tomato mixture on cut sides of bread, about ½ cup per piece (use all of it). Layer Muenster, turkey, parsley, and red peppers on bread bottom. Cap with bread top and wrap sandwich tightly in double layer of plastic.
 5. Place Dutch oven on top of sandwich and let sit at room temperature for 1 hour. (Pressed sandwich can be refrigerated for up to 24 hours. Let come to room temperature before serving.) Unwrap sandwich, cut into quarters, and serve. (Sandwich can be kept unrefrigerated for up to 2 hours.)
-
-## Notes
-

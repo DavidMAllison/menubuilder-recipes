@@ -1,9 +1,5 @@
 # Chicken Curry Recipe
 
-**Time**: 50 minutes  
-**Serves**: 3 people  
-**Adapted from**: [Indian Healthy Recipes](https://www.indianhealthyrecipes.com/chicken-curry)  
-
 ## Ingredients
 
 - ½ kg (1.1 lbs.)  chicken ((preferably bone-in, boneless is okay))

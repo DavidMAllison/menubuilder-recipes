@@ -1,10 +1,5 @@
 # Grilled Dijon Chicken Salad with Raspberries and Avocado
 
-**Time:** 45 minutes
-**Servings:** Serves 4
-
-*Adapted from [America's Test Kitchen](https://www.americastestkitchen.com/recipes/13934-grilled-dijon-chicken-salad-with-raspberries-and-avocado)*
-
 ## Ingredients
 
 - 5 tablespoons Dijon mustard
@@ -25,6 +20,3 @@
 1. Combine mustard, sugar, salt, and pepper in large bowl. Transfer 3 tablespoons mustard mixture to second large bowl; set aside. Pat chicken dry with paper towels. Add chicken to remaining mustard mixture (in first bowl) and toss to coat.
 2. Grill chicken over hot fire until well browned and registering 160 degrees, about 6 minutes per side. Transfer chicken to cutting board and tent with foil.
 3. Whisk oil and vinegar into reserved mustard mixture. Add mesclun and toss to combine. Slice chicken ¾ inch thick. Top salad with raspberries, avocado, pecans, and chicken. Sprinkle with julienned fresh basil and season with salt to taste. Serve.
-
-## Notes
-
