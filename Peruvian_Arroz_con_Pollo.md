@@ -1,8 +1,5 @@
 # Peruvian Arroz con Pollo
 
-**Time**: ~1 hour  
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16207-peruvian-arroz-con-pollo)  
-
 ## Ingredients
 
 ### Chicken and Rice

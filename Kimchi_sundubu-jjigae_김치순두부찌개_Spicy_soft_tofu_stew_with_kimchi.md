@@ -1,9 +1,5 @@
 # Kimchi sundubu-jjigae (김치순두부찌개) Spicy soft tofu stew with kimchi...
 
-**Time**: 43 minutes  
-**Serves**: Serves 1 or 2  
-**Adapted from**: [Maangchi](https://www.maangchi.com/recipe/sundubu-jjigae)  
-
 ## Ingredients
 
 - ½ cup well-fermented kimchi (4 ounces), chopped
@@ -19,7 +15,10 @@
 
 ## Instructions
 
-1. Put dried anchovies, radish, dried kelp, and 4 cups of water in a pot. Cover and boil over medium high heat for 10 minutes until it starts boiling. Reduce the heat to low and boil another 20 minutes Remove from the heat and strain. It will make about 2 cups of stock.
-2. Combine the hot pepper flakes and the sesame oil in a small bowl and mix well.
-3. Heat up a 3 cup earthenware pot (ttukbaegi) on the stove over medium high heat for about 3 to 4 minutes. If you use a small heavy pan or pot, it will take less. Add the vegetable oil, onion, and garlic. Stir it with a wooden spoon for 1 minute. Add the pork. Stir for 3 minutes until the pork is no longer pink. Add kimchi and keep stirring for a minute. Add ½ cup anchovy stock. Cover and cook for 7 minutes over medium heat. Add the salt and the sugar and mix well. Cut the tube of soft tofu into half and squeeze it out into the pot. Gently break up the tofu with a wooden spoon. If you want, add a few tablespoons of stock. Put the hot pepper mixture on top and spread it with the spoon.
-4. Crack the egg and put it on top, in the center of the stew. Let it bubble and sizzle for 1 minute. Sprinkle with the chopped green onion and serve with rice and a few more side dishes.
+1. Combine dried anchovies, radish, dried kelp, and 4 cups of water in a pot and cover. Bring to a boil over medium high heat, which should take about 10 minutes. Once boiling, lower the heat to low and continue boiling for another 20 minutes. Take the pot off the heat and pour the contents through a strainer. You should end up with approximately 2 cups of stock.
+
+2. In a small bowl, mix together the hot pepper flakes and sesame oil until fully combined.
+
+3. Place a 3 cup earthenware pot (ttukbaegi) on the stove over medium high heat and let it warm for approximately 3 to 4 minutes (a small heavy pan or pot will need less time). Pour in the vegetable oil, onion, and garlic, then use a wooden spoon to stir for 1 minute. Add the pork and continue stirring for 3 minutes until it loses its pink color. Stir in the kimchi and cook for 1 minute while stirring. Pour in ½ cup anchovy stock, cover the pot, and let it cook for 7 minutes over medium heat. Season with salt and sugar and stir to combine. Halve the tube of soft tofu and squeeze it into the pot. Using a wooden spoon, gently break the tofu into smaller pieces. If desired, add a few tablespoons of additional stock. Spoon the hot pepper mixture onto the surface of the stew and spread it out with the spoon.
+
+4. Break open the egg and place it on top in the center of the stew. Allow it to bubble and sizzle for 1 minute. Top with chopped green onion and serve alongside rice and additional side dishes.

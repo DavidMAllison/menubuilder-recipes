@@ -1,7 +1,5 @@
 # Tuscan Garlic Chicken Pasta
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4693-tuscan-garlic-chicken-pasta)  
-
 ## Ingredients
 
 - 6 garlic cloves, minced

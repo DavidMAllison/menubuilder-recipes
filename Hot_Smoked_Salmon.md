@@ -1,8 +1,5 @@
 # Hot Smoked Salmon
 
-**Time**: 30 hours  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/hot-smoked-salmon-2/)  
-
 ## Ingredients
 
 - 1/2 cup kosher salt

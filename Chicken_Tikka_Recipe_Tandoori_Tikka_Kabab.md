@@ -1,9 +1,5 @@
 # Chicken Tikka Recipe (Tandoori Tikka Kabab)
 
-**Time**: 35 minutes  
-**Serves**: 4  
-**Adapted from**: [Indian Healthy Recipes](https://www.indianhealthyrecipes.com/chicken-tikka-in-oven)  
-
 ## Notes
 
 - **Serving**: Serve with [Cilantro Chutney](https://davidmallison.github.io/menubuilder-recipes/Cilantro_Chutney), [Mint-Cilantro Green Chutney](https://davidmallison.github.io/menubuilder-recipes/Mint-Cilantro_Green_Chutney), or raita. Also works well stuffed in naan or chapati with chutney and salad.

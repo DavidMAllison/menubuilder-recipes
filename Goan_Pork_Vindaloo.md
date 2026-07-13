@@ -1,7 +1,5 @@
 # Goan Pork Vindaloo
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12579-goan-pork-vindaloo)
-
 ## Ingredients
 
 - 3/4 cup water

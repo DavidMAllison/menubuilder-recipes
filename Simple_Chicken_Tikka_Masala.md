@@ -1,7 +1,5 @@
 # Simple Chicken Tikka Masala
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8100-simple-chicken-tikka-masala)
-
 ## Ingredients
 
 - 1 tablespoon garam masala

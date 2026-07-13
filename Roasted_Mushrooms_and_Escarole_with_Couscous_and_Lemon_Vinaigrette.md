@@ -1,9 +1,5 @@
 # Roasted Mushrooms and Escarole with Couscous and Lemon Vinaigrette
 
-**Time**: 40 minutes
-**Servings**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17450-roasted-mushrooms-and-escarole-with-couscous-and-lemon-vinaigrette)
-
 ## Notes
 
 - A mix of wild mushrooms is great, but cremini or buttons work fine. Remove stems from shiitakes.

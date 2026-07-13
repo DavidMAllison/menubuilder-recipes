@@ -1,7 +1,5 @@
 # Roast Pork Loin with 40 Cloves of Garlic
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12499-roast-pork-loin-with-40-cloves-of-garlic)
-
 ## Ingredients
 
 - 4 teaspoons minced fresh thyme , divided

@@ -1,9 +1,5 @@
 # Pappa al Pomodoro
 
-**Time**: 40 minutes
-**Servings**: 4–6
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15812-pappa-al-pomodoro)
-
 ## Notes
 
 - Use the ripest in-season tomatoes — this dish lives or dies by them.

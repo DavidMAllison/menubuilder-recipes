@@ -1,8 +1,5 @@
 # Barley and Lamb Stew
 
-**Time**: 1 hour 25 minutes  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/barley-and-lamb-stew/)  
-
 ## Ingredients
 
 - 2 pounds boneless lamb shoulder, trimmed of fat and cut into bite-size pieces

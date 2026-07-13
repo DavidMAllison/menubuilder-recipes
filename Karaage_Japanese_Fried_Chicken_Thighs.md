@@ -1,7 +1,5 @@
 # Karaage (Japanese Fried Chicken Thighs)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11892-japanese-fried-chicken-thighs-karaage)
-
 ## Ingredients
 
 - 3 tablespoons soy sauce

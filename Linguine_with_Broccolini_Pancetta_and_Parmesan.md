@@ -1,7 +1,5 @@
 # Linguine with Broccolini, Pancetta, and Parmesan
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14628-linguine-with-broccolini-pancetta-and-parmesan)  
-
 ## Ingredients
 
 **Bread Crumbs**

@@ -1,7 +1,5 @@
 # Creamy Orzo with Hot Italian Sausage, Broccoli Rabe, and Tomatoes
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17149-creamy-orzo-with-hot-italian-sausage-broccoli-rabe-and-tomatoes)  
-
 ## Ingredients
 
 - 2 tablespoons unsalted butter

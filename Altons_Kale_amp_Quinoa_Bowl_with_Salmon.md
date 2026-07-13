@@ -1,8 +1,5 @@
 # Alton's Kale &amp; Quinoa Bowl with Salmon
 
-**Time**: 50 minutes  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/altons-kale-quinoa-bowl-with-salmon/)  
-
 ## Ingredients
 
 - 1 bunch lacinato or &quot;dinosaur&quot; kale, (stems removed and cut into ribbons (about 4 ounces, stemmed))

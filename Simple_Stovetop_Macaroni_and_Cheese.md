@@ -1,7 +1,5 @@
 # Simple Stovetop Macaroni and Cheese
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9474-simple-stovetop-macaroni-and-cheese)
-
 ## Ingredients
 
 - 1 1/2 cups water

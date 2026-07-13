@@ -1,7 +1,5 @@
 # Pasta e Piselli (Pasta and Peas)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/13877-pasta-e-piselli-pasta-and-peas)
-
 ## Ingredients
 
 - 2 tablespoons extra-virgin olive oil , plus extra for drizzling

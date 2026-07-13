@@ -1,7 +1,6 @@
 # Amarillito Mole with Chicken
 
 *Mole Amarillito con Pollo*
-**Adapted from**: [Pati Jinich](https://patijinich.com/amarillito-mole-with-chicken)
 
 ## Ingredients
 

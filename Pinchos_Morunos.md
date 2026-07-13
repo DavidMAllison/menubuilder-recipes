@@ -1,8 +1,5 @@
 # Pinchos Morunos
 
-**Time**: 1 hour 15 minutes (30 min brine + 30 min cook)  
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11901-spanish-grilled-pork-kebabs-pinchos-morunos)  
-
 ## Notes
 
 - Inspired by the Spanish tapa *pinchos morunos* — Moorish-style spiced pork skewers common across Spain.
@@ -35,4 +32,3 @@ Country-style pork ribs have both dark and light meat — thread them onto separ
 3. For a charcoal grill: light a full chimney (6 quarts briquettes) and pour over half the grill for a two-zone fire. For a gas grill: heat all burners on high for 15 minutes, then turn off secondary burners, leaving primary on high.
 4. Clean and oil the cooking grate. Place dark meat skewers on the hotter side and cook 6 minutes. Flip dark meat and add light meat skewers to the hot side. Cook 4 minutes, then flip all kebabs. Continue cooking, flipping every 4 minutes, until dark meat is well charred and registers 155°F and light meat is lightly charred and registers 140°F, 4–8 minutes more.
 5. Transfer to a platter, tent with foil, and rest 5 minutes. Remove from skewers, toss to combine, sprinkle with remaining 1 teaspoon oregano, and serve with lemon wedges.
-

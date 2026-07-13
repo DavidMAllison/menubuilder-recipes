@@ -1,7 +1,5 @@
 # Gochujang-Glazed Ribs
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17655-gochujang-glazed-ribs-for-gas-grill)  
-
 ## Ingredients
 
 - 1 1/2 tablespoons kosher salt

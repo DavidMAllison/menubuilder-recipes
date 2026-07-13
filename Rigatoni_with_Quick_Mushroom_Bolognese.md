@@ -1,7 +1,5 @@
 # Rigatoni with Quick Mushroom Bolognese
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12518-rigatoni-with-quick-mushroom-bolognese)  
-
 ## Ingredients
 
 - 1 pound rigatoni

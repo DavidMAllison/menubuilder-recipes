@@ -1,7 +1,5 @@
 # Mediterranean Baked Salmon with Herb-Yogurt Sauce
 
-**Adapted from**: [The Weary Chef / Midwest Foodie](https://wearychef.com/recipe/baked-salmon-with-herbed-yogurt-sauce/)
-
 ## Ingredients
 
 - 4 (6-ounce) salmon fillets, skin on

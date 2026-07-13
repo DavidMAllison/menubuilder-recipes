@@ -1,7 +1,5 @@
 # Yakisoba (Japanese Stir-Fried Noodles)
 
-**Adapted from**: [Just One Cookbook](https://www.justonecookbook.com/yakisoba/)
-
 ## Notes
 
 - Use the largest pan you have -- overcrowding kills the char

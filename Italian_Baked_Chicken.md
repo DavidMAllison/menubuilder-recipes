@@ -1,7 +1,5 @@
 # Italian Baked Chicken
 
-**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/easy-italian-baked-chicken-recipe/)
-
 ## Notes
 
 - For kids: Very mild herb seasoning — can pull plain chicken before garnishing.

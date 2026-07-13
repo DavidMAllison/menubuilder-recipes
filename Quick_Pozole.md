@@ -1,7 +1,5 @@
 # Quick Pozole
 
-**Adapted from**: [Rick Bayless](https://www.rickbayless.com/recipe/quick-pozole/)  
-
 ## Ingredients
 
 - 1 29-ounce can hominy

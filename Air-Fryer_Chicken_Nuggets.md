@@ -1,7 +1,5 @@
 # Air-Fryer Chicken Nuggets
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11345-air-fryer-chicken-nuggets)
-
 ## Ingredients
 
 - 4 (8-ounce) boneless, skinless chicken breasts , trimmed

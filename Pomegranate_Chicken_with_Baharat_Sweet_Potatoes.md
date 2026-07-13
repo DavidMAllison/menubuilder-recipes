@@ -1,8 +1,5 @@
 # Pomegranate Chicken with Baharat Sweet Potatoes
 
-**Time**: ~40-45 minutes  
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15440-pomegranate-chicken-with-baharat-sweet-potatoes)  
-
 ## Ingredients
 
 - 8 (5- to 7-ounce) bone-in chicken thighs, trimmed

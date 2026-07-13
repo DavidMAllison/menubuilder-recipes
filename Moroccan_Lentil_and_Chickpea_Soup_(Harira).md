@@ -1,9 +1,5 @@
 # Moroccan Lentil and Chickpea Soup (Harira)
 
-**Time**: 55 minutes
-**Servings**: 6
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10605-moroccan-lentil-and-chickpea-soup-harira)
-
 ## Notes
 
 - For a vegetarian version, substitute vegetable broth for chicken broth.

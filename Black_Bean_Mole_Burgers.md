@@ -1,7 +1,5 @@
 # Black Bean Mole Burgers
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17104-black-bean-mole-burgers)  
-
 ## Ingredients
 
 - 1/2 cup panko bread crumbs

@@ -1,7 +1,5 @@
 # Grilled Chicken and Cherry Tomatoes with Garlic Bread
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17020-grilled-chicken-and-cherry-tomatoes-with-garlic-bread)
-
 ## Ingredients
 
 - 6 tablespoons unsalted butter , cut into 12 pieces, divided

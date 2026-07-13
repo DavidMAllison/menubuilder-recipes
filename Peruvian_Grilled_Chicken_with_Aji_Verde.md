@@ -1,7 +1,5 @@
 # Peruvian Grilled Chicken with Aji Verde
 
-**Adapted from**: [Feasting at Home](https://www.feastingathome.com/grilled-peruvian-chicken-with-green-sauce/)
-
 ## Notes
 
 - Family used a whole spatchcocked chicken -- worked great. Buy a 3.5-4 lb chicken.

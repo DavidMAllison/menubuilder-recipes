@@ -38,4 +38,3 @@ Adapted from [Pati Jinich](https://patijinich.com/tacos-de-alambre-de-carne-con-
 4. Increase heat to high. Cook beef in batches without overcrowding, about 4 minutes per batch, stirring and flipping as it browns. Transfer each batch to a bowl.
 5. Return all meat, vegetables, chorizo, and bacon to the pan over low heat. Scatter cheese throughout and cover until melted.
 6. Heat corn tortillas on a comal or skillet over medium heat until lightly browned. Assemble tacos and top with salsa or guacamole.
-

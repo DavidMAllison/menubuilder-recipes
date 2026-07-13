@@ -1,7 +1,6 @@
 # Citrus Chicken with Carrots and Baby Potatoes
 
 *Pollo en Salsa de Citricos con Zanahorias y Papas*
-**Adapted from**: [Pati Jinich](https://patijinich.com/citrus-chicken-with-carrots-and-baby-potatoes)
 
 ## Notes
 

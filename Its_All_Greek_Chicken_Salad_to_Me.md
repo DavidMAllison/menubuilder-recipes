@@ -30,4 +30,3 @@ Adapted from [Alton Brown](https://altonbrown.com/wprm_print/its-all-greek-chick
 2. Add chicken, cucumber, tomato, red onion, feta, and olives. Stir to coat.
 3. Refrigerate for at least 1 hour before serving.
 4. Store in the fridge for up to 3 days.
-

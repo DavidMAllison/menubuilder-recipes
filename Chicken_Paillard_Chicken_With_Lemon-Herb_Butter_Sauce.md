@@ -1,8 +1,5 @@
 # Chicken Paillard (Chicken With Lemon-Herb Butter Sauce)
 
-**Time**: 30 minutes  
-**Adapted from**: [Serious Eats](https://www.seriouseats.com/lemon-butter-chicken-paillard-recipe-11756564)  
-
 ## Ingredients
 
 - 1/2 cup (2 1/4 ounces; 64 g) all-purpose flour

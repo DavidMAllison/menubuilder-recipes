@@ -1,8 +1,5 @@
 # Rafute
 
-**Time**: 3 hours 45 minutes  
-**Adapted from**: [Just One Cookbook](https://www.justonecookbook.com/rafute/)  
-
 ## Ingredients
 
 - 2 lb pork belly block ((boneless, skin on))

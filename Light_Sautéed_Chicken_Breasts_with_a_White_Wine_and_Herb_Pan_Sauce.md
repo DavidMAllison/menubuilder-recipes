@@ -1,7 +1,5 @@
 # Light Sautéed Chicken Breasts with a White Wine and Herb Pan Sauce
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/5337-light-sauteed-chicken-breasts-with-a-white-wine-and-herb-pan-sauce)  
-
 ## Ingredients
 
 **Chicken**

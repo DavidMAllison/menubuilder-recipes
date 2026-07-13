@@ -1,7 +1,5 @@
 # Seared Shrimp with Tomato, Lime, and Avocado
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/7443-seared-shrimp-with-tomato-lime-and-avocado)
-
 ## Ingredients
 
 - 1 pound tomatoes , cored and cut into 1/2-inch pieces

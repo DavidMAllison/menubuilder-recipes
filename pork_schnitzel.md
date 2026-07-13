@@ -1,7 +1,5 @@
 # Pork Schnitzel
 
-**Adapted from**: [Milk Street](https://www.wskg.org/arts/2022-09-27/milk-street-schnitzel-and-mashed-ep-517)
-
 ## Notes
 
 - Pounding the meat thin is key — it cooks quickly and stays tender.

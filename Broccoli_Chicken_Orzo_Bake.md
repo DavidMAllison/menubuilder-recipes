@@ -2,10 +2,6 @@
 
 > **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
 
-**Time**: 45 minutes  
-**Serves**: ['4', '4-6']  
-**Adapted from**: [Feasting at Home](https://www.feastingathome.com/broccoli-chicken-orzo-bake)  
-
 ## Ingredients
 
 - 1 pound chicken breasts, cut into 1-inch pieces

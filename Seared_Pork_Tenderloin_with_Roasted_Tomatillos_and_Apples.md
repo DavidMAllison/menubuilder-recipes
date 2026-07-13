@@ -1,8 +1,5 @@
 # Seared Pork Tenderloin with Roasted Tomatillos and Apples
 
-**Time**: 50 minutes
-**Serves**: 4
-
 ## Notes
 
 - Apples should be firm (Honeycrisp, Fuji) so they hold their shape in the sauce.
@@ -34,4 +31,3 @@ Adapted from [Rick Bayless](https://www.rickbayless.com/recipe/seared-pork-tende
 5. Add tomatillo puree to skillet and cook, stirring constantly, until reduced and thick, about 4 minutes. Stir in broth, herbs, poblano, onion, and apple.
 6. When sauce boils, nestle pork in, reduce heat to medium, and partially cover. Simmer until cooked through, about 20 minutes.
 7. Remove pork to cutting board. Bring sauce to a boil; season with salt and sugar to taste. Slice pork into medallions, arrange on plates, and spoon sauce around. Garnish with herbs.
-

@@ -1,7 +1,5 @@
 # One-Pan Mediterranean Chicken with Tomatoes & White Beans
 
-**Adapted from**: [Floating Kitchen / Weight Watchers](https://www.floatingkitchen.net/wp-json/mv-create/v1/creations/147/print)
-
 ## Notes
 
 - The chicken thighs don't add much flavor to the bean/tomato base. Consider swapping for a different protein (white fish, shrimp, or chickpeas for vegetarian) next time.

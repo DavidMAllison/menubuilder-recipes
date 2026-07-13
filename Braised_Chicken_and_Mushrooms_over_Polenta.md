@@ -1,7 +1,5 @@
 # Braised Chicken and Mushrooms over Polenta
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16182-braised-chicken-and-mushrooms-over-polenta)  
-
 ## Notes
 
 - Kids: Pull plain chicken before adding to sauce. Serve with plain polenta.
@@ -29,4 +27,3 @@
 3. Transfer chicken to a cutting board and shred into bite-size pieces. Simmer sauce until slightly thickened, about 5 minutes. Stir chicken and bacon back into sauce.
 4. Meanwhile, bring milk and remaining 3.5 cups broth to boil in a large saucepan. Whisk in polenta and remaining 1/2 teaspoon salt. Reduce heat to medium-low; cook until thickened, about 3 minutes.
 5. Serve braised chicken and mushroom sauce over polenta. Garnish with parsley if desired.
-

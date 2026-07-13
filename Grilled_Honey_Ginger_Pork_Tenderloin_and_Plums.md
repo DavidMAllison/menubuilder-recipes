@@ -1,8 +1,5 @@
 # Grilled Honey-Ginger Pork Tenderloin and Plums
 
-**Time**: 60 minutes | **Serves**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14804-grilled-honey-ginger-pork-tenderloin-and-plums)
-
 ## Notes
 
 - A luscious honey-ginger butter sauce cloaks mild pork tenderloin and juicy plums.

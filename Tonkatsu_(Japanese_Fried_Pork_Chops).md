@@ -1,9 +1,5 @@
 # Tonkatsu (Japanese Fried Pork Chops)
 
-**Time**: 40 minutes
-**Servings**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16391-tonkatsu-japanese-fried-pork-chops)
-
 ## Notes
 
 - Look for large, flaked panko rather than small pebbly crumbs — better crunch.

@@ -1,8 +1,5 @@
 # Enchiladas Suizas (Sanborns' Swiss Chicken Enchiladas)
 
-**Time**: ~45 minutes  
-**Adapted from**: [Pati Jinich](https://patijinich.com/sanborns-swiss-chicken-enchiladas/)  
-
 ## Ingredients
 
 - 1 1/2 pounds tomatillos (husked, scrubbed and rinsed, and quartered)
@@ -21,10 +18,16 @@
 
 ## Instructions
 
-1. In a blender, combine the tomatillos, garlic, onion, chiles (start with 1 and add another if desired), cilantro, salt and water. Puree until completely smooth.
-2. Heat the oil in a medium saucepan set over medium heat until hot but not smoking. Add the pureed tomatillo mixture, being careful as it will sear and splutter. Cover partially with a lid and cook, stirring occasionally, until it thickens and darkens, about 4 to 5 minutes.
-3. Stir in the broth, cover partially, and simmer for 5 minutes more. Turn off the heat and stir in the cream. Set aside.
-4. Prepare the tortillas for enchiladas by either heating them on a comal or passing them through hot oil.
-5. Preheat the oven to 400 degrees Fahrenheit.
-6. Pour about 1 cup of the cooked salsa verde into a 9”x13” baking dish. One by one, place a tortilla on a plate or cutting board and arrange about ¼ cup shredded cooked chicken down the middle. Roll up into a soft chubby enchilada and place seam down in the baking dish. Continue with the rest of the tortillas.
-7. Pour the remaining cooked salsa verde over the enchiladas and sprinkle the grated cheese on top. Place in the oven and bake for 10 to 15 minutes, or until the cheese has completely melted and begun to lightly brown.
+1. Put the tomatillos, garlic, onion, cilantro, salt, water, and chiles into your blender—start with a single chile and include a second one if desired for additional spiciness. Process until completely smooth.
+
+2. Heat the oil in a medium saucepan on medium heat until it's hot but not smoking. Gradually add your blended tomatillo mixture—be prepared for it to sizzle and pop as it enters the pan. Cover partially and let it cook for 4 to 5 minutes with occasional stirring, watching until it darkens and becomes thicker.
+
+3. Stir in the broth while keeping the partial lid on, then simmer gently for 5 more minutes. Take off the heat, stir in the cream, and have your sauce ready to use.
+
+4. Prepare your tortillas by heating them on a comal or by briefly dipping each one in hot oil.
+
+5. Set your oven to 400 degrees Fahrenheit and allow it to preheat.
+
+6. Coat the bottom of a 9"x13" baking dish with roughly 1 cup of your salsa verde. Take each tortilla and place ¼ cup of shredded cooked chicken down its center, roll it up tightly, and lay it seam-side down in the dish. Continue with the remaining tortillas.
+
+7. Pour the remaining salsa verde over the enchiladas and sprinkle the grated cheese on top. Put the dish in your preheated oven and bake for 10 to 15 minutes until the cheese melts and begins to brown lightly.

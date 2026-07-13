@@ -2,10 +2,6 @@
 
 *Tinga de Pollo*
 
-**Time**: 55 minutes (10 min prep + 45 min cook)
-**Servings**: 4–6
-**Adapted from**: [Food52](https://food52.com/recipes/80894-tinga-de-pollo)
-
 ## Notes
 
 - Dried chipotle chiles are preferred; canned work in a pinch.

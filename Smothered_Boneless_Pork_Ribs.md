@@ -1,7 +1,5 @@
 # Smothered Boneless Pork Ribs
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/7605-smothered-boneless-pork-ribs)
-
 ## Ingredients
 
 - 1 teaspoon onion powder

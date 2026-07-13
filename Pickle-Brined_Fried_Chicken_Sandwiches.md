@@ -1,9 +1,5 @@
 # Pickle-Brined Fried Chicken Sandwiches
 
-**Time**: 1 hour (plus 6–12 hours brining)
-**Servings**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15412-pickle-brined-fried-chicken-sandwiches)
-
 ## Ingredients
 
 **Dill Pickle Sauce:**

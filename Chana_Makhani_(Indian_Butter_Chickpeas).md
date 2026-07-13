@@ -1,7 +1,5 @@
 # Chana Makhani (Indian Butter Chickpeas)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15622-chana-makhani-indian-butter-chickpeas)  
-
 ## Ingredients
 
 - 4 tablespoons unsalted butter, divided and chilled

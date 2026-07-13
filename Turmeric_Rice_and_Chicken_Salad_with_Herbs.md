@@ -1,9 +1,5 @@
 # Turmeric Rice and Chicken Salad with Herbs
 
-**Time**: 45 minutes
-**Servings**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14197-turmeric-rice-and-chicken-salad-with-herbs)
-
 ## Notes
 
 - Any cooked chicken works — rotisserie is convenient.

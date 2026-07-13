@@ -1,7 +1,5 @@
 # Pa Amb Tomàquet (Catalan Tomato Bread)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14134-pa-amb-tomaquet-catalan-tomato-bread)
-
 ## Ingredients
 
 - 2 large ripe tomatoes , halved through equator

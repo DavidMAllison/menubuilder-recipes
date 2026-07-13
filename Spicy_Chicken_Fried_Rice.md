@@ -1,7 +1,5 @@
 # Spicy Chicken Fried Rice
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17448-spicy-chicken-fried-rice)
-
 ## Ingredients
 
 - 3 large eggs

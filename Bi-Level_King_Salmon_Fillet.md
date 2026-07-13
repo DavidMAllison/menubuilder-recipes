@@ -1,8 +1,5 @@
 # Bi-Level King Salmon Fillet
 
-**Time**: 20 minutes  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/)  
-
 ## Ingredients
 
 - 1 (12-ounce) skinless king salmon fillet, 1 1/2 to 1 3/4 inches thick, pin bones removed

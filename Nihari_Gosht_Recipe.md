@@ -1,9 +1,5 @@
 # Nihari Gosht Recipe
 
-**Time**: 55 minutes  
-**Serves**: 3  
-**Adapted from**: [Archana's Kitchen](https://archanaskitchen.com/recipe/nihari-gosht-recipe)  
-
 ## Ingredients
 
 - 500 grams Mutton Rang Pieces
@@ -27,12 +23,12 @@
 
 ## Instructions
 
-1. To begin making Nihari Gosht Recipe, first clean the mutton pieces and rub salt, turmeric powder and red chili powder on the meat.
-2. Leave the mutton pieces to rest for 15 minutes.
-3. Take a bowl and mix all the dry spice ingredients - nutmeg powder, mace powder, black pepper powder, bay leaves, black cardamom and red chili powder.
-4. Place a pressure cooker on medium flame and add ghee and oil. Once the oil and ghee have warmed up, add the chopped onions and saute until the onions are soft. Now add the ginger paste and chopped garlic cloves. Saute until the raw smell goes away.
-5. Now add the marinated mutton pieces and fry till the colour of mutton changes which will be for approximately 10 minutes.
-6. Add bay leaves, tomato puree and the dry spice ingredients that you had mixed in a bowl. Saute for another five minutes until the spices get combined well.
-7. Now add the beaten curd and water. Close the lid of the pressure cooker. Cook for 5 to 6 whistles in medium flame.
-8. Once the pressure has released naturally, transfer the Nihari Gosht to a serving bowl and add the julienned ginger.
-9. Serve Nihari Gosht Recipe with Tawa Paratha or Methi Matar Pulao for a deliciously sumptuous lunch.
+1. Start by washing the mutton pieces thoroughly, then coat them with salt, turmeric powder, and red chili powder.
+2. Allow the coated mutton to sit undisturbed for 15 minutes.
+3. In a bowl, combine all dry spices together - nutmeg powder, mace powder, black pepper powder, bay leaves, black cardamom, and red chili powder.
+4. Heat ghee and oil in a pressure cooker over medium flame. When the fats are hot, stir in the diced onions and cook until they become tender. Next, incorporate the ginger paste and minced garlic, continuing to cook until the pungent aroma dissipates.
+5. Add the seasoned mutton pieces to the cooker and sear them until their surface color shifts, approximately 10 minutes.
+6. Stir in the bay leaves, tomato puree, and the reserved spice blend from step 3. Continue cooking for five more minutes, ensuring the spices are fully incorporated.
+7. Pour in the whisked yogurt and water, then seal the pressure cooker. Allow it to cook on medium flame for 5 to 6 whistles.
+8. Let the pressure release on its own, then transfer the prepared Nihari Gosht into a serving dish and top with thin strips of ginger.
+9. Pair this dish with Tawa Paratha or Methi Matar Pulao and enjoy as a satisfying midday meal.

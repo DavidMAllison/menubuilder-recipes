@@ -1,7 +1,5 @@
 # Shrimp with Black Bean Sauce For Two
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16142-shrimp-with-black-bean-sauce-for-two)
-
 ## Ingredients
 
 - 1½ teaspoons soy sauce

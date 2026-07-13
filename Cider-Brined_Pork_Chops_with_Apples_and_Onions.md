@@ -1,7 +1,5 @@
 # Cider-Brined Pork Chops with Apples and Onions
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16616-cider-brined-pork-chops-with-apples-and-onions)
-
 ## Ingredients
 
 - 4 cups apple cider   for brining

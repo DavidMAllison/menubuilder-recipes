@@ -1,9 +1,5 @@
 # Murgh Makhani (Indian Butter Chicken)
 
-**Time**: 50 minutes
-**Servings**: 4
-**Adapted from**: [Americas Test Kitchen](https://www.americastestkitchen.com/recipes/11519-indian-butter-chicken-murgh-makhani)
-
 ## Notes
 
 - For more heat, keep the serrano seeds in.

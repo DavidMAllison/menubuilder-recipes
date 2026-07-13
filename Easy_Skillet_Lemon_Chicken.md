@@ -1,8 +1,5 @@
 # Easy Skillet Lemon Chicken
 
-**Time**: 30 minutes  
-**Adapted from**: [Serious Eats](https://www.seriouseats.com/one-skillet-lemon-chicken-recipe-8739370)  
-
 ## Ingredients
 
 - 2 medium lemons (4 ounces each;/113g), divided

@@ -1,9 +1,5 @@
 # Miso Chicken and Rice
 
-**Time**: About 45 minutes, with prep  
-**Serves**: Servings:3 to 4  
-**Adapted from**: [Deb Perelman (Smitten Kitchen)](https://smittenkitchen.com/2026/02/miso-chicken-and-rice/)  
-
 ## Ingredients
 
 - 2 tablespoons (30ml) soy sauce

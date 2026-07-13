@@ -1,9 +1,5 @@
 # Kashmiri Rajma Curry
 
-**Time**: 1 hour  
-**Serves**: 2-4  
-**Adapted from**: [Ranveer Brar](https://ranveerbrar.com/recipes/kashmiri-rajma-curry/)  
-
 ## Ingredients
 
 - Rajma

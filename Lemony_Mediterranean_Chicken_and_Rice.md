@@ -1,7 +1,5 @@
 # Lemony Mediterranean Chicken and Rice
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/6883-lemony-mediterranean-chicken-and-rice)  
-
 ## Ingredients
 
 - 1/3 cup pitted kalamata olives, chopped, plus 1/4 cup olive brine

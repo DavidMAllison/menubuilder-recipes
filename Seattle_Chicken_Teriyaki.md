@@ -1,7 +1,5 @@
 # Seattle Chicken Teriyaki
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12763-seattle-chicken-teriyaki)  
-
 ## Ingredients
 
 - 1 cup soy sauce

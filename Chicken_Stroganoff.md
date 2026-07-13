@@ -1,7 +1,5 @@
 # Chicken Stroganoff
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14166-chicken-stroganoff)
-
 ## Ingredients
 
 - 12 ounces (6 cups) egg noodles

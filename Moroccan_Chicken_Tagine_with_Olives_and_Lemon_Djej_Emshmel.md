@@ -1,8 +1,5 @@
 # Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
 
-**Time**: ~1.5 hours  
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/5189-moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel)  
-
 ## Ingredients
 
 - 5 medium garlic cloves, minced (about 5 teaspoons)

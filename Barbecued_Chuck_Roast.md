@@ -1,7 +1,5 @@
 # Barbecued Chuck Roast
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9685-barbecued-chuck-roast)
-
 ## Ingredients
 
 - 1 1/2 tablespoons kosher salt

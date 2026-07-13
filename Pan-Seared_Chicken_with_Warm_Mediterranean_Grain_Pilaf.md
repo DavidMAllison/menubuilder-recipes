@@ -1,9 +1,5 @@
 # Pan-Seared Chicken with Warm Mediterranean Grain Pilaf
 
-**Time**: 35 minutes
-**Servings**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8847-pan-seared-chicken-with-warm-mediterranean-grain-pilaf)
-
 ## Notes
 
 - Use fine-grind bulgur only — coarse or medium won't cook through with this method.

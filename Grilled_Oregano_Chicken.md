@@ -1,7 +1,5 @@
 # Grilled Oregano Chicken
 
-**Adapted from**: [Rick Bayless](https://www.rickbayless.com/recipe/pollo-al-oregano)  
-
 ## Ingredients
 
 - 1/2 cup orange juice

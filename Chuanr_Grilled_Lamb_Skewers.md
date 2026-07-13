@@ -1,9 +1,5 @@
 # Chuan'r (Grilled Lamb Skewers)
 
-**Time**: 2 hours  
-**Serves**: ['4', '4 servings']  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/chuanr-grilled-lamb-skewers/)  
-
 ## Ingredients
 
 - 1 tablespoon cumin seeds
@@ -15,7 +11,10 @@
 
 ## Instructions
 
-1. Toast the cumin, fennel, and Sichuan peppercorns in a dry skilletYou can also use a popcorn popper for this. over medium heat until fragrant, 1 to 2 minutes. Remove from the pan and let cool. Once cool, grind the spices, the garlic powder, and the salt in a coffee/spice grinder.
-2. Cut the lamb into 1/2-inch cubes, but don&#039;t trim away any of the fat. Sprinkle the cubed meat with half of the spice mixture and thread onto skewers, leaving just enough room at the end to safely handle. Line the skewers up on plastic wrap, roll into a cylinder, and refrigerate for at least 1 hour before cooking.
-3. Prepare a grill by lighting 4 quarts of charcoal (1 starter chimney&#039;s worth) or turning a gas grill to medium-high. Make sure the grates of the grill are clean and debris free. Quickly wipe the hot grill grate with a towel dipped into a little canola oil, then grill the skewers to medium-rare, about 2 minutes per side. Sprinkle the skewers with more of the spice blend between turns.
-4. It is absolutely imperative that you consume your chuan&#039;r with several cold beers. After all, you&#039;re not going anywhere at this hour, right?
+1. Place a dry skillet over medium heat and toast the cumin, fennel seeds, and Sichuan peppercorns until they become aromatic, about 1 to 2 minutes (you may substitute a popcorn popper if preferred). Once the toasted spices have cooled thoroughly, combine them with garlic powder and salt, then process the mixture in a coffee grinder or spice grinder until ground.
+
+2. Cut the lamb into 1/2-inch pieces, keeping the fat intact. Coat the lamb pieces with half the spice mixture and skewer them, ensuring enough space at both ends for comfortable handling. Wrap the skewered lamb in plastic wrap, shape into a log, and place in the refrigerator for a minimum of 1 hour prior to grilling.
+
+3. Ready your grill by lighting 4 quarts of charcoal (or 1 starter chimney's worth) or preheating a gas grill to medium-high. Scrub the grill grates clean and remove any residue. Oil a cloth with canola oil and rub the heated grates to coat them, then place your skewers on the grill and cook until medium-rare, turning every 2 minutes. With each flip, sprinkle more of the spice mixture onto the skewers.
+
+4. Chuan'r taste finest when paired with several cold beers. Since you've already committed to the evening, embrace it fully and enjoy every bite.

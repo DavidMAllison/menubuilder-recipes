@@ -1,8 +1,6 @@
-> **NEEDS REVIEW**: Auto-generated — verify before cooking.
-
 # Spinach with Pancetta, White Beans, and Balsamic Vinegar
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/512-spinach-with-pancetta-white-beans-and-balsamic-vinegar)
+> **NEEDS REVIEW**: Auto-generated — verify before cooking.
 
 ## Ingredients
 

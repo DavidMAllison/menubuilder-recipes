@@ -1,7 +1,5 @@
 # Asian Chicken Lettuce Wraps
 
-**Adapted from**: [Skinnytaste (Gina Homolka)](https://www.skinnytaste.com/asian-chicken-lettuce-wraps/)
-
 ## Notes
 
 - Kids: Omit Sriracha from dipping sauce (plain hoisin is sweet and mild). Kids can eat filling over rice instead of in lettuce.

@@ -1,9 +1,5 @@
 # Ultimate Thai BBQ Chicken ไก่ย่าง (gai yang)
 
-**Time**: 3 hours  
-**Serves**: ['4', '4 servings']  
-**Adapted from**: [Hot Thai Kitchen](https://hot-thai-kitchen.com/ultimate-bbq-chicken)  
-
 ## Ingredients
 
 - 1 whole bone-in, skin-on chicken breast (that's TWO sides of the breast on the rib cage)
@@ -30,6 +26,8 @@
 
 ## Instructions
 
-1. Grind white peppercorns and coriander seeds into a powder using a mortar and pestle or a coffee grinder. Add lemongrass and garlic and pound into a fine paste. Transfer into a bowl and add all remaining marinade ingredients; stir to dissolve the sugar.
-2. Split the breasts in half so you have two split, bone-in breasts (see technique in the video) and separate the dums from the thighs. Trim off excess skin from the thighs, if any.
-3. Add chicken pieces to a zip-top bag or a casserole dish and pour the marinade over, making sure all the pieces are well coated. Press out as much air as possible and marinade for at least 2 hours or overnight, stir the chicken or flip the bag half way through to ensure even marinating.
+1. Using a mortar and pestle or coffee grinder, pulverize white peppercorns and coriander seeds into powder form. Incorporate lemongrass and garlic, then pound the mixture until it achieves a fine paste consistency. Move the paste to a bowl and combine with the remaining marinade components, stirring until the sugar fully dissolves.
+
+2. Halve each breast to create two bone-in split breasts (refer to the technique demonstrated in the video) and detach the drumsticks from the thighs. Remove any superfluous skin from the thighs if present.
+
+3. Place chicken pieces into a zip-top bag or casserole dish and distribute the marinade evenly over them, ensuring thorough coating of all pieces. Remove as much air as you can and let sit in the marinade for a minimum of 2 hours or as long as overnight, turning the chicken or reversing the bag midway through the marinating process to promote uniform flavor absorption.

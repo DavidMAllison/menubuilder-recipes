@@ -1,9 +1,5 @@
 # Chicken Bhuna Masala Recipe
 
-**Time**: 1 hour  
-**Serves**: ['4', '4 to 5']  
-**Adapted from**: [Indian Healthy Recipes](https://www.indianhealthyrecipes.com/chicken-bhuna-masala/)  
-
 ## Ingredients
 
 - 1 kg (2.2 lbs)  chicken  ((curry cut chicken or drumsticks &amp; cut thighs))
@@ -34,21 +30,38 @@
 
 ## Instructions
 
-1. In a bowl mix together all the ground spices – red chilli powder, turmeric, garam masala, coriander powder, cumin powder, black pepper & fennel powder. Keep aside.
-2. Add chicken to a mixing bowl. Sprinkle ½ to ¾ teaspoon salt and half of the ground spices we just combined. Pour lemon juice.
-3. Mix together to marinate the chicken. Cover and set aside until used later in the recipe or overnight in the refrigerator.
-4. Meanwhile slit the green chilli. Chop onions & begin to cook from the next step. While you sauté the onions deseed & chop tomatoes. Grate ginger & garlic if you do not have the paste. This saves some time.
-5. Heat oil in a wok or a skillet/ pan on a medium flame.
-6. Add onions and green chilies. Saute on a medium high heat for 6 to 7 minutes and then on a medium low until golden brown but not burnt.
-7. Add ginger garlic paste and saute for a minute until the raw smell has gone.
-8. Stir in the rest of the ground spices and saute for a minute.
-9. Stir in the tomatoes and salt. Cook until they dry out, blend well with onions & begin to release oil.
-10. Take 2 tbsps of the hot onion tomato masala and add it to the whisked yogurt. Mix well until well combined.
-11. Reduce the heat and slowly add this to the pan and saute until the yogurt cooks down and the bhuna masala turns thick.
-12. Meanwhile (while bhuna masala cook) in another pan, heat 1 tablespoon ghee.
-13. Add the red chilies and let them fry for 30 to 40 seconds.
-14. Add all the whole spices – bay leaf, black cardamoms, green cardamoms, cloves, cinnamon & dried red chilies. (Be careful as the spices splutter)
-15. Transfer the chicken. Fry on a medium high heat for 2 to 3 mins and then on a medium to low heat for another 2 to 3 mins. Turn off.
-16. Add the bhuna chicken & 2 tablespoons of chopped coriander leaves (optional) to this masala and continue to saute for 2 to 3 minutes.
-17. Cover and cook on a low heat, until the chicken is fully cooked and tender. If you feel the masala is sticking to the pan or about to burn you may splash little hot water. I do about ¼ cup, pour on the sides and not over the chicken.
-18. Taste test and adjust salt. Sprinkle crushed kasuri methi. Garnish with coriander leaves.
+1. In a bowl, gather all your ground spices—red chilli powder, turmeric, garam masala, coriander powder, cumin powder, black pepper, and fennel powder—and mix them together, then set aside.
+
+2. Put the chicken into a mixing bowl and season it with ½ to ¾ teaspoon salt and half of the spice mixture you just made. Pour lemon juice over the chicken.
+
+3. Mix the chicken thoroughly so the marinade coats it completely. Cover it and allow it to rest, or place it in the refrigerator overnight if you have the time.
+
+4. Get your ingredients ready: cut the green chilli lengthwise, cut the onions into pieces, and have them prepared for cooking. As the onions cook, remove the seeds from the tomatoes and chop them. Should you prefer fresh ginger and garlic over paste, grate them at this point to streamline the cooking process later.
+
+5. Heat oil in a wok, skillet, or pan on medium heat.
+
+6. Put in the onions and green chilies. Let them cook on medium-high heat for 6 to 7 minutes, then turn the heat down to medium-low and keep cooking until they turn a rich golden color without burning.
+
+7. Mix in the ginger-garlic paste and let it cook for around a minute until its raw taste is gone.
+
+8. Include the rest of the ground spices and cook while stirring for one minute.
+
+9. Fold in the chopped tomatoes and salt, cooking until the tomatoes fully soften, mix smoothly into the onion base, and start to release oil.
+
+10. Take out 2 tablespoons of the warm onion-tomato mixture and blend it into the yogurt by whisking, making sure it's fully combined.
+
+11. Turn the heat to low. Slowly add the yogurt mixture to the pan while stirring constantly, and keep cooking until the yogurt thickens and the masala becomes dense.
+
+12. In another pan heated to medium, warm 1 tablespoon ghee.
+
+13. Put in the red chilies and let them sizzle for 30 to 40 seconds.
+
+14. Toss in the whole spices—bay leaf, black cardamom, green cardamom, cloves, cinnamon, and dried red chili. (Note: the spices will pop and splatter, so proceed with care.)
+
+15. Place the marinated chicken in the pan. Cook it on medium-high heat for 2 to 3 minutes, then lower the heat to medium to low for another 2 to 3 minutes. Take it off the heat.
+
+16. Stir together the bhuna masala with the cooked chicken and 2 tablespoons of chopped coriander leaves (if desired), then cook them together for 2 to 3 minutes.
+
+17. Put a lid on the pan and let it cook gently on low heat until the chicken is fully cooked and soft. Should the masala start to stick or burn, pour approximately ¼ cup of hot water down the sides of the pan, making sure not to pour it directly onto the chicken.
+
+18. Check the salt level and make changes if necessary. Break apart and scatter kasuri methi on top. Top with a sprinkle of fresh coriander leaves to finish.

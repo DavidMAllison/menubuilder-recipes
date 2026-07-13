@@ -1,9 +1,5 @@
 # Spicy beef bulgogi (Maeun-sobulgogi: 매운소불고기)
 
-**Time**: 33 minutes  
-**Serves**: 2 to 4 servings  
-**Adapted from**: [Maangchi](https://www.maangchi.com/recipe/spicy-bulgogi)  
-
 ## Ingredients
 
 - 2 tablespoons soy sauce

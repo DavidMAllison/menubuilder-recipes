@@ -1,7 +1,5 @@
 # White Beans with Tomatoes and Capers
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12509-white-beans-with-tomatoes-and-capers)
-
 ## Ingredients
 
 - 1 1/2 tablespoons table salt  for brining

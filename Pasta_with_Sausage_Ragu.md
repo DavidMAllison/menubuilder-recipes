@@ -1,9 +1,5 @@
 # Pasta with Sausage Ragu
 
-**Time**: 1 hour 15 minutes
-**Servings**: 8 (makes extra sauce)
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9148-pasta-with-sausage-ragu)
-
 ## Ingredients
 
 - ½ fennel bulb, stalks discarded, cored and chopped coarse

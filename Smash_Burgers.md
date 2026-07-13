@@ -1,9 +1,5 @@
 # Smash Burgers
 
-**Time**: 20 minutes  
-**Yield**: Makes 4 burgers
-**Adapted from**: [Serious Eats (J. Kenji López-Alt)](https://www.seriouseats.com/smash-burgers)
-
 ## Notes
 
 - Smashing is a one-time move — do it the moment the beef hits the surface, before it starts to cook.

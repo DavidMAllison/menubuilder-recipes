@@ -1,9 +1,5 @@
 # Real-Deal Chicken Teriyaki
 
-**Time**: 45 minutes
-**Servings**: 4
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14218-real-deal-chicken-teriyaki)
-
 ## Notes
 
 - Boneless skin-on thighs are the ideal cut — if you can find them, buy 1½ lbs and skip the deboning step.

@@ -1,7 +1,5 @@
 # Grilled Spice-Rubbed Pork Tenderloin with Charred Fingerling Potato Salad
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17657-grilled-spice-rubbed-pork-tenderloin-with-charred-fingerling-potato-salad)  
-
 ## Ingredients
 
 - 1 1/2 pounds fingerling potatoes, unpeeled, halved lengthwise

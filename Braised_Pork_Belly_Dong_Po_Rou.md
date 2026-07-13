@@ -1,9 +1,5 @@
 # Braised Pork Belly Dong Po Rou
 
-**Time**: 3 hours 50 minutes  
-**Serves**: ['8']  
-**Adapted from**: [The Woks of Life](https://thewoksoflife.com/braised-pork-belly-dong-po-rou/)  
-
 ## Ingredients
 
 - 2 pound slab of pork belly ((900g))
@@ -16,11 +12,18 @@
 
 ## Instructions
 
-1. Wash the pork belly as a whole piece. Blanch it whole in boiling water for one minute and drain. This process gets rid of any impurities and also allows you to more easily cut the pork belly into same-size pieces. Cut the pork into 3 x 3 inch pieces. You can also make them 2 x 2 inches if you like them smaller. Set aside.
-2. In a medium clay pot (preferably) or a medium (4-quart) regular pot, lay the scallions on the bottom in a thick, even layer. The scallions should cover the entire bottom of the pot. Space the ginger slices evenly over the scallions.
-3. Next lay the pork belly skin-side down on top of the ginger and scallions. Pour over the Shaoxing wine, light soy sauce, and dark soy sauce. Add the rock sugar to the pot as well.
-4. Now cover the pot and place it over medium high heat. Once the liquid in the pot comes to a boil, immediately turn down the heat to low and simmer for 90 minutes. No need to stir.
-5. After 90 minutes, you have 2 choices:
-6. Turn the pork belly skin-side up in the pot, cover, and let simmer for another 90 minutes. With the heat at the lowest setting, there should be plenty of liquid in the pot to cook the pork through the entire process––no need to add additional liquid.
-7. Transfer the pork to a heat-proof plate, skin-side up (I used the small clay pots you see in the photos). Drizzle with some of the braising liquid, and place in a steamer for another 90 minutes.
-8. Both methods should yield tender, delicious results! When serving, transfer the pork pieces to a plate. At this point, you can heat the braising liquid in a saucepan to reduce the sauce and drizzle it over the pork.
+1. Begin by cleansing the whole pork belly under running water. Immerse it in water that is actively boiling for exactly one minute, then remove and drain completely. This process eliminates surface contaminants and allows for more uniform cutting of the meat. Trim the pork into cubes measuring 3 x 3 inches (alternatively, 2 x 2 inches for a smaller cut). Set the prepared pork aside.
+
+2. Select either a medium-sized clay pot or a standard 4-quart cooking vessel. Line the bottom with scallions in a thick, even layer that covers the entire surface. Layer the ginger slices uniformly across the scallion base.
+
+3. Lay the pork belly cubes skin-side down directly onto the bed of ginger and scallions. Add the Shaoxing wine, light soy sauce, and dark soy sauce to the pot. Sprinkle the rock sugar evenly over the mixture.
+
+4. Place the lid on the pot and bring to medium-high heat. Once the contents come to a rolling boil, immediately lower the heat to low and allow it to simmer gently without stirring for 90 minutes.
+
+5. After the 90-minute period is complete, select one of these two finishing methods:
+
+6. Turn the pork pieces over so they are skin-side up, cover the pot, and let them continue simmering on the lowest heat setting for an additional 90 minutes. The existing braising liquid will be adequate to fully cook the pork without needing to add more liquid.
+
+7. Transfer the pork pieces to a heat-safe serving plate or divide among individual clay pots with the skin facing upward. Brush the pork with some of the braising liquid from the cooking pot, then steam for 90 minutes.
+
+8. Both techniques will yield equally succulent and flavorful results. To serve, place the pork pieces on a serving dish. If desired, heat the braising liquid in a separate pan, simmer it until reduced, and drizzle over the cooked pork.

@@ -1,7 +1,5 @@
 # Baked Burritos with Pinto Beans and Swiss Chard
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11705-baked-burritos-with-pinto-beans-and-swiss-chard)
-
 ## Ingredients
 
 - 2 1/4 cups vegetable broth

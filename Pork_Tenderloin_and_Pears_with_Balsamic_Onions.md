@@ -1,9 +1,5 @@
 # Pork Tenderloin and Pears with Balsamic Onions
 
-**Time**: 50 minutes
-**Servings**: 4–6
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15123-pork-tenderloin-and-pears-with-balsamic-onions)
-
 ## Notes
 
 - Don't use overly ripe pears — they'll go mushy in the pan.

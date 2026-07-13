@@ -1,9 +1,5 @@
 # Garlic and Cumin Rubbed Chicken
 
-**Time**: 1 hour 15 minutes  
-**Serves**: ['4', '4 to 5 Servings']  
-**Adapted from**: [Pati Jinich](https://patijinich.com/garlic-and-cumin-rubbed-chicken/)  
-
 ## Ingredients
 
 - 4  ancho chiles (stemmed and seeded)
@@ -17,8 +13,12 @@
 
 ## Instructions
 
-1. Place the ancho and chipotle chiles in a saucepan, cover with water and set over medium-high heat until it comes to a boil. Simmer at medium heat for 10 minutes, until the chiles are completely rehydrated.
-2. Place the rehydrated chiles into the jar of a blender, along with 1/2 cup of their simmering liquid, the garlic, cumin seeds, salt and olive oil. Puree until completely smooth. Scrape into a bowl and let it cool.
-3. Place the chicken in a container and cover completely with the garlic and cumin marinade. You can marinate it covered in the refrigerator up to two days. But you may also roast it right away without marinating ahead of time.
-4. If you marinated the chicken ahead of time, remove it from the refrigerator. Preheat oven to 450 degrees Fahrenheit.
-5. Generously grease a baking pan with oil. Place the chicken on the pan skin side down and sprinkle with a little salt. Put it in the oven and roast for 15 minutes. Carefully remove it from the oven, reduce the temperature to 375 degrees, flip over the chicken pieces and spoon any of the marinade on the bottom of the pan over the chicken pieces. Pour the chicken broth onto the bottom of the pan and return to the oven. Roast for 45 to 50 more minutes, or until the chicken is cooked through and the juices run clear – and there are barely any juices when pierced with a knife.
+1. Place the ancho and chipotle chiles in a saucepan and submerge them in water. Heat to a boil on medium-high heat, then lower to medium and allow to simmer for 10 minutes until the chiles are fully softened and rehydrated.
+
+2. Move the rehydrated chiles to a blender along with 1/2 cup of the liquid they cooked in, the garlic, cumin seeds, salt, and olive oil. Process until the mixture reaches a completely smooth consistency, then transfer to a bowl and allow to cool completely.
+
+3. Coat the chicken evenly with the prepared marinade in a container. Seal and keep refrigerated for as long as two days, or proceed directly to roasting if time is short.
+
+4. If you prepared the marinade ahead, take the chicken out of the refrigerator. Set your oven temperature to 450 degrees Fahrenheit.
+
+5. Oil a roasting pan well and position the chicken skin side down in it. Season the chicken lightly with salt and roast for 15 minutes. Take the pan out, adjust the oven to 375 degrees, flip the chicken over, and brush with the marinade drippings from the bottom of the pan. Pour chicken broth into the pan and roast for an additional 45 to 50 minutes until the chicken is cooked through, the juices flow clear when pierced with a knife, and almost no liquid remains in the pan.

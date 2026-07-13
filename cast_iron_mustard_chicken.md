@@ -1,7 +1,5 @@
 # Cast Iron Mustard Chicken
 
-**Adapted from**: [Allrecipes](https://www.allrecipes.com/cook/5094882/recipe/424f9512-a5b8-34b1-aac2-652942ebd1d8)
-
 ## Ingredients
 
 - 2 split chicken breasts (bone-in, skin-on)

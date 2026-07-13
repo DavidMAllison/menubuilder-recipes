@@ -1,7 +1,5 @@
 # Korean Chicken Bulgogi (Dak Bulgogi)
 
-**Adapted from**: [My Korean Kitchen (Sue)](https://mykoreankitchen.com/chicken-bulgogi)
-
 ## Notes
 
 - Marinate in the morning for dinner — 4 hours minimum, overnight is better.

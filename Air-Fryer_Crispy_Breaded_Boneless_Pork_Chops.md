@@ -1,7 +1,5 @@
 # Air-Fryer Crispy Breaded Boneless Pork Chops
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12441-air-fryer-crispy-breaded-boneless-pork-chops)
-
 ## Ingredients
 
 - ¾ cup panko bread crumbs

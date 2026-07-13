@@ -1,7 +1,5 @@
 # Grilled Chicken Salad with Cilantro-Lime Dressing
 
-**Adapted from**: [Smitten Kitchen](https://smittenkitchen.com/2025/08/grilled-chicken-salad-with-cilantro-lime-dressing/)
-
 ## Notes
 
 - Kids: serve plain grilled chicken and corn, skip the dressing (jalapeño). Fritos are a hit.

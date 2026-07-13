@@ -1,8 +1,5 @@
 # Pan-Seared Broccolini with Pork and Oyster Sauce
 
-**Time**: 20 minutes
-**Servings**: 4
-
 ## Notes
 
 - You'll need a large skillet with a tight-fitting lid.
@@ -26,4 +23,3 @@
 3. Heat the fat until barely smoking, then add the broccolini. Cook, stirring once or twice, until well charred.
 4. Add the oyster sauce mixture, cover, and reduce heat to low. Cook until the broccolini is tender.
 5. Off heat, stir in the pork and scallions. Serve with steamed rice.
-

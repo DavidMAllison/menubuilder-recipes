@@ -1,7 +1,5 @@
 # Tuscan White Bean Soup (Ribollita-style)
 
-**Adapted from**: [Love and Lemons / Feasting at Home](https://www.feastingathome.com/ribollita-recipe/)
-
 ## Ingredients
 
 - 1/4 cup extra-virgin olive oil, plus more for drizzling

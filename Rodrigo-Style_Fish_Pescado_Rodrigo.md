@@ -1,8 +1,5 @@
 # Rodrigo-Style Fish (Pescado Rodrigo)
 
-**Time**: ~20 minutes  
-**Adapted from**: [Pati Jinich](https://patijinich.com/rodrigo-style-fish/)  
-
 ## Notes
 
 - Kids: pull plain fried fish before adding the chile-lime sauce. The fish itself is mild.
@@ -29,4 +26,3 @@
 2. Sprinkle the fish fillets with salt and pepper. Spread flour on a large plate and coat each fillet thoroughly on both sides.
 3. Heat 1/4-inch of vegetable oil in a large skillet over medium-high heat until hot but not smoking. Add the fish in batches to avoid crowding and sear for about 3 minutes, until crisped and browned on the bottom. Don't fiddle with the fillets — let them brown so they don't stick. Turn and brown for about 3 minutes on the second side. The fish is ready when the thickest part is cooked through and flakes easily with a fork. Transfer to a paper towel-lined baking sheet. Keep warm in a 250°F oven if not serving immediately.
 4. Transfer the fish to a platter and pour the sauce on top. Or flake the fish and serve drizzled with the sauce, ready to make tacos. Serve with corn tortillas.
-

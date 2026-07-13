@@ -1,7 +1,5 @@
 # Spiced Chickpeas Gyros with Tahini Yogurt
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12942-spiced-chickpeas-gyros-with-tahini-yogurt)  
-
 ## Ingredients
 
 - 1 cup plain Greek yogurt

@@ -1,8 +1,5 @@
 # Chicken and Soft Tofu Casserole
 
-**Time**: ~30-35 minutes  
-**Adapted from**: [The Woks of Life](https://thewoksoflife.com/chicken-soft-tofu-casserole/)  
-
 ## Ingredients
 
 - 8 ounces boneless skinless chicken thighs ((diced into 1-inch/2.5cm bite-size pieces))
@@ -30,14 +27,24 @@
 
 ## Instructions
 
-1. In a small bowl, add the diced chicken, 1 tablespoon water, cornstarch, oil, and oyster sauce. Mix well and set aside.
-2. Rinse the dried shiitake mushrooms and soak them in 2 cups of hot water for at least 2 hours (you could also soak these overnight in cold water if you’re thinking ahead). Trim the stems off the shiitake mushrooms and thinly slice them.
-3. Cut the block of tofu into ¾ inch cubes. Lay the cubes on a large plate, and set aside while you prepare the other ingredients.
-4. Combine the cornstarch with 2 tablespoons of water, and set aside. Create the sauce mixture by combining the chicken stock, sugar, oyster sauce, light soy sauce, dark soy sauce, and sesame oil. Mix well and set aside.
-5. Heat your wok over medium high heat until lightly smoking. Add 1 tablespoon of oil and then the chicken. Stir-fry the chicken just until it turns opaque, about 1 minute. Remove from the wok to a small bowl and set aside.
-6. Add 2 more tablespoons of oil to the wok over medium heat, along with the ginger and the white parts of the scallions. Cook for 30 seconds, and then add the garlic. Cook for another 30 seconds.
-7. Increase the heat to high, and add the Shaoxing wine. Then add the mushrooms. Stir-fry for 1 minute.
-8. Add the sauce mixture, and bring it to a simmer. Mix the cornstarch slurry you prepared earlier to make sure it’s well combined. Stream it into the simmering sauce mixture, mixing until it’s thick enough to coat a spoon. If it’s too thick, add a splash of water or stock.
-9. Carefully pour off any liquid that has collected at the bottom of the plate of tofu, and add it in, folding it into the sauce with just a few turns of your wok spatula. Then add the chicken and fold it into the mixture.
-10. Transfer the tofu and chicken mixture to a clay pot or small 2-qt. Dutch oven, and gradually bring it to a simmer over medium heat. Top with the green parts of the scallions, cover, and simmer over medium heat for 8 minutes. (Alternatively, keep the tofu in the wok. Lower the heat to medium low, top with the scallions, cover, and simmer for 8 minutes in the wok.)
-11. Open the lid, and stir in the frozen peas along with a generous pinch of salt (or add salt to taste). Simmer for 30 seconds to 1 minute to heat the peas through, and serve immediately.
+1. In a small bowl, mix together the diced chicken, 1 tablespoon water, cornstarch, oil, and oyster sauce. Mix well and put aside.
+
+2. Rinse the dried shiitake mushrooms and soak them in 2 cups of hot water for at least 2 hours (or soak overnight in cold water if preparing in advance). Trim away the stems and slice the mushrooms thinly.
+
+3. Cut the tofu into ¾ inch cubes and place on a large plate. Leave this plate nearby for later use.
+
+4. Mix cornstarch with 2 tablespoons of water and set aside. In another bowl, combine the chicken stock, sugar, oyster sauce, light soy sauce, dark soy sauce, and sesame oil. Stir until blended and put to the side.
+
+5. Heat your wok over medium-high heat until it begins to smoke lightly. Add 1 tablespoon of oil and then the chicken. Stir-fry until the chicken turns opaque, taking about 1 minute. Move to a small bowl and keep it nearby.
+
+6. Pour 2 more tablespoons of oil into the wok at medium heat along with the ginger and scallion whites. Allow to sauté for 30 seconds, then add the garlic. Sauté for another 30 seconds.
+
+7. Increase the heat to high, add the Shaoxing wine, and right away add the mushrooms. Stir constantly for 1 minute.
+
+8. Add the sauce mixture and bring it to a light simmer. Stir your cornstarch mixture to make sure it's fully combined. Gradually pour it into the simmering sauce while stirring constantly until the sauce reaches a thickness that coats a spoon. If it gets too thick, add a splash of water or stock to adjust.
+
+9. Pour off any liquid that has accumulated under the tofu and add it to the sauce, folding it in gently with several strokes of your spatula. Add the cooked chicken back in and stir to combine.
+
+10. Transfer the tofu and chicken mixture into a clay pot or small 2-quart Dutch oven and gently bring to a simmer over medium heat. Sprinkle the scallion greens on top, cover, and let simmer at medium heat for 8 minutes. (Alternatively, keep everything in the wok. Lower the heat to medium-low, top with scallion greens, cover, and simmer for 8 minutes.)
+
+11. Remove the lid and stir in the frozen peas with a generous pinch of salt (adjust the salt level as desired). Simmer for 30 seconds to 1 minute until the peas are heated through, then plate and serve.

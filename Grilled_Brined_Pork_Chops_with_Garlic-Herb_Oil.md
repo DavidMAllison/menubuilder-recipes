@@ -1,7 +1,5 @@
 # Grilled Brined Pork Chops with Garlic-Herb Oil
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16379-grilled-brined-pork-chops-with-garlic-herb-oil)  
-
 ## Ingredients
 
 - 1/3 cup packed light brown sugar for brining

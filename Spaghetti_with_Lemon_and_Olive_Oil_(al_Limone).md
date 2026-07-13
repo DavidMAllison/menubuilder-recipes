@@ -1,7 +1,5 @@
 # Spaghetti with Lemon and Olive Oil (al Limone)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/6333-spaghetti-with-lemon-and-olive-oil-al-limone)  
-
 ## Ingredients
 
 - Table salt

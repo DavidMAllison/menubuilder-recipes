@@ -1,8 +1,5 @@
 # 30-Minute Chicken Tagine
 
-**Time**: ~30 minutes  
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/5258-30-minute-chicken-tagine)  
-
 ## Ingredients
 
 - 2 pounds boneless, skinless chicken thighs

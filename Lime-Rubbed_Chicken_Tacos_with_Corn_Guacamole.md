@@ -1,7 +1,5 @@
 # Lime-Rubbed Chicken Tacos with Corn Guacamole
 
-**Adapted from**: [Pati Jinich](https://patijinich.com/lime-rubbed-chicken-tacos-with-corn-guacamole/)
-
 ## Notes
 
 - Kids: Build-your-own tacos — kids get plain chicken in tortilla, skip guacamole and jalapeno.

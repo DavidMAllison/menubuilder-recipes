@@ -1,7 +1,5 @@
 # Lamb Barbacoa Mixiote
 
-**Adapted from**: [Pati Jinich](https://patijinich.com/lamb-barbacoa-mixiote/)
-
 ## Notes
 
 A shortcut to getting the iconic Mexican roadside stand barbacoa experience at home.

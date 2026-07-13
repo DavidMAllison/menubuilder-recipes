@@ -1,7 +1,5 @@
 # Rillons
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16098-rillons)
-
 ## Ingredients
 
 - 3¾ pounds skinless pork belly

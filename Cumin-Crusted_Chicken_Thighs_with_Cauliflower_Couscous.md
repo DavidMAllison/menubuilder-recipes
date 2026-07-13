@@ -1,7 +1,5 @@
 # Cumin-Crusted Chicken Thighs with Cauliflower “Couscous”
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9286-cumin-crusted-chicken-thighs-with-cauliflower-couscous)
-
 ## Ingredients
 
 - 8 (5- to 7-ounce) bone-in chicken thighs

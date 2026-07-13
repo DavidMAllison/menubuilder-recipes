@@ -1,7 +1,5 @@
 # Moo Shu Chicken
 
-**Adapted from**: [https://thewoksoflife.com/moo-shu-chicken/](https://thewoksoflife.com/moo-shu-chicken/)  
-
 ## Ingredients
 
 - 8 oz. chicken breast, (sliced in thin strips)
@@ -29,8 +27,12 @@
 
 ## Instructions
 
-1. Mix the sliced chicken and marinade ingredients in a bowl until well-incorporated, and set aside for 15 minutes.
-2. Pour 1 tablespoon oil into a heated frying pan and pour in the beaten eggs to make an omelet. Transfer to a cutting board, and cut the egg omelet into thin strips. Set aside. Combine the hot water, 1 tablespoon hoisin sauce, 1 tablespoon oyster sauce, 1 teaspoon light soy sauce, and 1/2 teaspoon sesame oil in a bowl. Stir until well-combined and set aside.
-3. Heat another tablespoon of oil in your wok or large skillet until it&#039;s almost smoking, and add the chicken. Lightly sear on all sides until about 80% done, and remove from the wok. Set aside.
-4. Add an additional tablespoon of oil to the wok, and turn the heat up to high. Stir in the garlic, followed immediately by the cabbage, shiitake mushrooms, wood ear mushrooms, bamboo shoots, and lily flowers. Give everything a good stir for 1 minute. Add the Shaoxing wine, and stir-fry for another 20 seconds.
-5. Next, add the sauce mixture, cooked chicken, and egg strips. The pan should be hot enough so that there is little or no residual liquid left at the bottom of the pan. Toss in the scallions, and serve with the pancakes and extra hoisin sauce!
+1. In a bowl, mix the sliced chicken together with all marinade components, stirring until everything is evenly distributed, and allow it to sit undisturbed for 15 minutes.
+
+2. Warm 1 tablespoon of oil in a frying pan, add the whisked eggs and cook until it forms a solid omelet, then move it to a cutting board and cut it into narrow strips. Separately, combine 1 tablespoon hoisin sauce, 1 tablespoon oyster sauce, 1 teaspoon light soy sauce, and 1/2 teaspoon sesame oil with hot water, whisking until the mixture is uniform.
+
+3. Place 1 tablespoon of oil in your wok or large skillet and heat until it nearly smokes, then add the chicken and sear it briefly on each side until it reaches approximately 80% doneness before moving it onto a plate.
+
+4. Add another tablespoon of oil to the wok and set the flame to high. Begin by adding the garlic, quickly followed by the cabbage, shiitake mushrooms, wood ear mushrooms, bamboo shoots, and lily flowers. Combine all ingredients with stirring for 1 minute, then introduce the Shaoxing wine and stir-fry for an additional 20 seconds.
+
+5. Place the chicken back into the wok with the sauce mixture and egg strips, and once the bottom of the pan has mostly reduced of liquid, scatter the scallions over top and serve alongside pancakes and extra hoisin sauce.

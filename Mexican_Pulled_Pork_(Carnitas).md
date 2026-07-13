@@ -1,9 +1,5 @@
 # Mexican Pulled Pork (Carnitas)
 
-**Time**: 2 hours 45 minutes
-**Servings**: 6–8
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4232-mexican-pulled-pork-carnitas)
-
 ## Notes
 
 - Great as a taco filling, but also works for tamales, enchiladas, and burritos.

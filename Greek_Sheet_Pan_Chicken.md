@@ -1,7 +1,5 @@
 # Greek Sheet Pan Chicken
 
-**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/greek-sheet-pan-chicken/)
-
 ## Notes
 
 - For kids: Pull plain chicken thighs before adding olives and feta. Skip olives for kids.

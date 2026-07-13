@@ -1,9 +1,5 @@
 # Haemul sundubu-jjigae (Spicy soft tofu stew with seafood)
 
-**Time**: 30 minutes  
-**Serves**: 2 servings  
-**Adapted from**: [Maangchi](https://www.maangchi.com/recipe/haemul-sundubu-jjigae)  
-
 ## Ingredients
 
 - 2 tubes soft tofu (or 22 ounces silken tofu)

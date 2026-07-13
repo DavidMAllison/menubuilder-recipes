@@ -1,7 +1,5 @@
 # Tallarines Verdes (Peruvian Green Noodles)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17046-tallarines-verdes-peruvian-green-noodles)
-
 ## Ingredients
 
 - 1 tablespoon vegetable oil

@@ -1,7 +1,5 @@
 # Korean Fried Chicken (Dakgangjeong)
 
-**Adapted from**: [Milk Street](https://www.wttw.com/playlist/2024/07/02/korean-fried-chicken-milk-street)
-
 ## Notes
 
 - Double-frying creates superior crispness that holds after glazing.

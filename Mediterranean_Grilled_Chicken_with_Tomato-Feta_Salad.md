@@ -1,7 +1,5 @@
 # Mediterranean Grilled Chicken with Tomato-Feta Salad
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/6586-mediterranean-grilled-chicken-with-tomato-feta-salad)  
-
 ## Ingredients
 
 - 1 teaspoon grated lemon zest plus 3 tablespoons juice

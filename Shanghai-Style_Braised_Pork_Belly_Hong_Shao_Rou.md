@@ -1,9 +1,5 @@
 # Shanghai-Style Braised Pork Belly (Hong Shao Rou)
 
-**Time**: 1 hour 15 minutes  
-**Serves**: ['8', '8 servings']  
-**Adapted from**: [The Woks of Life](https://thewoksoflife.com/shanghai-style-braised-pork-belly/)  
-
 ## Ingredients
 
 - 1 1/2 pounds lean, skin-on pork belly
@@ -16,8 +12,12 @@
 
 ## Instructions
 
-1. Cut your pork belly into 3/4-inch thick pieces. Add them to a medium pot and cover with water. Bring the water to a boil, and boil for about 1 minute, or just until the pork turns opaque. This removes impurities and starts the cooking process. Take the pork out of the pot, rinse, and set it aside. Discard the water and clean out your pot.
-2. Over low heat, add the oil and sugar to your wok or pot. Melt the sugar, and add the pork. Raise the heat to medium, and cook until the pork is lightly browned.
-3. Reduce the heat to low, and add the wine. Cook for 2 minutes, then add the soy sauce, dark soy sauce, and water.
-4. Cover and simmer over medium heat for about 45 minutes to 1 hour, until pork is fork tender. Every 5-10 minutes, stir to prevent burning and add more water if it gets too dry.
-5. Once the pork is fork tender, if there is still a lot of visible liquid, uncover the wok, turn up the heat, and stir continuously until the sauce has reduced to a glistening coating.
+1. Cut the pork belly into 3/4-inch thick slices after trimming. Place these slices in a medium pot and cover completely with water. Heat until a rolling boil is achieved and sustain this boil for approximately 1 minute so that the pork's surface turns opaque—this process both purifies the meat and starts the cooking process. Lift the pork out of the pot, wash it well under cool running water, and put aside. Discard the water from the pot and give it a thorough rinse.
+
+2. Heat oil and sugar together in a wok or pot on low heat. Wait for the sugar to fully dissolve, then add the pork to the pot. Turn the heat up to medium and keep cooking until the pork achieves a light golden-brown surface.
+
+3. Decrease the heat to low and add the wine to the pot. Allow this to simmer for 2 minutes, after which add the soy sauce, dark soy sauce, and water while stirring.
+
+4. Put the lid on the pot and braise at medium heat for 45 minutes to 1 hour until the pork is soft enough to pierce easily with a fork. Stir every 5-10 minutes to avoid burning, and add more water whenever the liquid level gets low.
+
+5. Once the pork reaches the point where it's tender enough for a fork, determine whether there is still excess liquid present. If there is, take the lid off, raise the heat, and stir constantly until the sauce becomes glossy and clings to the meat.

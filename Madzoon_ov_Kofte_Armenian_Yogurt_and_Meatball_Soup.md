@@ -1,7 +1,5 @@
 # Madzoon ov Kofte (Armenian Yogurt and Meatball Soup)
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14136-madzoon-ov-kofte-armenian-yogurt-and-meatball-soup)
-
 ## Ingredients
 
 - 8 ounces 85 percent lean ground beef

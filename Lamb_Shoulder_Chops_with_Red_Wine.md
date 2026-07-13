@@ -1,8 +1,5 @@
 # Lamb Shoulder Chops with Red Wine
 
-**Time**: 7 hours 30 minutes  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/)  
-
 ## Ingredients
 
 - 2 teaspoons vegetable oil

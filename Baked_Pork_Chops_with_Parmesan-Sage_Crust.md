@@ -1,7 +1,5 @@
 # Baked Pork Chops with Parmesan-Sage Crust
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4632-baked-pork-chops-with-parmesan-sage-crust)
-
 ## Ingredients
 
 - 1 (5-ounce) box Melba toast , broken into rough pieces (see note)

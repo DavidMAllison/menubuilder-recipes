@@ -1,7 +1,5 @@
 # Red Pozole with Traditional Garnishes
 
-**Adapted from**: [Pati Jinich](https://patijinich.com/red-pozole-with-traditional-garnishes/)  
-
 ## Ingredients
 
 - 1 pound dried hominy , or 3 29-ounce cans hominy, drained and rinsed
@@ -29,9 +27,14 @@
 
 ## Instructions
 
-1. If using dried hominy, place it in a large soup pot. Add water to the pot to cover the hominy by at least 3-inches. Add the head of garlic. Don’t add salt now or the hominy will toughen. Bring to a boil and simmer over medium-low heat, partially covered, for 4 to 5 hours, until hominy is tender and has begun to “bloom” or open up. Occasionally skim the foam from the top as the hominy cooks and make sure it doesn’t dry as it cooks, adding more hot water if need be. If using canned or pre-cooked hominy, start with step below.
-2. Meanwhile, place the chicken (and pork, if using), in a large soup pot. Add water to cover the top layer of chicken by at least 2 inches. Add the onion, cilantro and the tablespoon of salt and bring to a boil. Simmer, partially covered, until chicken is cooked through and tender, about 35 minutes. Drain, reserving the cooking broth. When the chicken is cool enough to handle, remove the skin and bones and shred the meat into bite-sized pieces.
-3. In the soup pot, combine the cooked hominy and its broth (discard the garlic head), or the canned hominy and 2 cups water, with the shredded chicken and its broth. Taste for salt, add more if need be, and simmer all together for 10 minutes more.
-4. Place the chiles in a 3-quart saucepan and cover with water. Bring to a boil over medium-high heat and simmer for 10 minutes, or until the chiles have softened and rehydrated. Place the chiles, along with 1/2 cup of their cooking liquid, the onion, garlic, cumin, cloves and salt in a blender or food processor and puree until smooth. If using a food processor, be sure to wrap a towel around the joint between the lid and the base to catch any escaping liquid. Pass the sauce through a fine-mesh strainer into a bowl, pressing gently on the solids with the back of a wooden spoon to extract as much liquid as possible.
-5. Heat 3 tablespoons vegetable oil in the 3-quart saucepan over medium heat until hot, but not smoking. Add the chile puree, bring to a boil and simmer for 6 to 8 minutes, stirring occasionally and allowing it to thicken.
-6. Add the red chile sauce to simmering pozole, let it cook for an additional 25 minutes, adjust the seasoning, and serve in soup bowls. Arrange the garnishes in smaller bowls on the table and let your guests customize their pozole. Or, if making ahead, let the pozole cool then cover and refrigerate, and reheat when you are ready to serve.
+1. Start by placing dried hominy in a large soup pot and covering it with water so there's at least 3 inches of liquid above it. Add the whole garlic head to the pot. Avoid seasoning with salt now, as this will toughen the hominy. Bring the liquid to a boil, then decrease the heat to medium-low and maintain a gentle simmer with the lid partially on for 4 to 5 hours. The hominy will be ready when it softens and the individual kernels begin to "bloom" or burst open. While cooking, remove any foam that floats to the top, and replenish with hot water whenever the liquid level drops. (If you're starting with canned or already-cooked hominy, skip ahead.)
+
+2. Place your chicken (and pork if desired) into another large soup pot and cover with water extending at least 2 inches past the meat. Add the onion, cilantro, and 1 tablespoon of salt, then heat until boiling. Decrease the temperature and allow it to simmer halfway covered for approximately 35 minutes until the chicken reaches full doneness and becomes tender. Separate the solids from the liquid, reserving the broth. Once cooled sufficiently, remove the skin and bones from the chicken, then shred the meat into small pieces.
+
+3. Combine the cooked hominy and its liquid (discarding the garlic head) with the soup pot, or if you're using canned hominy, mix it with 2 cups of water instead. Add the shredded chicken and its accompanying broth to the mixture. Taste and season with additional salt if desired. Allow this to cook together at a simmer for 10 more minutes.
+
+4. Place the chiles in a 3-quart saucepan, cover with water, and set to medium-high heat. Allow them to come to a boil and continue simmering for 10 minutes so they soften and fully absorb liquid. Transfer the hydrated chiles along with 1/2 cup of their soaking liquid to a blender with the onion, garlic, cumin, cloves, and salt. Process until completely smooth. (For a food processor, wrap cloth around the lid's connection point to prevent splattering.) Push the mixture through a fine-mesh sieve into a bowl, using a wooden spoon to press the solids and extract all liquid.
+
+5. Heat 3 tablespoons of vegetable oil in the 3-quart saucepan over medium heat until hot but not smoking. Add the blended chile mixture, bring it to a boil, and reduce to a simmer for 6 to 8 minutes. Stir periodically to encourage the sauce to thicken as it reduces.
+
+6. Stir the chile sauce into the simmering pozole and continue cooking for 25 minutes. Check the flavor and adjust seasonings as desired, then divide among serving bowls. Arrange the garnishes in individual bowls for diners to customize their portions. Alternatively, let the pozole cool completely, cover, and refrigerate until heating and serving time.

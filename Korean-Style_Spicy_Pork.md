@@ -1,7 +1,5 @@
 # Korean-Style Spicy Pork
 
-**Adapted from**: [Maangchi](https://www.maangchi.com/recipe/dwaejigogi-bokkeum)
-
 ## Notes
 
 - Family hit. Serve over rice — lettuce wraps work but rice is the better call.

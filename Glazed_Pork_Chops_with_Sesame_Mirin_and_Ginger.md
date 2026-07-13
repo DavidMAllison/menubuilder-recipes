@@ -1,7 +1,5 @@
 # Glazed Pork Chops with Sesame, Mirin, and Ginger
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/2901-glazed-pork-chops-with-asian-flavors)
-
 ## Notes
 
 Family hit — keeper. Glaze runs a bit sweet; next time toss in a couple dried red peppers to balance it out.

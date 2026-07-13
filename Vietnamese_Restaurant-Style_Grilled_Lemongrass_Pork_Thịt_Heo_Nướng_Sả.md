@@ -1,8 +1,5 @@
 # Vietnamese Restaurant-Style Grilled Lemongrass Pork (Thịt Heo Nướng Sả)
 
-**Serves**: ['4']  
-**Adapted from**: [Viet World Kitchen](https://www.vietworldkitchen.com/blog/2009/04/vietnamese-restaurantstyle-grilled-lemongrass-pork-thit-heo-nuong-xa.html)  
-
 ## Ingredients
 
 - 1 1/3 pounds | 600 grams  boneless pork shoulder steak
@@ -17,7 +14,10 @@
 
 ## Instructions
 
-1. Cut the pork shoulder steak into pieces about 3 to 4 inches big. Set aside.
-2. Put the lemongrass, shallot, garlic, pepper, and sugar into a small food processor. (Or, mince the garlic, shallot, and lemongrass individually, put them into a bowl, and add the sugar.) Add the pepper, soy sauce, fish sauce, and oil and process to combine well. Aim for a relatively smooth texture. The marinade will be chocolate brown. Scrape into a bowl.
-3. Cut the pork into pieces about ½ inch thick and each no bigger than your hand. Add the pork to the marinade, and massage coat well. Cover and set aside at room temperature to marinate for 30 minutes, or, refrigerate up to 24 hours (let the meat sit out at room temperature for 45 minutes to remove some of the chill before grilling).
-4. Preheat a grill to medium-high. Grill for 6 to 8 minutes, turning frequently, until cooked through. Nick with a knife to test. Transfer to a plate, let rest for 10 minutes, then slice and serve.
+1. Trim the pork shoulder steak into roughly 3 to 4 inch chunks. Keep to the side.
+
+2. Combine the lemongrass, shallot, garlic, pepper, and sugar in a small food processor. (Alternatively, finely mince the garlic, shallot, and lemongrass separately, transfer to a bowl, and mix in the sugar.) Stir in the pepper, soy sauce, fish sauce, and oil, then blend until well incorporated. Work toward achieving a fairly smooth consistency. The resulting marinade should have a chocolate brown appearance. Transfer the mixture to a bowl.
+
+3. Cut the pork into slices approximately ½ inch thick, ensuring no piece extends larger than your palm. Toss the pork with the marinade, working it in thoroughly until evenly coated. Cover and allow to rest at room temperature for 30 minutes to marinate, or store covered in the refrigerator for up to 24 hours (remove from refrigeration 45 minutes before grilling to allow the meat to warm to room temperature).
+
+4. Heat a grill to medium-high temperature. Cook for 6 to 8 minutes, flipping regularly, until the pork is fully cooked through. Use a knife to make a small cut and verify doneness. Place on a serving plate and allow to rest undisturbed for 10 minutes before slicing and plating.

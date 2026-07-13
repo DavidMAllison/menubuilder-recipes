@@ -1,9 +1,5 @@
 # Broiled Salmon with AB's Spice Pomade
 
-**Time**: 1 hour 10 minutes  
-**Serves**: ['6', '6 to 8 servings']  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/broiled-salmon-with-abs-spice-pomade/)  
-
 ## Ingredients
 
 - 1/3 cup plus 2 teaspoons canola oil, divided
@@ -20,7 +16,10 @@
 
 ## Instructions
 
-1. Rub sheet pan with 2 teaspoons of oil. Place the side of salmon in the pan, spinkle with the salt and pepper, and set aside. Add coriander, fennel seed, cumin seed, star anise, onion powder, garlic powder, and cayenne pepper to a blender. Turn blender on high and process until whole spices become powder.
-2. With blender running, pour in 1/3 cup canola oil and blend until well combined. Stop blender to brush down sides of container, if necessary. Brush salmon with spice mixture. Allow salmon to sit at room temperature for 30 minutes.
-3. Heat oven to the high broiler setting.
-4. Place salmon in the oven 6 inches from broiler. Cook until salmon reaches an internal temperature of 131ºF, about 15 minutes. Remove from oven and let rest for 10 minutes, and then serve immediately. Note that the internal temperature of the fish will a rise a little as carry-over cooking occurs.
+1. Lightly oil a sheet pan using 2 teaspoons of oil, then position the salmon fillet on the pan and season with salt and pepper; set aside. Place coriander, fennel seed, cumin seed, star anise, onion powder, garlic powder, and cayenne pepper into a blender and blend at high speed until all whole spices become ground powder.
+
+2. With the blender running continuously, pour in 1/3 cup canola oil gradually and blend until the mixture is fully combined, stopping and scraping the blender's sides if necessary. Generously coat the entire salmon surface with the spice paste and allow it to sit at room temperature for 30 minutes.
+
+3. Preheat the oven to its high broiler setting.
+
+4. Place the salmon in the oven with the pan positioned 6 inches away from the broiler element and broil for about 15 minutes until the salmon's internal temperature reaches 131ºF. Remove from the oven and let rest for 10 minutes before serving, noting that carryover cooking will raise the temperature slightly as it cools.

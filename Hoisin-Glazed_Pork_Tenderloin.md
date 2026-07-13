@@ -1,7 +1,5 @@
 # Hoisin-Glazed Pork Tenderloin
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8097-hoisin-glazed-pork-tenderloin)  
-
 ## Notes
 
 - Recipe is a touch sweet — consider reducing the sugar slightly.
@@ -29,4 +27,3 @@
 1. Pound tenderloins between 2 sheets of plastic wrap to 1-inch thickness. Pat dry and season with salt and pepper. Whisk broth, hoisin, sugar, ketchup, and soy sauce together in a bowl.
 2. Heat oil in a 12-inch nonstick skillet over medium heat until shimmering. Cook tenderloins until well browned on both sides and meat registers 140°F, about 7 minutes per side. Add hoisin mixture and simmer until slightly thickened, 2 to 5 minutes, turning tenderloins to coat.
 3. Remove skillet from heat and let pork rest in sauce for 5 minutes, then slice 1/2 inch thick. Serve drizzled with glaze and sprinkled with scallions and sesame seeds.
-

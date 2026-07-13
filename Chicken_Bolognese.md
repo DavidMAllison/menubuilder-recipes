@@ -1,7 +1,5 @@
 # Chicken Bolognese
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17413-chicken-bolognese)  
-
 ## Ingredients
 
 - 1 pound pasta (paccheri or any tubular shape)

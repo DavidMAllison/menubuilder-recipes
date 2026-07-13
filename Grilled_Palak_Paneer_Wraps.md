@@ -1,7 +1,5 @@
 # Grilled Palak Paneer Wraps
 
-**Adapted from**: [Chetna Makan](https://chetnamakan.co.uk/grilled-palak-paneer-wraps)  
-
 ## Ingredients
 
 - For the Marinade

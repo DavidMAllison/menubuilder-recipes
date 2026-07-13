@@ -1,8 +1,5 @@
 # Chicken in a Pecan and Ancho Chile Sauce
 
-**Time**: ~1 hour 15 minutes  
-**Adapted from**: [Pati Jinich](https://patijinich.com/chicken-in-a-pecan-and-ancho-chile-sauce/)  
-
 ## Ingredients
 
 - 3  dried ancho chiles (stemmed and seeded)
@@ -18,8 +15,12 @@
 
 ## Instructions
 
-1. Heat a comal or small skillet over medium heat, and toast the stemmed, seeded ancho chiles until the skin changes color and the chiles begin to release fumes, about 1 minute. Remove from the heat and add the onion and garlic clove to the comal or skillet. Toast, flipping the onion and garlic clove from side to side, until charred on the outside and softened inside, 10 to 12 minutes. Remove from the heat, set aside and when cool enough to handle, peel the garlic clove. Alternatively, char the onion and garlic under the broiler. Preheat the broiler with the rack arranged at the highest setting and cover a small sheet pan with foil. Broil the garlic for 5 to 8 minutes, turning halfway through, and the onion for 10 to 12 minutes, flipping halfway through.
-2. Bring the chicken broth to a simmer in a medium saucepan. Add the pecans, prunes and toasted ancho chiles. Simmer for 10 to 12 minutes, until the chiles and prunes have rehydrated and plumped, and the pecans have softened. Set aside and let cool. Transfer to a blender, add the charred onion and garlic, and puree. If your blender is small, do this in batches.
-3. Season the chicken with the salt and pepper.
-4. Heat the oil in a large casserole or wide, heavy lidded skillet over medium high heat. Once hot, brown the chicken pieces, in batches, skin side down first then skin side up, until nicely colored, about 4 to 5 minutes on each side. Transfer to a bowl or plate as each batch is done.
-5. Reduce heat to low, and using the lid of the casserole or pan as a shield for splatters, pour in the pureed pecan sauce. It should bubble and splutter dramatically. Stir well, scraping all the bits up from the bottom of the pan, and return the chicken pieces to the pan. Cover, turn down the heat to medium low, and simmer for 40 minutes, stirring and scraping the bottom of the pan from time to time, until the chicken is completely cooked through and the sauce is thick and delicious. Taste and adjust seasoning.
+1. Set a comal or small skillet to medium heat and arrange the ancho chiles (with stems and seeds discarded) on the surface. Allow them to toast until their color transforms and smoke begins to rise, taking about 1 minute. Remove from heat, then add the onion and garlic clove to the same cooking surface. Rotate them frequently as they toast until charred spots appear and the flesh becomes soft, which takes roughly 10 to 12 minutes. Once cooled enough to handle, peel the garlic and set aside. (As an alternative, use your broiler instead: set the rack to its highest position, cover a small baking sheet with foil, broil the garlic for 5 to 8 minutes and turn it halfway through, followed by broiling the onion for 10 to 12 minutes with one flip partway.)
+
+2. Bring your chicken broth to a simmer in a medium pot. Add the pecans, prunes, and toasted ancho chiles to this broth and continue simmering for 10 to 12 minutes until the chiles and prunes plump up from rehydration and the pecans soften. Let this cool down entirely. Transfer the cooled broth and solids to a blender along with the charred onion and garlic, and blend until completely smooth. (If your blender has limited capacity, process the mixture in multiple batches.)
+
+3. Coat the chicken pieces generously with salt and pepper.
+
+4. Heat oil in a large casserole or wide, heavy skillet that has a lid, setting it to medium-high. When the oil reaches temperature, work through the chicken in batches, starting with the skin side facing down, then flipping to skin side up, and browning thoroughly on each side for approximately 4 to 5 minutes per side. Transfer each finished batch to a separate bowl or plate.
+
+5. Reduce heat to low and use the casserole or skillet lid as a shield against splashes while carefully adding the pecan puree to the pan. Expect intense bubbling and spattering as it hits the hot surface. Stir everything together thoroughly, scraping along the pan's base to incorporate all the flavorful browned particles, then return the chicken pieces to the sauce. Cover with the lid, turn the heat down to medium-low, and let it simmer quietly for 40 minutes, stirring occasionally and scraping the bottom, until the chicken is fully cooked through and the sauce reaches a rich, thick consistency. Adjust the seasoning to your preference before serving.

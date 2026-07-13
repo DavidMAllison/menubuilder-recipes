@@ -1,9 +1,5 @@
 # Awadhi Khaas Nihari Recipe
 
-**Time**: 2 hours 15 minutes  
-**Serves**: 4  
-**Adapted from**: [Archana's Kitchen](https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe)  
-
 ## Ingredients
 
 - 1 kg Mutton (I used shanks)
@@ -32,14 +28,24 @@
 
 ## Instructions
 
-1. To prepare Awadhi Khaas Nihari Recipe, firstly slowly add water into the whole wheat flour and make a tight dough. This dough is to seal the vessel. Once it is ready, keep it aside.
-2. Heat oil in a wok/ pan and add whole spices (green cardamom, cinnamon, cloves, black cardamom and bay leaves.
-3. Now add the meat and saute for 6-7 minutes.
-4. Add salt and turmeric and mix well. Pour in the water, cover the pan and cook.
-5. When it comes to a boil, immediately add ginger- garlic paste, coriander powder, red chilli and onion paste.
-6. Now add nicely whisked yogurt, rose water , garam masala, nutmeg and cinnamon powder and saffron soaked milk/water.
-7. Cover the lid and cook for 2-3 minutes.
-8. Now transfer the prepared meat mix in a broad base heavy bottom vessel/ handi.
-9. Cover the with a lid and seal it with the wheat dough and leave to cook on slow fire. This may take 1.5- 2 hours.
-10. Once the meat is cooked till tender, garnish with fresh coriander and ginger juliennes.
-11. Serve Awadhi Khaas Nihari Recipe hot with roomali roti or butter garlic naan and rice.
+1. Begin by gradually incorporating water into whole wheat flour to form a firm dough that will be used to seal your cooking vessel. Set this aside once completed.
+
+2. Warm oil in a wok or pan, then introduce whole spices including green cardamom, cinnamon, cloves, black cardamom, and bay leaves.
+
+3. Place the meat into the pan and stir-fry it for approximately 6-7 minutes.
+
+4. Incorporate salt and turmeric, stirring to combine thoroughly. Add water and cover the pan to allow cooking to begin.
+
+5. As soon as the mixture reaches a boil, immediately stir in ginger-garlic paste, coriander powder, red chilli, and onion paste.
+
+6. Fold in the whisked yogurt along with rose water, garam masala, nutmeg, cinnamon powder, and saffron-infused milk or water.
+
+7. Place the lid on and let it simmer for 2-3 minutes.
+
+8. Transfer this meat preparation into a wide, heavy-bottomed cooking vessel or handi.
+
+9. Position the lid on top and seal it using the wheat dough prepared earlier, then place on low heat to cook slowly for 1.5-2 hours.
+
+10. Once the meat reaches a tender consistency, top with freshly chopped coriander and thin strips of ginger.
+
+11. Present the Awadhi Khaas Nihari Recipe while hot, accompanied by roomali roti, butter garlic naan, or rice.

@@ -1,7 +1,5 @@
 # Chicken Piccata (Good Eats)
 
-**Adapted from**: [Alton Brown](https://altonbrown.com/good-eats-chicken-piccata)
-
 ## Notes
 
 - Uses chicken thighs (not breasts) -- better flavor and tenderness.

@@ -1,7 +1,5 @@
 # Slow-Cooker Red Wine-Braised Short Ribs
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/4983-slow-cooker-red-wine-braised-short-ribs)
-
 ## Ingredients
 
 - 5 pounds bone-in English-style short ribs , trimmed, meat and bones separated

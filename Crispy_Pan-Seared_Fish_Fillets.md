@@ -1,8 +1,5 @@
 # Crispy Pan-Seared Fish Fillets (The Food Lab Method)
 
-**Serves:** 4
-**Adapted from**: [Serious Eats / J. Kenji Lopez-Alt](https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe)
-
 ## Notes
 
 - Works with any thick white fish fillet. Halibut and sea bass hold up especially well.

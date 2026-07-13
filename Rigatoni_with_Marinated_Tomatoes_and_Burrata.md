@@ -1,7 +1,5 @@
 # Rigatoni with Marinated Tomatoes and Burrata
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/14935-rigatoni-with-marinated-tomatoes-and-burrata)
-
 ## Ingredients
 
 - 1½ pounds ripe tomatoes , cored and cut into ½-inch pieces

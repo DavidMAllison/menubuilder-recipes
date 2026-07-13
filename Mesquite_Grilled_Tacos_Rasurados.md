@@ -1,7 +1,5 @@
 # Mesquite Grilled Tacos Rasurados
 
-**Adapted from**: [https://www.americastestkitchen.com/recipes/16428-mesquite-grilled-tacos-rasurados](https://www.americastestkitchen.com/recipes/16428-mesquite-grilled-tacos-rasurados)  
-
 ## Ingredients
 
 - 2/3 cup water, divided

@@ -1,7 +1,5 @@
 # Couscous Risotto with Chicken and Spinach
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10543-couscous-risotto-with-chicken-and-spinach)
-
 ## Ingredients
 
 - 4 (6- to 8-ounce) boneless, skinless chicken breasts , trimmed and cut into 1-inch pieces

@@ -1,7 +1,5 @@
 # Creamy Broccoli Pasta with Crispy Panko
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16575-creamy-broccoli-pasta-with-crispy-panko)
-
 ## Ingredients
 
 - 1⁄2 cup plus 1 tablespoon extra-virgin olive oil , divided

@@ -1,9 +1,5 @@
 # Mom&#8217;s Style Rajma Chawal  Maa ki Baat &#8211; Episode 1
 
-**Time**: 50 minutes  
-**Serves**: 4  
-**Adapted from**: [Ranveer Brar](https://ranveerbrar.com/recipes/punjabi-rajma/)  
-
 ## Ingredients
 
 - 2 cups Rajma, soaked overnight

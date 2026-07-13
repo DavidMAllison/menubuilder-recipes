@@ -1,8 +1,5 @@
 # Pasta e ceci (Pasta and Chickpeas)
 
-**Time**: 30 minutes  
-**Adapted from**: [Memorie di Angelina](https://memoriediangelina.com/2009/09/17/pasta-e-ceci)  
-
 ## Notes
 
 - The sauce can run thin on pasta — either reduce pasta slightly or add more broth than the recipe calls for. Adjust to taste next time.

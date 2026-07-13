@@ -1,9 +1,5 @@
 # Roasted Chicken Thighs with Potatoes and Green Beans
 
-**Time**: 55 minutes
-**Servings**: 4–6
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15903-roasted-chicken-thighs-with-potatoes-and-green-beans)
-
 ## Notes
 
 - For a non-alcoholic version, substitute chicken broth for the wine.

@@ -1,10 +1,5 @@
 # Smoked Pulled Pork
 
-**Serves:** 10-14
-
----
-**Adapted from**: [Aaron Franklin](https://www.youtube.com/watch?v=xFznDU7Wy-k)
-
 ## Notes
 
 - Fat cap up — the fat bastes the meat as it renders down

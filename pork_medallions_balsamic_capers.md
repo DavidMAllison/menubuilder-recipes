@@ -1,7 +1,5 @@
 # Pork Medallions with Balsamic Vinegar and Capers
 
-**Adapted from**: [Allrecipes](https://www.allrecipes.com/recipe/169749/pork-medallions-with-balsamic-vinegar-and-capers/)
-
 ## Ingredients
 
 - 2 pounds pork tenderloin, cut into 1 1/2 inch pieces

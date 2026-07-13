@@ -1,8 +1,5 @@
 # One-Pan Chicken and Rice With Preserved Lemon and Cilantro
 
-**Time**: 55 minutes  
-**Adapted from**: [Serious Eats](https://www.seriouseats.com/chicken-rice-preserved-lemon-recipe-11974098)  
-
 ## Ingredients
 
 - 2 pounds (900 g) skin-on, bone-in chicken thighs
@@ -26,8 +23,12 @@
 
 ## Instructions
 
-1. Pat chicken thighs dry with paper towels. On a large plate, sprinkle chicken all over with 2 teaspoons kosher salt. For better salt penetration, let chicken sit at room temperature for 30 minutes or uncovered in the refrigerator for up to 8 hours (optional). In a large stainless steel skillet, heat oil over medium-high heat until shimmering. Add chicken thighs, skin-side down, and cook until skin is golden brown, 5 to 7 minutes, lowering heat if skillet starts to get smoky. Transfer chicken to a large plate and set aside.
-2. Reduce heat to medium. Add onions and cook, stirring occasionally, until softened and lightly golden, about 7 minutes. Add garlic, turmeric, paprika, ginger, black pepper, and 1 1/4 teaspoon kosher salt, and cook, stirring and scraping up browned bits, until very fragrant, 1 to 2 minutes. Add rice, cilantro, preserved lemon, and broth, and stir to combine.
-3. Nestle chicken into broth, skin-side up, adding any accumulated liquid. Bring to a simmer, then reduce heat to low, and cook, covered, until rice is tender, liquid is mostly absorbed, and chicken is cooked through and tender, registering 175°F (79°C) to 195°F (91°C) with an instant-read thermometer, about 20 minutes. Off heat, let rest, covered, until rice is fully tender and all liquid is absorbed, about 10 minutes.
-4. For the Sauce: Meanwhile, in a small bowl, whisk oil, cilantro, and preserved lemon until well combined. Season with salt and pepper to taste. Set aside.
-5. To Serve: Drizzle sauce over rice and chicken and top dish with additional cilantro.
+1. Use paper towels to thoroughly dry the chicken thighs. Spread 2 teaspoons kosher salt evenly across the surface of the chicken on a large plate. If desired, allow the salted chicken to rest at room temperature for 30 minutes, or place it uncovered in the refrigerator for up to 8 hours to enhance salt absorption. Pour oil into a large stainless steel skillet and warm it over medium-high heat until it begins to shimmer. Place the chicken thighs skin-side down into the hot skillet and sear until the skin develops a golden brown color, approximately 5 to 7 minutes, reducing the heat as needed if the skillet begins smoking. Move the cooked chicken to a large plate and reserve.
+
+2. Lower the heat to medium. Combine the onions with the oil in the skillet and cook while stirring from time to time until they become tender with light golden coloring, roughly 7 minutes. Stir in the garlic, turmeric, paprika, ginger, black pepper, and 1 1/4 teaspoon kosher salt, and continue cooking while stirring and scraping the flavorful browned particles from the skillet bottom, until the mixture becomes intensely aromatic, 1 to 2 minutes. Pour in the rice, cilantro, preserved lemon, and broth, mixing thoroughly until everything is combined.
+
+3. Position the chicken pieces into the broth mixture with skin facing upward, and incorporate any juices released from the chicken. Increase the temperature until the liquid reaches a gentle simmer, then decrease to low heat, cover the skillet, and simmer until the rice reaches tenderness, the liquid has been largely incorporated, and the chicken is fully cooked and tender with an internal temperature between 175°F (79°C) and 195°F (91°C) as measured with an instant-read thermometer, approximately 20 minutes. Remove from heat and allow the covered dish to rest until the rice becomes completely tender and absorbs all remaining liquid, about 10 minutes.
+
+4. To prepare the Sauce: Simultaneously, combine oil, cilantro, and preserved lemon in a small bowl and whisk until thoroughly blended. Adjust the seasoning by adding salt and pepper as needed. Keep the sauce ready for serving.
+
+5. For Serving: Distribute the sauce across the rice and chicken and garnish the top of the dish with fresh cilantro.

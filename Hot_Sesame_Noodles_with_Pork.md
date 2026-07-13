@@ -1,7 +1,5 @@
 # Hot Sesame Noodles with Pork
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/11595-hot-sesame-noodles-with-pork)  
-
 ## Ingredients
 
 - 1 pound spaghetti

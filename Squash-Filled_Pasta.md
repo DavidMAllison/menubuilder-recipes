@@ -1,7 +1,5 @@
 # Squash-Filled Pasta
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/12632-squash-filled-pasta)
-
 ## Ingredients
 
 - 1½ pounds butternut squash , peeled, seeded, and cut into 1-inch pieces (3½ cups)

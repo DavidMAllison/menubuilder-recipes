@@ -1,9 +1,5 @@
 # Tuscan-Style Roast Pork with Garlic and Rosemary (Arista)
 
-**Time**: 2½ hours (plus 1 hour resting before roasting)
-**Servings**: 6
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8643-tuscan-style-roast-pork-with-garlic-and-rosemary-arista)
-
 ## Notes
 
 - Traditionally made rotisserie-style, which eliminates the final pan-sear step and reduces overall cook time. Worth trying on the rotisserie next time.

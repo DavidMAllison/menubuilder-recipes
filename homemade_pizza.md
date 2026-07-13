@@ -1,7 +1,5 @@
 # Homemade Pizza from Scratch  Cook Time: 15 minutes per pizza 
 
-**Adapted from**: [Serious Eats](https://www.seriouseats.com/foolproof-pan-pizza-recipe)
-
 ## Ingredients
 
 - 4 cups (500g) all-purpose flour or bread flour

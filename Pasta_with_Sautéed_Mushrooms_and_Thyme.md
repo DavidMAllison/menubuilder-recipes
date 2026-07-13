@@ -1,7 +1,5 @@
 # Pasta with Sautéed Mushrooms and Thyme
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/1672-pasta-with-sauteed-mushrooms-and-thyme)
-
 ## Notes
 
 - Family hit. May try reducing Parmesan to 1/2 cup next time.

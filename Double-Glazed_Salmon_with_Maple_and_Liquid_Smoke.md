@@ -1,7 +1,5 @@
 # Double-Glazed Salmon with Maple and Liquid Smoke
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/15032-double-glazed-salmon-with-maple-and-liquid-smoke)  
-
 ## Ingredients
 
 - 1/4 cup table salt (for brining)

@@ -1,9 +1,5 @@
 # Kashmiri Style Rajma Gogji Recipe - Kidney Beans & Turnip Curry
 
-**Time**: 1 hour 30 minutes  
-**Serves**: 4  
-**Adapted from**: [Archana's Kitchen](https://archanaskitchen.com/recipe/kashmiri-rajma-gogji-recipe)  
-
 ## Ingredients
 
 - 2 cups Kashmiri Rajma washed and soaked overnight
@@ -23,14 +19,14 @@
 
 ## Instructions
 
-1. To begin making Kashmiri Rajma Gogji Recipe, wash and soak the kashmiri rajma in warm water overnight.
-2. Heat a tablespoon of mustard oil in a pressure cooker pan and smoke it, add the onions and saute until it turns golden brown.
-3. Add the ginger and garlic and fry until it turns brown in colour.
-4. Add the tomatoes and saute until it becomes soft.
-5. Now, add the turmeric, red chilli, dry ginger and fennel powder and saute for a minute.
-6. Add the drained rajma into the pressure pan along with 4 cups of water.
-7. Add the vaer masala, season with salt, close the pressure cooker pan and cook until 4 whistles in low flame.
-8. Now, simmer for 40 minutes on low flame, and then switch off the flame and let the pressure release on its own.
-9. In the mean, smoke the remaining 1 tablespoon of mustard oil in a pan on medium heat and fry the cubes turnips until it turns golden and keep aside.
-10. Once, the rajma is cooked, put the pressure cooker back on the medium flame, add the fried turnip cubes and simmer for another 10 minutes before serving.
-11. Garnish with sliced onions and serve the Kashmiri Rajma Gogji Recipe along with steamed rice for a lazy weekend brunch along with salad. You can also serve it with Missi Roti Recipe and Lauki Raita Recipe.
+1. Thoroughly rinse the kashmiri rajma and allow it to soak in warm water for the entire night.
+2. Heat a tablespoon of mustard oil in a pressure cooker pan until it reaches a smoking point, then incorporate the onions and stir from time to time as they transform into a deep golden brown.
+3. Add the ginger and garlic to the pan and continue cooking with frequent stirring until they become brown.
+4. Fold in the tomatoes and let them cook down until they are completely tender.
+5. Combine the turmeric, red chilli, dry ginger, and fennel powder into the pan, stirring constantly for one minute.
+6. Place the drained rajma into the pressure cooker with 4 cups of water.
+7. Stir in the vaer masala and salt adjusted to your preference, then fasten the pressure cooker lid and maintain low heat for 4 whistles to sound.
+8. Allow the contents to cook gently on low heat for 40 minutes following the whistles, then turn off the heat and allow the pressure to come down on its own.
+9. In another pan, warm the remaining 1 tablespoon of mustard oil over medium heat until smoking appears, then cook the turnip cubes until they turn golden and set them aside.
+10. Once cooking is complete, place the pressure cooker back on medium heat, stir in the fried turnip cubes, and let everything cook together gently for 10 more minutes.
+11. Finish by scattering sliced onions over the top and serve with steamed rice and salad for a leisurely weekend meal, or pair with Missi Roti and Lauki Raita instead.

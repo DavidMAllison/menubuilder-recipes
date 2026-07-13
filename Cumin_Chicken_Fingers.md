@@ -1,13 +1,8 @@
 # Cumin Chicken Fingers
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17424-cumin-chicken-fingers)  
-
-## Before You Begin
-
-Sichuan peppercorns provide a unique tingly, numbing sensation that's important here; find them in the spice aisle at Asian markets or online. Garnish with sliced scallions and cilantro leaves if desired.
-
 ## Notes
 
+- Sichuan peppercorns provide a unique tingly, numbing sensation that's important here; find them in the spice aisle at Asian markets or online. Garnish with sliced scallions and cilantro leaves if desired.
 - Make more chicken than you think — family feedback was "not enough." Consider 1.5 lbs for a family of 4.
 - Kids: pull plain chicken before tossing in spice mixture.
 - Sichuan chili flakes and peppercorns give heat/numbing — omit or reduce for kids' portions.

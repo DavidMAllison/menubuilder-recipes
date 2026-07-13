@@ -1,7 +1,5 @@
 # Cantonese Steamed Fish
 
-**Adapted from**: [https://thewoksoflife.com/cantonese-steamed-fish/](https://thewoksoflife.com/cantonese-steamed-fish/)  
-
 ## Ingredients
 
 - 2  scallions
@@ -16,12 +14,20 @@
 
 ## Instructions
 
-1. Cut the scallions into 2-inch lengths, and cut the pieces in half lengthwise. Julienne them thinly. Thinly slice about 15g of ginger, and julienne them. Give the cilantro a rough chop. Set the aromatics aside.
-2. Combine the light soy sauce, salt, sugar and hot water in a small bowl and mix until the sugar and salt are dissolved. Set aside.
-3. Prepare your steaming set-up, and fill with 1-2 inches of water. Bring to a boil.
-4. Rinse your fish fillet, and carefully lay it on an oblong heat-proof plate that will fit into your wok or steaming setup. Carefully place it in the steamer, and adjust the heat to medium. The water should be at a slow boil that generates a good amount of steam, but not so high that the water evaporates too quickly.
-5. Cover and steam for 7-10 minutes depending upon the size and thickness of your fish fillet. If you have extremely small, thin fillets (half an inch), cook for 4-5 minutes. Check for doneness using a butter knife. If it falls easily through the thickest part of the fillet to the bottom of the plate, the fish is done.
-6. Turn off the heat, and carefully drain any liquid on the plate. Spread about ⅓ of the scallions, ginger, and cilantro on the steamed fish (alternatively, you can wait to do this AFTER adding the sauce).
-7. To make the sauce, heat a wok or small saucepan to medium high heat, and add 2 tablespoons vegetable oil. Add the remaining ⅔ of the ginger, and fry for 1 minute. Add the white parts of the scallions and cook for 30 seconds.Then add rest of the scallions and cilantro. The mixture should be sizzling.
-8. Add the soy sauce mixture. Bring the mixture to a bubble, and cook until the scallions and cilantro are just wilted, about 30 seconds.
-9. Pour this mixture over the fish. If you prefer to add the raw aromatics after adding the sauce, you can do so now, and heat an additional 1 tablespoon of vegetable oil to pour over the raw aromatics. Serve immediately!
+1. Begin by getting your aromatics ready. Take your scallions and slice them into 2-inch lengths, then halve each length lengthwise and cut into thin julienne strips. Slice approximately 15g of ginger thinly, then julienne those slices into thin matchsticks. Chop your cilantro into rough pieces. Collect all prepared items in one place.
+
+2. In a small bowl, combine light soy sauce, salt, sugar, and hot water by whisking. Continue stirring until the salt and sugar have fully dissolved. Set this mixture aside.
+
+3. Prepare your steamer by adding water to reach 1-2 inches deep. Bring the water to a rolling boil.
+
+4. Wash your fish fillet and position it on an oblong heat-proof plate that will fit inside your wok or steamer. Place the plate in the steamer and lower the heat to medium. Keep the water at a gentle boil that generates sufficient steam while preventing the water level from dropping too quickly.
+
+5. Cover with the lid and steam your fish between 7-10 minutes, varying the duration based on the fillet's thickness and size. For very thin, small fillets around half an inch thick, steam for only 4-5 minutes instead. Check doneness by inserting a butter knife to see if it glides easily through the thickest part of the fish down to the plate underneath—when it does, the fish is ready.
+
+6. Turn off the heat and drain any liquid that has collected on the plate. Scatter about one-third of your prepared scallions, ginger, and cilantro across the steamed fish. (Alternatively, you may choose to add these aromatics once the sauce is applied.)
+
+7. To prepare the sauce, heat a wok or small saucepan over medium-high heat until very hot and add 2 tablespoons of vegetable oil. Add the remaining two-thirds of ginger and sauté for 1 minute. Then add the white scallion sections and cook for 30 seconds. Add the rest of your scallion pieces and cilantro. All ingredients should be vigorously sizzling in the hot oil.
+
+8. Pour the soy sauce mixture you reserved earlier into the wok. Allow it to simmer gently and cook until the scallions and cilantro become tender, which takes about 30 seconds.
+
+9. Pour the hot sauce mixture over the fish on its plate. If you held back the raw aromatics, add them now and pour 1 tablespoon of freshly heated vegetable oil over them. Serve immediately.

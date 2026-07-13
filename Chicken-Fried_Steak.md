@@ -1,9 +1,5 @@
 # Chicken-Fried Steak
 
-**Time**: 1 hour  
-**Yield**: [6, 'Serves 6']  
-**Adapted from**: [americastestkitchen.com](https://www.americastestkitchen.com/recipes/1844-chicken-fried-steak)
-
 ## Ingredients
 
 - 3 cups unbleached all-purpose flour 

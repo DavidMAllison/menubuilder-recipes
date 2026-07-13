@@ -1,8 +1,5 @@
 # Simmered Tofu and Egg Rice Bowl
 
-**Time**: 15 minutes  
-**Adapted from**: [Just One Cookbook](https://www.justonecookbook.com/simmered-tofu-and-egg-rice-bowl/)  
-
 ## Ingredients
 
 - 1 block deep-fried firm tofu cutlet (atsuage) ((about 7 oz, 200 g each))

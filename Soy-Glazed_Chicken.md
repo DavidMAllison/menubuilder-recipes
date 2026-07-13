@@ -1,9 +1,5 @@
 # Soy-Glazed Chicken
 
-**Time**: 20 minutes  
-**Serves**: Servings:3 to 4 with sides  
-**Adapted from**: [Deb Perelman (Smitten Kitchen)](https://smittenkitchen.com/2021/05/soy-glazed-chicken/)  
-
 ## Ingredients
 
 - Vegetable oil

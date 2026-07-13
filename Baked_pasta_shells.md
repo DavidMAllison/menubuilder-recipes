@@ -1,9 +1,5 @@
 # Baked pasta shells
 
-**Time**: 65 minutes  
-**Serves**: 5  
-**Adapted from**: [GialloZafferano](https://www.giallozafferano.com/recipes/baked-pasta-shells.html)  
-
 ## Ingredients
 
 - Conchiglie pasta 14 oz

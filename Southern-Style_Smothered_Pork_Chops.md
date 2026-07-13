@@ -1,7 +1,5 @@
 # Southern-Style Smothered Pork Chops
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/9126-southern-style-smothered-pork-chops)
-
 ## Ingredients
 
 - 2 tablespoons Lawry’s Seasoned Salt

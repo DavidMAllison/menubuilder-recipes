@@ -1,9 +1,5 @@
 # Baked Chicken Drumsticks with Lemon and Garlic
 
-**Time**: 35 minutes  
-**Serves**: ['12', '12 pieces']  
-**Adapted from**: [The Mediterranean Dish](https://www.themediterraneandish.com/baked-chicken-drumsticks)  
-
 ## Ingredients
 
 - 10 to 12  chicken drumsticks (bone in, skin on)

@@ -1,7 +1,5 @@
 # Cumin-Cardamom Spiced Chicken with Parsley and Onion Salad
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/17071-cumin-cardamom-spiced-chicken-with-parsley-and-onion-salad)  
-
 ## Ingredients
 
 **Tahini Sauce:**

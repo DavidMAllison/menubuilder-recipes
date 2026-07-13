@@ -1,7 +1,5 @@
 # Beef and Broccoli Stir-Fry
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/10573-beef-and-broccoli-stir-fry)
-
 ## Notes
 
 - Freeze meat 20-30 min before slicing for thinner, more even cuts.

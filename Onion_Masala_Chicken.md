@@ -1,7 +1,5 @@
 # Onion Masala Chicken
 
-**Adapted from**: [Chetna Makan](https://chetnamakan.co.uk/onion-masala-chicken/)  
-
 ## Ingredients
 
 - 3 brown onions, thinly sliced
@@ -24,8 +22,12 @@
 
 ## Instructions
 
-1. Chop each chicken thigh into 8 pieces. Trim off any extra fat.
-2. Place the chicken in a large bowl along with all of the ingredients for the marinade. Mix well, cover, and let it rest for 1 hour or overnight if possible.
-3. Add 3-4 tbsp oil to large, hot pan. Add the onions and cook on medium heat for 12 minutes until golden.
-4. Add the fresh curry leaves and the marinated chicken. Mix well, cover, and cook on low-medium heat for 25 minutes. Make sure to stir halfway.
-5. Garnish with fresh coriander leaves and serve!
+1. Divide each thigh into 8 pieces, trimming away any superfluous fat during the process.
+
+2. Place the chicken in a large bowl along with every marinade ingredient, mix until fully combined, cover the bowl, and refrigerate for a minimum of 1 hour (preferably left to marinate overnight).
+
+3. Get a large pan very hot, pour in 3-4 tablespoons of oil, then add the onions and cook them on medium heat for 12 minutes with occasional stirring until they achieve a golden brown color.
+
+4. Incorporate the curry leaves and the marinated chicken (along with its liquid) into the pan, ensuring all components are well mixed. Put a lid on the pan and cook gently on low-medium heat for 25 minutes, stirring halfway through the cooking time.
+
+5. Garnish with fresh coriander leaves just before serving.

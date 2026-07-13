@@ -1,7 +1,5 @@
 # Gua Bao with Braised Pork Belly, Seasoned Daikon, and Hoisin-Soy Sauce
 
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16493-gua-bao-with-braised-pork-belly-seasoned-daikon-and-hoisin-soy-sauce)
-
 ## Ingredients
 
 - 1 (2-pound) skin-on center-cut fresh pork belly , about 1½ inches thick

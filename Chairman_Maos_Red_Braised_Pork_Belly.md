@@ -1,8 +1,5 @@
 # Chairman Mao's Red Braised Pork Belly
 
-**Serves:** 8
-**Adapted from**: [The Woks of Life](https://thewoksoflife.com/red-braised-pork-belly-mao/)
-
 ## Notes
 
 - Skip or remove the dried chilies early if cooking for kids — the heat intensifies the longer they cook.

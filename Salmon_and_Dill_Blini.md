@@ -1,7 +1,5 @@
 # Salmon and Dill Blini
 
-**Adapted from**: [Chetna Makan](https://chetnamakan.co.uk/salmon-and-dill-blini/)  
-
 ## Ingredients
 
 - 63g plain flour
