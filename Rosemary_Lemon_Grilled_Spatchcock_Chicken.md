@@ -6,8 +6,6 @@
 - The grilled lemon halves concentrate into an intense citrus paste — don't skip them.
 - Ask your butcher to spatchcock if you'd rather skip that step.
 
-Adapted from [Tastes Lovely](https://www.tasteslovely.com/grilled-lemon-rosemary-flattened-chicken/)
-
 ## Ingredients
 
 - 1 whole chicken (~3 lbs)

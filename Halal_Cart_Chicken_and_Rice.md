@@ -5,8 +5,6 @@
 - Kids' portions: pull plain chicken and rice before adding white sauce and hot sauce.
 - Don't marinate past 4 hours — the lemon juice starts breaking down the chicken.
 
-*Adapted from [Serious Eats](https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe)*
-
 ## Ingredients
 
 **Chicken and marinade:**

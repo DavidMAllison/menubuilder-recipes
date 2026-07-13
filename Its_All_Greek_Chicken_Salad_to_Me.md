@@ -5,8 +5,6 @@
 - Grill the chicken ahead of time — works well as Sunday prep.
 - Kids: pull plain grilled chicken before tossing with dressing.
 
-Adapted from [Alton Brown](https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me)
-
 ## Ingredients
 
 ### Dressing

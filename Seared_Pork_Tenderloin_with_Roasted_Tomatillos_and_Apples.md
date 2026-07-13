@@ -6,8 +6,6 @@
 - Kids: pull pork slices before adding them back to the sauce — serve plain with rice.
 - Poblanos are mild; no significant spice for kids.
 
-Adapted from [Rick Bayless](https://www.rickbayless.com/recipe/seared-pork-tenderloin-or-chicken-thighs-with-roasted-tomatillos-and-apples/)
-
 ## Ingredients
 
 - 1 lb (6-8 medium) tomatillos, husked and rinsed

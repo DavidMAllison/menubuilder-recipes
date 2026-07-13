@@ -6,8 +6,6 @@
 - Oaxaca cheese is key — mozzarella works as a substitute.
 - Cook beef in batches so it browns rather than steams.
 
-Adapted from [Pati Jinich](https://patijinich.com/tacos-de-alambre-de-carne-con-chorizo-y-queso/)
-
 ## Ingredients
 
 ### Beef Marinade
