@@ -2167,5 +2167,14 @@
     "source": "Serious Eats",
     "source_url": "https://www.seriouseats.com/shrimp-pasta-with-artichokes-tomatoes-and-golden-breadcrumbs-recipe-12003835",
     "video_url": ""
+  },
+  "Authentic_Thai_Pad_See_Ew_ผดซอว": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "2 servings",
+    "cuisine": "Thai",
+    "source": "Hot Thai Kitchen",
+    "source_url": "https://hot-thai-kitchen.com/pad-see-ew-new",
+    "video_url": "https://content.jwplatform.com/videos/cN8XsFUo.mp4"
   }
 }
