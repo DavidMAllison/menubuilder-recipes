@@ -2167,5 +2167,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/16364-pork-tenderloin-and-peach-kebabs-with-brown-rice-salad",
     "video_url": ""
+  },
+  "Seoul_Special": {
+    "health": "Moderate",
+    "time": "1 hour 30 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "Alton Brown",
+    "source_url": "https://altonbrown.com/recipes/seoul-special",
+    "video_url": ""
   }
 }
