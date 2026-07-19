@@ -9,7 +9,7 @@
 - 1 teaspoon paprika
 - ½ teaspoon table salt , divided
 - ½ teaspoon ground black pepper , divided
-- 8 ounces boneless country-style pork ribs , trimmed
+- 12 ounces boneless country-style pork ribs , trimmed
 - 2 Persian cucumber , divided
 - 6 tablespoons plain Greek yogurt
 - 1 tablespoon lemon juice , divided, plus lemon wedges for serving
