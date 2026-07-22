@@ -1,8 +1,5 @@
 # Pork Tenderloin and Peach Kebabs with Brown Rice Salad
 
-**Time**: 1 hour  
-**Adapted from**: [America's Test Kitchen](https://www.americastestkitchen.com/recipes/16364-pork-tenderloin-and-peach-kebabs-with-brown-rice-salad)  
-
 ## Ingredients
 
 - 1 cup long-grain brown rice

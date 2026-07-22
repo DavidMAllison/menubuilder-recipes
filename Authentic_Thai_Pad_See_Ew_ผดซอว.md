@@ -1,9 +1,5 @@
 # Authentic Thai Pad See Ew ผัดซีอิ้ว
 
-**Time**: 30 minutes  
-**Serves**: 2 servings  
-**Adapted from**: [Hot Thai Kitchen](https://hot-thai-kitchen.com/pad-see-ew-new)  
-
 ## Ingredients
 
 - 8 oz (225 g) protein of your choice, thinly sliced (see note 1)

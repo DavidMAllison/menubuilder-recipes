@@ -1,9 +1,5 @@
 # Seoul Special
 
-**Time**: 1 hour 30 minutes  
-**Serves**: 4 servings  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/seoul-special)  
-
 ## Ingredients
 
 - 2 tablespoons gochujang (Korean red chili paste)

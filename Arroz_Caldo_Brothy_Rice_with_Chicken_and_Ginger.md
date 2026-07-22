@@ -1,9 +1,5 @@
 # Arroz Caldo (Brothy Rice with Chicken and Ginger)
 
-**Time**: 1 hour 30 minutes  
-**Serves**: 10 servings  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/arroz-caldo-brothy-rice-with-chicken-and-ginger)  
-
 ## Ingredients
 
 - 1 cup &quot;glutinous&quot; sticky rice*

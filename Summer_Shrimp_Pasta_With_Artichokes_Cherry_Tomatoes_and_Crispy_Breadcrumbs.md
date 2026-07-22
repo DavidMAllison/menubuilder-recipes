@@ -1,8 +1,5 @@
 # Summer Shrimp Pasta With Artichokes, Cherry Tomatoes, and Crispy Breadcrumbs
 
-**Time**: 45 minutes  
-**Adapted from**: [Serious Eats](https://www.seriouseats.com/shrimp-pasta-with-artichokes-tomatoes-and-golden-breadcrumbs-recipe-12003835)  
-
 ## Ingredients
 
 - 2 slices stale country-style bread (6 ounces, 170 g), preferably sourdough, torn into 1-inch pieces (see notes

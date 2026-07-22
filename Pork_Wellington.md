@@ -1,9 +1,5 @@
 # Pork Wellington
 
-**Time**: 1 hour 10 minutes  
-**Serves**: 4 servings  
-**Adapted from**: [Alton Brown](https://altonbrown.com/recipes/pork-wellington)  
-
 ## Ingredients
 
 - 1 large egg
