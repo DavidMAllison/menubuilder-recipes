@@ -198,7 +198,7 @@
     "video_url": ""
   },
   "Chicken_Tinga": {
-    "health": "Moderate",
+    "health": "Heart-Healthy",
     "time": "35 minutes",
     "servings": "4 servings",
     "cuisine": "Mexican",
@@ -756,7 +756,7 @@
     "video_url": ""
   },
   "Halal_Cart_Chicken_and_Rice": {
-    "health": "heart-healthy",
+    "health": "Moderate",
     "time": "40 min",
     "servings": "",
     "cuisine": "Middle Eastern",
@@ -765,7 +765,7 @@
     "video_url": ""
   },
   "Smoked_Pulled_Pork": {
-    "health": "Moderate",
+    "health": "Indulgent",
     "time": "4 hours 30 min",
     "servings": "",
     "cuisine": "American",
@@ -846,7 +846,7 @@
     "video_url": ""
   },
   "Crispy_Pan-Seared_Fish_Fillets": {
-    "health": "heart-healthy",
+    "health": "Heart-Healthy",
     "time": "~20 minutes",
     "servings": "",
     "cuisine": "American",
@@ -936,7 +936,7 @@
     "video_url": ""
   },
   "Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples": {
-    "health": "Heart-Healthy",
+    "health": "Moderate",
     "time": "30 min",
     "servings": "",
     "cuisine": "Mexican",
@@ -963,7 +963,7 @@
     "video_url": ""
   },
   "Chairman_Maos_Red_Braised_Pork_Belly": {
-    "health": "indulgent",
+    "health": "Indulgent",
     "time": "2 hours",
     "servings": "",
     "cuisine": "Chinese",
@@ -993,7 +993,7 @@
     "health": "Indulgent",
     "time": "1 hour 30 min",
     "servings": "",
-    "cuisine": "Korean-American",
+    "cuisine": "Korean",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gochujang-Glazed_Ribs",
     "video_url": ""
@@ -1017,10 +1017,10 @@
     "video_url": ""
   },
   "Spicy_Peanut_Noodles_with_Shrimp_and_Snow_Peas": {
-    "health": "Heart-Healthy",
+    "health": "Moderate",
     "time": "25 min",
     "servings": "",
-    "cuisine": "Asian",
+    "cuisine": "Chinese",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/17079-spicy-peanut-noodles-with-shrimp-and-snow-peas",
     "video_url": ""
@@ -1350,7 +1350,7 @@
     "video_url": ""
   },
   "Spicy_Chicken_Fried_Rice": {
-    "health": "Heart-Healthy",
+    "health": "Moderate",
     "time": "25 min",
     "servings": "Serves 4",
     "cuisine": "Chinese",
@@ -1362,7 +1362,7 @@
     "health": "Heart-Healthy",
     "time": "20 min",
     "servings": "Serves 4",
-    "cuisine": "Mexican",
+    "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Shrimp_with_Tomato_Lime_and_Avocado",
     "video_url": ""
@@ -1371,7 +1371,7 @@
     "health": "Moderate",
     "time": "30 min",
     "servings": "Serves 4",
-    "cuisine": "Italian",
+    "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread",
     "video_url": ""
@@ -1407,7 +1407,7 @@
     "health": "Heart-Healthy",
     "time": "8 hours",
     "servings": "Serves 4 to 6",
-    "cuisine": "Mediterranean",
+    "cuisine": "Italian",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/White_Beans_with_Tomatoes_and_Capers",
     "video_url": ""
@@ -1434,7 +1434,7 @@
     "health": "Moderate",
     "time": "40 min",
     "servings": "Serves 6",
-    "cuisine": "Armenian",
+    "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup",
     "video_url": ""
@@ -1476,7 +1476,7 @@
     "video_url": ""
   },
   "Chicken_Stroganoff": {
-    "health": "Indulgent",
+    "health": "Moderate",
     "time": "35 min",
     "servings": "Serves 4",
     "cuisine": "American",
@@ -1506,7 +1506,7 @@
     "health": "Indulgent",
     "time": "2 hours",
     "servings": "Serves 6 to 8",
-    "cuisine": "Chinese",
+    "cuisine": "Taiwanese",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce",
     "video_url": ""
@@ -1530,7 +1530,7 @@
     "video_url": ""
   },
   "Tallarines_Verdes_Peruvian_Green_Noodles": {
-    "health": "Moderate",
+    "health": "Heart-Healthy",
     "time": "30 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Peruvian",
@@ -1557,7 +1557,7 @@
     "video_url": ""
   },
   "Smothered_Boneless_Pork_Ribs": {
-    "health": "Moderate",
+    "health": "Indulgent",
     "time": "40 min",
     "servings": "Serves 4 to 6",
     "cuisine": "American",
@@ -1575,7 +1575,7 @@
     "video_url": ""
   },
   "Beef_and_Broccoli_Stir-Fry": {
-    "health": "Heart-Healthy",
+    "health": "Moderate",
     "time": "55 minutes",
     "servings": "Serves 4",
     "cuisine": "Chinese",
@@ -1593,7 +1593,7 @@
     "video_url": ""
   },
   "Simple_Stovetop_Macaroni_and_Cheese": {
-    "health": "Indulgent",
+    "health": "Moderate",
     "time": "25 min",
     "servings": "Serves 4",
     "cuisine": "American",
@@ -1611,10 +1611,10 @@
     "video_url": ""
   },
   "Pa_Amb_Tomàquet_Catalan_Tomato_Bread": {
-    "health": "Moderate",
+    "health": "Heart-Healthy",
     "time": "15 min",
     "servings": "Serves 4 to 6",
-    "cuisine": "Mediterranean",
+    "cuisine": "Spanish",
     "source": "America's Test Kitchen",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pa_Amb_Tomàquet_Catalan_Tomato_Bread",
     "video_url": ""
@@ -1629,7 +1629,7 @@
     "video_url": ""
   },
   "Baked_Pork_Chops_with_Parmesan-Sage_Crust": {
-    "health": "Indulgent",
+    "health": "Moderate",
     "time": "30 min",
     "servings": "Serves 4",
     "cuisine": "American",
@@ -1848,7 +1848,7 @@
     "health": "Indulgent",
     "time": "1 hour",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "americastestkitchen.com",
     "source_url": "https://www.americastestkitchen.com/recipes/1844-chicken-fried-steak",
     "video_url": ""
@@ -2043,7 +2043,7 @@
     "video_url": ""
   },
   "Pearl_Couscous_with_Lemon_Mint_Peas_Feta_and_Pickled_Shallots": {
-    "health": "Moderate",
+    "health": "Heart-Healthy",
     "time": "30 min",
     "servings": "Serves 6",
     "cuisine": "Mediterranean",
@@ -2052,7 +2052,7 @@
     "video_url": "https://player.zype.com/embed/5b400b51e338f922cb06378f.html"
   },
   "Garlicky_Broccoli_and_Chickpea_Salad": {
-    "health": "Heart-Healthy",
+    "health": "Moderate",
     "time": "25 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Mediterranean",
@@ -2097,7 +2097,7 @@
     "video_url": ""
   },
   "Air-Fryer_Marinated_Pork_Gyros": {
-    "health": "Moderate",
+    "health": "Heart-Healthy",
     "time": "40 min",
     "servings": "Serves 2",
     "cuisine": "Mediterranean",
@@ -2106,7 +2106,7 @@
     "video_url": ""
   },
   "Watermelon_Salad_with_Cotija_and_Serrano_Chiles": {
-    "health": "Moderate",
+    "health": "Heart-Healthy",
     "time": "15 min",
     "servings": "Serves 4 to 6",
     "cuisine": "Mexican",
@@ -2163,7 +2163,7 @@
     "health": "Moderate",
     "time": "1 hour",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/16364-pork-tenderloin-and-peach-kebabs-with-brown-rice-salad",
     "video_url": ""
@@ -2184,6 +2184,78 @@
     "cuisine": "Indian",
     "source": "americastestkitchen.com",
     "source_url": "https://www.americastestkitchen.com/recipes/17115-indian-spiced-carrot-and-coconut-salad-with-tilapia",
+    "video_url": ""
+  },
+  "Chimichurri_Grilled_Chicken": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes, plus 2 hours marinating",
+    "servings": "4",
+    "cuisine": "Argentinian",
+    "source": "Budget Bytes",
+    "source_url": "https://www.budgetbytes.com/chimichurri-grilled-chicken/",
+    "video_url": ""
+  },
+  "Cuban_Mojo_Pork_Tenderloin_with_Black_Beans": {
+    "health": "Moderate",
+    "time": "40 minutes, plus 8 hours marinating",
+    "servings": "3",
+    "cuisine": "Cuban",
+    "source": "From A Chef's Kitchen",
+    "source_url": "https://www.fromachefskitchen.com/cuban-style-mojo-marinated-pork-tenderloin/",
+    "video_url": ""
+  },
+  "Baked_Chermoula_Chicken_Thighs": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "6-8",
+    "cuisine": "Moroccan",
+    "source": "A Saucy Kitchen",
+    "source_url": "https://www.asaucykitchen.com/baked-chermoula-chicken-thighs/",
+    "video_url": ""
+  },
+  "Skillet-Roasted_Chicken_Breasts_with_Harissa-Mint_Carrots": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 30 minutes",
+    "servings": "4",
+    "cuisine": "Moroccan",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11317-skillet-roasted-chicken-breasts-with-harissa-mint-carrots",
+    "video_url": ""
+  },
+  "Blackened_Shrimp_with_Blistered_Tomatoes_and_Corn": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "4",
+    "cuisine": "Cajun",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17011-blackened-shrimp-with-blistered-tomatoes-and-corn",
+    "video_url": ""
+  },
+  "Filipino_Chicken_Adobo": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 15 minutes, plus 30 minutes marinating",
+    "servings": "4",
+    "cuisine": "Filipino",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/6976-filipino-chicken-adobo",
+    "video_url": ""
+  },
+  "Roast_Pork_Tenderloins_Chinese-Style": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "4-6",
+    "cuisine": "Chinese",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/5418-roast-pork-tenderloins-chinese-style",
+    "video_url": ""
+  },
+  "Paprika_Chicken_with_Garlicky_Greens_and_White_Beans": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "4",
+    "cuisine": "Spanish",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11158-paprika-chicken-with-garlicky-greens-and-white-beans",
     "video_url": ""
   }
 }
