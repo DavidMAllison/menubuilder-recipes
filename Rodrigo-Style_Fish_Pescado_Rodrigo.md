@@ -3,6 +3,7 @@
 ## Notes
 
 - Kids: pull plain fried fish before adding the chile-lime sauce. The fish itself is mild.
+- Cook in a cast iron skillet on an outdoor grill (e.g. Weber) instead of on the stovetop -- keeps the fried-fish smell out of the house. Works great.
 
 ## Ingredients
 
