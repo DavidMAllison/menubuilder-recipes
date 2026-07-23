@@ -5,7 +5,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Amarillito_Mole_with_Chicken",
+    "source_url": "https://patijinich.com/amarillito-mole-with-chicken",
     "video_url": ""
   },
   "Black_Bean_Mole_Burgers": {
@@ -77,7 +77,7 @@
     "servings": "6 servings",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mexican_Pulled_Pork_(Carnitas)",
+    "source_url": "https://www.americastestkitchen.com/recipes/4232-mexican-pulled-pork-carnitas",
     "video_url": ""
   },
   "Murgh_Makhani_(Indian_Butter_Chicken)": {
@@ -86,7 +86,7 @@
     "servings": "4 to 6 servings",
     "cuisine": "Indian",
     "source": "Americas Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Murgh_Makhani_(Indian_Butter_Chicken)",
+    "source_url": "https://www.americastestkitchen.com/recipes/11519-indian-butter-chicken-murgh-makhani",
     "video_url": ""
   },
   "Pasta_alla_Vodka": {
@@ -104,7 +104,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pickle-Brined_Fried_Chicken_Sandwiches",
+    "source_url": "https://www.americastestkitchen.com/recipes/15412-pickle-brined-fried-chicken-sandwiches",
     "video_url": ""
   },
   "Real-Deal_Chicken_Teriyaki": {
@@ -113,7 +113,7 @@
     "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Real-Deal_Chicken_Teriyaki",
+    "source_url": "https://www.americastestkitchen.com/recipes/14218-real-deal-chicken-teriyaki",
     "video_url": ""
   },
   "Seattle_Chicken_Teriyaki": {
@@ -149,7 +149,7 @@
     "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tonkatsu_(Japanese_Fried_Pork_Chops)",
+    "source_url": "https://www.americastestkitchen.com/recipes/16391-tonkatsu-japanese-fried-pork-chops",
     "video_url": ""
   },
   "Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce": {
@@ -158,7 +158,7 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "The Weary Chef / Midwest Foodie",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mediterranean_Baked_Salmon_with_Herb-Yogurt_Sauce",
+    "source_url": "https://wearychef.com/recipe/baked-salmon-with-herbed-yogurt-sauce/",
     "video_url": ""
   },
   "Greek_Turkey_Meatballs_with_Tzatziki": {
@@ -176,7 +176,7 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "Floating Kitchen / Weight Watchers",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/One-Pan_Mediterranean_Chicken_with_Tomatoes_White_Beans",
+    "source_url": "https://www.floatingkitchen.net/wp-json/mv-create/v1/creations/147/print",
     "video_url": ""
   },
   "Tuscan_White_Bean_Soup_Ribollita": {
@@ -185,7 +185,7 @@
     "servings": "4-6 servings",
     "cuisine": "Italian",
     "source": "Love and Lemons / Feasting at Home",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tuscan_White_Bean_Soup_Ribollita",
+    "source_url": "https://www.feastingathome.com/ribollita-recipe/",
     "video_url": ""
   },
   "Citrus_Chicken_with_Carrots_and_Baby_Potatoes": {
@@ -194,7 +194,7 @@
     "servings": "4-6 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Citrus_Chicken_with_Carrots_and_Baby_Potatoes",
+    "source_url": "https://patijinich.com/citrus-chicken-with-carrots-and-baby-potatoes",
     "video_url": ""
   },
   "Chicken_Tinga": {
@@ -203,7 +203,7 @@
     "servings": "4 servings",
     "cuisine": "Mexican",
     "source": "Food52",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Tinga",
+    "source_url": "https://food52.com/recipes/80894-tinga-de-pollo",
     "video_url": ""
   },
   "Lamb_Ragu_with_Pappardelle": {
@@ -230,7 +230,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_with_Sausage_Ragu",
+    "source_url": "https://www.americastestkitchen.com/recipes/9148-pasta-with-sausage-ragu",
     "video_url": ""
   },
   "Creamy_Orzo_with_Hot_Italian_Sausage_Broccoli_Rabe_and_Tomatoes": {
@@ -275,7 +275,7 @@
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Turmeric_Rice_and_Chicken_Salad_with_Herbs",
+    "source_url": "https://www.americastestkitchen.com/recipes/14197-turmeric-rice-and-chicken-salad-with-herbs",
     "video_url": ""
   },
   "Chicken_Breasts_with_Creamy_Sun-Dried_Tomato_and_Dill_Pan_Sauce": {
@@ -293,7 +293,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tuscan-Style_Roast_Pork_with_Garlic_and_Rosemary_(Arista)",
+    "source_url": "https://www.americastestkitchen.com/recipes/8643-tuscan-style-roast-pork-with-garlic-and-rosemary-arista",
     "video_url": ""
   },
   "Pesto_Pantesco_with_Spaghetti": {
@@ -347,7 +347,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roasted_Mushrooms_and_Escarole_with_Couscous_and_Lemon_Vinaigrette",
+    "source_url": "https://www.americastestkitchen.com/recipes/17450-roasted-mushrooms-and-escarole-with-couscous-and-lemon-vinaigrette",
     "video_url": ""
   },
   "Pork_Tenderloin_and_Pears_with_Balsamic_Onions": {
@@ -356,7 +356,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pork_Tenderloin_and_Pears_with_Balsamic_Onions",
+    "source_url": "https://www.americastestkitchen.com/recipes/15123-pork-tenderloin-and-pears-with-balsamic-onions",
     "video_url": ""
   },
   "Moroccan_Lentil_and_Chickpea_Soup_(Harira)": {
@@ -365,7 +365,7 @@
     "servings": "4 servings",
     "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moroccan_Lentil_and_Chickpea_Soup_(Harira)",
+    "source_url": "https://www.americastestkitchen.com/recipes/10605-moroccan-lentil-and-chickpea-soup-harira",
     "video_url": ""
   },
   "Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans": {
@@ -374,7 +374,7 @@
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roasted_Chicken_Thighs_with_Potatoes_and_Green_Beans",
+    "source_url": "https://www.americastestkitchen.com/recipes/15903-roasted-chicken-thighs-with-potatoes-and-green-beans",
     "video_url": ""
   },
   "Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf": {
@@ -383,7 +383,7 @@
     "servings": "4 servings",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pan-Seared_Chicken_with_Warm_Mediterranean_Grain_Pilaf",
+    "source_url": "https://www.americastestkitchen.com/recipes/8847-pan-seared-chicken-with-warm-mediterranean-grain-pilaf",
     "video_url": ""
   },
   "Pappa_al_Pomodoro": {
@@ -392,7 +392,7 @@
     "servings": "4 servings",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pappa_al_Pomodoro",
+    "source_url": "https://www.americastestkitchen.com/recipes/15812-pappa-al-pomodoro",
     "video_url": ""
   },
   "Tuscan_Garlic_Chicken_Pasta": {
@@ -446,7 +446,7 @@
     "servings": "4 servings",
     "cuisine": "Korean",
     "source": "Maangchi",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Korean-Style_Spicy_Pork",
+    "source_url": "https://www.maangchi.com/recipe/dwaejigogi-bokkeum",
     "video_url": ""
   },
   "Ground_Pork_with_Ginger_and_Miso": {
@@ -491,7 +491,7 @@
     "servings": "6 servings",
     "cuisine": "Chinese",
     "source": "Skinnytaste (Gina Homolka)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Asian_Chicken_Lettuce_Wraps",
+    "source_url": "https://www.skinnytaste.com/asian-chicken-lettuce-wraps/",
     "video_url": ""
   },
   "Pescado_Agridulce_Sweet_and_Sour_Fish": {
@@ -509,7 +509,7 @@
     "servings": "4 servings",
     "cuisine": "Thai",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Thai_Chicken_Stir-Fry_with_Basil_and_Mint",
+    "source_url": "https://thewoksoflife.com/thai-basil-chicken-pad-krapow/",
     "video_url": ""
   },
   "coconut_chicken_curry": {
@@ -590,7 +590,7 @@
     "servings": "6 servings",
     "cuisine": "Mediterranean",
     "source": "The Mediterranean Dish",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Italian_Baked_Chicken",
+    "source_url": "https://www.themediterraneandish.com/easy-italian-baked-chicken-recipe/",
     "video_url": ""
   },
   "Greek_Sheet_Pan_Chicken": {
@@ -599,7 +599,7 @@
     "servings": "6 servings",
     "cuisine": "Greek",
     "source": "The Mediterranean Dish",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Greek_Sheet_Pan_Chicken",
+    "source_url": "https://www.themediterraneandish.com/greek-sheet-pan-chicken/",
     "video_url": ""
   },
   "Chicken_Piccata_Good_Eats": {
@@ -608,7 +608,7 @@
     "servings": "6 servings",
     "cuisine": "Italian",
     "source": "Alton Brown",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Piccata_Good_Eats",
+    "source_url": "https://altonbrown.com/good-eats-chicken-piccata",
     "video_url": ""
   },
   "Coq_au_Vin_for_Two": {
@@ -653,7 +653,7 @@
     "servings": "6",
     "cuisine": "Italian",
     "source": "Allrecipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/pork_medallions_balsamic_capers",
+    "source_url": "https://www.allrecipes.com/recipe/169749/pork-medallions-with-balsamic-vinegar-and-capers/",
     "video_url": ""
   },
   "spicy_honey_chicken_thighs": {
@@ -662,7 +662,7 @@
     "servings": "4",
     "cuisine": "American",
     "source": "Allrecipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/spicy_honey_chicken_thighs",
+    "source_url": "https://www.allrecipes.com/cook/5094882/recipe/1d70764b-7a65-388a-973d-8674a8c1d3ae",
     "video_url": ""
   },
   "grilled_chicken_salad_cilantro_lime": {
@@ -671,7 +671,7 @@
     "servings": "4",
     "cuisine": "American",
     "source": "Smitten Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/grilled_chicken_salad_cilantro_lime",
+    "source_url": "https://smittenkitchen.com/2025/08/grilled-chicken-salad-with-cilantro-lime-dressing/",
     "video_url": ""
   },
   "cast_iron_mustard_chicken": {
@@ -680,7 +680,7 @@
     "servings": "2",
     "cuisine": "American",
     "source": "Allrecipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/cast_iron_mustard_chicken",
+    "source_url": "https://www.allrecipes.com/cook/5094882/recipe/424f9512-a5b8-34b1-aac2-652942ebd1d8",
     "video_url": ""
   },
   "homemade_pizza": {
@@ -689,7 +689,7 @@
     "servings": "",
     "cuisine": "Italian",
     "source": "Serious Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/homemade_pizza",
+    "source_url": "https://www.seriouseats.com/foolproof-pan-pizza-recipe",
     "video_url": ""
   },
   "homemade_pizza_rolls": {
@@ -707,7 +707,7 @@
     "servings": "",
     "cuisine": "Korean",
     "source": "Milk Street",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/korean_fried_chicken_milk_street",
+    "source_url": "https://www.wttw.com/playlist/2024/07/02/korean-fried-chicken-milk-street",
     "video_url": ""
   },
   "pork_schnitzel": {
@@ -716,7 +716,7 @@
     "servings": "",
     "cuisine": "German",
     "source": "Milk Street",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/pork_schnitzel",
+    "source_url": "https://www.wskg.org/arts/2022-09-27/milk-street-schnitzel-and-mashed-ep-517",
     "video_url": ""
   },
   "Korean_Chicken_Bulgogi": {
@@ -725,7 +725,7 @@
     "servings": "4",
     "cuisine": "Korean",
     "source": "My Korean Kitchen (Sue)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Korean_Chicken_Bulgogi",
+    "source_url": "https://mykoreankitchen.com/chicken-bulgogi",
     "video_url": ""
   },
   "Moo_Shu_Chicken": {
@@ -752,7 +752,7 @@
     "servings": "4-6",
     "cuisine": "Peruvian",
     "source": "Feasting at Home",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peruvian_Grilled_Chicken_with_Aji_Verde",
+    "source_url": "https://www.feastingathome.com/grilled-peruvian-chicken-with-green-sauce/",
     "video_url": ""
   },
   "Halal_Cart_Chicken_and_Rice": {
@@ -761,7 +761,7 @@
     "servings": "",
     "cuisine": "Middle Eastern",
     "source": "Serious Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Halal_Cart_Chicken_and_Rice",
+    "source_url": "https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe",
     "video_url": ""
   },
   "Smoked_Pulled_Pork": {
@@ -770,7 +770,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "Aaron Franklin",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smoked_Pulled_Pork",
+    "source_url": "https://www.youtube.com/watch?v=xFznDU7Wy-k",
     "video_url": ""
   },
   "Cajun_Meatball_Fricassee": {
@@ -779,7 +779,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cajun_Meatball_Fricassee",
+    "source_url": "https://www.americastestkitchen.com/recipes/12931-cajun-meatball-fricassee",
     "video_url": ""
   },
   "Mesquite_Grilled_Tacos_Rasurados": {
@@ -788,7 +788,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Mesquite_Grilled_Tacos_Rasurados",
+    "source_url": "https://www.americastestkitchen.com/recipes/16428-mesquite-grilled-tacos-rasurados",
     "video_url": ""
   },
   "Cumin_Chicken_Fingers": {
@@ -806,7 +806,7 @@
     "servings": "",
     "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/30-Minute_Chicken_Tagine",
+    "source_url": "https://www.americastestkitchen.com/recipes/5258-30-minute-chicken-tagine",
     "video_url": ""
   },
   "Moroccan_Chicken_Tagine_with_Olives_and_Lemon_Djej_Emshmel": {
@@ -815,7 +815,7 @@
     "servings": "",
     "cuisine": "Moroccan",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moroccan_Chicken_Tagine_with_Olives_and_Lemon_Djej_Emshmel",
+    "source_url": "https://www.americastestkitchen.com/recipes/5189-moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel",
     "video_url": ""
   },
   "Peruvian_Arroz_con_Pollo": {
@@ -824,7 +824,7 @@
     "servings": "",
     "cuisine": "Peruvian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peruvian_Arroz_con_Pollo",
+    "source_url": "https://www.americastestkitchen.com/recipes/16207-peruvian-arroz-con-pollo",
     "video_url": ""
   },
   "Pomegranate_Chicken_with_Baharat_Sweet_Potatoes": {
@@ -833,7 +833,7 @@
     "servings": "",
     "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pomegranate_Chicken_with_Baharat_Sweet_Potatoes",
+    "source_url": "https://www.americastestkitchen.com/recipes/15440-pomegranate-chicken-with-baharat-sweet-potatoes",
     "video_url": ""
   },
   "Crispy_Braised_Chicken_Thighs_with_Cabbage_and_Bacon": {
@@ -842,7 +842,7 @@
     "servings": "",
     "cuisine": "French",
     "source": "Kenji Lopez-Alt / Serious Eats",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Braised_Chicken_Thighs_with_Cabbage_and_Bacon",
+    "source_url": "https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe",
     "video_url": ""
   },
   "Crispy_Pan-Seared_Fish_Fillets": {
@@ -851,7 +851,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "Serious Eats / J. Kenji Lopez-Alt",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Pan-Seared_Fish_Fillets",
+    "source_url": "https://www.seriouseats.com/the-easiest-crispy-pan-seared-fish-food-lab-recipe",
     "video_url": ""
   },
   "Adobo_Fish_Tacos_with_Grilled_Pineapple_Salsa": {
@@ -860,7 +860,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Adobo_Fish_Tacos_with_Grilled_Pineapple_Salsa",
+    "source_url": "https://patijinich.com/adobo-fish-tacos-with-grilled-pineapple-salsa/",
     "video_url": ""
   },
   "Chicken_in_a_Pecan_and_Ancho_Chile_Sauce": {
@@ -869,7 +869,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_in_a_Pecan_and_Ancho_Chile_Sauce",
+    "source_url": "https://patijinich.com/chicken-in-a-pecan-and-ancho-chile-sauce/",
     "video_url": ""
   },
   "Enchiladas_Suizas_Sanborns_Swiss_Chicken_Enchiladas": {
@@ -878,7 +878,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Enchiladas_Suizas_Sanborns_Swiss_Chicken_Enchiladas",
+    "source_url": "https://patijinich.com/sanborns-swiss-chicken-enchiladas/",
     "video_url": ""
   },
   "Rodrigo-Style_Fish_Pescado_Rodrigo": {
@@ -887,7 +887,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rodrigo-Style_Fish_Pescado_Rodrigo",
+    "source_url": "https://patijinich.com/rodrigo-style-fish/",
     "video_url": ""
   },
   "Chicken_and_Soft_Tofu_Casserole": {
@@ -896,7 +896,7 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_and_Soft_Tofu_Casserole",
+    "source_url": "https://thewoksoflife.com/chicken-soft-tofu-casserole/",
     "video_url": ""
   },
   "Moo_Goo_Gai_Pan_Mushroom_and_Chicken_Stir-Fry": {
@@ -905,7 +905,7 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Moo_Goo_Gai_Pan_Mushroom_and_Chicken_Stir-Fry",
+    "source_url": "https://thewoksoflife.com/moo-goo-gai-pan/",
     "video_url": ""
   },
   "Pulled_Pork_Tacos": {
@@ -932,7 +932,7 @@
     "servings": "6 to 8 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lamb_Barbacoa_Mixiote",
+    "source_url": "https://patijinich.com/lamb-barbacoa-mixiote/",
     "video_url": ""
   },
   "Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples": {
@@ -941,7 +941,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Pork_Tenderloin_with_Roasted_Tomatillos_and_Apples",
+    "source_url": "https://www.rickbayless.com/recipe/seared-pork-tenderloin-or-chicken-thighs-with-roasted-tomatillos-and-apples/",
     "video_url": ""
   },
   "Rosemary_Lemon_Grilled_Spatchcock_Chicken": {
@@ -950,7 +950,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "Tastes Lovely",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rosemary_Lemon_Grilled_Spatchcock_Chicken",
+    "source_url": "https://www.tasteslovely.com/grilled-lemon-rosemary-flattened-chicken/",
     "video_url": ""
   },
   "Hummus_Bowls_with_Roasted_Chicken_and_Cauliflower": {
@@ -959,7 +959,7 @@
     "servings": "4",
     "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Hummus_Bowls_with_Roasted_Chicken_and_Cauliflower",
+    "source_url": "https://www.americastestkitchen.com/recipes/16801-hummus-bowls-with-roasted-chicken-and-cauliflower",
     "video_url": ""
   },
   "Chairman_Maos_Red_Braised_Pork_Belly": {
@@ -968,7 +968,7 @@
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chairman_Maos_Red_Braised_Pork_Belly",
+    "source_url": "https://thewoksoflife.com/red-braised-pork-belly-mao/",
     "video_url": ""
   },
   "Burrito_Bowls": {
@@ -986,7 +986,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Brined_Pork_Chops_with_Garlic-Herb_Oil",
+    "source_url": "https://www.americastestkitchen.com/recipes/16379-grilled-brined-pork-chops-with-garlic-herb-oil",
     "video_url": ""
   },
   "Gochujang-Glazed_Ribs": {
@@ -995,7 +995,7 @@
     "servings": "",
     "cuisine": "Korean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gochujang-Glazed_Ribs",
+    "source_url": "https://www.americastestkitchen.com/recipes/17655-gochujang-glazed-ribs-for-gas-grill",
     "video_url": ""
   },
   "Grilled_Spice-Rubbed_Pork_Tenderloin_with_Charred_Fingerling_Potato_Salad": {
@@ -1004,7 +1004,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Spice-Rubbed_Pork_Tenderloin_with_Charred_Fingerling_Potato_Salad",
+    "source_url": "https://www.americastestkitchen.com/recipes/17657-grilled-spice-rubbed-pork-tenderloin-with-charred-fingerling-potato-salad",
     "video_url": ""
   },
   "Smash_Burgers": {
@@ -1013,7 +1013,7 @@
     "servings": "",
     "cuisine": "American",
     "source": "Serious Eats (J. Kenji López-Alt)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smash_Burgers",
+    "source_url": "https://www.seriouseats.com/smash-burgers",
     "video_url": ""
   },
   "Spicy_Peanut_Noodles_with_Shrimp_and_Snow_Peas": {
@@ -1049,7 +1049,7 @@
     "servings": "['2']",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Nanban_Fried_Chicken_with_Tartar_Sauce",
+    "source_url": "https://www.justonecookbook.com/chicken-nanban/",
     "video_url": ""
   },
   "Cauliflower_Stir-fry_with_Beef": {
@@ -1058,7 +1058,7 @@
     "servings": "['4']",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cauliflower_Stir-fry_with_Beef",
+    "source_url": "https://thewoksoflife.com/cauliflower-stir-fry-beef/",
     "video_url": ""
   },
   "Spicy_beef_bulgogi_Maeun-sobulgogi_매운소불고기": {
@@ -1067,7 +1067,7 @@
     "servings": "2 to 4 servings",
     "cuisine": "Korean",
     "source": "Maangchi",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spicy_beef_bulgogi_Maeun-sobulgogi_매운소불고기",
+    "source_url": "https://www.maangchi.com/recipe/spicy-bulgogi",
     "video_url": ""
   },
   "Simmered_Tofu_and_Egg_Rice_Bowl": {
@@ -1076,7 +1076,7 @@
     "servings": "['2']",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simmered_Tofu_and_Egg_Rice_Bowl",
+    "source_url": "https://www.justonecookbook.com/simmered-tofu-and-egg-rice-bowl/",
     "video_url": ""
   },
   "Chicken_Bhuna_Masala_Recipe": {
@@ -1085,7 +1085,7 @@
     "servings": "['4', '4 to 5']",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Bhuna_Masala_Recipe",
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-bhuna-masala/",
     "video_url": ""
   },
   "Lemon_Chicken_with_Potatoes_and_Chickpeas": {
@@ -1094,7 +1094,7 @@
     "servings": "Servings:4",
     "cuisine": "Mediterranean",
     "source": "Deb Perelman (Smitten Kitchen)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lemon_Chicken_with_Potatoes_and_Chickpeas",
+    "source_url": "https://smittenkitchen.com/2024/09/lemon-chicken-with-potatoes-and-chickpeas/",
     "video_url": ""
   },
   "Soy-Glazed_Chicken": {
@@ -1103,7 +1103,7 @@
     "servings": "Servings:3 to 4 with sides",
     "cuisine": "Japanese",
     "source": "Deb Perelman (Smitten Kitchen)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Soy-Glazed_Chicken",
+    "source_url": "https://smittenkitchen.com/2021/05/soy-glazed-chicken/",
     "video_url": ""
   },
   "Miso_Chicken_and_Rice": {
@@ -1112,7 +1112,7 @@
     "servings": "Servings:3 to 4",
     "cuisine": "Japanese",
     "source": "Deb Perelman (Smitten Kitchen)",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Miso_Chicken_and_Rice",
+    "source_url": "https://smittenkitchen.com/2026/02/miso-chicken-and-rice/",
     "video_url": ""
   },
   "One-Pan_Fish_Broccoli_Curry": {
@@ -1121,7 +1121,7 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/One-Pan_Fish_Broccoli_Curry",
+    "source_url": "https://chetnamakan.co.uk/one-pan-fish-broccoli-curry/",
     "video_url": ""
   },
   "Onion_Masala_Chicken": {
@@ -1130,7 +1130,7 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Onion_Masala_Chicken",
+    "source_url": "https://chetnamakan.co.uk/onion-masala-chicken/",
     "video_url": ""
   },
   "Fish_Curry": {
@@ -1139,7 +1139,7 @@
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Fish_Curry",
+    "source_url": "https://chetnamakan.co.uk/fish-curry/",
     "video_url": ""
   },
   "Its_All_Greek_Chicken_Salad_to_Me": {
@@ -1148,7 +1148,7 @@
     "servings": "['4', '4 to 6 servings']",
     "cuisine": "Mediterranean",
     "source": "Alton Brown",
-    "source_url": "https://altonbrown.com/wprm_print/its-all-greek-chicken-salad-to-me",
+    "source_url": "https://altonbrown.com/recipes/its-all-greek-chicken-salad-to-me/",
     "video_url": ""
   },
   "Dressed-up_Chicken_Milanesa": {
@@ -1157,7 +1157,7 @@
     "servings": "['6', '6 servings']",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Dressed-up_Chicken_Milanesa",
+    "source_url": "https://patijinich.com/dressed-up-chicken-milanesa/",
     "video_url": ""
   },
   "Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa": {
@@ -1166,7 +1166,7 @@
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Crispy_Chicken_Thighs_with_Creamy_Jalapeño_Salsa",
+    "source_url": "https://www.rickbayless.com/recipe/crispy-chicken-thighs-with-creamy-jalapeno-salsa/",
     "video_url": ""
   },
   "Garlic_and_Cumin_Rubbed_Chicken": {
@@ -1175,7 +1175,7 @@
     "servings": "['4', '4 to 5 Servings']",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Garlic_and_Cumin_Rubbed_Chicken",
+    "source_url": "https://patijinich.com/garlic-and-cumin-rubbed-chicken/",
     "video_url": ""
   },
   "Dal_Tadka": {
@@ -1202,7 +1202,7 @@
     "servings": "Serves 8 to 10",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Barbecued_Chuck_Roast",
+    "source_url": "https://www.americastestkitchen.com/recipes/9685-barbecued-chuck-roast",
     "video_url": ""
   },
   "Shrimp_with_Black_Bean_Sauce_For_Two": {
@@ -1211,7 +1211,7 @@
     "servings": "Serves 2",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Shrimp_with_Black_Bean_Sauce_For_Two",
+    "source_url": "https://www.americastestkitchen.com/recipes/16142-shrimp-with-black-bean-sauce-for-two",
     "video_url": ""
   },
   "Grilled_Honey_Ginger_Pork_Tenderloin_and_Plums": {
@@ -1355,7 +1355,7 @@
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spicy_Chicken_Fried_Rice",
+    "source_url": "https://www.americastestkitchen.com/recipes/17448-spicy-chicken-fried-rice",
     "video_url": ""
   },
   "Seared_Shrimp_with_Tomato_Lime_and_Avocado": {
@@ -1364,7 +1364,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Seared_Shrimp_with_Tomato_Lime_and_Avocado",
+    "source_url": "https://www.americastestkitchen.com/recipes/7443-seared-shrimp-with-tomato-lime-and-avocado",
     "video_url": ""
   },
   "Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread": {
@@ -1373,7 +1373,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Grilled_Chicken_and_Cherry_Tomatoes_with_Garlic_Bread",
+    "source_url": "https://www.americastestkitchen.com/recipes/17020-grilled-chicken-and-cherry-tomatoes-with-garlic-bread",
     "video_url": ""
   },
   "Glazed_Pork_Chops_with_Sesame_Mirin_and_Ginger": {
@@ -1382,7 +1382,7 @@
     "servings": "Serves 4",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Glazed_Pork_Chops_with_Sesame_Mirin_and_Ginger",
+    "source_url": "https://www.americastestkitchen.com/recipes/2901-glazed-pork-chops-with-asian-flavors",
     "video_url": ""
   },
   "Roast_Pork_Loin_with_40_Cloves_of_Garlic": {
@@ -1391,7 +1391,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Roast_Pork_Loin_with_40_Cloves_of_Garlic",
+    "source_url": "https://www.americastestkitchen.com/recipes/12499-roast-pork-loin-with-40-cloves-of-garlic",
     "video_url": ""
   },
   "Spinach_with_Pancetta_White_Beans_and_Balsamic_Vinegar": {
@@ -1400,7 +1400,7 @@
     "servings": "Serves 6 to 8",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Spinach_with_Pancetta_White_Beans_and_Balsamic_Vinegar",
+    "source_url": "https://www.americastestkitchen.com/recipes/512-spinach-with-pancetta-white-beans-and-balsamic-vinegar",
     "video_url": ""
   },
   "White_Beans_with_Tomatoes_and_Capers": {
@@ -1409,7 +1409,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/White_Beans_with_Tomatoes_and_Capers",
+    "source_url": "https://www.americastestkitchen.com/recipes/12509-white-beans-with-tomatoes-and-capers",
     "video_url": ""
   },
   "Baked_Burritos_with_Pinto_Beans_and_Swiss_Chard": {
@@ -1418,7 +1418,7 @@
     "servings": "Serves 6",
     "cuisine": "Mexican",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Baked_Burritos_with_Pinto_Beans_and_Swiss_Chard",
+    "source_url": "https://www.americastestkitchen.com/recipes/11705-baked-burritos-with-pinto-beans-and-swiss-chard",
     "video_url": ""
   },
   "Rillons": {
@@ -1427,7 +1427,7 @@
     "servings": "Serves 6 to 8",
     "cuisine": "French",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rillons",
+    "source_url": "https://www.americastestkitchen.com/recipes/16098-rillons",
     "video_url": ""
   },
   "Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup": {
@@ -1436,7 +1436,7 @@
     "servings": "Serves 6",
     "cuisine": "Middle Eastern",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Madzoon_ov_Kofte_Armenian_Yogurt_and_Meatball_Soup",
+    "source_url": "https://www.americastestkitchen.com/recipes/14136-madzoon-ov-kofte-armenian-yogurt-and-meatball-soup",
     "video_url": ""
   },
   "Cider-Brined_Pork_Chops_with_Apples_and_Onions": {
@@ -1445,7 +1445,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cider-Brined_Pork_Chops_with_Apples_and_Onions",
+    "source_url": "https://www.americastestkitchen.com/recipes/16616-cider-brined-pork-chops-with-apples-and-onions",
     "video_url": ""
   },
   "Squash-Filled_Pasta": {
@@ -1454,7 +1454,7 @@
     "servings": "Serves 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Squash-Filled_Pasta",
+    "source_url": "https://www.americastestkitchen.com/recipes/12632-squash-filled-pasta",
     "video_url": ""
   },
   "Creamy_Broccoli_Pasta_with_Crispy_Panko": {
@@ -1463,7 +1463,7 @@
     "servings": "Serves 6",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Creamy_Broccoli_Pasta_with_Crispy_Panko",
+    "source_url": "https://www.americastestkitchen.com/recipes/16575-creamy-broccoli-pasta-with-crispy-panko",
     "video_url": ""
   },
   "Goan_Pork_Vindaloo": {
@@ -1472,7 +1472,7 @@
     "servings": "Serves 8",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Goan_Pork_Vindaloo",
+    "source_url": "https://www.americastestkitchen.com/recipes/12579-goan-pork-vindaloo",
     "video_url": ""
   },
   "Chicken_Stroganoff": {
@@ -1481,7 +1481,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chicken_Stroganoff",
+    "source_url": "https://www.americastestkitchen.com/recipes/14166-chicken-stroganoff",
     "video_url": ""
   },
   "Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous": {
@@ -1490,7 +1490,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cumin-Crusted_Chicken_Thighs_with_Cauliflower_Couscous",
+    "source_url": "https://www.americastestkitchen.com/recipes/9286-cumin-crusted-chicken-thighs-with-cauliflower-couscous",
     "video_url": ""
   },
   "Pasta_with_Sautéed_Mushrooms_and_Thyme": {
@@ -1499,7 +1499,7 @@
     "servings": "4 as a main course, 6 to 8 as a side dish",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_with_Sautéed_Mushrooms_and_Thyme",
+    "source_url": "https://www.americastestkitchen.com/recipes/1672-pasta-with-sauteed-mushrooms-and-thyme",
     "video_url": ""
   },
   "Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce": {
@@ -1508,7 +1508,7 @@
     "servings": "Serves 6 to 8",
     "cuisine": "Taiwanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gua_Bao_with_Braised_Pork_Belly_Seasoned_Daikon_and_Hoisin-Soy_Sauce",
+    "source_url": "https://www.americastestkitchen.com/recipes/16493-gua-bao-with-braised-pork-belly-seasoned-daikon-and-hoisin-soy-sauce",
     "video_url": ""
   },
   "Air-Fryer_Chicken_Nuggets": {
@@ -1517,7 +1517,7 @@
     "servings": "Serves 4 (makes 36 nuggets)",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Air-Fryer_Chicken_Nuggets",
+    "source_url": "https://www.americastestkitchen.com/recipes/11345-air-fryer-chicken-nuggets",
     "video_url": ""
   },
   "Air-Fryer_Crispy_Breaded_Boneless_Pork_Chops": {
@@ -1526,7 +1526,7 @@
     "servings": "Serves 2",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Air-Fryer_Crispy_Breaded_Boneless_Pork_Chops",
+    "source_url": "https://www.americastestkitchen.com/recipes/12441-air-fryer-crispy-breaded-boneless-pork-chops",
     "video_url": ""
   },
   "Tallarines_Verdes_Peruvian_Green_Noodles": {
@@ -1535,7 +1535,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Peruvian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tallarines_Verdes_Peruvian_Green_Noodles",
+    "source_url": "https://www.americastestkitchen.com/recipes/17046-tallarines-verdes-peruvian-green-noodles",
     "video_url": ""
   },
   "Karaage_Japanese_Fried_Chicken_Thighs": {
@@ -1544,7 +1544,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Karaage_Japanese_Fried_Chicken_Thighs",
+    "source_url": "https://www.americastestkitchen.com/recipes/11892-japanese-fried-chicken-thighs-karaage",
     "video_url": ""
   },
   "Pasta_e_Piselli_Pasta_and_Peas": {
@@ -1553,7 +1553,7 @@
     "servings": "Serves 4",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pasta_e_Piselli_Pasta_and_Peas",
+    "source_url": "https://www.americastestkitchen.com/recipes/13877-pasta-e-piselli-pasta-and-peas",
     "video_url": ""
   },
   "Smothered_Boneless_Pork_Ribs": {
@@ -1562,7 +1562,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Smothered_Boneless_Pork_Ribs",
+    "source_url": "https://www.americastestkitchen.com/recipes/7605-smothered-boneless-pork-ribs",
     "video_url": ""
   },
   "Southern-Style_Smothered_Pork_Chops": {
@@ -1571,7 +1571,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Southern-Style_Smothered_Pork_Chops",
+    "source_url": "https://www.americastestkitchen.com/recipes/9126-southern-style-smothered-pork-chops",
     "video_url": ""
   },
   "Beef_and_Broccoli_Stir-Fry": {
@@ -1580,7 +1580,7 @@
     "servings": "Serves 4",
     "cuisine": "Chinese",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Beef_and_Broccoli_Stir-Fry",
+    "source_url": "https://www.americastestkitchen.com/recipes/10573-beef-and-broccoli-stir-fry",
     "video_url": ""
   },
   "Couscous_Risotto_with_Chicken_and_Spinach": {
@@ -1589,7 +1589,7 @@
     "servings": "Serves 4",
     "cuisine": "Mediterranean",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Couscous_Risotto_with_Chicken_and_Spinach",
+    "source_url": "https://www.americastestkitchen.com/recipes/10543-couscous-risotto-with-chicken-and-spinach",
     "video_url": ""
   },
   "Simple_Stovetop_Macaroni_and_Cheese": {
@@ -1598,7 +1598,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simple_Stovetop_Macaroni_and_Cheese",
+    "source_url": "https://www.americastestkitchen.com/recipes/9474-simple-stovetop-macaroni-and-cheese",
     "video_url": ""
   },
   "Rigatoni_with_Marinated_Tomatoes_and_Burrata": {
@@ -1607,7 +1607,7 @@
     "servings": "Serves 4",
     "cuisine": "Italian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Rigatoni_with_Marinated_Tomatoes_and_Burrata",
+    "source_url": "https://www.americastestkitchen.com/recipes/14935-rigatoni-with-marinated-tomatoes-and-burrata",
     "video_url": ""
   },
   "Pa_Amb_Tomàquet_Catalan_Tomato_Bread": {
@@ -1616,7 +1616,7 @@
     "servings": "Serves 4 to 6",
     "cuisine": "Spanish",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Pa_Amb_Tomàquet_Catalan_Tomato_Bread",
+    "source_url": "https://www.americastestkitchen.com/recipes/14134-pa-amb-tomaquet-catalan-tomato-bread",
     "video_url": ""
   },
   "Simple_Chicken_Tikka_Masala": {
@@ -1625,7 +1625,7 @@
     "servings": "Serves 4",
     "cuisine": "Indian",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Simple_Chicken_Tikka_Masala",
+    "source_url": "https://www.americastestkitchen.com/recipes/8100-simple-chicken-tikka-masala",
     "video_url": ""
   },
   "Baked_Pork_Chops_with_Parmesan-Sage_Crust": {
@@ -1634,7 +1634,7 @@
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
-    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Baked_Pork_Chops_with_Parmesan-Sage_Crust",
+    "source_url": "https://www.americastestkitchen.com/recipes/4632-baked-pork-chops-with-parmesan-sage-crust",
     "video_url": ""
   },
   "Kimchi_sundubu-jjigae_김치순두부찌개_Spicy_soft_tofu_stew_with_kimchi": {
