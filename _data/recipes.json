@@ -2284,5 +2284,50 @@
     "source": "GialloZafferano",
     "source_url": "https://www.giallozafferano.com/recipes/pasta-alla-zozzona-carbonara-amatriciana-and-cacio-e-pepe-pasta.html",
     "video_url": ""
+  },
+  "Peanut_Sauce_Chicken_with_Broccoli": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "Thai",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Peanut_Sauce_Chicken_with_Broccoli",
+    "video_url": ""
+  },
+  "Cajun_Shrimp_with_Green_Beans": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Cajun",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Cajun_Shrimp_with_Green_Beans",
+    "video_url": ""
+  },
+  "Honey_Garlic_Chicken_with_Snap_Peas": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Honey_Garlic_Chicken_with_Snap_Peas",
+    "video_url": ""
+  },
+  "Teriyaki_Salmon_with_Bok_Choy": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Japanese",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Teriyaki_Salmon_with_Bok_Choy",
+    "video_url": ""
+  },
+  "Chimichurri_Pork_Chops_with_Roasted_Carrots": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "4 servings",
+    "cuisine": "Argentinian",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chimichurri_Pork_Chops_with_Roasted_Carrots",
+    "video_url": ""
   }
 }
