@@ -2266,5 +2266,14 @@
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/grilled-pork-tenderloin",
     "video_url": ""
+  },
+  "Miso_Chicken": {
+    "health": "Moderate",
+    "time": "25 minutes",
+    "servings": "5",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/miso-chicken",
+    "video_url": ""
   }
 }
