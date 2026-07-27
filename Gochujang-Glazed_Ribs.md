@@ -2,6 +2,7 @@
 
 ## Ingredients
 
+**Ribs and Rub:**
 - 1 1/2 tablespoons kosher salt
 - 1 tablespoon gochugaru
 - 1 tablespoon plus 2 teaspoons sesame seeds, toasted, divided
@@ -12,6 +13,8 @@
 - 2 cups oak, hickory, or pecan wood chips
 - 1 (9-inch) disposable aluminum pie plate
 - 2 scallions, sliced thin
+
+**Glaze:**
 - 1/4 cup gochujang
 - 1/4 cup soy sauce
 - 1/4 cup packed brown sugar
