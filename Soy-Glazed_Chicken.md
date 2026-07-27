@@ -14,4 +14,9 @@
 
 ## Instructions
 
-1. Pat your chicken dry on a plate and season it on both sides with salt and pepper. Heat a large frying pan on medium high. Add a couple tablespoons of oil and let it get warm. Once hot, brown the chicken well on both sides, about 8 to 10 minutes total; it’s not going to fully cook through right now, and that’s fine. Transfer it back to a plate to rest. Add more oil to the pan, if needed. Add garlic and ginger and cook, stirring, for 1 minute. Add soy sauce, vinegar(s), and sugar and stir to scrape up anything stuck in the pan. Bring sauce ingredients to a simmer, 1 minute. Return the chicken to the pan and cook in the sauce, turning once or twice, until the chicken is cooked through, about 5 minutes more. The sauce will reduce as the chicken cooks and get a bit syrupy. Transfer chicken to a serving platter and pour the sauce remaining in the pan over. Sprinkle with sesame seeds and/or scallion and eat right away, preferably with some chili crisp.
+1. Pat your chicken dry on a plate and season it on both sides with salt and pepper.
+2. Heat a large frying pan on medium high. Add a couple tablespoons of oil and let it get warm. Once hot, brown the chicken well on both sides, about 8 to 10 minutes total; it’s not going to fully cook through right now, and that’s fine. Transfer it back to a plate to rest.
+3. Add more oil to the pan, if needed. Add garlic and ginger and cook, stirring, for 1 minute.
+4. Add soy sauce, vinegar(s), and sugar and stir to scrape up anything stuck in the pan. Bring sauce ingredients to a simmer, 1 minute.
+5. Return the chicken to the pan and cook in the sauce, turning once or twice, until the chicken is cooked through, about 5 minutes more. The sauce will reduce as the chicken cooks and get a bit syrupy.
+6. Transfer chicken to a serving platter and pour the sauce remaining in the pan over. Sprinkle with sesame seeds and/or scallion and eat right away, preferably with some chili crisp.
