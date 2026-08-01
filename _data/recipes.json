@@ -2356,5 +2356,14 @@
     "source": "Kannamma Cooks",
     "source_url": "https://www.kannammacooks.com/chettinad-chicken-recipe",
     "video_url": ""
+  },
+  "Chorizo_Potato_Crispy_Tacos": {
+    "health": "Indulgent",
+    "time": "35 minutes",
+    "servings": "['8', '8 Tacos']",
+    "cuisine": "Mexican",
+    "source": "Mexico in My Kitchen",
+    "source_url": "https://www.mexicoinmykitchen.com/chorizo-potato-crispy-tacos",
+    "video_url": ""
   }
 }
