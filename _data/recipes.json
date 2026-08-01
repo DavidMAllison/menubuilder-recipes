@@ -2329,5 +2329,14 @@
     "source": "Claude (original)",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chimichurri_Pork_Chops_with_Roasted_Carrots",
     "video_url": ""
+  },
+  "Sheet_Pan_Meatballs_with_Chickpeas_Turmeric_and_Lemon": {
+    "health": "Heart-Healthy",
+    "time": "About an hour",
+    "servings": "Servings:4 to 6",
+    "cuisine": "American",
+    "source": "Deb Perelman (Smitten Kitchen)",
+    "source_url": "https://smittenkitchen.com/2018/01/sheet-pan-meatballs-with-crispy-turmeric-chickpeas",
+    "video_url": ""
   }
 }
