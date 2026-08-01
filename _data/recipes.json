@@ -2347,5 +2347,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/4662-baked-ziti",
     "video_url": "https://player.zype.com/embed/5b400abe4b32992a31060650.html"
+  },
+  "Chettinad_Chicken_Recipe": {
+    "health": "Moderate",
+    "time": "55 minutes",
+    "servings": "3 servings",
+    "cuisine": "Tamilnadu",
+    "source": "Kannamma Cooks",
+    "source_url": "https://www.kannammacooks.com/chettinad-chicken-recipe",
+    "video_url": ""
   }
 }
