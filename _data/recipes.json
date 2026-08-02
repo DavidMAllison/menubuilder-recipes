@@ -2365,5 +2365,14 @@
     "source": "Mexico in My Kitchen",
     "source_url": "https://www.mexicoinmykitchen.com/chorizo-potato-crispy-tacos",
     "video_url": ""
+  },
+  "Grilled_Chicken_Wrap": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "Claude (original)",
+    "source_url": "",
+    "video_url": ""
   }
 }
