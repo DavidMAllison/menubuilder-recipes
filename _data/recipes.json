@@ -1046,7 +1046,7 @@
   "Chicken_Nanban_Fried_Chicken_with_Tartar_Sauce": {
     "health": "Indulgent",
     "time": "50 minutes",
-    "servings": "['2']",
+    "servings": "2 servings",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/chicken-nanban/",
@@ -1055,7 +1055,7 @@
   "Cauliflower_Stir-fry_with_Beef": {
     "health": "Moderate",
     "time": "35 minutes",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/cauliflower-stir-fry-beef/",
@@ -1073,7 +1073,7 @@
   "Simmered_Tofu_and_Egg_Rice_Bowl": {
     "health": "Moderate",
     "time": "15 minutes",
-    "servings": "['2']",
+    "servings": "2 servings",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/simmered-tofu-and-egg-rice-bowl/",
@@ -1082,7 +1082,7 @@
   "Chicken_Bhuna_Masala_Recipe": {
     "health": "Moderate",
     "time": "1 hour",
-    "servings": "['4', '4 to 5']",
+    "servings": "4 to 5",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/chicken-bhuna-masala/",
@@ -1145,7 +1145,7 @@
   "Its_All_Greek_Chicken_Salad_to_Me": {
     "health": "Heart-Healthy",
     "time": "1 hour 5 minutes",
-    "servings": "['4', '4 to 6 servings']",
+    "servings": "4 to 6 servings",
     "cuisine": "Mediterranean",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/its-all-greek-chicken-salad-to-me/",
@@ -1154,7 +1154,7 @@
   "Dressed-up_Chicken_Milanesa": {
     "health": "Moderate",
     "time": "21 minutes",
-    "servings": "['6', '6 servings']",
+    "servings": "6 servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/dressed-up-chicken-milanesa/",
@@ -1172,7 +1172,7 @@
   "Garlic_and_Cumin_Rubbed_Chicken": {
     "health": "Heart-Healthy",
     "time": "1 hour 15 minutes",
-    "servings": "['4', '4 to 5 Servings']",
+    "servings": "4 to 5 Servings",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/garlic-and-cumin-rubbed-chicken/",
@@ -1226,7 +1226,7 @@
   "Shanghai-Style_Braised_Pork_Belly_Hong_Shao_Rou": {
     "health": "Moderate",
     "time": "1 hour 15 minutes",
-    "servings": "['8', '8 servings']",
+    "servings": "8 servings",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/shanghai-style-braised-pork-belly/",
@@ -1235,7 +1235,7 @@
   "Braised_Pork_Belly_Dong_Po_Rou": {
     "health": "Indulgent",
     "time": "3 hours 50 minutes",
-    "servings": "['8']",
+    "servings": "8 servings",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/braised-pork-belly-dong-po-rou/",
@@ -1244,7 +1244,7 @@
   "Red_Boat_Pork_Belly_in_Caramel_Sauce": {
     "health": "Moderate",
     "time": "2 hours",
-    "servings": "['4', '4 people']",
+    "servings": "4 people",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
     "source_url": "https://www.vietworldkitchen.com/blog/2019/03/red-boat-pork-belly-in-caramel-sauce-thit-kho-recipe.html",
@@ -1253,7 +1253,7 @@
   "Kakuni_Japanese_Braised_Pork_Belly": {
     "health": "Moderate",
     "time": "4 hours 30 minutes",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/braised-pork-belly-kakuni/",
@@ -1262,7 +1262,7 @@
   "Rafute": {
     "health": "Indulgent",
     "time": "3 hours 45 minutes",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Japanese",
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/rafute/",
@@ -1271,7 +1271,7 @@
   "Bi-Level_King_Salmon_Fillet": {
     "health": "Heart-Healthy",
     "time": "20 minutes",
-    "servings": "['2', '2 servings']",
+    "servings": "2 servings",
     "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/perfectly-cooked-king-salmon-fillet/",
@@ -1280,7 +1280,7 @@
   "Broiled_Salmon_with_ABs_Spice_Pomade": {
     "health": "Heart-Healthy",
     "time": "1 hour 10 minutes",
-    "servings": "['6', '6 to 8 servings']",
+    "servings": "6 to 8 servings",
     "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/broiled-salmon-with-abs-spice-pomade/",
@@ -1298,7 +1298,7 @@
   "Altons_Kale_amp_Quinoa_Bowl_with_Salmon": {
     "health": "Moderate",
     "time": "50 minutes",
-    "servings": "['4', '4 servings']",
+    "servings": "4 servings",
     "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/altons-kale-quinoa-bowl-with-salmon/",
@@ -1307,7 +1307,7 @@
   "Hot_Smoked_Salmon": {
     "health": "Heart-Healthy",
     "time": "30 hours",
-    "servings": "['2', '2 pounds']",
+    "servings": "2 pounds",
     "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/hot-smoked-salmon-2/",
@@ -1316,7 +1316,7 @@
   "Rajma_Recipe_Rajma_Masala": {
     "health": "Moderate",
     "time": "8 hours 40 minutes",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "North Indian",
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/rajma-recipe-rajma-masala-recipe/",
@@ -1658,7 +1658,7 @@
   "Lamb_Shoulder_Chops_with_Red_Wine": {
     "health": "Indulgent",
     "time": "7 hours 30 minutes",
-    "servings": "['4', '4 servings']",
+    "servings": "4 servings",
     "cuisine": "French",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/lamb-shoulder-chops-with-red-wine/",
@@ -1667,7 +1667,7 @@
   "Barley_and_Lamb_Stew": {
     "health": "Moderate",
     "time": "1 hour 25 minutes",
-    "servings": "['4', '4 to 6 servings']",
+    "servings": "4 to 6 servings",
     "cuisine": "American",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/barley-and-lamb-stew/",
@@ -1676,7 +1676,7 @@
   "Chuanr_Grilled_Lamb_Skewers": {
     "health": "Indulgent",
     "time": "2 hours",
-    "servings": "['4', '4 servings']",
+    "servings": "4 servings",
     "cuisine": "Chinese",
     "source": "Alton Brown",
     "source_url": "https://altonbrown.com/recipes/chuanr-grilled-lamb-skewers/",
@@ -1721,7 +1721,7 @@
   "Nihari_Recipe": {
     "health": "Heart-Healthy",
     "time": "2 hours 50 minutes",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/nihari/",
@@ -1793,7 +1793,7 @@
   "Chicken_Tikka_Recipe_Tandoori_Tikka_Kabab": {
     "health": "Heart-Healthy",
     "time": "35 minutes",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/chicken-tikka-in-oven",
@@ -1820,7 +1820,7 @@
   "Vietnamese_Restaurant-Style_Grilled_Lemongrass_Pork_Thịt_Heo_Nướng_Sả": {
     "health": "Moderate",
     "time": "35 min",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
     "source_url": "https://www.vietworldkitchen.com/blog/2009/04/vietnamese-restaurantstyle-grilled-lemongrass-pork-thit-heo-nuong-xa.html",
@@ -1829,7 +1829,7 @@
   "Char_Siu_Pork_Skewers": {
     "health": "Moderate",
     "time": "45 min",
-    "servings": "['4']",
+    "servings": "4 servings",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
     "source_url": "https://www.vietworldkitchen.com/blog/2022/06/char-siu-pork-skewers-recipe.html",
@@ -1838,7 +1838,7 @@
   "Ultimate_Thai_BBQ_Chicken_ไกยาง_gai_yang": {
     "health": "Moderate",
     "time": "3 hours",
-    "servings": "['4', '4 servings']",
+    "servings": "4 servings",
     "cuisine": "Thai",
     "source": "Hot Thai Kitchen",
     "source_url": "https://hot-thai-kitchen.com/ultimate-bbq-chicken",
@@ -1883,7 +1883,7 @@
   "Broccoli_Chicken_Orzo_Bake": {
     "health": "Heart-Healthy",
     "time": "45 minutes",
-    "servings": "['4', '4-6']",
+    "servings": "4-6",
     "cuisine": "American",
     "source": "Feasting at Home",
     "source_url": "https://www.feastingathome.com/broccoli-chicken-orzo-bake",
@@ -1919,7 +1919,7 @@
   "Baked_Chicken_Drumsticks_with_Lemon_and_Garlic": {
     "health": "Moderate",
     "time": "35 minutes",
-    "servings": "['12', '12 pieces']",
+    "servings": "12 pieces",
     "cuisine": "Mediterranean",
     "source": "The Mediterranean Dish",
     "source_url": "https://www.themediterraneandish.com/baked-chicken-drumsticks",
@@ -1946,7 +1946,7 @@
   "Tunisian_Chicken_Tagine_Recipe": {
     "health": "Heart-Healthy",
     "time": "50 minutes",
-    "servings": "['4', '4-6']",
+    "servings": "4-6",
     "cuisine": "Moroccan",
     "source": "Feasting at Home",
     "source_url": "https://www.feastingathome.com/tunisian-chicken-with-cous-cous",
@@ -2360,7 +2360,7 @@
   "Chorizo_Potato_Crispy_Tacos": {
     "health": "Indulgent",
     "time": "35 minutes",
-    "servings": "['8', '8 Tacos']",
+    "servings": "8 Tacos",
     "cuisine": "Mexican",
     "source": "Mexico in My Kitchen",
     "source_url": "https://www.mexicoinmykitchen.com/chorizo-potato-crispy-tacos",
@@ -2382,6 +2382,15 @@
     "cuisine": "American",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/17657-grilled-spice-rubbed-pork-tenderloin-with-charred-fingerling-potato-salad",
+    "video_url": ""
+  },
+  "Garlic-Mustard_Glazed_Skewers": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "Servings:4 to 6, 8 for appetizers",
+    "cuisine": "American",
+    "source": "Deb Perelman (Smitten Kitchen)",
+    "source_url": "https://smittenkitchen.com/2008/07/garlic-mustard-glazed-skewers",
     "video_url": ""
   }
 }
