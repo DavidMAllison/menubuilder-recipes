@@ -2401,5 +2401,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/13200-sheet-pan-lemon-thyme-roasted-chicken-with-ratatouille",
     "video_url": ""
+  },
+  "Turkey_Pesto_Meatballs_and_Orecchiette": {
+    "health": "Heart-Healthy",
+    "time": "1 hour",
+    "servings": "Servings:4",
+    "cuisine": "American",
+    "source": "Deb Perelman (Smitten Kitchen)",
+    "source_url": "https://smittenkitchen.com/2022/09/turkey-pesto-meatballs-and-orecchiette",
+    "video_url": ""
   }
 }
