@@ -1736,15 +1736,6 @@
     "source_url": "https://archanaskitchen.com/recipe/nihari-gosht-recipe",
     "video_url": ""
   },
-  "Awadhi_Khaas_Nihari_Recipe": {
-    "health": "Indulgent",
-    "time": "2 hours 15 minutes",
-    "servings": "4",
-    "cuisine": "Awadhi",
-    "source": "Archana's Kitchen",
-    "source_url": "https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe",
-    "video_url": ""
-  },
   "Chicken_Fricassee_(Poulet_à_la_Fricassée)_with_Onion_and_Mushroom_Garnish": {
     "health": "Moderate",
     "time": "Approximately 1 hour",
@@ -2410,5 +2401,14 @@
     "source": "Deb Perelman (Smitten Kitchen)",
     "source_url": "https://smittenkitchen.com/2022/09/turkey-pesto-meatballs-and-orecchiette",
     "video_url": ""
+  },
+  "Butter_Ponzu_Beef": {
+    "health": "Moderate",
+    "time": "20 minutes",
+    "servings": "2",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/butter-ponzu-beef",
+    "video_url": "https://www.youtube.com/watch?v=_AhAn2IOQe0"
   }
 }
