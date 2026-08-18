@@ -15,7 +15,7 @@
 - 1/4 teaspoon freshly ground black pepper
 
 **For the Skewers:**
-- 2 to 3 pounds boneless skinless chicken cutlets, in big chunks (or beef)
+- 2 to 3 pounds boneless skinless chicken cutlets, in big chunks (or beef, or pork -- e.g. country-style ribs, cut into big chunks)
 
 ## Instructions
 
