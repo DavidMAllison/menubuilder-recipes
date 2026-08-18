@@ -1,9 +1,8 @@
 # Garlic-Mustard Glazed Skewers
 
-> **Needs Review** — auto-generated content; verify formatting and completeness before first cook.
-
 ## Ingredients
 
+**For the Glaze:**
 - 1/4 cup coarse or whole grain mustard
 - 2 tablespoons smooth Dijon mustard
 - 4 cloves garlic, minced
@@ -14,12 +13,15 @@
 - 2 teaspoons smoked paprika
 - 1/4 teaspoon kosher salt
 - 1/4 teaspoon freshly ground black pepper
-- 2 to 3 pounds boneless skinless chicken cutlets, in big chunks, or beef
+
+**For the Skewers:**
+- 2 to 3 pounds boneless skinless chicken cutlets, in big chunks (or beef)
 
 ## Instructions
 
-1. Make the glaze:
-2. Mix all ingredients together and let rest, if you have the time, for 30 minutes. It can also be kept for a week, if not longer, in the fridge in an airtight jar.
-3. To make and grill skewers:
-4. Soaking wooden skewers in water helps prevent them from burning on the grill. Thread meat onto skewers; I try to leave a finger of space between each chunk so that they will cook more evenly. Pour some glaze into a separate bowl and brush skewers generously with it. You cannot reuse what you’ve dipped a brush that touched raw meat with, so best to add more to the bowl as you use it up, rather than dipping the brush into the full amount and finding you had to waste the leftovers. Grill over medium-high heat until cooked, turning regularly for even color.
-5. Serve as is.
+1. Make the glaze: mix all glaze ingredients together in a bowl. Let rest 30 minutes if you have time -- it also keeps up to a week or longer in an airtight jar in the fridge.
+2. Soak wooden skewers in water to keep them from burning on the grill.
+3. Thread meat onto skewers, leaving a finger of space between chunks so they cook evenly.
+4. Pour some glaze into a separate bowl and brush the skewers generously. Don't reuse a brush that's touched raw meat -- add more glaze to the bowl as you go rather than dipping into the full batch.
+5. Grill over medium-high heat until cooked through, turning regularly for even color.
+6. Serve as is.
