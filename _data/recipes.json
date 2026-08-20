@@ -2446,5 +2446,14 @@
     "source": "Claude (original)",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Maple-Dijon_Chicken_with_Asparagus",
     "video_url": ""
+  },
+  "Curry-Spiced_Chicken_with_Yogurt_Sauce_and_Cauliflower": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Indian",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Curry-Spiced_Chicken_with_Yogurt_Sauce_and_Cauliflower",
+    "video_url": ""
   }
 }
