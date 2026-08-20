@@ -1736,15 +1736,6 @@
     "source_url": "https://archanaskitchen.com/recipe/nihari-gosht-recipe",
     "video_url": ""
   },
-  "Awadhi_Khaas_Nihari_Recipe": {
-    "health": "Indulgent",
-    "time": "2 hours 15 minutes",
-    "servings": "4",
-    "cuisine": "Awadhi",
-    "source": "Archana's Kitchen",
-    "source_url": "https://archanaskitchen.com/recipe/awadhi-khaas-nihari-recipe",
-    "video_url": ""
-  },
   "Chicken_Fricassee_(Poulet_à_la_Fricassée)_with_Onion_and_Mushroom_Garnish": {
     "health": "Moderate",
     "time": "Approximately 1 hour",
@@ -2409,6 +2400,33 @@
     "cuisine": "American",
     "source": "Deb Perelman (Smitten Kitchen)",
     "source_url": "https://smittenkitchen.com/2022/09/turkey-pesto-meatballs-and-orecchiette",
+    "video_url": ""
+  },
+  "Gochujang_Sesame_Glazed_Chicken_with_Green_Beans": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "Korean",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Gochujang_Sesame_Glazed_Chicken_with_Green_Beans",
+    "video_url": ""
+  },
+  "Star_Anise_Soy_Glazed_Chicken_with_Broccoli": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "Chinese",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Star_Anise_Soy_Glazed_Chicken_with_Broccoli",
+    "video_url": ""
+  },
+  "Sake-Butter_Glazed_Chicken_with_Snap_Peas": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Japanese",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Sake-Butter_Glazed_Chicken_with_Snap_Peas",
     "video_url": ""
   }
 }
