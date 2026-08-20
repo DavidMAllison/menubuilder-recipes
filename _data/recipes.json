@@ -2428,5 +2428,32 @@
     "source": "Claude (original)",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Sake-Butter_Glazed_Chicken_with_Snap_Peas",
     "video_url": ""
+  },
+  "Lemon-Herb_Chicken_with_Zucchini": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mediterranean",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lemon-Herb_Chicken_with_Zucchini",
+    "video_url": ""
+  },
+  "Chimichurri_Chicken_with_Bell_Peppers": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Argentinian",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chimichurri_Chicken_with_Bell_Peppers",
+    "video_url": ""
+  },
+  "Maple-Dijon_Chicken_with_Asparagus": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "American",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Maple-Dijon_Chicken_with_Asparagus",
+    "video_url": ""
   }
 }
