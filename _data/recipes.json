@@ -2815,5 +2815,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/13423-one-pot-shrimp-piccata-pasta",
     "video_url": "https://player.zype.com/embed/69dff3cbbc22fd5f2f9971a9.html"
+  },
+  "Oyakodon_Chicken_and_Egg_Rice_Bowl": {
+    "health": "Moderate",
+    "time": "25 minutes",
+    "servings": "2",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/oyakodon",
+    "video_url": "https://www.youtube.com/watch?v=SgIMT1L7kXM"
   }
 }
