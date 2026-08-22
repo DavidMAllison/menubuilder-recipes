@@ -2770,5 +2770,14 @@
     "source": "Mexico in My Kitchen",
     "source_url": "https://www.mexicoinmykitchen.com/masa-balls-in-a-black-bean-soup",
     "video_url": ""
+  },
+  "Mexican_Sopa_de_Fideo": {
+    "health": "Heart-Healthy",
+    "time": "31 minutes",
+    "servings": "['4']",
+    "cuisine": "Mexican",
+    "source": "Mexico in My Kitchen",
+    "source_url": "https://www.mexicoinmykitchen.com/sopa-de-fideos-mexican-noodle-soup",
+    "video_url": ""
   }
 }
