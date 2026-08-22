@@ -2617,5 +2617,14 @@
     "source": "The Mediterranean Dish",
     "source_url": "https://www.themediterraneandish.com/chicken-kofta-kebab",
     "video_url": "https://content.jwplatform.com/videos/Tkc7Blce.mp4"
+  },
+  "Chicken_varuval_Chicken_chukka": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "3",
+    "cuisine": "Tamilnadu",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/chettinad-chicken-dry-chicken-fry-recipe-step-by-step-pics",
+    "video_url": ""
   }
 }
