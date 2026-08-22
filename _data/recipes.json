@@ -2599,5 +2599,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/14272-caramelized-black-pepper-chicken",
     "video_url": ""
+  },
+  "Chicken_Chettinad": {
+    "health": "Heart-Healthy",
+    "time": "45 minutes",
+    "servings": "3 people",
+    "cuisine": "South Indian",
+    "source": "Indian Healthy Recipes",
+    "source_url": "https://www.indianhealthyrecipes.com/chicken-chettinad",
+    "video_url": ""
   }
 }
