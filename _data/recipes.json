@@ -2824,5 +2824,14 @@
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/oyakodon",
     "video_url": "https://www.youtube.com/watch?v=SgIMT1L7kXM"
+  },
+  "Pasta_e_Fagioli": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 15 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11137-pasta-e-fagioli",
+    "video_url": "https://player.zype.com/embed/5d66c7aa2669cc58fa9725ac.html"
   }
 }
