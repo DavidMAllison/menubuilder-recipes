@@ -2500,5 +2500,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/9228-slow-cooker-whole-roast-chili-rubbed-chicken-with-bean-salad",
     "video_url": ""
+  },
+  "Classic_Tortilla_Soup_with_all_the_Trimmings": {
+    "health": "Heart-Healthy",
+    "time": "",
+    "servings": "10 cups, about 6 servings",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/classic-tortilla-soup-with-all-the-trimmings",
+    "video_url": ""
   }
 }
