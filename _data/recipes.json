@@ -2653,5 +2653,14 @@
     "source": "GialloZafferano",
     "source_url": "https://www.giallozafferano.com/recipes/creamy-cannellini-bean-soup-with-maltagliati.html",
     "video_url": ""
+  },
+  "Easy_Oyakodon": {
+    "health": "Moderate",
+    "time": "15 minutes",
+    "servings": "1",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/10-minute-meal-oyakodon",
+    "video_url": "https://www.youtube.com/watch?v=yUyC3QehjuM"
   }
 }
