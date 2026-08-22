@@ -2761,5 +2761,14 @@
     "source": "Serious Eats",
     "source_url": "https://www.seriouseats.com/lebanese-lentil-soup-recipe-11834984",
     "video_url": ""
+  },
+  "Masa_Balls_in_Black_Bean_Soup": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "['4']",
+    "cuisine": "Mexican",
+    "source": "Mexico in My Kitchen",
+    "source_url": "https://www.mexicoinmykitchen.com/masa-balls-in-a-black-bean-soup",
+    "video_url": ""
   }
 }
