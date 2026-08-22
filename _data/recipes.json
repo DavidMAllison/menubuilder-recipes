@@ -2473,5 +2473,14 @@
     "source": "Claude Original",
     "source_url": "claude-original://slow-cooker-moroccan-spiced-chicken-and-chickpea-tagine",
     "video_url": ""
+  },
+  "Slow-Cooker_Salsa_Verde_Chicken_and_White_Bean_Stew": {
+    "health": "Heart-Healthy",
+    "time": "15 min prep + 6 hrs low",
+    "servings": "6",
+    "cuisine": "Mexican",
+    "source": "Claude Original",
+    "source_url": "claude-original://slow-cooker-salsa-verde-chicken-and-white-bean-stew",
+    "video_url": ""
   }
 }
