@@ -2896,5 +2896,23 @@
     "source": "Chetna Makan",
     "source_url": "https://chetnamakan.co.uk/saag-chicken-curry",
     "video_url": "https://www.youtube.com/watch?v=qghGFOssnpo"
+  },
+  "Slicked_and_Spicy_Lamb_Noodles": {
+    "health": "Moderate",
+    "time": "",
+    "servings": "",
+    "cuisine": "",
+    "source": "epicurious.com",
+    "source_url": "https://www.epicurious.com/recipes/food/views/ba-syn-spicy-lamb-noodles-pasta-recipe",
+    "video_url": ""
+  },
+  "Sopa_de_Albóndigas": {
+    "health": "Heart-Healthy",
+    "time": "50 minutes",
+    "servings": "['6', '6 servings']",
+    "cuisine": "Mexican",
+    "source": "Mexico in My Kitchen",
+    "source_url": "https://www.mexicoinmykitchen.com/sopa-de-albondigas",
+    "video_url": ""
   }
 }
