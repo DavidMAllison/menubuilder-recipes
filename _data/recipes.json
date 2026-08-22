@@ -2698,5 +2698,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/17076-ginger-soy-ahi-tuna-rice-bowls",
     "video_url": ""
+  },
+  "Greek_Spinach_Pie_Spanakopita_Pie": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 30 minutes",
+    "servings": "8",
+    "cuisine": "Greek",
+    "source": "Feasting at Home",
+    "source_url": "https://www.feastingathome.com/spanakopita-pie",
+    "video_url": ""
   }
 }
