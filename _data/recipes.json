@@ -2590,5 +2590,14 @@
     "source": "Kannamma Cooks",
     "source_url": "https://www.kannammacooks.com/chettinad-chicken-kurma",
     "video_url": ""
+  },
+  "Caramelized_Black_Pepper_Chicken": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/14272-caramelized-black-pepper-chicken",
+    "video_url": ""
   }
 }
