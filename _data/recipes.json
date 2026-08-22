@@ -2779,5 +2779,14 @@
     "source": "Mexico in My Kitchen",
     "source_url": "https://www.mexicoinmykitchen.com/sopa-de-fideos-mexican-noodle-soup",
     "video_url": ""
+  },
+  "Moroccan_Lamb_Tagine_with_Dried_Apricots": {
+    "health": "Indulgent",
+    "time": "2 hours 30 minutes",
+    "servings": "4-6",
+    "cuisine": "Moroccan",
+    "source": "Feasting at Home",
+    "source_url": "https://www.feastingathome.com/moroccan-lamb-tagine",
+    "video_url": ""
   }
 }
