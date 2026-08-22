@@ -2518,5 +2518,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/16944-green-pork-posole-bowl",
     "video_url": ""
+  },
+  "Chorizo-Potato_Tacos": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "4",
+    "cuisine": "Mexican",
+    "source": "Rick Bayless",
+    "source_url": "https://www.rickbayless.com/recipe/chorizo-and-potato-tacos",
+    "video_url": ""
   }
 }

@@ -1,0 +1,18 @@
+# Chorizo-Potato Tacos
+
+## Ingredients
+
+- 3 medium (about 12 ounces) boiling potatoes (Yukon gold's or the smaller red or white-skin potatoes work well here), peeled if you wish, cut into 1/2-inch cubes
+- 12 ounces fresh Mexican chorizo sausage, casing removed
+- 1 medium white onion, cut into small pieces
+- Salt
+- 3/4 cup Roasted Tomatillo Salsa
+- 1 avocado, pitted, flesh scooped from the skin and sliced
+- 12 warm tortillas
+
+## Instructions
+
+1. Scoop the potato into a microwave-safe bowl, cover with plastic wrap, poke a few holes in the top and microwave on high for 3 minutes.
+2. Lay the chorizo and onion in a very large (12-inch) skillet (preferably non-stick) and set over medium heat. Cook, stirring frequently and breaking up clumps, until the fat renders, the sausage looks cooked, and the onions are translucent, about 6 minutes.
+3. Scoop the potatoes, leaving the steaming liquid behind, into the skillet and continue cooking until the potatoes are soft, about 5 minutes. If the potatoes begin browning long before they’re soft, reduce the temperature a little. Taste and season with salt if you think the mixture needs it—some chorizo is so highly seasoned, little additional salt will be needed.
+4. To serve, scoop the mixture into a deep bowl. Set out with the cheese, cilantro salsa, avocado and warm tortillas.
