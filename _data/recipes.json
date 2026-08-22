@@ -2626,5 +2626,14 @@
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/chettinad-chicken-dry-chicken-fry-recipe-step-by-step-pics",
     "video_url": ""
+  },
+  "Chicken_with_Creamy_Poblano_Sauce": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "4",
+    "cuisine": "Mexican",
+    "source": "Mexico in My Kitchen",
+    "source_url": "https://www.mexicoinmykitchen.com/chicken-with-creamy-poblano-sauce",
+    "video_url": ""
   }
 }
