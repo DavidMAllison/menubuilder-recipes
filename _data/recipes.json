@@ -2707,5 +2707,14 @@
     "source": "Feasting at Home",
     "source_url": "https://www.feastingathome.com/spanakopita-pie",
     "video_url": ""
+  },
+  "Grilled_Chicken_Kofta": {
+    "health": "Heart-Healthy",
+    "time": "38 minutes",
+    "servings": "Serves 4 (2 kofta patties each)",
+    "cuisine": "Mediterranean",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/grilled-chicken-kofta",
+    "video_url": ""
   }
 }
