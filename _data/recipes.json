@@ -2462,7 +2462,7 @@
     "servings": "6",
     "cuisine": "Italian",
     "source": "Claude Original",
-    "source_url": "claude-original://braised-turkey-meatballs-in-tomato-fennel-sauce",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Braised_Turkey_Meatballs_in_Tomato-Fennel_Sauce",
     "video_url": ""
   },
   "Slow-Cooker_Moroccan-Spiced_Chicken_and_Chickpea_Tagine": {
@@ -2471,7 +2471,7 @@
     "servings": "6",
     "cuisine": "Moroccan",
     "source": "Claude Original",
-    "source_url": "claude-original://slow-cooker-moroccan-spiced-chicken-and-chickpea-tagine",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Slow-Cooker_Moroccan-Spiced_Chicken_and_Chickpea_Tagine",
     "video_url": ""
   },
   "Slow-Cooker_Salsa_Verde_Chicken_and_White_Bean_Stew": {
@@ -2480,7 +2480,7 @@
     "servings": "6",
     "cuisine": "Mexican",
     "source": "Claude Original",
-    "source_url": "claude-original://slow-cooker-salsa-verde-chicken-and-white-bean-stew",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Slow-Cooker_Salsa_Verde_Chicken_and_White_Bean_Stew",
     "video_url": ""
   },
   "Slow-Cooker_Chicken_Cacciatore": {
@@ -2553,6 +2553,15 @@
     "cuisine": "Italian",
     "source": "GialloZafferano",
     "source_url": "https://www.giallozafferano.com/recipes/pasta-and-borlotti-bean-soup.html",
+    "video_url": ""
+  },
+  "30-Minute_Harissa-Honey_Salmon_Rice_Bowl": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "American",
+    "source": "Serious Eats",
+    "source_url": "https://www.seriouseats.com/harissa-honey-salmon-rice-bowl-recipe-11989431",
     "video_url": ""
   }
 }
