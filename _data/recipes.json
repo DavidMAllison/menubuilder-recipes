@@ -2482,5 +2482,14 @@
     "source": "Claude Original",
     "source_url": "claude-original://slow-cooker-salsa-verde-chicken-and-white-bean-stew",
     "video_url": ""
+  },
+  "Slow-Cooker_Chicken_Cacciatore": {
+    "health": "Heart-Healthy",
+    "time": "30 min prep + 4 hrs",
+    "servings": "6 to 8",
+    "cuisine": "Italian",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/4699-slow-cooker-chicken-cacciatore",
+    "video_url": ""
   }
 }
