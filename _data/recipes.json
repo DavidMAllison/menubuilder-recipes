@@ -2536,5 +2536,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/15780-dijon-butter-salmon-with-herbed-rice-and-peas",
     "video_url": ""
+  },
+  "Dan_Dan_Noodles": {
+    "health": "Indulgent",
+    "time": "1 hour 30 minutes",
+    "servings": "6",
+    "cuisine": "Chinese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/dan-dan-noodles",
+    "video_url": ""
   }
 }
