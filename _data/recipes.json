@@ -2899,9 +2899,9 @@
   },
   "Slicked_and_Spicy_Lamb_Noodles": {
     "health": "Moderate",
-    "time": "",
+    "time": "35 minutes",
     "servings": "",
-    "cuisine": "",
+    "cuisine": "Middle Eastern",
     "source": "epicurious.com",
     "source_url": "https://www.epicurious.com/recipes/food/views/ba-syn-spicy-lamb-noodles-pasta-recipe",
     "video_url": ""
@@ -2913,6 +2913,15 @@
     "cuisine": "Mexican",
     "source": "Mexico in My Kitchen",
     "source_url": "https://www.mexicoinmykitchen.com/sopa-de-albondigas",
+    "video_url": ""
+  },
+  "Fried_Rice_with_Shrimp_Lime_and_Peanuts": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/17519-fried-rice-with-shrimp-lime-and-peanuts",
     "video_url": ""
   }
 }
