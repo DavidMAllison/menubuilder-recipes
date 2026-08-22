@@ -2464,5 +2464,14 @@
     "source": "Claude Original",
     "source_url": "claude-original://braised-turkey-meatballs-in-tomato-fennel-sauce",
     "video_url": ""
+  },
+  "Slow-Cooker_Moroccan-Spiced_Chicken_and_Chickpea_Tagine": {
+    "health": "Heart-Healthy",
+    "time": "20 min prep + 6 hrs low",
+    "servings": "6",
+    "cuisine": "Moroccan",
+    "source": "Claude Original",
+    "source_url": "claude-original://slow-cooker-moroccan-spiced-chicken-and-chickpea-tagine",
+    "video_url": ""
   }
 }
