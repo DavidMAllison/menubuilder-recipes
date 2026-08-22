@@ -2860,5 +2860,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/9803-thai-style-red-curry-chicken-with-vegetables",
     "video_url": ""
+  },
+  "Thai_Chicken_Salad": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/11290-thai-chicken-salad",
+    "video_url": ""
   }
 }
