@@ -2455,5 +2455,14 @@
     "source": "Claude (original)",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Curry-Spiced_Chicken_with_Yogurt_Sauce_and_Cauliflower",
     "video_url": ""
+  },
+  "Braised_Turkey_Meatballs_in_Tomato-Fennel_Sauce": {
+    "health": "Heart-Healthy",
+    "time": "25 min prep + ~2.5-3 hrs braise",
+    "servings": "6",
+    "cuisine": "Italian",
+    "source": "Claude Original",
+    "source_url": "claude-original://braised-turkey-meatballs-in-tomato-fennel-sauce",
+    "video_url": ""
   }
 }
