@@ -2509,5 +2509,14 @@
     "source": "Rick Bayless",
     "source_url": "https://www.rickbayless.com/recipe/classic-tortilla-soup-with-all-the-trimmings",
     "video_url": ""
+  },
+  "Green_Pork_Posole_Bowl": {
+    "health": "Moderate",
+    "time": "40 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "America's Test Kitchen",
+    "source_url": "https://www.americastestkitchen.com/recipes/16944-green-pork-posole-bowl",
+    "video_url": ""
   }
 }
