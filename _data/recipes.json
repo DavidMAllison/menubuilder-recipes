@@ -2519,15 +2519,6 @@
     "source_url": "https://www.americastestkitchen.com/recipes/16944-green-pork-posole-bowl",
     "video_url": ""
   },
-  "Chorizo-Potato_Tacos": {
-    "health": "Indulgent",
-    "time": "",
-    "servings": "4",
-    "cuisine": "Mexican",
-    "source": "Rick Bayless",
-    "source_url": "https://www.rickbayless.com/recipe/chorizo-and-potato-tacos",
-    "video_url": ""
-  },
   "Dijon-Butter_Salmon_with_Herbed_Rice_and_Peas": {
     "health": "Moderate",
     "time": "45 minutes",
@@ -2571,6 +2562,15 @@
     "cuisine": "",
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/11875-shrimp-and-orzo-risotto-with-saffron-and-lemon",
+    "video_url": ""
+  },
+  "Tuscan_kale_and_chickpea_soup": {
+    "health": "Heart-Healthy",
+    "time": "160 minutes",
+    "servings": "4",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/tuscan-kale-and-chickpea-soup.html",
     "video_url": ""
   }
 }
