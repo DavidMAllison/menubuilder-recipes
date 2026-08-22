@@ -2950,5 +2950,14 @@
     "source": "Rick Bayless",
     "source_url": "https://www.rickbayless.com/recipe/roasted-poblano-rajas-greens-and-or-chicken-2",
     "video_url": ""
+  },
+  "Spaghetti_allAmatriciana": {
+    "health": "Indulgent",
+    "time": "35 minutes",
+    "servings": "4",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/Spaghetti-Amatriciana-Bacon-and-tomato-spaghetti.html",
+    "video_url": ""
   }
 }
