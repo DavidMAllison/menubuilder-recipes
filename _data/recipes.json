@@ -2869,5 +2869,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/11290-thai-chicken-salad",
     "video_url": ""
+  },
+  "Tan_Tan_Ramen": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "2",
+    "cuisine": "Japanese",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/tan-tan-ramen",
+    "video_url": ""
   }
 }
