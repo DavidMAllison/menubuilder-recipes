@@ -2635,5 +2635,14 @@
     "source": "Mexico in My Kitchen",
     "source_url": "https://www.mexicoinmykitchen.com/chicken-with-creamy-poblano-sauce",
     "video_url": ""
+  },
+  "Chickpea_soup": {
+    "health": "Heart-Healthy",
+    "time": "130 minutes",
+    "servings": "4",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/chickpea-soup.html",
+    "video_url": ""
   }
 }
