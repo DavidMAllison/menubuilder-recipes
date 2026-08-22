@@ -2608,5 +2608,14 @@
     "source": "Indian Healthy Recipes",
     "source_url": "https://www.indianhealthyrecipes.com/chicken-chettinad",
     "video_url": ""
+  },
+  "Chicken_Kofta_Kebabs_with_Harissa_and_Garlic-Mint_Yogurt": {
+    "health": "Heart-Healthy",
+    "time": "40 minutes",
+    "servings": "6",
+    "cuisine": "Mediterranean/Middle Eastern",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/chicken-kofta-kebab",
+    "video_url": "https://content.jwplatform.com/videos/Tkc7Blce.mp4"
   }
 }
