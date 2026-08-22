@@ -2545,5 +2545,14 @@
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/dan-dan-noodles",
     "video_url": ""
+  },
+  "Pasta_and_Borlotti_Bean_Soup": {
+    "health": "Moderate",
+    "time": "120 minutes",
+    "servings": "4",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/pasta-and-borlotti-bean-soup.html",
+    "video_url": ""
   }
 }
