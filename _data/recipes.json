@@ -2671,5 +2671,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/2044-fettuccine-alfredo",
     "video_url": "https://player.zype.com/embed/5b400a474b32992a3105ec03.html"
+  },
+  "Spanakopita_Recipe_Greek_Spinach_Pie": {
+    "health": "Heart-Healthy",
+    "time": "1 hour 20 minutes",
+    "servings": "12 pieces",
+    "cuisine": "Greek",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie",
+    "video_url": "https://content.jwplatform.com/videos/&rdquo;OutC2XkQ&rdquo;.mp4"
   }
 }
