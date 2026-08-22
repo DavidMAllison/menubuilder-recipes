@@ -2581,5 +2581,14 @@
     "source": "Hot Thai Kitchen",
     "source_url": "https://hot-thai-kitchen.com/beef-massaman-curry",
     "video_url": "https://www.youtube.com/watch?v=Z5v8F_zhwF8"
+  },
+  "Chettinad_Kari-Kozhi_Kurma_Chicken_Korma": {
+    "health": "Moderate",
+    "time": "1 hour 5 minutes",
+    "servings": "4",
+    "cuisine": "Chettinad",
+    "source": "Kannamma Cooks",
+    "source_url": "https://www.kannammacooks.com/chettinad-chicken-kurma",
+    "video_url": ""
   }
 }
