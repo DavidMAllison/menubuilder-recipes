@@ -2734,5 +2734,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/15953-kare-raisu-japanese-curry-rice-with-chicken",
     "video_url": "https://player.zype.com/embed/69a5dd0e0d205ca1b5f29923.html"
+  },
+  "Kofta_Kebab_Recipe": {
+    "health": "Indulgent",
+    "time": "8 minutes",
+    "servings": "10 skewers",
+    "cuisine": "Mediterranean",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/kofta-kebab-recipe",
+    "video_url": "https://content.jwplatform.com/videos/4nX3DdiV.mp4"
   }
 }
