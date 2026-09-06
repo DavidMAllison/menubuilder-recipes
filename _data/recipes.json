@@ -2503,7 +2503,7 @@
   },
   "Classic_Tortilla_Soup_with_all_the_Trimmings": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "40 min",
     "servings": "10 cups, about 6 servings",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
@@ -2665,7 +2665,7 @@
   },
   "Fettuccine_Alfredo": {
     "health": "Indulgent",
-    "time": "",
+    "time": "25 min",
     "servings": "",
     "cuisine": "",
     "source": "America's Test Kitchen",
@@ -2683,7 +2683,7 @@
   },
   "Gà_Kho_Gừng_Vietnamese_Caramel-Braised_Chicken_with_Ginger": {
     "health": "Moderate",
-    "time": "",
+    "time": "2 hours",
     "servings": "",
     "cuisine": "",
     "source": "America's Test Kitchen",
@@ -2719,7 +2719,7 @@
   },
   "How_to_Make_Oyakodon_Japanese_Chicken_and_Egg_Rice_Bowl": {
     "health": "Moderate",
-    "time": "",
+    "time": "30 min",
     "servings": "",
     "cuisine": "American",
     "source": "J. Kenji López-Alt",
@@ -2746,7 +2746,7 @@
   },
   "Korean_Braised_Short_Ribs_Galbi_Jjim": {
     "health": "Indulgent",
-    "time": "",
+    "time": "2 hours 30 min",
     "servings": "Servings:6 to 8",
     "cuisine": "American",
     "source": "Deb Perelman (Smitten Kitchen)",
@@ -2836,7 +2836,7 @@
   },
   "Pepper_Chicken_Curry": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "50 min",
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
@@ -2845,7 +2845,7 @@
   },
   "Pork_Satay_with_Condensed_Milk_and_Coconut": {
     "health": "Indulgent",
-    "time": "",
+    "time": "35 min",
     "servings": "4 people",
     "cuisine": "Vietnamese",
     "source": "Viet World Kitchen",
@@ -2890,7 +2890,7 @@
   },
   "Saag_Chicken_Curry": {
     "health": "Heart-Healthy",
-    "time": "",
+    "time": "45 min",
     "servings": "",
     "cuisine": "Indian",
     "source": "Chetna Makan",
@@ -2944,7 +2944,7 @@
   },
   "Roasted_Poblano_Rajas_-_greens_andor_chicken": {
     "health": "Moderate",
-    "time": "",
+    "time": "35 min",
     "servings": "2 cups",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
@@ -2976,6 +2976,15 @@
     "cuisine": "American",
     "source": "americastestkitchen.com",
     "source_url": "https://www.americastestkitchen.com/recipes/16189-skillet-chicken-breasts-with-burst-cherry-tomato-sauce",
+    "video_url": ""
+  },
+  "Caprese_Chicken_Saltimbocca": {
+    "health": "Moderate",
+    "time": "25 minutes",
+    "servings": "4",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/Caprese-Chicken-Saltimbocca.html",
     "video_url": ""
   }
 }
