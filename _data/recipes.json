@@ -1846,7 +1846,7 @@
   },
   "Grilled_Oregano_Chicken": {
     "health": "Heart-Healthy",
-    "time": "40 min",
+    "time": "1 hour 15 minutes",
     "servings": "",
     "cuisine": "Mexican",
     "source": "Rick Bayless",
@@ -2985,6 +2985,51 @@
     "cuisine": "Italian",
     "source": "GialloZafferano",
     "source_url": "https://www.giallozafferano.com/recipes/Caprese-Chicken-Saltimbocca.html",
+    "video_url": ""
+  },
+  "Hearty_Lentil_Soup": {
+    "health": "Moderate",
+    "time": "1 hour 15 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "americastestkitchen.com",
+    "source_url": "https://www.americastestkitchen.com/recipes/1395-hearty-lentil-soup",
+    "video_url": ""
+  },
+  "Crispy_Za'atar_Chicken_Cutlets_with_Sweet_Potato_Wedges": {
+    "health": "Moderate",
+    "time": "35 minutes",
+    "servings": "",
+    "cuisine": "",
+    "source": "americastestkitchen.com",
+    "source_url": "https://www.americastestkitchen.com/recipes/17837-crispy-za'atar-chicken-cutlets-with-sweet-potato-wedges",
+    "video_url": ""
+  },
+  "Tandoori_Chicken_Thighs_with_Mint-Yogurt_Sauce_and_Green_Beans": {
+    "health": "Heart-Healthy",
+    "time": "30 minutes",
+    "servings": "4 servings",
+    "cuisine": "Indian",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Tandoori_Chicken_Thighs_with_Mint-Yogurt_Sauce_and_Green_Beans",
+    "video_url": ""
+  },
+  "Lemon-Basil_Chicken_with_Burst_Cherry_Tomatoes_and_Zucchini": {
+    "health": "Heart-Healthy",
+    "time": "25 minutes",
+    "servings": "4 servings",
+    "cuisine": "Italian",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Lemon-Basil_Chicken_with_Burst_Cherry_Tomatoes_and_Zucchini",
+    "video_url": ""
+  },
+  "Chili-Lime_Shrimp_with_Corn_and_Black_Bean_Salsa": {
+    "health": "Heart-Healthy",
+    "time": "20 minutes",
+    "servings": "4 servings",
+    "cuisine": "Mexican",
+    "source": "Claude (original)",
+    "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chili-Lime_Shrimp_with_Corn_and_Black_Bean_Salsa",
     "video_url": ""
   }
 }
