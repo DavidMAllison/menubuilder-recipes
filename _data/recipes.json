@@ -3049,5 +3049,14 @@
     "source": "America's Test Kitchen",
     "source_url": "https://www.americastestkitchen.com/recipes/17145-thai-spiced-red-lentil-soup-with-coconut-and-corn",
     "video_url": ""
+  },
+  "Tan_Tan_Udon": {
+    "health": "Moderate",
+    "time": "15 minutes",
+    "servings": "2",
+    "cuisine": "Japanese",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/tan-tan-udon",
+    "video_url": "https://www.youtube.com/watch?v=LCdrHxPRz-Q"
   }
 }
