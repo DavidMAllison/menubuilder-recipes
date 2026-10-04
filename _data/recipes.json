@@ -3031,5 +3031,14 @@
     "source": "Claude (original)",
     "source_url": "https://davidmallison.github.io/menubuilder-recipes/Chili-Lime_Shrimp_with_Corn_and_Black_Bean_Salsa",
     "video_url": ""
+  },
+  "Porcini_mushroom_risotto": {
+    "health": "Moderate",
+    "time": "45 minutes",
+    "servings": "4",
+    "cuisine": "Italian",
+    "source": "GialloZafferano",
+    "source_url": "https://www.giallozafferano.com/recipes/porcini-mushroom-risotto.html",
+    "video_url": ""
   }
 }
