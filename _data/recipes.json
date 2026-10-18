@@ -3070,11 +3070,20 @@
   },
   "Spicy_Brussel_Sprouts_with_Pork_Belly_and_Habanero": {
     "health": "Indulgent",
-    "time": "",
+    "time": "2 hours 15 min",
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
     "source_url": "https://patijinich.com/spicy-brussel-sprouts-with-pork-belly-and-habanero",
+    "video_url": ""
+  },
+  "Thai_Red_Curry_Noodles": {
+    "health": "Moderate",
+    "time": "15 minutes",
+    "servings": "",
+    "cuisine": "Thai",
+    "source": "Eat With Clarity",
+    "source_url": "https://eatwithclarity.com/thai-red-curry-noodles/",
     "video_url": ""
   }
 }
