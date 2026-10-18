@@ -3058,5 +3058,23 @@
     "source": "Just One Cookbook",
     "source_url": "https://www.justonecookbook.com/tan-tan-udon",
     "video_url": "https://www.youtube.com/watch?v=LCdrHxPRz-Q"
+  },
+  "Slow-Cooker_Chicken_Tortilla_Soup": {
+    "health": "Heart-Healthy",
+    "time": "6 hours",
+    "servings": "",
+    "cuisine": "Southwest (Tex-Mex), US & Canada",
+    "source": "americastestkitchen.com",
+    "source_url": "https://www.americastestkitchen.com/recipes/9801-slow-cooker-chicken-tortilla-soup",
+    "video_url": ""
+  },
+  "Spicy_Brussel_Sprouts_with_Pork_Belly_and_Habanero": {
+    "health": "Indulgent",
+    "time": "",
+    "servings": "",
+    "cuisine": "Mexican",
+    "source": "Pati Jinich",
+    "source_url": "https://patijinich.com/spicy-brussel-sprouts-with-pork-belly-and-habanero",
+    "video_url": ""
   }
 }
