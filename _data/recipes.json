@@ -100,7 +100,7 @@
   },
   "Pickle-Brined_Fried_Chicken_Sandwiches": {
     "health": "Indulgent",
-    "time": "75 minutes",
+    "time": "75 minutes plus 7 hours brining",
     "servings": "4 servings",
     "cuisine": "American",
     "source": "America's Test Kitchen",
@@ -118,7 +118,7 @@
   },
   "Seattle_Chicken_Teriyaki": {
     "health": "Heart-Healthy",
-    "time": "50 minutes",
+    "time": "50 minutes plus 1 hour marinating",
     "servings": "6 to 8 servings",
     "cuisine": "Japanese",
     "source": "America's Test Kitchen",
@@ -757,7 +757,7 @@
   },
   "Halal_Cart_Chicken_and_Rice": {
     "health": "Moderate",
-    "time": "40 min",
+    "time": "40 min plus 1 hour marinating",
     "servings": "",
     "cuisine": "Middle Eastern",
     "source": "Serious Eats",
@@ -892,7 +892,7 @@
   },
   "Chicken_and_Soft_Tofu_Casserole": {
     "health": "Heart-Healthy",
-    "time": "~30-35 minutes",
+    "time": "~30-35 minutes plus 2 hours soaking",
     "servings": "",
     "cuisine": "Chinese",
     "source": "The Woks of Life",
@@ -1198,7 +1198,7 @@
   },
   "Barbecued_Chuck_Roast": {
     "health": "Indulgent",
-    "time": "4 hours",
+    "time": "4 hours plus 18 hours curing",
     "servings": "Serves 8 to 10",
     "cuisine": "American",
     "source": "America's Test Kitchen",
@@ -1297,7 +1297,7 @@
   },
   "Altons_Kale_amp_Quinoa_Bowl_with_Salmon": {
     "health": "Moderate",
-    "time": "50 minutes",
+    "time": "50 minutes plus 1 hour chilling",
     "servings": "4 servings",
     "cuisine": "American",
     "source": "Alton Brown",
@@ -1324,7 +1324,7 @@
   },
   "Mom8217s_Style_Rajma_Chawal_Maa_ki_Baat_8211_Episode_1": {
     "health": "Moderate",
-    "time": "50 minutes",
+    "time": "50 minutes plus 8 hours soaking",
     "servings": "4",
     "cuisine": "Punjabi",
     "source": "Ranveer Brar",
@@ -1423,7 +1423,7 @@
   },
   "Rillons": {
     "health": "Indulgent",
-    "time": "3 hours",
+    "time": "3 hours plus 12 hours curing",
     "servings": "Serves 6 to 8",
     "cuisine": "French",
     "source": "America's Test Kitchen",
@@ -1513,7 +1513,7 @@
   },
   "Air-Fryer_Chicken_Nuggets": {
     "health": "Moderate",
-    "time": "35 min",
+    "time": "35 min plus 4 hours chilling",
     "servings": "Serves 4 (makes 36 nuggets)",
     "cuisine": "American",
     "source": "America's Test Kitchen",
@@ -1783,7 +1783,7 @@
   },
   "Chicken_Tikka_Recipe_Tandoori_Tikka_Kabab": {
     "health": "Heart-Healthy",
-    "time": "35 minutes",
+    "time": "35 minutes plus 8 hours marinating",
     "servings": "4 servings",
     "cuisine": "Indian",
     "source": "Indian Healthy Recipes",
@@ -1792,7 +1792,7 @@
   },
   "Braciole_di_maiale_alla_brace_Grilled_Pork_Chops": {
     "health": "Moderate",
-    "time": "15 minutes minutes",
+    "time": "15 minutes minutes plus 1 hour marinating",
     "servings": "",
     "cuisine": "Italian",
     "source": "Memorie di Angelina",
@@ -2062,7 +2062,7 @@
   },
   "Turkey_Picnic_Sandwich_with_Sun-Dried_Tomato_Spread": {
     "health": "Moderate",
-    "time": "1 hour 30 min",
+    "time": "1 hour 30 min plus 3 hours resting",
     "servings": "Serves 4",
     "cuisine": "American",
     "source": "America's Test Kitchen",
@@ -2539,7 +2539,7 @@
   },
   "Pasta_and_Borlotti_Bean_Soup": {
     "health": "Moderate",
-    "time": "120 minutes",
+    "time": "120 minutes plus 8 hours soaking",
     "servings": "4",
     "cuisine": "Italian",
     "source": "GialloZafferano",
@@ -2566,7 +2566,7 @@
   },
   "Tuscan_kale_and_chickpea_soup": {
     "health": "Heart-Healthy",
-    "time": "160 minutes",
+    "time": "160 minutes plus 8 hours soaking",
     "servings": "4",
     "cuisine": "Italian",
     "source": "GialloZafferano",
@@ -2638,7 +2638,7 @@
   },
   "Chickpea_soup": {
     "health": "Heart-Healthy",
-    "time": "130 minutes",
+    "time": "130 minutes plus 12 hours soaking",
     "servings": "4",
     "cuisine": "Italian",
     "source": "GialloZafferano",
@@ -2647,7 +2647,7 @@
   },
   "Creamy_Cannellini_Bean_Soup_with_Maltagliati": {
     "health": "Heart-Healthy",
-    "time": "130 minutes",
+    "time": "130 minutes plus 8 hours soaking",
     "servings": "4",
     "cuisine": "Italian",
     "source": "GialloZafferano",
@@ -2701,7 +2701,7 @@
   },
   "Greek_Spinach_Pie_Spanakopita_Pie": {
     "health": "Heart-Healthy",
-    "time": "1 hour 30 minutes",
+    "time": "1 hour 30 minutes plus 3 hours thawing",
     "servings": "8",
     "cuisine": "Greek",
     "source": "Feasting at Home",
@@ -3070,7 +3070,7 @@
   },
   "Spicy_Brussel_Sprouts_with_Pork_Belly_and_Habanero": {
     "health": "Indulgent",
-    "time": "2 hours 15 min",
+    "time": "2 hours 15 min plus 12 hours brining",
     "servings": "",
     "cuisine": "Mexican",
     "source": "Pati Jinich",
