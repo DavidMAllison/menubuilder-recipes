@@ -4,7 +4,7 @@
 
 - 1 tablespoon garam masala
 - Salt and pepper
-- 4 (6- to 8-ounce) boneless, skinless chicken breasts , trimmed and cut into 1-inch cubes
+- 4 (6- to 8-ounce) boneless, skinless chicken breasts or 1 1/2 to 2 pounds boneless, skinless chicken thighs, trimmed and cut into 1-inch cubes
 - 2 tablespoons vegetable oil
 - 1 onion , chopped fine
 - 2 tablespoons grated fresh ginger
@@ -16,4 +16,4 @@
 ## Instructions
 
 1. Combine garam masala, 1 1/2 teaspoons salt, and 1/2 teaspoon pepper in bowl. Toss chicken with 1 tablespoon oil and 1 tablespoon spice mixture in separate bowl.
-2. Heat remaining 1 tablespoon oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add onion and cook until beginning to brown, about 5 minutes. Stir in ginger, garlic, and remaining 2 teaspoons spice mixture and cook until fragrant, abut 30 seconds. Add tomatoes and chicken and simmer until slightly thickened and chicken is cooked through, about 10 minutes. Off heat, stir in cream. Season with salt and pepper to taste. Sprinkle with cilantro. Serve.
+2. Heat remaining 1 tablespoon oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add onion and cook until beginning to brown, about 5 minutes. Stir in ginger, garlic, and remaining 2 teaspoons spice mixture and cook until fragrant, abut 30 seconds. Add tomatoes and chicken and simmer until slightly thickened and chicken is cooked through, registering 160 degrees for breasts, about 10 minutes, or 175 degrees for thighs, about 12 to 15 minutes. Off heat, stir in cream. Season with salt and pepper to taste. Sprinkle with cilantro. Serve.

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 1/2 pounds boneless, skinless chicken thighs, trimmed and cut into 1 1/2-inch pieces
+- 1 1/2 pounds boneless, skinless chicken thighs or breasts, trimmed and cut into 1 1/2-inch pieces
 - 3 tablespoons fish sauce
 - 2 tablespoons packed brown sugar
 - 2 tablespoons vegetable oil
@@ -15,5 +15,5 @@
 
 ## Instructions
 
-1. Combine chicken, 2 tablespoons fish sauce, and sugar in bowl. Heat 1 tablespoon oil in 12-inch nonstick skillet over high heat until shimmering. Add chicken and cook until well browned on all sides and cooked through, 8 to 10 minutes. Transfer chicken to plate and wipe skillet clean with paper towels
+1. Combine chicken, 2 tablespoons fish sauce, and sugar in bowl. Heat 1 tablespoon oil in 12-inch nonstick skillet over high heat until shimmering. Add chicken and cook until well browned on all sides and cooked through, 8 to 10 minutes for thighs (175 degrees) or 6 to 8 minutes for breasts (160 degrees). Transfer chicken to plate and wipe skillet clean with paper towels
 2. Add bell peppers and onion to skillet and cook over high heat until crisp-tender and lightly charred, about 7 minutes. Stir in curry paste and remaining 1 tablespoon oil and cook until fragrant, about 1 minute. Stir in coconut milk, bring to boil, and cook until slightly thickened, about 4 minutes. Stir in lime juice, chicken, and remaining 1 tablespoon fish sauce and cook until heated through, about 1 minute. Transfer to platter and sprinkle cilantro over top. Serve, passing lime wedges separately.

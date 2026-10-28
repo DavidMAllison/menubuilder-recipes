@@ -14,7 +14,7 @@
 - 3 garlic cloves, roughly chopped
 - 1/4 cup light olive oil
 - Kosher salt and freshly ground black pepper
-- 2 pounds boneless, skinless chicken thighs (6–8 thighs), trimmed
+- 2 pounds boneless, skinless chicken thighs (6–8 thighs), trimmed, or 2 pounds boneless, skinless chicken breasts (about 3 large breasts), trimmed
 - 1 tablespoon vegetable or canola oil
 
 **Rice:**
@@ -42,9 +42,9 @@
 
 ## Instructions
 
-1. **Make the marinade:** Blend the lemon juice, oregano, coriander, garlic, and olive oil until smooth; season with salt and pepper. Toss the chicken with half the marinade in a zip-top bag and refrigerate 1–4 hours (no longer — see note). Reserve the other half of the marinade in the fridge.
+1. **Make the marinade:** Blend the lemon juice, oregano, coriander, garlic, and olive oil until smooth; season with salt and pepper. Toss the chicken with half the marinade in a zip-top bag and refrigerate 1–4 hours for thighs or 30 minutes to 2 hours for breasts (no longer — see note). Reserve the other half of the marinade in the fridge.
 
-2. **Cook the chicken:** Pat the chicken dry and season well, generously with pepper. Sear in oil in a hot cast iron or stainless skillet, about 4 minutes on the first side, then flip, drop to medium, and cook until the thighs hit 165°F, about 6 minutes more. Rest 5 minutes, then chop into rough 1/2-inch chunks. Toss the chopped chicken with the reserved marinade and refrigerate while you make the rice and sauce.
+2. **Cook the chicken:** Pat the chicken dry and season well, generously with pepper. Sear in oil in a hot cast iron or stainless skillet, about 4 minutes on the first side, then flip, drop to medium, and cook until the thighs hit 165°F, about 6 minutes more, or until breasts hit 160°F, about 5 to 7 minutes more (thicker breasts may need to be halved horizontally or pounded to even thickness to cook through evenly). Rest 5 minutes, then chop into rough 1/2-inch chunks. Toss the chopped chicken with the reserved marinade and refrigerate while you make the rice and sauce.
 
 3. **Make the rice:** Melt the butter in a Dutch oven over medium heat, bloom the turmeric and cumin for about a minute, then add the rice and toast, stirring, about 4 minutes. Add the broth, season, and bring to a boil. Cover, simmer 15 minutes undisturbed, then rest off heat 15 minutes until tender.
 

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 8 ounces boneless skinless chicken thighs ((diced into 1-inch/2.5cm bite-size pieces))
+- 8 ounces boneless, skinless chicken thighs or boneless, skinless chicken breasts (diced into 1-inch/2.5cm bite-size pieces)
 - 1 tablespoon water
 - 1 teaspoon cornstarch
 - 1 teaspoon vegetable oil ((or other neutral flavored oil))
@@ -35,7 +35,7 @@
 
 4. Mix cornstarch with 2 tablespoons of water and set aside. In another bowl, combine the chicken stock, sugar, oyster sauce, light soy sauce, dark soy sauce, and sesame oil. Stir until blended and put to the side.
 
-5. Heat your wok over medium-high heat until it begins to smoke lightly. Add 1 tablespoon of oil and then the chicken. Stir-fry until the chicken turns opaque, taking about 1 minute. Move to a small bowl and keep it nearby.
+5. Heat your wok over medium-high heat until it begins to smoke lightly. Add 1 tablespoon of oil and then the chicken. Stir-fry until the chicken turns opaque, taking about 1 minute for either cut (it will finish cooking in the sauce, to 175 degrees for thighs or 160 degrees for breasts). Move to a small bowl and keep it nearby.
 
 6. Pour 2 more tablespoons of oil into the wok at medium heat along with the ginger and scallion whites. Allow to sauté for 30 seconds, then add the garlic. Sauté for another 30 seconds.
 

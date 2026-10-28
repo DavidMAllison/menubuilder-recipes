@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 4 (6- to 8-ounce) boneless, skinless chicken breasts, trimmed
+- 4 (6- to 8-ounce) boneless, skinless chicken breasts or 1 1/2 to 2 pounds boneless, skinless chicken thighs, trimmed
 - 2 teaspoons paprika
 - Salt and pepper
 - 1/4 cup extra-virgin olive oil, divided
@@ -16,7 +16,7 @@
 ## Instructions
 
 1. Pat chicken dry with paper towels, sprinkle with paprika, and season with salt and pepper.
-2. Heat 2 tablespoons oil in a 12-inch nonstick skillet over medium-high heat until just smoking. Cook chicken until well browned and it registers 160°F, about 6 minutes per side, adding the lemon halves cut-side down during the final 4 minutes of cooking.
+2. Heat 2 tablespoons oil in a 12-inch nonstick skillet over medium-high heat until just smoking. Cook chicken until well browned and it registers 160°F for breasts, about 6 minutes per side, or 175°F for thighs, about 7 to 8 minutes per side, adding the lemon halves cut-side down during the final 4 minutes of cooking.
 3. Transfer chicken and lemon halves to a cutting board and tent with foil.
 4. Return the empty skillet to medium-high heat. Add remaining 2 tablespoons oil, pancetta, garlic, pepper flakes, 1/4 teaspoon salt, and 1/4 teaspoon pepper; cook until fragrant, about 1 minute.
 5. Add chard and beans with their liquid. Cover and cook until chard is tender, about 4 minutes.

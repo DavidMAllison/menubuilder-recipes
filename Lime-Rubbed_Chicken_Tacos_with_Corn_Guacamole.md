@@ -9,7 +9,7 @@
 ## Ingredients
 
 **Chicken:**
-- 1.5 lbs boneless chicken breasts
+- 1.5 lbs boneless, skinless chicken breasts or 1.5 lbs boneless, skinless chicken thighs, trimmed
 - 2 tablespoons fresh lime juice
 - 2 tablespoons olive oil
 - 1/2 teaspoon salt
@@ -30,8 +30,8 @@
 
 ## Instructions
 
-1. Mix lime juice, olive oil, salt, pepper, and rosemary. Coat chicken and refrigerate 30 minutes to 12 hours.
-2. Heat a sauté pan over medium-high heat with oil; cook chicken until golden, about 5 minutes per side. Cool slightly and slice diagonally into 1/2-inch strips.
+1. Mix lime juice, olive oil, salt, pepper, and rosemary. Coat chicken and refrigerate 30 minutes to 2 hours for breasts, or 30 minutes to 8 hours for thighs.
+2. Heat a sauté pan over medium-high heat with oil; cook chicken until golden and cooked through, about 5 minutes per side until registering 160 degrees for breasts, or about 6 to 7 minutes per side until registering 175 degrees for thighs. Cool slightly and slice diagonally into 1/2-inch strips.
 3. Broil jalapeno and garlic 6-9 minutes until charred. Cool, peel, and mince together.
 4. Combine diced avocado, charred garlic and jalapeno, corn, tomatoes, lime juice, and salt. Mix gently.
 5. Warm tortillas on a skillet or comal over medium-low heat, about 1 minute per side.

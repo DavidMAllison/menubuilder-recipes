@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 lb boneless skinless chicken breast
+- 1 lb boneless skinless chicken breast or 1 lb boneless skinless chicken thighs, trimmed
 - 1 tbsp olive oil
 - to taste kosher salt and black pepper
 - 1/2 tsp garlic powder
@@ -18,7 +18,7 @@
 ## Instructions
 
 1. Pat chicken dry and season both sides with salt, pepper, garlic powder, and smoked paprika. Rub with olive oil.
-2. Grill or sear in a grill pan over medium-high heat, 5-6 minutes per side, until cooked through (165°F). Let rest 5 minutes, then slice thin.
+2. Grill or sear in a grill pan over medium-high heat, 5-6 minutes per side for breasts until cooked through (165°F), or 6-8 minutes per side for thighs until they register 175°F. Let rest 5 minutes, then slice thin.
 3. Whisk together Greek yogurt, lemon juice, minced garlic, herbs, and a pinch of salt for the sauce.
 4. Warm tortillas. Spread each with the yogurt sauce, then layer with lettuce, tomato, and sliced chicken.
 5. Roll tightly, slice in half, and serve.

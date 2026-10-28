@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 12 ounces chicken breast ((340g, sliced))
+- 12 ounces boneless, skinless chicken breast or 12 ounces boneless, skinless chicken thighs, trimmed (340g, sliced)
 - 3 tablespoons water ((45 ml))
 - 1 teaspoon canola oil ((plus 3 tablespoons, divided))
 - 2 teaspoons cornstarch
@@ -24,13 +24,13 @@
 
 ## Instructions
 
-1. Combine the chicken with 3 tablespoons of water in a medium bowl, then work it with your hands until the water is fully absorbed into the meat. Incorporate the remaining marinade components—1 teaspoon canola oil, 2 teaspoons cornstarch, 1/4 teaspoon salt, and a pinch of ground white pepper—and blend thoroughly. Let the mixture rest for 20 minutes.
+1. Combine the chicken (breast or thigh) with 3 tablespoons of water in a medium bowl, then work it with your hands until the water is fully absorbed into the meat. Incorporate the remaining marinade components—1 teaspoon canola oil, 2 teaspoons cornstarch, 1/4 teaspoon salt, and a pinch of ground white pepper—and blend thoroughly. Let the mixture rest for 20 minutes.
 
-2. Bring your wok to high heat until smoke just begins to appear. Drizzle two tablespoons of oil along the wok's sides, then distribute the chicken evenly in a single layer. Allow to sear undisturbed for 20 seconds, flip it over, and sear the opposite side for 20 seconds as well. Reduce heat to off and return the partially cooked chicken to the marinade bowl—it will be approximately 60% cooked at this stage.
+2. Bring your wok to high heat until smoke just begins to appear. Drizzle two tablespoons of oil along the wok's sides, then distribute the chicken evenly in a single layer. Allow to sear undisturbed for 20 seconds for breasts or 30 seconds for thighs, flip it over, and sear the opposite side for 20 seconds for breasts or 30 seconds for thighs as well. Reduce heat to off and return the partially cooked chicken to the marinade bowl—it will be approximately 60% cooked at this stage.
 
 3. Return the heat to high and introduce another tablespoon of oil with the ginger slices, allowing them to bloom in the hot oil for approximately 10 seconds. Stir in the scallions and garlic, continuing to stir-fry for 15 seconds. Follow with the mushrooms, bamboo shoots, and water chestnuts, stir-frying for 30 seconds before adding the bok choy.
 
-4. Pour in the Shaoxing wine and continue stir-frying for a minute. Follow with the partially cooked chicken and hot chicken stock (use boiling stock if possible to maintain the wok's temperature, as most home stove burners lack the intensity needed for proper stir-frying).
+4. Pour in the Shaoxing wine and continue stir-frying for a minute. Follow with the partially cooked chicken and hot chicken stock (use boiling stock if possible to maintain the wok's temperature, as most home stove burners lack the intensity needed for proper stir-frying). The chicken should be cooked through when the sauce thickens, registering 160 degrees for breasts or 175 degrees for thighs; thighs may need an extra minute or two of simmering.
 
 5. As the contents reach a boil, season with approximately a teaspoon of salt, a pinch of white pepper, sugar, oyster sauce, and sesame oil, stirring to combine evenly. Taste and adjust seasoning as needed.
 

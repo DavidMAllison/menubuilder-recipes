@@ -9,7 +9,7 @@
 - 2 tablespoons (30ml) dry sake
 - 1 tablespoon (15g) sugar, plus more to taste
 - 1 large onion, slivered (about 6 ounces; 170g)
-- 12 ounces (340g) boneless, skinless chicken thighs, thinly sliced (see note above)
+- 12 ounces (340g) boneless, skinless chicken thighs or boneless, skinless chicken breasts, thinly sliced
 - 3 thinly sliced scallions, divided
 - 2 stems mitsuba (optional; see note above)
 - 3 to 4 large eggs (see note above)
@@ -23,7 +23,7 @@
 2. Add 1 tablespoon soy sauce, 2 tablespoons sake, and 1 tablespoon sugar to the skillet
 3. Bring the liquid to a simmer
 4. Add sliced onion and cook until softened, about 5 minutes
-5. Add sliced boneless skinless chicken thighs and cook until the chicken is cooked through
+5. Add sliced boneless skinless chicken thighs or breasts and cook until the chicken is cooked through (175 degrees for thighs, about 5 to 6 minutes; 160 degrees for breasts, about 3 to 4 minutes)
 6. Season the broth to taste with salt and more sugar
 7. Reduce the heat to a bare simmer
 8. Sprinkle sliced scallions or mitsuba into the broth

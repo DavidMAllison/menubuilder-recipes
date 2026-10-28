@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 8 oz. chicken breast, (sliced in thin strips)
+- 8 oz. boneless, skinless chicken breast or boneless, skinless chicken thighs, trimmed (sliced in thin strips)
 - 1 tablespoon water
 - 1 teaspoon cornstarch
 - 1 teaspoon oil
@@ -31,7 +31,7 @@
 
 2. Warm 1 tablespoon of oil in a frying pan, add the whisked eggs and cook until it forms a solid omelet, then move it to a cutting board and cut it into narrow strips. Separately, combine 1 tablespoon hoisin sauce, 1 tablespoon oyster sauce, 1 teaspoon light soy sauce, and 1/2 teaspoon sesame oil with hot water, whisking until the mixture is uniform.
 
-3. Place 1 tablespoon of oil in your wok or large skillet and heat until it nearly smokes, then add the chicken and sear it briefly on each side until it reaches approximately 80% doneness before moving it onto a plate.
+3. Place 1 tablespoon of oil in your wok or large skillet and heat until it nearly smokes, then add the chicken and sear it briefly on each side until it reaches approximately 80% doneness (about 2 minutes per side for breasts, or 3 to 4 minutes per side for thighs; the chicken will finish cooking in step 4, to 160 degrees for breasts or 175 degrees for thighs) before moving it onto a plate.
 
 4. Add another tablespoon of oil to the wok and set the flame to high. Begin by adding the garlic, quickly followed by the cabbage, shiitake mushrooms, wood ear mushrooms, bamboo shoots, and lily flowers. Combine all ingredients with stirring for 1 minute, then introduce the Shaoxing wine and stir-fry for an additional 20 seconds.
 

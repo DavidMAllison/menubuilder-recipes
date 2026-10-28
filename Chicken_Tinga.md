@@ -10,7 +10,7 @@
 
 ## Ingredients
 
-- 1 lb (455 g) skinless, boneless chicken breast
+- 1 lb (455 g) skinless, boneless chicken breast or 1 lb (455 g) skinless, boneless chicken thighs, trimmed
 - 2 large white onions — 1 halved, 1 sliced
 - 6 garlic cloves — 3 whole, 3 sliced
 - 1 tablespoon salt, plus more to taste
@@ -20,7 +20,7 @@
 
 ## Instructions
 
-1. Combine the chicken, halved onion, whole garlic cloves, and 1 tablespoon salt in a medium pot. Add water to cover and bring to a simmer over medium-high heat. Simmer uncovered, skimming occasionally, until the chicken is cooked through, 30–40 minutes.
+1. Combine the chicken, halved onion, whole garlic cloves, and 1 tablespoon salt in a medium pot. Add water to cover and bring to a simmer over medium-high heat. Simmer uncovered, skimming occasionally, until the chicken is cooked through (160 degrees for breasts, 30–40 minutes, or 175 degrees for thighs, 35–45 minutes).
 2. Remove the chicken from the broth and let rest until cool enough to handle. Shred using your hands. Strain and reserve the broth.
 3. Heat the oil in a medium to large pot over medium heat. Add the sliced onion and garlic and cook until translucent, about 5 minutes.
 4. Add the shredded chicken, chipotle chiles, tomatoes, and 1 cup (240 ml) of the reserved chicken broth. Cook until the tomatoes break down and the mixture turns a brick color, 5–10 minutes.

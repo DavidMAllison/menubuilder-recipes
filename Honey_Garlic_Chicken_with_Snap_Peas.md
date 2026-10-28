@@ -6,7 +6,7 @@ Claude-original flavor combo (David's protein + sauce + veg formula), not yet co
 
 ## Ingredients
 
-- 1.5 lbs boneless skinless chicken thighs, cut into bite-size pieces
+- 1.5 lbs boneless skinless chicken thighs or boneless skinless chicken breasts, cut into bite-size pieces
 - 1 tbsp olive oil
 - to taste kosher salt and black pepper
 - 1 tbsp cornstarch
@@ -25,6 +25,6 @@ Claude-original flavor combo (David's protein + sauce + veg formula), not yet co
 
 1. Toss chicken with cornstarch, salt, and pepper.
 2. Whisk honey, soy sauce, rice vinegar, and garlic together in a small bowl.
-3. Heat olive oil in a large skillet over medium-high heat. Cook chicken in a single layer, 5-6 minutes, turning occasionally, until browned and cooked through.
+3. Heat olive oil in a large skillet over medium-high heat. Cook chicken in a single layer, turning occasionally, until browned and cooked through, 5-6 minutes for thighs (175 degrees) or 4-5 minutes for breasts (160 degrees).
 4. Pull out plain chicken for the kids before saucing.
 5. Add snap peas to the skillet and cook 2 minutes. Pour in the honey-garlic sauce and simmer 2-3 minutes until thickened and the chicken is well coated. Drizzle with sesame oil and garnish with sesame seeds if using.

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 ½ lbs boneless chicken thigh meat, cut into 1-2 inch pieces. (or substitute 3 cups cooked garbanzos, 2 cans drained, or a combination of both. Vegetarians could also add cauliflower.)
+- 1 ½ lbs boneless chicken thigh meat or boneless, skinless chicken breasts, cut into 1-2 inch pieces. (or substitute 3 cups cooked garbanzos, 2 cans drained, or a combination of both. Vegetarians could also add cauliflower.)
 - 2 tablespoons olive oil
 - salt and pepper to taste
 - 2 teaspoons chili powder
@@ -42,7 +42,7 @@
 2. Season chicken generously with salt, pepper and chili powder (If using chickpeas, see notes). In a large, heavy-bottom, ovenproof skillet or Dutch oven, heat the oil over medium-high heat. Sear chicken a few minutes on each side, until golden brown, turning the heat down to medium if necessary. When the chicken is golden, remove it from the pan and set it aside on a plate (it will finish cooking in the oven).
 3. Add the onions, carrots, and a little oil to the same pan and saute over medium heat for 5-7 minutes, until onions become tender and fragrant. Make a well in the center of the pan, add the garlic and ginger, and sauté for 1-2 minutes. Add the spices, and toast for one minute to bloom, and bring out their flavor. Add the salt, sugar, undrained tomatoes, dried apricots, and water.
 4. Bring to a simmer and stir, scraping up any browned bits. Once it’s simmering, stir in the couscous. Nestle the seared chicken (and/or chickpeas if using-see notes) and cover.
-5. Bake, covered, in the oven, for 15-20 minutes.
+5. Bake, covered, in the oven, for 15-20 minutes, until the chicken is cooked through (175F for thighs, 160F for breasts; breasts may be done at the early end of the range, thighs may need a few minutes longer).
 6. While it’s baking, make the Green Harissa Yogurt Sauce: Place the parsley or cilantro, garlic, and jalapeño in a food processor and pulse (or finely chop), add the yogurt, spices & salt and pulse again, repeatedly. The more you blend, the greener it will get. Pour into a bowl and refrigerate.
-7. Check the chicken after 15-20 minutes; the liquid should be absorbed by the couscous. If you want the chicken to darken up a bit, broil for a minute or two. Taste for salt and pepper, adding as needed.
+7. Check the chicken after 15-20 minutes; the liquid should be absorbed by the couscous and the chicken should register 175F for thighs or 160F for breasts. If you want the chicken to darken up a bit, broil for a minute or two. Taste for salt and pepper, adding as needed.
 8. Scatter with the mint leaves, slivered almonds and serve with Green Harissa Yogurt Sauce.

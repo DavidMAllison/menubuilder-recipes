@@ -10,7 +10,7 @@
 - 1/2 teaspoon granulated sugar
 - 1/2 teaspoon toasted sesame oil
 - White pepper or freshly ground black pepper
-- 1 pound (455 grams) boneless, skinless chicken thighs, cut into 1-inch strips
+- 1 pound (455 grams) boneless, skinless chicken thighs or boneless, skinless chicken breasts, cut into 1-inch strips
 - 8 fresh shiitake mushroom caps, thinly sliced, or 4 dried shiitakes, soaked, stemmed, and thinly sliced
 - 1 cup (200 grams) jasmine rice
 - 1 cup (235 ml) chicken broth or water, plus 2 tablespoons extra for the oven option

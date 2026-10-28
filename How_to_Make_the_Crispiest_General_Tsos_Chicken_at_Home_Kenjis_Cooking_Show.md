@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 lbs boneless, skinless chicken thighs
+- 2 lbs boneless, skinless chicken thighs or 2 lbs boneless, skinless chicken breasts
 - 1 egg white
 - 2 tablespoons shaoxing wine
 - 2 tablespoons dark soy sauce
