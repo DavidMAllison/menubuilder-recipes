@@ -3108,12 +3108,18 @@
     "health": "Moderate",
     "time": "25 minutes",
     "servings": "",
-    "cuisine": [
-      "Chinese",
-      "Taiwanese"
-    ],
+    "cuisine": "Chinese",
     "source": "butterjoykitchen.com",
     "source_url": "https://butterjoykitchen.com/three-cup-chicken/",
+    "video_url": ""
+  },
+  "Ground_Pork_Stir_Fry_with_Potatoes": {
+    "health": "Moderate",
+    "time": "30 minutes",
+    "servings": "",
+    "cuisine": "Asian",
+    "source": "butterjoykitchen.com",
+    "source_url": "https://butterjoykitchen.com/ground-pork-stir-fry/",
     "video_url": ""
   }
 }
