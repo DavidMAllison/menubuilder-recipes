@@ -3,10 +3,10 @@
 ## Ingredients
 
 - 1 whole bone-in, skin-on chicken breast (that's TWO sides of the breast on the rib cage)
-- 2 chicken hindquarter (thigh &amp; drumstick combo), bone-in, skin-on (equivalent of 2 drumsticks and 2 thighs)
-- 1½ tsp white peppercorns
+- 2 chicken hindquarter (thigh & drumstick combo), bone-in, skin-on (equivalent of 2 drumsticks and 2 thighs)
+- 1½ tsp white peppercorns
 - 2 tsp toasted coriander seeds
-- 1 stalk lemongrass, bottom half only, thinly sliced
+- 1 stalk lemongrass, bottom half only, thinly sliced
 - 5 cloves garlic
 - 3 Tbsp soy sauce
 - 3 Tbsp fish sauce

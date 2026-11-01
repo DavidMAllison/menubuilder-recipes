@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 kg (2.2 lbs)  chicken  ((curry cut chicken or drumsticks &amp; cut thighs))
+- 1 kg (2.2 lbs)  chicken  ((curry cut chicken or drumsticks & cut thighs))
 - ¼ cup oil
 - 1 tablespoon ghee ( (for chicken))
 - 1  bay leaf

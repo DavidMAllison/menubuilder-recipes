@@ -16,7 +16,7 @@
 - 2 strands mace  ((use half mace for a stronger flavor))
 - ½ teaspoon all-spice ( (kabab chini))
 - ¾ inch long pepper ( (pippali))
-- ¾ gram (1 portion)   stone flower ( (see photos in the post, omit if you don&#39;t have))
+- ¾ gram (1 portion)   stone flower ( (see photos in the post, omit if you don't have))
 - 1½ tablespoons (1½ grams)   organic dried rose petals ((or use 1 tsp rose water at the garnishing stage))
 - ½ inch dried galangal  ( (optional, sub with ground ginger, but different flavor))
 - 5 to 6  vetiver roots/khus ((optional))

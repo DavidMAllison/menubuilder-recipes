@@ -23,7 +23,7 @@
 
 ## Instructions
 
-1. For the Golden Breadcrumbs : If using fresh or lightly stale bread, adjust oven rack to middle position, and preheat oven to 325°F (165°C). (If using fully stale and dried bread, skip baking step and move to step 2.) Arrange bread in single layer on rimmed baking sheet, and bake until completely dried, 20 to 30 minutes. Remove from oven, and allow to cool to room temperature, about 5 minutes. Transfer bread to food processor bowl (set aside but don&#39;t clean rimmed baking sheet), and pulse until reduced to small crumbs, taking care not to over-process into a fine powder, 8 to 10 pulses.
+1. For the Golden Breadcrumbs : If using fresh or lightly stale bread, adjust oven rack to middle position, and preheat oven to 325°F (165°C). (If using fully stale and dried bread, skip baking step and move to step 2.) Arrange bread in single layer on rimmed baking sheet, and bake until completely dried, 20 to 30 minutes. Remove from oven, and allow to cool to room temperature, about 5 minutes. Transfer bread to food processor bowl (set aside but don't clean rimmed baking sheet), and pulse until reduced to small crumbs, taking care not to over-process into a fine powder, 8 to 10 pulses.
 2. In a small oven-safe skillet, melt butter over medium heat. When butter begins to foam, add shallot and cook, stirring frequently until softened and fragrant. Add breadcrumbs and salt and pepper and cook, stirring occasionally, until lightly golden and crisp on the outside, 4 to 5 minutes.
 3. For the pasta and sauce : Bring a large pot of water to a boil. Season generously with salt.
 4. While water is coming to a boil, pat shrimp dry with paper towels and season lightly with salt and pepper on both sides.

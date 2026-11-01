@@ -1,4 +1,4 @@
-# Mom&#8217;s Style Rajma Chawal  Maa ki Baat &#8211; Episode 1
+# Mom’s Style Rajma Chawal  Maa ki Baat – Episode 1
 
 ## Ingredients
 

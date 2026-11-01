@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 1 lb. boneless, skinless chicken breast cut into 4 (4 oz.) pieces, or 1 lb. boneless, skinless chicken thighs, trimmed
-- Salt &amp; pepper to season the chicken
+- Salt & pepper to season the chicken
 - 2 Tablespoons vegetable oil
 - 3  Large Poblano peppers or 4 Small
 - 3 Slices of white onion (about ½ of a small onion)
@@ -24,4 +24,4 @@
 5. Clean peppers removing the charred skins, open the peppers by making a slit from top to bottom and remove the seeds and veins. Reserve one half of one pepper and cut into small strips.
 6. Place the rest of the peppers, white onion, garlic, heavy cream, milk, and chicken bouillon in your blender. Process until you have a beautiful creamy sauce.
 7. Melt butter in the same frying pan, and pour the sauce. Gently simmer on a medium heat, allow cooking for 5 minutes, adding the chicken, and keep cooking for another 5-6 minutes, until the chicken registers 160 degrees for breasts, or 175 degrees for thighs (thighs may need a few extra minutes). Keep the heat low to avoid the creamy sauce from curdling.
-8. &nbsp;If using the corn kernels, you have two options, either add them to the cream to cook or if you want a roasting flavor, place in the same baking pan you used to roast the peppers and roast under the broiler for 2 minutes, turning once. Roasting the corn gives the dish a contrast of flavors and texture. To serve, garnish chicken with the pepper strips that you reserve and the corn kernels.
+8.  If using the corn kernels, you have two options, either add them to the cream to cook or if you want a roasting flavor, place in the same baking pan you used to roast the peppers and roast under the broiler for 2 minutes, turning once. Roasting the corn gives the dish a contrast of flavors and texture. To serve, garnish chicken with the pepper strips that you reserve and the corn kernels.

@@ -8,7 +8,7 @@
 - 1 to 2  green chilies ((slit, omit for less spicy, Thai or Indian chili peppers or serrano peppers))
 - 1 tablespoon ginger garlic paste (or ¾ inch ginger, 3 cloves garlic minced)
 - ½ cup (2 medium)  tomatoes  ((pureed or finely chopped))
-- ¼ cup yogurt ((or 1½ tbsp cashew butter or 12 cashews powdered &amp; pureed with ¼ cup water, refer notes))
+- ¼ cup yogurt ((or 1½ tbsp cashew butter or 12 cashews powdered & pureed with ¼ cup water, refer notes))
 - ½ to ¾ teaspoon salt  ((adjust as needed))
 - ½ to 1 cup hot water ((or light coconut milk))
 - 2 tablespoons coriander leaves (or mint leaves finely chopped)
@@ -33,6 +33,6 @@
 8. Cover and cook on a low heat for 3 to 4 minutes. This step is very important as the chicken absorbs all the flavors of the spices.
 9. Meanwhile in a separate pot, heat up 1 cup water. Using cold water most times toughens the chicken so it is good to use hot water.
 10. Pour hot water just enough (about ½ cup) to make a thick gravy. As you cook, chicken lets out plenty of moisture, depending on that add more water. Check the pictures in the post for consistency.
-11. Cover and cook on a medium flame till the chicken is soft cooked and the curry/gravy turns thick. When the chicken is cooked completely it will fall off the bone easily.
+11. Cover and cook on a medium flame till the chicken is soft cooked and the curry/gravy turns thick. When the chicken is cooked completely it will fall off the bone easily.
 12. Taste the curry & add more salt if needed. You can also add another ½ tsp garam masala at this stage if you feel it is less in flavors.
-13. Lastly garnish with coriander leaves, cover and off the heat. Serve chicken curry with butter naan or jeera rice.
+13. Lastly garnish with coriander leaves, cover and off the heat. Serve chicken curry with butter naan or jeera rice.

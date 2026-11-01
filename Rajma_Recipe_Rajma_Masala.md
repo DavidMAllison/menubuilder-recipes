@@ -6,10 +6,10 @@
 - 2 to 3 tablespoons ghee  ((or oil))
 - 1 small bay leaf ((optional))
 - ½ teaspoon cumin seeds ((jeera, optional))
-- 1 cup (120 grams)  fine chopped onions ( (or ¾ cup grated or cube, boil &amp; puree))
+- 1 cup (120 grams)  fine chopped onions ( (or ¾ cup grated or cube, boil & puree))
 - 1  green chilli (( chopped or slit, optional))
-- 1½ teaspoon ginger garlic paste  ((or 1 teaspoon each minced &amp; crushed))
-- 1½ cups (2 large, 300 grams)  tomatoes  ((chopped &amp; pureed, or 1 cup canned tomato puree))
+- 1½ teaspoon ginger garlic paste  ((or 1 teaspoon each minced & crushed))
+- 1½ cups (2 large, 300 grams)  tomatoes  ((chopped & pureed, or 1 cup canned tomato puree))
 - ½ to 1 teaspoon red chilli powder  ((Kashmiri or byadgi))
 - ¾ teaspoon garam masala ( (¼ to ½ teaspoon for later))
 - 1½ to 2 teaspoons coriander powder

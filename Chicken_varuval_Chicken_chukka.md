@@ -9,7 +9,7 @@
 - ⅓ teaspoon sea salt ( (adjust to taste))
 - 2 tablespoons sesame oil (or any cooking oil of choice)
 - 1 tablespoon lemon juice
-- 2 sprigs curry leaves ( fresh (pat dry, divided, omit if you don&#39;t have))
+- 2 sprigs curry leaves ( fresh (pat dry, divided, omit if you don't have))
 - 1 tablespoon coriander seeds
 - ¾ teaspoon cumin seeds
 - 4  cloves

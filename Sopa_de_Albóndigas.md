@@ -17,14 +17,14 @@
 - 1/4 cup whole milk
 - 1 pound ground beef
 - 1  garlic clove  ((chopped or garlic powder))
-- 6  peppercorns  ((or ground black pepper) )
+- 6  peppercorns  ((or ground black pepper) )
 - 1 Lg eggs ((or two small ones beaten))
 - Salt to taste
 
 ## Instructions
 
 1. To make the broth. Preheat a comal or large skillet over medium-high heat, then roast the tomatoes, onions, and garlic.
-2. After they are roasted and cool to the touch, peel the garlic and place the vegetables in a blender. Blend until smooth. If your tomatoes aren&#39;t juicy enough and your blender is having difficulty processing them, add some water.
+2. After they are roasted and cool to the touch, peel the garlic and place the vegetables in a blender. Blend until smooth. If your tomatoes aren't juicy enough and your blender is having difficulty processing them, add some water.
 3. Heat the oil in a large saucepan over medium-high heat. Add the sauce and cook for about 5 minutes, then add the chicken broth. When the broth starts to boil, reduce the heat to a simmer.
 4. In the meantime, make the meatballs by soaking the bread with milk in a small bowl until soft. (about one minute).
 5. Then, place the ground beef into a large bowl and make a well in the center.
