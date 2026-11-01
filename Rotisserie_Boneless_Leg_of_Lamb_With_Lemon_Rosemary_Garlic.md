@@ -1,4 +1,4 @@
-# Rotisserie Boneless Leg of Lamb With Lemon, Rosemary, &amp; Garlic
+# Rotisserie Boneless Leg of Lamb With Lemon, Rosemary, & Garlic
 
 ## Ingredients
 
